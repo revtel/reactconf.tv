@@ -1,0 +1,738 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "G0F9wgrgq7kbvTRi_aWbmKTi148",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U8lDRIZAV0Ur7wjS0eHF-ftVuQo",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Strong RESTful Contracts in a GraphQL world - Tejas Kumar",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Strong RESTful Contracts in a GraphQL world\nGraphQL is an incredible technology. It provides developers with concrete, solid guarantees at the API layer, preventing surprises when interacting with client-server applications. REST has been often criticized as weaker in this regard, since it is not a formal specification. This talk explores working with similar (if not better) contractually-sound REST APIs in a React application using powerful new tooling.\n\nTejas Kumar\nTejas enjoys people, code, and talking about code to people. Having begun coding at age 8, today Tejas travels around the world, encouraging, educating and empowering developers in the web development community.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CWO6U7jaO20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CWO6U7jaO20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CWO6U7jaO20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CWO6U7jaO20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CWO6U7jaO20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CWO6U7jaO20"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CWO6U7jaO20",
+        "videoPublishedAt": "2020-01-06T08:03:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uUyAd7tTt_IX2rGIC-aUtlifne0",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooking Up A Conference In Real-Time With React Native & GraphQL - Nader Dabit",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooking Up A Conference In Real-Time With React Native & GraphQL\n\n\"You’re starting a conference. You announce the conference, start planning the venue, getting sponsors, & fielding talks. Things start getting serious, & before you know it you’re overloaded with obligations. Oh, & you forgot: You also need a conference app!\n\nYou don’t just want any conference app; you want it to be fun, engaging, & a valuable addition to the attendees. How can you do this in the least amount of time?\n\nIn this talk, I’ll show how you can rapidly prototype, build, & deploy your app using GraphQL, React Native, & AWS AppSync so you can spend your time worrying about more important things in life. In addition to what you’d expect from a conference app, we’ll be adding live chat so attendees discuss talks & speakers can field questions & interact with them in real-time.\"\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QZIyzhLV3wU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QZIyzhLV3wU",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mJ_BTnyQY5EJWkW8pl89ZFl9bmM",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "The GraphQL Developer Experience: Achieve friction-free state management - Peggy Rayzis",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# The GraphQL developer experience\n\nData fetching makes up a large part of our React apps, yet it's also some of the most complex code we write. GraphQL can help us reduce this complexity, especially when it's combined with intelligent tooling. Explore how to achieve a friction-free state management experience with GraphQL and Apollo right inside your editor.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qBla-jgNKZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qBla-jgNKZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qBla-jgNKZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qBla-jgNKZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qBla-jgNKZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qBla-jgNKZc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qBla-jgNKZc",
+        "videoPublishedAt": "2019-04-25T06:47:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7NPNIRsaWCJfpEP9DV46Mtn0NM8",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Create a More Readable React Codebase Using TypeScript, GraphQL, and Hooks - Emma Brillhart",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# A More Readable React Codebase Using TypeScript, GraphQL, and Hooks\n\nWe’ve all looked at a chunk of code and had no idea what it does - only to realize that we were the ones who wrote it, six or so months ago. If we can’t read our own code after a few months, how can we expect anybody else to? What kind of effect does this have on developer productivity and overall project robustness? This talk explores how Emma and her team were able to make a client’s React codebase more readable and improve communication and productivity by leveraging technologies like TypeScript, GraphQL, and React hooks in a rewrite of the client's website.\n\nIncrease the speed at which new developers are able to onboard to your project, cut down on the time between when a PR is submitted and when it’s merged, and streamline the bug squashing process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nkJbGgieALI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nkJbGgieALI",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k-MOQYmRSVAOCRR7B8fLkURpwZE",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL at scale with AWS - Richard Threlkeld",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n#GraphQL at scale with AWS\n\nAs the popularity of GraphQL grows, many hard questions are being asked by companies adopting it as an API standard. What databases or search engines can I use it with? How do you aggregate data from multiple sources globally? Can GraphQL fetched data be available offline, and if clients mutate it how are conflicts resolved? Is there a secure way to control data access based on user authentication? Do subscriptions scale to thousands or millions of users? How do I use it with content like images or video? We’ll learn about AWS AppSync, a managed GraphQL service with offline and realtime features, and see the latest features and functionality that have just been released to market.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_mGa91wZ4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_mGa91wZ4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_mGa91wZ4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_mGa91wZ4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P_mGa91wZ4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P_mGa91wZ4o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P_mGa91wZ4o",
+        "videoPublishedAt": "2018-05-06T11:42:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5RjrF31lhz7yZBF7kYGyHbAlDf4",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Designing GraphQL Schemas: Avoid the downsides of GraphQL's flexibility - Nik Graf",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Designing GraphQL Schemas\n\nGraphQL brings joy to using APIs. Even though it's based on a type system, GraphQL in many ways is more flexible than REST. But the flexibility that makes GraphQL a joy to work with can have its downsides if you aren't careful.\n\nSchema design is an area where one small oversight at the beginning can get you stuck having to deal with weird naming, bloated duplicates, and other annoying workarounds. It doesn't have to be like this! \n\nNik Graf has extensive experience designing GraphQL schemas, for a variety of business applications.Nik has prepared several examples following different design patterns. Through exploration and comparison, you'll come away with actionable knowledge for designing and extending schemas.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fBkmlFfwRu0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fBkmlFfwRu0",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yteoa5e4URWegMlXiZzDtRo136A",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React State Management In a GraphQL Era - Kitze",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n#React State Management In a GraphQL Era\n\nNow that GraphQL takes care of managing data in our apps, is an external state-management library even needed? Let's explore all the possibilities and compare the combinations of React, Apollo, Redux, MobX, and Next.js.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q54YDGC_t3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q54YDGC_t3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q54YDGC_t3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q54YDGC_t3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q54YDGC_t3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q54YDGC_t3Y"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q54YDGC_t3Y",
+        "videoPublishedAt": "2018-04-24T22:59:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zloVGfPhTHR1jG5PEpCXMjZwGFc",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Open Source Stage: figma-graphql – Bernardo Raposo",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QQVQAbJpwO0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QQVQAbJpwO0",
+        "videoPublishedAt": "2019-11-26T08:30:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eX6nmW6Nz-MmVyJv90LgcrZTpUI",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Demystifying GraphQL Clients - Cris Biscardi",
+        "description": "Talk from React Amsterdam Conference 2017  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nCris Biscardi, Software Engineer at Dropbox\n\nFind out how choosing a GraphQL client can impact development. From Relay to template strings, we will explore topics such as modularity, schema checking, and static analysis.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sxciVldf-ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sxciVldf-ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sxciVldf-ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sxciVldf-ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sxciVldf-ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sxciVldf-ak"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sxciVldf-ak",
+        "videoPublishedAt": "2017-05-14T14:46:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QE7Dw_qaClx-KYCx3fyPDTIxmeE",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Florentijn Hogerwerf and Dirk-Jan Rutten: Lessons learned from implementing a GraphQL API",
+        "description": "GraphQL is a query language for APIs that was released by Facebook back in 2015 and has since started to gain traction with both large and small companies using it for their APIs, most recently Github. \nAs described on graphql.org:“GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.” \nWe got introduced to GraphQL over a year ago and were impressed by its promise. Since then we have discovered patterns on how to best structure and implement a GraphQL API. In this talk we will share some of these patterns and provide examples on how to implement them.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-oa0kvBXz8E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-oa0kvBXz8E",
+        "videoPublishedAt": "2017-03-29T20:06:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Lz-0yotDEITB4FTaAuWGN9W_Bc",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "A Real-World GraphQL Application in Production - Stefano Masini",
+        "description": "Talk from React Amsterdam Conference 2017  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nStefano Masini, Full-stack Developer at Balsamiq\n\nAt Balsamiq we are rolling out our new web-app to production. A real-world application with real-time collaboration, built using Relay, Redux, node.js, Redis, etc., running on AWS using Convox. Even at small/medium scale, if you're serious about building a good product you will eventually have to build a complex stack. I will share a few lessons learned in the process: how to structure the code, implement reactivity, writing tests.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6bRFElKG0a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6bRFElKG0a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bRFElKG0a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6bRFElKG0a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6bRFElKG0a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6bRFElKG0a8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6bRFElKG0a8",
+        "videoPublishedAt": "2017-05-07T15:49:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tX7pkdS8xMdFoZrk1Zn2fQ0fUmI",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:54:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Martijn Walraven: Building Reactive GraphQL Apps with Apollo",
+        "description": "Martijn Walraven, Meteor, Amsterdam on Building Reactive GraphQL Apps With Apollo\n\nIn this talk, I’ll introduce our efforts to design a reactive system to automatically re-run GraphQL queries when the underlying data changes. You will see how to make the collaborative parts of your app update in real time with little extra code, how to integrate with a SQL database or REST API, and how this works in concert with GraphQL’s best features to simplify your app’s data management while being predictable and maintainable.\n\nSlides are here https://speakerdeck.com/reactamsterdam/martijn-walraven-meteor-amsterdam-building-reactive-graphql-apps-with-apollo\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Dgt691lXhs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1Dgt691lXhs",
+        "videoPublishedAt": "2016-05-10T12:35:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2LWqvbkVwOafSnLwOLxpy25-rW0",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-03-25T09:59:45Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Full-stack React Native in the Era of Serverless Computing: Build an app in minutes - Nader Dabit",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Full-stack React Native in the Era of Serverless Computing\n# React Native Track\n\nWith the emergence of more & more powerful & sophisticated managed services like Algolia, AWS AppSync, Cloudinary, Auth0, Amazon Rekognition & Firebase it's now completely possible for front-end engineers to build full-stack web & mobile applications while with almost no back-end code, relying on these services to do the heavy lifting for features like data layers, search, authentication, & authorization & using serverless glue functions to handle what’s left.\n\nIn this talk, Nader discusses this philosophy in depth, the options available from different service providers, & then showa how (live-code) to build a full-stack React Native application in just a few minutes by using React & AWS Amplify React Native to quickly build a real-world app complete with a GraphQL API, analytics, search, authentication & authorization.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VQ-umMTEQq4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VQ-umMTEQq4",
+        "videoPublishedAt": "2019-05-03T08:52:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UbMcoGl2Ury9a1QcEgnNkwlh0ig",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-05-18T18:55:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL Mesh – Query Anything, Run Anywhere - Uri Goldshtein",
+        "description": "Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#GraphQL Mesh – Query Anything, Run Anywhere\nIn this talk I will demonstrate the new GraphQL Mesh library (https://twitter.com/UriGoldshtein/status/1242118500795236353?s=20) that was recently announced.\nGraphQL Mesh changes a lot of the traditional ideas about GraphQL and its relationship with other API protocols.\nIt can automatically generate a GraphQL API from openapi/Swagger, gRPC, SOAP, oData and others without changing the source and merge them all schemas into a single schema - Schema Stitching for any source!\nIn this talk I will share some of the original ideas behind it and my opinions on how the future looks for API consumption and exposure.\n\n\nUri Goldshtein\nUri is the founder of The Guild, a group of open source developers working around the world to help create important open source libraries, mostly around GraphQL. They support large companies to go through successful technological transformations.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BUzISj87ovc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BUzISj87ovc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BUzISj87ovc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BUzISj87ovc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BUzISj87ovc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BUzISj87ovc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BUzISj87ovc",
+        "videoPublishedAt": "2020-05-18T18:54:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 14,
+    "resultsPerPage": 50
+  }
+}

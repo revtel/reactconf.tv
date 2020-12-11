@@ -1,0 +1,374 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "2mFakb0Guo0wRMTwiI1zi74xMYU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JlQWvhfu1mwCq4kZqQRcEstZJpM",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-03-18T07:40:42Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Introduction to Flutter @ Cross-platformxWRO #3 Meetup",
+        "description": "Cross-platformxWRO #3 Meetup 05.03.2019 Part 1\nKatarina Sheremet\nA total beginner? Don’t worry, everybody has been a beginner once. Katarina Sheremet, a Flutter developer and open source enthusiast gave a talk for you.\n\nSpeaker bio: Katarina Sheremet is a passionate mobile developer and open source enthusiast, currently focused on developing applications using Flutter. She is also a lead in the Women Techmakers Switzerland community and international speaker. Follow her on Twitter: https://twitter.com/kate_sheremet.\n\nIf you notice sound distortions during playback on your device, please try out the alternative version here: https://youtu.be/Mqxwtudp1X8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nPbe4wdvvWY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nPbe4wdvvWY",
+        "videoPublishedAt": "2019-03-26T08:58:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0wm6H0KRQoehHD0pQxiXtuM2Wsw",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-03-26T08:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Flutter Platform Channels @ Cross-platformxWRO #3 Meetup",
+        "description": "Cross-platformxWRO #3 Meetup 05.03.2019 Part 2\nKrzysztof Sroka\nWhen it comes to writing apps using Flutter, you will eventually want to bridge some gaps between its libraries and whatever’s being provided by your favourite native OS. Krzysztof gave a talk on how to do that!\n\nKrzysztof Sroka is a cross-platform developer and a Flutter aficionado from Wrocław. He is also member of the local Google Developers Group, where he leads the Flutter initiative. Stay in touch with him via Twitter: https://twitter.com/kpsroka.\n\nThe code presented in this video is available on GitHub: https://github.com/kpsroka/flutter-platform-channels-talk. If you’re interested in knowing more, drop us a line at flutter@callstack.com.\n\nIf you notice sound distortions during playback on your device, please try out the alternative version here: https://youtu.be/kGReqCpzYS0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OUVt9HBLvio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OUVt9HBLvio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OUVt9HBLvio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OUVt9HBLvio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OUVt9HBLvio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OUVt9HBLvio"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OUVt9HBLvio",
+        "videoPublishedAt": "2019-03-26T08:58:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VUjIgbIL_PR-jpvwUxU2PjwXLRI",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-11-16T12:30:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What's new for React after React Conf 2018? @ Cross-platformxWRO #2 Meetup",
+        "description": "Cross-platformxWRO #2 Meetup 07.11.2018 Part 1\nMike Grabowski & Ferran Negre\nA lot​ of new exciting announcements are coming to React after the official React Conf that was happening in Las Vegas in October 2018. Do you want to know what happened there?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTUitHuHvpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTUitHuHvpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTUitHuHvpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bTUitHuHvpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bTUitHuHvpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bTUitHuHvpk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bTUitHuHvpk",
+        "videoPublishedAt": "2018-11-16T12:27:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EFbz4Rrl4a7bnFUCE8SMz1BTgEE",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-11-16T12:32:17Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Digging deeper into WatermelonDB 🍉 @ Cross-platformxWRO #2 Meetup",
+        "description": "Cross-platformxWRO #2 Meetup 07.11.2018 Part 2\nRadek Pietruszewski\nWatermelonDB is a cross-platform database framework for making powerful React and React Native apps that can scale to tens of thousands of records and remain fast. Let’s dig deeper into it! I’ll show you why it might be a good fit for your next cross-platform app, a brief introduction to using Watermelon in React apps, and the juicy behind-the-scenes of making multiplatform, high-performance frameworks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uFvHURTRLxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uFvHURTRLxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uFvHURTRLxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uFvHURTRLxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uFvHURTRLxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uFvHURTRLxQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uFvHURTRLxQ",
+        "videoPublishedAt": "2018-11-16T12:29:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2V2iXcyYTmEyGUo67s5AN6P6o4s",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-11-16T12:32:28Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Adding Web to the Cross-Platform Equation - ReactXP and React Native for Web @ Cross-platformxWRO #2",
+        "description": "Cross-platformxWRO #2 Meetup 07.11.2018 Part 3\nSzymon Korzeniowski",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J53XzLR8c2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J53XzLR8c2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J53XzLR8c2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J53XzLR8c2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J53XzLR8c2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J53XzLR8c2o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "J53XzLR8c2o",
+        "videoPublishedAt": "2018-11-16T12:29:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hGmBI2ewpPhrNvk-SArBnatl15o",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-24T12:55:07Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Are Progressive Web Apps the future? Tomasz Jankowski  @ Cross-platformxWRO Meetup",
+        "description": "Cross-platformxWRO Meetup 22.08.2018 part 1\nFerran Negre - Opening\nTomasz Jankowski\nAre Progressive Web Apps the future?\nCould progressive web apps be the final solution for multi-platform projects? I'm not an expert but I would like to share with you results of my research and subjective opinion about the current state and future of PWA\nhttps://twitter.com/_tomekjankowski\nhttps://github.com/tjankowski",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGWEuvuyduA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGWEuvuyduA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGWEuvuyduA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGWEuvuyduA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGWEuvuyduA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FGWEuvuyduA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FGWEuvuyduA",
+        "videoPublishedAt": "2018-09-10T10:56:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bEDSLOLCBx1fcVLjuoMPGlCW-Vw",
+      "id": "UExaM013RC1zb1RURXdEUXZMVmpzUG9yekpHQU1wR0NEOS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-10T11:23:35Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Kotlin all the things! Krzysztof Borowy @ Cross-platformxWRO Meetup",
+        "description": "Cross-platformxWRO Meetup 22.08.2018 part 2\nKrzysztof Borowy\nKotlin all the things!\nWe'll explore Kotlin language with its ability to develop apps for multiple platforms\nhttps://twitter.com/Krizzu\nhttps://github.com/Krizzu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aBnn1EuAOuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aBnn1EuAOuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aBnn1EuAOuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aBnn1EuAOuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aBnn1EuAOuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aBnn1EuAOuc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aBnn1EuAOuc",
+        "videoPublishedAt": "2018-09-10T11:23:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  }
+}

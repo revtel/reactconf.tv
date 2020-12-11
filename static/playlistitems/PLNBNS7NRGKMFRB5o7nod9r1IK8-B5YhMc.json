@@ -1,0 +1,166 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "zRzoja0_s5AUeoNjjr0tp9v0jJc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "coWI5ayStBymmvat61HmyvqSYVQ",
+      "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:12:36Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Create a More Readable React Codebase Using TypeScript, GraphQL, and Hooks - Emma Brillhart",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# A More Readable React Codebase Using TypeScript, GraphQL, and Hooks\n\nWe’ve all looked at a chunk of code and had no idea what it does - only to realize that we were the ones who wrote it, six or so months ago. If we can’t read our own code after a few months, how can we expect anybody else to? What kind of effect does this have on developer productivity and overall project robustness? This talk explores how Emma and her team were able to make a client’s React codebase more readable and improve communication and productivity by leveraging technologies like TypeScript, GraphQL, and React hooks in a rewrite of the client's website.\n\nIncrease the speed at which new developers are able to onboard to your project, cut down on the time between when a PR is submitted and when it’s merged, and streamline the bug squashing process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFRB5o7nod9r1IK8-B5YhMc",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nkJbGgieALI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nkJbGgieALI",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NVdS7Mly6fy_5qxK4zkjmhYL4pI",
+      "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:12:22Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Typed Functional Programming in TypeScript with fp-ts - Robin Pokorny",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Lightning talks - Typed Functional Programming in TypeScript with fp-ts\nTypeScript is the main dialect developers use for writing React applications. React has a functional nature, however, TypeScript has not. It lacks some popular patterns and data structures we use and love in other functional languages like ReasonML, Elm, or PureScript. Fortunately, for the rescue, there is a rising library called fp-ts. Let me show you how it can help you.\n\nRobin Pokorny\nRobin is a JavaScript developer at NewStore, creating a mobile retail platform in React. Enjoys writing functional JavaScript, explores Reason for inspiration. Organises several meetups, records coding videos, and frequently speaks.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UwCLmHQOWoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UwCLmHQOWoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UwCLmHQOWoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UwCLmHQOWoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UwCLmHQOWoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFRB5o7nod9r1IK8-B5YhMc",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UwCLmHQOWoY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UwCLmHQOWoY",
+        "videoPublishedAt": "2019-12-13T09:25:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FVvefIuZDl1Oy90e6fVxYzWpwpI",
+      "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:12:48Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Advanced TypeScript with React - Nikhil Verma",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Advanced TypeScript with React\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFRB5o7nod9r1IK8-B5YhMc",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zQfD4ZxxyKA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zQfD4ZxxyKA",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 50
+  }
+}

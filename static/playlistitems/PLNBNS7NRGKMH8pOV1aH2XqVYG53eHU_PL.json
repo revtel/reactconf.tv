@@ -1,0 +1,530 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "q-CHH66myV5bDFoxzHA6Ap-rKHY",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nWXN0AziY_MfHPf1VWDtlOhhdAs",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:25:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Open Source Awards with Max Stoiber & Stefan Fejes",
+        "description": "OS Awards recording from React Summit 2020\n\nWebsite - https://reactsummit.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JW4ws0y1IhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JW4ws0y1IhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JW4ws0y1IhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JW4ws0y1IhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JW4ws0y1IhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JW4ws0y1IhU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JW4ws0y1IhU",
+        "videoPublishedAt": "2020-11-03T10:26:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A0io5NwpI6096LHo4Q8dkCa7kkk",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Why Paid UI Components Aren’t Evil - TJ Van Toll",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Why Paid UI Components Aren’t Evil\nIn this talk I’m going to convince you that paid UI components will solve all your problems, and that you should immediately give me all of your money. Maybe. Or perhaps I’ll draw on my experience working both on free and open source tools (jQuery, jQuery UI, NativeScript), as well as paid tools (Kendo UI, KendoReact), and discuss which type of tool makes sense depending on your team and needs. In any case the talk will go fast because lightning is in the title.\n\nSlides - https://www.dropbox.com/s/uj6f4ef32khs57h/React%20Summit%E2%80%94TJ%20VanToll.pdf?dl=0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9A4oNTAYn6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9A4oNTAYn6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9A4oNTAYn6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9A4oNTAYn6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9A4oNTAYn6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9A4oNTAYn6U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9A4oNTAYn6U",
+        "videoPublishedAt": "2020-11-03T10:33:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MeRwTSOZBJTaO_gR_WnVedi3NRs",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Theming Gatsby Apps with Theme UI - Pariss Athena",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Theming Gatsby Apps with Theme UI\nThere are many CSS-in-JS libraries for us to choose from. Imagine being able to take your favorite parts of those libraries and using them in one. Learn about the power of Theme UI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1OqP-m3TJUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1OqP-m3TJUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1OqP-m3TJUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1OqP-m3TJUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1OqP-m3TJUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1OqP-m3TJUI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1OqP-m3TJUI",
+        "videoPublishedAt": "2020-11-03T10:34:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ddUbC2BexoWT2PckeF_LtK_f0U4",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Components and How To Style Them - Jemima Abu",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# React Components and How To Style Them \nA comparative analysis between four methods of styling React components from inline styling to Styled-Components. This talk is best suited to beginner developers.\n\nSlides - https://jemimaabu.com/slides/styling-react",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/11NNrrbKKgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/11NNrrbKKgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/11NNrrbKKgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/11NNrrbKKgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/11NNrrbKKgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "11NNrrbKKgU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "11NNrrbKKgU",
+        "videoPublishedAt": "2020-11-03T10:36:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aMpzcjmgUhOstmIhSiVx6kGi7hM",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "The X in MDX - Rodrigo Pombo",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# The X in MDX\nMarkdown is great for content-driven sites. MDX is even better, letting you embed interactive components directly from your markup. It's usually used for the same linear layouts you often see on many blogs, readmes, and documentation sites. But it doesn't need to be like this.\n\nIn this talk, we'll see how to reshape MDX so we can use it for very different layouts, things like scrollytelling, slide decks, and more.\n\nslides: https://reactsummit2020.pomb.us/ \nrepo: https://github.com/pomber/the-x-in-mdx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1c_9EJ4VCQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1c_9EJ4VCQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1c_9EJ4VCQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1c_9EJ4VCQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1c_9EJ4VCQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1c_9EJ4VCQU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1c_9EJ4VCQU",
+        "videoPublishedAt": "2020-11-04T08:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "te20Hja0V4hdn5jZp0dNnkQ6a9E",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel discussion hosted by the Apollo team on GraphQL + React",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_VnNzEDNOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_VnNzEDNOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_VnNzEDNOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0_VnNzEDNOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0_VnNzEDNOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0_VnNzEDNOo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0_VnNzEDNOo",
+        "videoPublishedAt": "2020-11-06T08:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sHQ-pfzGP8z9Ip2jVxbnP2rh-Mc",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Nx + Next.js = ❤️ - Adam L Barrett",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Nx + Next.js = ❤️\nNx is a next generation suite of build tools.\nNext.js is state-of-the-art framework for building web applications.\nTogether they bring order to the chaos of building multiple web applications across many teams.\nThis talk is a quick rundown of how Nx can help you maintain multiple Next.js apps, with multiple teams, while sharing components and libraries for consistent user experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chBOFzpGpyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chBOFzpGpyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chBOFzpGpyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/chBOFzpGpyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/chBOFzpGpyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "chBOFzpGpyo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "chBOFzpGpyo",
+        "videoPublishedAt": "2020-11-05T08:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o7IneMOP0H3qGwyEqNYw3t-GDtg",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "How to Optimize Your SEO during the switch to Mobile First Indexing - Ruth Mesfun",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# How to Optimize Your SEO during the switch to Mobile First Indexing\nGoogle announced that they will fully switch over to crawling and indexing sites using mobile-first indexing by March 2021. Now for some companies their mobile site is dynamically rendered which has a high risk of decreased ranking on google once mobile-first indexing is fully implemented.\n\nThis presentation will share how to assess what changes needs to be made, best practices to increase SEO for Mobile First Indexing, how to increase performance, and how to turn parts of your site from dynamic rendering to mobile responsive in less than two months. \n\nSlides - https://drive.google.com/drive/u/2/folders/14iy6qTNX3Xt8-u2B8X-mmsiFgWrMW2DC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_96AORyp21A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_96AORyp21A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_96AORyp21A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_96AORyp21A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_96AORyp21A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_96AORyp21A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_96AORyp21A",
+        "videoPublishedAt": "2020-11-08T23:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9GpU_J_cQnxyuChEjaBiFIKW1XY",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:31:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL and React - Two Great Tastes that Taste Great Together - Adron Hall",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# GraphQL and React - Two Great Tastes that Taste Great Together\nAs a full-stack engineer with a bias towards the database...and a career spent working with and evangelizing database and distributed systems...why GraphQL? In this talk, I will share some of my personal journey with React, GraphQL, their respective communities, and my point-of-view on the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2hfpJxoKSb8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2hfpJxoKSb8",
+        "videoPublishedAt": "2020-11-10T08:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RchwdwSpGd2Xj60dQeCOAxvreoo",
+      "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-11-03T10:35:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel Discussion on Testing: Tomasz Łakomy, Iris Schaffer, Kent C. Dodds, Sophie Au",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v8_z9p-dU-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v8_z9p-dU-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v8_z9p-dU-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v8_z9p-dU-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v8_z9p-dU-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v8_z9p-dU-0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v8_z9p-dU-0",
+        "videoPublishedAt": "2020-11-11T08:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
+  }
+}

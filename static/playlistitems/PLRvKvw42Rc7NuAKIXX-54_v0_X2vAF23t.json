@@ -1,0 +1,582 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "6e8_XPJsp9MhueVOpIhxPHKaV-U",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Of6nYVBtPvb_EDPOOdAhJQkixVw",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-09-16T19:00:54Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jen Luker - Accessibility: Beyond the Basics",
+        "description": "Accessibility in React has been a hot topic in the last few years, but in this talk, we'll be going beyond the basics. We'll explore a data-driven perspective to convince the business to invest in accessibility, then dive into the details of accessibility testing. We'll use lighthouse to audit applications, educate ourselves with the axe browser extensions, incorporate eslint-plugin-jsx-a11y into our lint process, and add axe-core to our automated testing suite. You'll leave prepared to add accessibility features to your application.\n\nJen Luker is a Lead software engineer at Formidable, a BookBytes podcast co-host, and a member of the RxJS learning team. She has spent a majority of her decade-long career as a full-stack developer using PHP, Javascript, and CSS, but has a particular fondness for front end technologies. Jen trains others in ReactJS and accessibility, loves optimizing webpack builds, and codes apps in React Native. When she's not finding solutions, learning new technologies, or reading, her spare time is spent spinning yarn from raw wool and knitting; she's even been known to 3D print her own tools for the job. Jen is also fascinated by all things space, enjoys vintage cars, and is always looking for good conversation.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA. \n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8E9AEZjglqI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8E9AEZjglqI",
+        "videoPublishedAt": "2018-09-10T17:29:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RpRaxMU7Q3VRwgy7Dfw5WgjzAd8",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-16T19:00:46Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Ryan Burgess - Testing into a Better User Experience",
+        "description": "We are all talented designers and engineers that strive to create the best user experience. Unfortunately, we don’t always know what the best user experience is until a new feature is in production and used by our customers. That’s where the power of A/B testing comes into play! At Netflix, we are constantly running A/B tests to improve our user experience. Find out how to handle A/B testing at scale, what it takes to build the optimal test, and how to start implementing A/B tests within your company.\n\nRyan is a Software Engineering Manager at Netflix. He leads a team of cross-platform UI Engineers that build the signup flow for Netflix on iOS, Android, Website, and TV. He's also the Canadian voice on the Front End Happy Hour podcast.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TmhJN6rdm28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TmhJN6rdm28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TmhJN6rdm28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TmhJN6rdm28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TmhJN6rdm28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TmhJN6rdm28"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TmhJN6rdm28",
+        "videoPublishedAt": "2018-09-11T05:02:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZaahsGO4rwBhoXnO_ZJThn71cLI",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-16T19:00:36Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Amjad Masad - Repl.it plugins in React & Redux",
+        "description": "Building an extensible web IDE in React presents a unique set of challenges around sandboxing and API design. In this talk, we’ll explore the unique challenges we faced, lessons learned, and takeaways that can be applied to the challenge of building any large React application.\n\nAmjad Masad is co-founder and CEO at Repl.it. Amjad has dedicated his career to making programming more accessible. Starting with Codecademy, where he was a founding engineer, he helped build the platform that introduced tens of millions of people to coding. Afterward, he joined Facebook to lead the JavaScript Infrastructure team to build and maintain developer tools like the Metro Packager, Babel, and Jest. With Repl.it, he's now focused on building tools that lower the barriers to entry for building and shipping software.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dhECubL0R3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dhECubL0R3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dhECubL0R3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dhECubL0R3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dhECubL0R3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dhECubL0R3U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dhECubL0R3U",
+        "videoPublishedAt": "2018-09-13T05:28:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KRnd41csEkXKw7zHTdgU6tLkW10",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-09-16T19:00:25Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jeremias Menichelli - A sleek view transition recipe for web apps",
+        "description": "Have you ever wondered why good performance around animated transitions on views is so hard to achieve in web projects? Animations and performance are one of the top point of discussion when comparing web application to their native counterparts. I’m going to share my learnings on how to safely kick off route based animations, performance tricks and modern workflows to build reliable transitions for web applications.\n\nJeremias is a experienced front-end engineer. He helped build all type of projects, from rich animated web experiences to Node applications. He's currently working in design systems at Typeform and he's a member of webpack's documentation team.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BgeOAzXotbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BgeOAzXotbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BgeOAzXotbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BgeOAzXotbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BgeOAzXotbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BgeOAzXotbY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BgeOAzXotbY",
+        "videoPublishedAt": "2018-09-14T15:20:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AoLflzj9ZqLiNXlzH4ZbfDJMrhE",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-09-18T19:13:43Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "James McNamara - Functional Lenses In JavaScript with Shades",
+        "description": "One frustrating thing for many people coming to functional programming is the clunkiness of updating a single field in an object. Shades.js provides lens functions for native JS objects, and provides a rich library of utility functions that make transforming and updating data declarative. Time permitting, we can discuss how these patterns can fit into a Redux architecture.\n\nJames McNamara is a functional web developer and co-founder of chosen.fyi, a Boston based talent network.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_D3IPecC0S8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_D3IPecC0S8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_D3IPecC0S8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_D3IPecC0S8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_D3IPecC0S8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_D3IPecC0S8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_D3IPecC0S8",
+        "videoPublishedAt": "2018-09-17T02:12:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jWHhR2paVYPhwqBAOogEmX0wv1I",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-09-20T15:39:50Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Lauren Tan - Swipe Left, Uncaught TypeError: Learning to Love Type Systems",
+        "description": "Sometimes, undefined is not a function. As mortal programmers, we ship bugs to production everyday. Bugs slow us down, frustrate our users, and cause us to have crises of confidence. Don't go alone–type systems in TypeScript, Flow, and GraphQL can improve your confidence and help you ship less bugs. We'll start with why: a practical look at what you'll get from embracing types. Then, a gentle introduction to the ideas behind them. Finally, we'll explore the possibilities of a type system over the network.\n\nHi there! I'm an Engineering Manager at Netflix, and thoughtful engineer at heart. I'm leading a team building a suite of data-intensive applications that manages billions of dollars worth of spend in the content programming and talent space. Through these tools, our creatives efficiently and effectively plan our content and talent strategy, guided by our partnership with our data science team. Previously, I was an engineering lead at Netflix, delivering a sophisticated intelligence tool for programming billions of dollars worth of content. Although formally educated in Finance, I've been involved in the intersections of technology, design, and business for more than a decade. I'm also an active contributor to open source – maintaining a number of popular libraries, and a regular speaker at leading JavaScript, Ruby and Elixir conferences.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CPECnlUwk-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CPECnlUwk-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CPECnlUwk-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CPECnlUwk-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CPECnlUwk-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CPECnlUwk-c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CPECnlUwk-c",
+        "videoPublishedAt": "2018-09-20T14:10:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qE-LDI8i33mgURh2vtXMTwwAra8",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-09-21T06:50:56Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Brian Holt - 10k or Bust: The Delicate Power of Webpack and Babel",
+        "description": "Your app is bigger and slower than it needs to be. Without rewriting app code we can squeeze more performance out of your code by tweaking Webpack and Babel. These tools are immensely powerful but it’s a delicate dance to get them to play nice. This talk is full of tips and tricks to get you there. After three years of tooling around with Webpack and Babel at Netflix, LinkedIn, and Reddit Brian got some battle-won knowledge that he’d like to share with you all. Some non-intuitive tricks that lead to smaller bundles, faster parse times, browser-engine opts and de-opts, and faster perceived load times. While these examples will use react to make examples this apply to any application that uses these two phenomenal tools. You’ll be surprised at what you can do just turning a few knobs.\n\nBrian Holt is a senior cloud developer advocate at Microsoft, where he’s all about developers, developers, developers. Previously, he was a JavaScript engineer at Netflix, LinkedIn, and Reddit. When not working, Brian finds time to teach on Frontend Masters, run his mouth on Front End Happy Hour, travel all over the world, and play with his adorable dog.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OcYgDmrJd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OcYgDmrJd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OcYgDmrJd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7OcYgDmrJd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7OcYgDmrJd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7OcYgDmrJd4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7OcYgDmrJd4",
+        "videoPublishedAt": "2018-09-21T06:23:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NZhGL-2hL6rvArMGLanbtFGqw5k",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-28T04:59:45Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Desmond Brand - Optimizing Performance with Code Splitting",
+        "description": "Desmond is the Director of Engineering at Flexport. Previously, he was part of the excellent Khan Academy team. Prior to moving to the Bay Area, he worked at Bing in Bellevue WA. He grew up in Melbourne, Australia, where he went to Swinburne University and earned degrees in Robotics Engineering and Computer Science.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hqUiu4dKbBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hqUiu4dKbBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hqUiu4dKbBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hqUiu4dKbBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hqUiu4dKbBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hqUiu4dKbBw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hqUiu4dKbBw",
+        "videoPublishedAt": "2018-09-25T17:49:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uk1_Jf43sSNZNQWShGZ6aT5xVkg",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-09-28T04:59:53Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Eve Porcello - GraphQL in 3 Components",
+        "description": "Three components: that’s all you need to know to start building React applications with GraphQL. In this talk, we'll take a closer look at how to incorporate Apollo's Query, Mutation, and Subscription components to handle all of your React app's data fetching needs. And with that, you'll be hooked on GraphQL.\n\nEve Porcello is the co-owner of Moon Highway, a training and curriculum development company based in Northern California. She is an active corporate trainer, creates courses for LinkedIn Learning, and is the co-author of O'Reilly's Learning GraphQL and Learning React.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hGikkGJ_ioI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hGikkGJ_ioI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hGikkGJ_ioI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hGikkGJ_ioI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hGikkGJ_ioI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hGikkGJ_ioI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hGikkGJ_ioI",
+        "videoPublishedAt": "2018-09-27T05:18:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CsChyHckbP1P_Xa0mPKCpZKiQNU",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-09-30T15:15:22Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Laurie Voss - Things you didn't know about npm",
+        "description": "Fifty percent of npm users started using it less than a year ago, so if you’re only scratching the surface of npm’s features, you’re not alone. Laurie Voss gives a guided tour of npm’s greatest features, old and new, and explains how they can be integrated into your workflow to make you better, happier, and more productive.\n\nLaurie Voss is a veteran web developer and COO of npm, Inc.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2vKFUfQkbOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2vKFUfQkbOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vKFUfQkbOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2vKFUfQkbOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2vKFUfQkbOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2vKFUfQkbOs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2vKFUfQkbOs",
+        "videoPublishedAt": "2018-09-28T05:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SjHH6whlSymYPJoDL-avqRdFiVA",
+      "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-09-30T15:15:32Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Brian Leroux - Vanilla JS - Capabilities & Trajectory",
+        "description": "React and similar libraries are tools that solved specific problems to address the limitations of vanilla JavaScript and the web browsers where it runs. But are they still needed today? In this talk, we will explore how far vanilla JS has come, what it can and should be used for, and where its limitations may require a library such as React.\n\nBrian is a former member of the Adobe PhoneGap team and helped to foster the Apache Cordova project. He is also responsible for wtfjs. Lately he has been building on the cloud with begin.com and hacking on Architect (https://arc.codes), a plaintext manifest for defining next generation cloud infrastructure, and also a project of the JavaScript Foundation.\n\nFilmed at Reactathon September 2018 at GitHub in San Francisco, CA\n\nOrganized by Real World React. Visit https://www.realworldreact.com to learn more about our services and events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTHa3XxUdmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTHa3XxUdmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTHa3XxUdmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bTHa3XxUdmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bTHa3XxUdmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bTHa3XxUdmM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bTHa3XxUdmM",
+        "videoPublishedAt": "2018-09-28T06:11:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}

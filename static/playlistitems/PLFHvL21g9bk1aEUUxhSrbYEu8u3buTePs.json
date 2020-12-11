@@ -1,0 +1,270 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "GWbtpEKogoVKYGggHYMXxWkRucc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bZLH3UTEH3Ro_38cIw7vjYLXalQ",
+      "id": "UExGSHZMMjFnOWJrMWFFVVV4aFNyYllFdTh1M2J1VGVQcy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-07-19T19:59:21Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Introducing Ignite 2.0",
+        "description": "Gant Laborde from Infinite Red introduces Ignite 2 to the world.\n\nIgnite was an awesome React Native boilerplate and CLI, with Redux, Reactotron, and other great features built-in. Ignite 2 builds on that and opens up the platform for making your own boilerplate easily as well as adding features a la carte with our super easy plugin system.\n\nhttps://infinite.red/ignite\nhttps://github.com/infinitered/ignite\nhttps://twitter.com/ir_ignite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9l5_af3ryXw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9l5_af3ryXw",
+        "videoPublishedAt": "2017-03-12T21:12:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s0BZCcNYhzPRp3QKI8SQAmuXiuw",
+      "id": "UExGSHZMMjFnOWJrMWFFVVV4aFNyYllFdTh1M2J1VGVQcy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-07-19T19:59:21Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Building a React Native App in Under 15 Minutes",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lv00UOXxy0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lv00UOXxy0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lv00UOXxy0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lv00UOXxy0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lv00UOXxy0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lv00UOXxy0g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lv00UOXxy0g",
+        "videoPublishedAt": "2017-03-28T23:52:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FurDy6s21pXsxLpDSaAi2hRwR6E",
+      "id": "UExGSHZMMjFnOWJrMWFFVVV4aFNyYllFdTh1M2J1VGVQcy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-07-19T19:59:21Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Adding API to an Ignite React Native App",
+        "description": "15 more minutes of development gets us a live API in our React Native app.  Watch as Gant Laborde adds API quickly and deftly.\n\nhttps://youtu.be/lv00UOXxy0g",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GUZJr6Dyok0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GUZJr6Dyok0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUZJr6Dyok0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GUZJr6Dyok0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GUZJr6Dyok0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GUZJr6Dyok0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GUZJr6Dyok0",
+        "videoPublishedAt": "2017-04-11T14:35:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O-rae8Ott4MVaTucG9e-C8CXa1E",
+      "id": "UExGSHZMMjFnOWJrMWFFVVV4aFNyYllFdTh1M2J1VGVQcy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-07-19T19:59:21Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Reactotron - Your Robo Tour Through Awesomeness",
+        "description": "As a React Native developer you know how important and difficult debugging can be.  Reactotron is the ideal tool for building and testing React Native apps. \n\nWatch as we tour you through our Chain React Conference application with bells and whistles that can be configured by Reactotron as stand-alone secondary application.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPBRfxswDjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPBRfxswDjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPBRfxswDjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tPBRfxswDjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tPBRfxswDjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tPBRfxswDjA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tPBRfxswDjA",
+        "videoPublishedAt": "2017-06-28T22:25:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3re2I-LKACxZmWG79-gb61gvroc",
+      "id": "UExGSHZMMjFnOWJrMWFFVVV4aFNyYllFdTh1M2J1VGVQcy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-12-30T21:01:09Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Build an iOS and Android app in 15 minutes using React Native",
+        "description": "(Via Frontend Love: https://www.youtube.com/watch?v=Pb8MWkQ9GOc)\n\nThis video's audio has been enhanced, as the original was difficult to hear. It's still not perfect but is better than the original.\n\nIn this video, Infinite Red's CTO and cofounder Jamon Holmgren demonstrates how to build an iOS and Android cross-platform app using React Native, on stage, in front of 800+ developers at React Live Amsterdam.\n\nJamon uses the following technologies:\n\n1. React Native: https://facebook.github.io/react-native/\n2. Ignite CLI: https://github.com/infinitered/ignite\n3. Ignite Bowser boilerplate: https://github.com/infinitered/ignite-bowser\n4. MobX-State-Tree: https://github.com/mobxjs/mobx-state-tree\n5. MobX-React: https://github.com/mobxjs/mobx-react\n6. React Navigation: https://reactnavigation.org/\n7. TypeScript: https://www.typescriptlang.org/\n\nCheck out more talks at https://infinite.red/talks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OgiFKMd_TeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OgiFKMd_TeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgiFKMd_TeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OgiFKMd_TeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OgiFKMd_TeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OgiFKMd_TeY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OgiFKMd_TeY",
+        "videoPublishedAt": "2019-12-30T21:04:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}

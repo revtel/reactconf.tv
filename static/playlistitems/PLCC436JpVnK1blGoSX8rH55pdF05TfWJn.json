@@ -1,0 +1,842 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "95CeKp45Wqk8k1mxdhwUQMfuKQw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1HXupXeRTFKASXGX-uhTdx10PcY",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:41:58Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Declarative Data Fetching in React by Charles Mangwa (@Charles_Mangwa) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1ZLrdTHkNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1ZLrdTHkNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1ZLrdTHkNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1ZLrdTHkNY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h1ZLrdTHkNY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h1ZLrdTHkNY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "h1ZLrdTHkNY",
+        "videoPublishedAt": "2018-05-21T16:41:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "09drLR2-7FITiEpSf7dbnIOiyTo",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:42:48Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Web performance - All in one by David Boyne (@boyney123) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LEINbViDcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LEINbViDcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LEINbViDcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LEINbViDcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LEINbViDcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1LEINbViDcM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1LEINbViDcM",
+        "videoPublishedAt": "2018-05-21T16:42:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q6CrR5TR-Hq6I_8bw-v_k1eBHj0",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:44:22Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React Interface for Ledger Hardware Wallets by Anastasia Poupeney (@anastasiia_ser)",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TPpftQv1tkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TPpftQv1tkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TPpftQv1tkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TPpftQv1tkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TPpftQv1tkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TPpftQv1tkA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TPpftQv1tkA",
+        "videoPublishedAt": "2018-05-21T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_KmTbs0slQ2kIz3AVz97kVianV4",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:45:52Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "react-admin, build an admin like you play Legos by Francois Zaninotto (@francoisz) at @ReactEurope",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGOdIBDUtvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGOdIBDUtvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGOdIBDUtvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGOdIBDUtvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGOdIBDUtvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vGOdIBDUtvs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vGOdIBDUtvs",
+        "videoPublishedAt": "2018-05-21T16:45:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l0wSwv4MW8AfK-_58a2sbVgx5aE",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:48:29Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Design meets Code with BuilderX by Sanket Sahu (@sanketsahu) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YREULlxcDac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YREULlxcDac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YREULlxcDac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YREULlxcDac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YREULlxcDac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YREULlxcDac"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YREULlxcDac",
+        "videoPublishedAt": "2018-05-21T16:48:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RlLasguJL0IyuT8ijPRcqtIXe4E",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:49:25Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Screenshot testing with React & Storybook by Jesse Pinho (@jessepinho)",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8hNMH9Q_EA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8hNMH9Q_EA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8hNMH9Q_EA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8hNMH9Q_EA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f8hNMH9Q_EA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8hNMH9Q_EA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f8hNMH9Q_EA",
+        "videoPublishedAt": "2018-05-21T16:49:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E9o08htB8TaEg1D3VcXFH5F3A6Y",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:51:10Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "GraphQL Schema Delegation by Mikhail Novikov (@freiksenet) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMzT-RLZ1VM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMzT-RLZ1VM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMzT-RLZ1VM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nMzT-RLZ1VM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nMzT-RLZ1VM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nMzT-RLZ1VM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nMzT-RLZ1VM",
+        "videoPublishedAt": "2018-05-21T16:51:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pjGtm_IGof2bI-ceGBvUooXHxyE",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:52:00Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Running JS on Paper + A Programming atelier by Sam Gwilym (@sgwil) at ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sSVQaWDqIak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sSVQaWDqIak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sSVQaWDqIak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sSVQaWDqIak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sSVQaWDqIak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sSVQaWDqIak"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sSVQaWDqIak",
+        "videoPublishedAt": "2018-05-21T16:51:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oy_0TnuZDsJsGdZNr25QLcaIuXo",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:53:22Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "GraphQL API stitching with Apollo by Christoffer Niska (@Crisu83) at ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsAhN29l6EM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsAhN29l6EM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsAhN29l6EM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LsAhN29l6EM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LsAhN29l6EM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LsAhN29l6EM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LsAhN29l6EM",
+        "videoPublishedAt": "2018-05-21T16:53:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2KAF29Z3veJS6dxlkFSmjXrJT-0",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:54:40Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "redux without boilerplate by Jan-Jan Van Der Vyver at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g-5H45CAPyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g-5H45CAPyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g-5H45CAPyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g-5H45CAPyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g-5H45CAPyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g-5H45CAPyQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "g-5H45CAPyQ",
+        "videoPublishedAt": "2018-05-21T16:54:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wh7XMxPQzOGQXrfFV0gy0isrTnA",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:56:09Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React in Battlefield 1 by Markus Thurlin (@truppo) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pkf9H3XEMoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pkf9H3XEMoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pkf9H3XEMoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pkf9H3XEMoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pkf9H3XEMoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pkf9H3XEMoE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Pkf9H3XEMoE",
+        "videoPublishedAt": "2018-05-21T16:56:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iOIgT8GYPsF1BHPSqTFHTT2P-pA",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:56:59Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React: smiling while you’re styling! by Bruce Lawson (@brucel) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YRhJZZsTEvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YRhJZZsTEvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YRhJZZsTEvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YRhJZZsTEvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YRhJZZsTEvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YRhJZZsTEvQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YRhJZZsTEvQ",
+        "videoPublishedAt": "2018-05-21T16:56:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1MjpwgLnlvFaORf1qIvj3g6yHN0",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:58:44Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Redux over the wire by Nicolas Barray (@yahwastaken) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pnb5DV3q8n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pnb5DV3q8n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pnb5DV3q8n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pnb5DV3q8n0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pnb5DV3q8n0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pnb5DV3q8n0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pnb5DV3q8n0",
+        "videoPublishedAt": "2018-05-21T16:58:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nZh_cTbo9bWd6uIG-wowQikHOcc",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-05-21T16:59:36Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Funny code and how to write it by Charlie Jackson (@charliejackson) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FWVwiZPjPzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FWVwiZPjPzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FWVwiZPjPzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FWVwiZPjPzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FWVwiZPjPzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FWVwiZPjPzQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FWVwiZPjPzQ",
+        "videoPublishedAt": "2018-05-21T16:59:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rOKugJuoh_HfBQbXQcEDAmfrH2o",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-05-21T17:02:21Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Seven Deadly Sins: React Edition by Sara Vieira (@NikkitaFTW) & Kasia Jastrzebska (@kejt_bw)",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAHQ02xU2Rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAHQ02xU2Rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAHQ02xU2Rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gAHQ02xU2Rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gAHQ02xU2Rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gAHQ02xU2Rw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gAHQ02xU2Rw",
+        "videoPublishedAt": "2018-05-21T17:02:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2O7QEm4nIGcBbpIwQ-kLC6rUJ7c",
+      "id": "UExDQzQzNkpwVm5LMWJsR29TWDhySDU1cGRGMDVUZldKbi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-05-30T12:19:50Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Component Styles as API: Layout vs Appearance - Marc Robichaud (@marcrobichaud) at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNdByml3zr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNdByml3zr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNdByml3zr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FNdByml3zr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FNdByml3zr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK1blGoSX8rH55pdF05TfWJn",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FNdByml3zr4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FNdByml3zr4",
+        "videoPublishedAt": "2019-05-31T12:27:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 16,
+    "resultsPerPage": 50
+  }
+}

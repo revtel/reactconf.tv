@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "1zKcoIelzWGsW7HTBnCvFa0is-A",
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "COaHLf9_ZEYF3nuqye2__5-EdR8",
+      "id": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:43Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "React Conf 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "localized": {
+          "title": "React Conf 2019",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "4AZcT9-p-Tnxi5keOQQyUaxk3NQ",
+      "id": "PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ",
+      "snippet": {
+        "publishedAt": "2018-10-28T01:35:50Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "React Conf 2018",
+        "description": "Videos from React Conf 2018",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-QO-KO90iQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-QO-KO90iQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-QO-KO90iQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V-QO-KO90iQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V-QO-KO90iQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "localized": {
+          "title": "React Conf 2018",
+          "description": "Videos from React Conf 2018"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 28
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}

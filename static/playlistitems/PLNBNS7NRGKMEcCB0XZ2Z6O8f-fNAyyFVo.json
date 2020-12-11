@@ -1,0 +1,208 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tOJXjLCrtBKR8k5wP1GKID8vx9s",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "99XUbpsID6mpCf4jWYqDDok_jJQ",
+      "id": "UExOQk5TN05SR0tNRWNDQjBYWjJaNk84Zi1mTkF5eUZWby41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:02:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooked on D3: Create Animated Ch(art)s with D3 and React Hooks - Monica Wojciechowska",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooked on D3: Creating Animated Ch(art)s with D3 and React Hooks\n\nFrom a quick glance, it might not seem like D3 and React are a match made in heaven. After all, they’re both all about being in charge - who gets to render, who gets to update, who gets to decide how things should look... the story goes on and on. But with these two, as in life, the best relationship is about compromise and sharing responsibilities. So, how can we turn a tug-of-war into a beautiful, responsive, animated tango? Enter, React hooks!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEcCB0XZ2Z6O8f-fNAyyFVo",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I-PZ7rQWs04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I-PZ7rQWs04",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w-CbWSBhbVS556SLTDJAcseW8hU",
+      "id": "UExOQk5TN05SR0tNRWNDQjBYWjJaNk84Zi1mTkF5eUZWby4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:03:01Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Avoiding D3 Spaghetti With React - Finn Fitzsimons",
+        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Avoiding D3 Spaghetti With React\n\nA fresh look at how React can be used to make reusable, animated visualization components. Finn Fitzsimons will break down the challenges involved and by using the animation performance of D3 combined with declarative nature of React you can create any visualization imaginable in a fraction of the time.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEcCB0XZ2Z6O8f-fNAyyFVo",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NKm3UDUNOME"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NKm3UDUNOME",
+        "videoPublishedAt": "2018-03-04T14:59:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZDKEQ0FCPVQ3yyrg7GkkElDuaXg",
+      "id": "UExOQk5TN05SR0tNRWNDQjBYWjJaNk84Zi1mTkF5eUZWby4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:02:53Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "D3 and React, Together - Shirley Wu",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n#D3 and React, Together\n\nD3 and React, who should control the DOM? After all, React’s whole purpose is managing updates to the DOM so we don’t have to. D3, on the other hand, is a library for building data visualizations, and it too needs access to the DOM. And stepping back, when should we even use D3 and React together? In this talk, I will give guidelines on when React should have ownership of the DOM, and when D3 should instead. More importantly, I will cover the interactions and applications that will benefit the most from using D3 and React, together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXBdNDnqV2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXBdNDnqV2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXBdNDnqV2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zXBdNDnqV2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zXBdNDnqV2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEcCB0XZ2Z6O8f-fNAyyFVo",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zXBdNDnqV2Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zXBdNDnqV2Q",
+        "videoPublishedAt": "2018-04-24T22:57:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3196LrymQiuhLDA1aKAFlmFbuV0",
+      "id": "UExOQk5TN05SR0tNRWNDQjBYWjJaNk84Zi1mTkF5eUZWby41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:03:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Feb 2018: Declarative D3, Serverless React, A11y + React",
+        "description": "Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEcCB0XZ2Z6O8f-fNAyyFVo",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLoF1O6vzgY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TLoF1O6vzgY",
+        "videoPublishedAt": "2018-02-20T20:16:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 50
+  }
+}

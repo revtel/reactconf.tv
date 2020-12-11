@@ -1,0 +1,1154 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "9FpX3peJfIYnnMsKRgRdajGX9c0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IUTK4Apu2Gv8Y8X37Tc4HeTHVgw",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-07-26T18:38:25Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Simply React by Kent C. Dodds",
+        "description": "Abstract:\nOne of the things I love about React is how easy it is to encapsulate UI code into a component. I love this because it makes reuse of those components easy. But is it simple? I've made my fair share of components that had to accept a bunch of props to handle a growing list of different use cases resulting in a complex render function full of conditional statements and a confusing API for people using this \"reusable\" component. Eventually it becomes too much and I had to make a new version of the same component to handle slightly different use cases. Lots of code/bug duplication there because my reusable component wasn't reusable enough. It wasn't simple enough.\n\n\nThere are patterns that have emerged in React that allow you to promote code reuse without sacrificing the simplicity or flexibility of the component. In this talk we’ll cover some of these patterns that will make your React components more useful.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M9X2qGddHkU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "M9X2qGddHkU",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2UMO1k-erFHKQzQO1kBmMiSs0wc",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-07-26T23:57:39Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: All Together Now by TC Davis",
+        "description": "Abstract: Fragmented ecosystems, a lack of tooling, and secrecy concerns have encouraged us to make a sharp divide between open and closed source projects, but React Native projects can chart a third path. I’d like to talk about how moving more of your development into the public eye can enable new workflows and benefit both your project and the community.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p5ONpgb_e5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p5ONpgb_e5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p5ONpgb_e5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p5ONpgb_e5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p5ONpgb_e5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p5ONpgb_e5w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p5ONpgb_e5w",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iIVzpEUDu88qTIPNHxt0w7edyWw",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:06:24Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Debugging and Beyond with Reactotron by Darin Wilson",
+        "description": "If you've spent any time with React Native, you've probably tried debugging your apps with Chrome. It's handy, it's familiar, it kinda works, but maybe you've thought \"this could be better.\" And you're right: it can be. In this talk, you'll meet Reactotron, a free, open-source development tool for your React and React Native projects. You'll see how just a few lines of code will give you access to a world of useful information about what's going in your app. Get better stack traces on errors, peer into the gory details of your network requests, pry open your async storage, subscribe to Redux store changes, debug your sagas, and the list goes on. By the end, you'll be ready to start working with Reactotron in your own projects, and wonder how you ever worked without it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiPo9A9k7xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiPo9A9k7xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiPo9A9k7xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UiPo9A9k7xc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UiPo9A9k7xc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UiPo9A9k7xc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UiPo9A9k7xc",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f9MzZa3fkdncuxQIJY9vnCjoEsY",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:08:01Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: From Sketch to Code: Designing a Component Kit by Samantha Bretous",
+        "description": "Working on multiple enterprise projects that use the same components can get a little overwhelming. I will talk through how to create an effective work flow by showing examples of what worked and did not work for our team, from design QA to constant props. As well as how we tackled component documentation that stays up to date with API changes. Lastly we will explore new ideas that we will want to explore like working with AirBnb's react-sketchapp.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C6fqRieYRVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C6fqRieYRVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C6fqRieYRVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C6fqRieYRVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C6fqRieYRVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C6fqRieYRVw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C6fqRieYRVw",
+        "videoPublishedAt": "2018-07-27T23:35:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LzD5Z1DZeUtJCVq0J9UaMZvktZg",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:09:03Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Detox: A year in. Building it, Testing with it by Rotem Mizrachi-Meidan",
+        "description": "A year in, developing and using Detox in production taught us a lot. From designing its API to consuming it, testing real user scenarios to advanced mocking, we learned what makes sense when E2E testing an app and what doesn’t.\nIn this talk, we’ll discuss how Detox works and what makes it deterministic, cover some advanced use cases and methodologies, go over new features and tease the ones that are upcoming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMheT1qL5Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMheT1qL5Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMheT1qL5Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aMheT1qL5Lk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aMheT1qL5Lk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aMheT1qL5Lk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aMheT1qL5Lk",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iLq4FP7Zpc92tkTqWcpVu6bvUV0",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:11:18Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Learning React Native as a Junior Engineer by Erin Fox",
+        "description": "React Native is magical and it’s catching fire. What’s exactly is it? How does it work for iOS AND Android? Not only can you make universal components and save hundreds of lines of code, it allows developers to reuse code across the web AND mobile all with a smooth UI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9QAbH0JaD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9QAbH0JaD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9QAbH0JaD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9QAbH0JaD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9QAbH0JaD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N9QAbH0JaD0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N9QAbH0JaD0",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qTp0-IQQluhH0V0zGNOlPPDf0JU",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:17:41Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Machine Learning and React Native by Ray Deck",
+        "description": "Machine Learning can sound like it is just for big machines with lots of GPUs. But you can execute ML models on your phone! From React Native! And it's not that hard!\n\nWe'll skip the neural network charts and focus directly on technologies that can run on your phone today to do cool things like:\n\n1. Classify an image based on what you are looking at - and apply that information through a render prop updated in real time!\n2. Use a prop to apply a feedforward \"generator\" to make instant art from an image or viewfinder preview - fast!\n\nThe talk will cover CoreML and Tensorflow Lite, which allow ML models to run locally on iOS and Android as well as some other angles on deep learning technologies that approach the problem a different way.\n\nAt the end of this presentation, the audience will have some practical ideas of what they can do with ML, and knowledge of tools that make it easier to integrate artificial intelligence into their react-native projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LbcuLfrt8XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LbcuLfrt8XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LbcuLfrt8XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LbcuLfrt8XA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LbcuLfrt8XA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LbcuLfrt8XA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LbcuLfrt8XA",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "evhO5kHC_BPl0dnoh7Py45bwAiw",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:27:23Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Customize Your Boilerplate to Speed Up Development with Ignite by Adrien Thiery",
+        "description": "In this talk, I will present how to create your custom boilerplate to use with ignite, looking at most of the options we can add (or make optional), to build an awesome boilerplate.\nScreen reader support enabled.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d822empRP6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d822empRP6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d822empRP6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d822empRP6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d822empRP6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d822empRP6o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "d822empRP6o",
+        "videoPublishedAt": "2018-07-27T23:35:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vdQ8oY2VvejPLPu7z9MvRlLDPW4",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:29:12Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: React Native at Eaze: Marijuana Delivered by Erica Cooksey",
+        "description": "The legal cannabis industry is very new and constantly evolving. New local regulations are frequently introduced and app store policies are unclear. Over the past two years, we at Eaze have leveraged React Native for rapid development and iteration of our mobile presence. Our fleet-management app used by our delivery drivers as well as our consumer app have taken many forms and seen several complete rearchitectures. This talk covers the evolution of our mobile applications, the advantages and shortcomings of using React Native in a grey market industry, and the solid technical solutions that we have implemented over the long term.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdRacNKZs7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdRacNKZs7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdRacNKZs7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wdRacNKZs7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wdRacNKZs7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wdRacNKZs7g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wdRacNKZs7g",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GOk1_4VfwgXvqP1pbyQVhLfnOOc",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:30:14Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: How TypeScript Ruined My Life (In a Good Way) by Andy Mockler",
+        "description": "TypeScript has totally changed the way I treat software development and I want to encourage others to give some kind of typed JavaScript a try. While my talk will largely focus on TypeScript (since it is the flavor I am most familiar with), I want to focus largely on the general benefits of type systems and the dev tools that are being built around them.\n\nI plan to speak elaborate on the following topics during my talk:\n* A brief introduction to TypeScript\n  - Why would anyone want types in JavaScript?\n* Does TypeScript play well with React?\n  - How defining types helps keep component APIs clear and manageable\n* How TypeScript helps us scale front-end development at Shopify\n  - An explanation of testing and CI benefits\n  - An explanation of great dev tooling\n* Alternatives to TypeScript\n  - A brief note about the \"dark side\" of TypeScript (missing definitions, some increased toil, etc)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_oXHZvooCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_oXHZvooCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_oXHZvooCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_oXHZvooCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P_oXHZvooCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P_oXHZvooCo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P_oXHZvooCo",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xY8F19-EMvJ8NMLqL9EAvZpEZUs",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:31:25Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Building AR Apps with React Native by Vladimir Novick",
+        "description": "Description: With the release of ARKit and ARCore by Apple and Google we see various Augmented reality apps created for iOS and Android. Have you ever wondered how you can create such apps in React Native? In this talk we will see how it can be done fairly easily.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WYCZgWEnHkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WYCZgWEnHkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WYCZgWEnHkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WYCZgWEnHkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WYCZgWEnHkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WYCZgWEnHkg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WYCZgWEnHkg",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p1USVBOnlyd1gt7E1BsWz8GczAY",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:32:22Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Be a React Native A11y by Jen Luker",
+        "description": "React Native is a platform that bridges the gap between web programming practices and native mobile technology. How does accessibility fit in when it doesn't quite belong in either camp? I'll cover some how-tos of React Native accessibility, provide some insight into testing, and how to convince leadership that the time spent is worth it. This talk is sure to leave you with actionable ways to Be a React Native A11y.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cfzFZIouydY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cfzFZIouydY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cfzFZIouydY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cfzFZIouydY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cfzFZIouydY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cfzFZIouydY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cfzFZIouydY",
+        "videoPublishedAt": "2018-07-27T23:35:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x1qUJf_F-lEy4UAXJo6kajrEwqQ",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2018-07-27T00:33:10Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Organizing Code for Cross-Platform Web and Mobile Development by Robert Scarano",
+        "description": "For teams that deliver code for the web, android, and iOS, we want to avoid writing all of our logic three times, in three different languages, across three different platforms. We will share how our team was successful in developing features of our platform that realized 70% business logic code re-use between web and mobile and even more re-use between Android and iOS. We will discuss the motivations for when it is right to code-share, how to organize your React code and build configurations to accomplish code sharing, and how we approach integrating React components into native Android and iOS app.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kZGaWefWVBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kZGaWefWVBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kZGaWefWVBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kZGaWefWVBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kZGaWefWVBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kZGaWefWVBs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kZGaWefWVBs",
+        "videoPublishedAt": "2018-07-27T23:35:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xex9Cgvcj-D6Z0doNgytH7O-o9g",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:08:39Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: How Reactive Programming Makes Developer Lives Easier by Tracy Lee",
+        "description": "There will always be a new JavaScript framework to learn. Technology will continue to evolve and change, and developers will continue to rewrite applications. Wouldn't it be amazing if we could just copy paste 90% of our code from framework to framework? \n\nWell, you can. Reactive programming enables just this AND the ability to future proof your code. \n\nNot only can reactive programming help with your solutions to JavaScript fatigue, but the concepts and technology remain consistent from framework to framework.\n\nLearn how to create a more composable application architecture and an arsenal of lego bricks with RxJS, a push based primitive and domain specific language that sits on top of JavaScript.\n\nWith its more declarative syntax and intrinsic portability, learn how to use RxJS in Angular, React, and Vue and what the future holds for for reactive primitives in TC39 and WHATWG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hl8d8-aKWGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hl8d8-aKWGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hl8d8-aKWGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hl8d8-aKWGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hl8d8-aKWGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hl8d8-aKWGI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hl8d8-aKWGI",
+        "videoPublishedAt": "2018-07-24T19:08:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mpg_uHK3jC0bZtxGwDXowAiwhEc",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:07:56Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: The State of React Native by Ram N",
+        "description": "Abstract: React Native has been around for almost 5 years and has helped many developers build amazing Mobile Applications. In this talk, we will look at the current state of React Native with a whirlwind tool of its internals. We will also look at the upcoming changes in the architecture and how it plays well with React Fiber.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83ffAY-CmL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83ffAY-CmL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83ffAY-CmL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/83ffAY-CmL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/83ffAY-CmL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "83ffAY-CmL4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "83ffAY-CmL4",
+        "videoPublishedAt": "2018-07-24T19:07:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-6wxIx885MD8g4N0kOrRfDRxyPY",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:07:10Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: GraphQL State Management for React Native by Peggy Rayzis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lso6HbYNaLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lso6HbYNaLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lso6HbYNaLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lso6HbYNaLA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lso6HbYNaLA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lso6HbYNaLA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Lso6HbYNaLA",
+        "videoPublishedAt": "2018-07-24T19:07:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89U--M4p6hbzPL7eb-i7GqNwMd4",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:06:24Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Strategies For Using React Native In A Brownfield App by Harry Tormey",
+        "description": "Hot reloading--the ability to push over the air updates to published apps and the promise of having your app “just work” out of the box on Android as well as iOS--make React Native a tempting proposition for frontend developers. But what do you do when you have to integrate React Native into a large existing native code base?\n\n\nThis talk is from the perspective of an experienced native iOS developer who has worked with React Native to ship several cross-platform Greenfield and brownfield apps.\n\nThings I will talk about:\n\n- Overview of the challenges involved in integrating React Native into an existing app.\n- A real life case study integrating React Native into a native app with millions of users.\n- Strategies for passing data and events in a brownfield app.\n- Working with build systems like CocoaPods\n- How to do CodePush in a brownfield app\n- How to handle navigation in a brownfield app\n- Best practices for working with Native engineers\n- Example brownfield application",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/44YdvFAwQwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/44YdvFAwQwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/44YdvFAwQwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/44YdvFAwQwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/44YdvFAwQwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "44YdvFAwQwA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "44YdvFAwQwA",
+        "videoPublishedAt": "2018-07-24T19:06:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G6Us4KjycX8w9G7L6j8YY4dvtnQ",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:05:45Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: WebXR: A New Dimension For The Web by Michaela Lehr",
+        "description": "Writing 3D applications for the browser is possible since some years due to the WebGL API. But since Virtual Reality and Augmented Reality are getting more popular, web developers and designers now have a serious reason to get to know the 3D web, its APIs and design patterns.\nIn this talk you will learn how to create 3D applications in the browser, using ReactJS in combination with popular VR libraries, like A-Frame and ReactVR. You will also see what is necessary to create a Virtual Reality app that runs on common VR devices, and how to create Augmented Reality applications for Android and iOS phones.\nSince 3D user interfaces and interactions in the browser are relatively new for designers and users, there are no established UX design patterns yet, but you will get to know best-practices and see some tips for improving the usability of your 3d application.\nThe talk ends with my advice on how to create responsible applications, that won’t harm your users – neither physically nor psychologically.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C9UdKyX1Si0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C9UdKyX1Si0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C9UdKyX1Si0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C9UdKyX1Si0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C9UdKyX1Si0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C9UdKyX1Si0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C9UdKyX1Si0",
+        "videoPublishedAt": "2018-07-24T19:05:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_U9QrbOLhAlrnaSAFgZFSie_4gk",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-07-25T18:53:57Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Panel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iV-1gYCNhkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iV-1gYCNhkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iV-1gYCNhkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iV-1gYCNhkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iV-1gYCNhkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iV-1gYCNhkQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iV-1gYCNhkQ",
+        "videoPublishedAt": "2018-07-25T18:53:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "46s9XchHj5BgFSBxHqusO7hq_e4",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:04:38Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: ReasonML and You - A Fireside Chat with Mike Grabowski",
+        "description": "ReasonML and You - A Fireside Chat with Mike Grabowski",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HDIuUd52cmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HDIuUd52cmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HDIuUd52cmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HDIuUd52cmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HDIuUd52cmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HDIuUd52cmY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HDIuUd52cmY",
+        "videoPublishedAt": "2018-07-24T19:04:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5uLI7wLZYuW-uq4UhmIcQ2QhsyU",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-07-24T19:02:47Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Using SVG in React Native by Ori Harel",
+        "description": "Vector graphics is in fact the best way to provide great visualization and interaction combined. It exist on all platforms in some way or form, so it's just natural to use it in React Native. In this talk, I'll show you how I integrated the use of SVG with the opinionated component and state system of React, but in the same time keeping things highly performant when interacting with the UI thread - a topic a lot of developers are struggling with.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IU44A0Z4Yrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IU44A0Z4Yrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IU44A0Z4Yrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IU44A0Z4Yrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IU44A0Z4Yrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IU44A0Z4Yrw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IU44A0Z4Yrw",
+        "videoPublishedAt": "2018-07-24T19:02:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jKFTUF8nqd8lY4AsjQRol_TVRpI",
+      "id": "UExGSHZMMjFnOWJrMXNrZGpuS1ZHWFJFRG1QX0hWRGotdS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-07-24T18:59:26Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018: Good Enough Still Isn't Good Enough by Jani Eväkallio",
+        "description": "React Native has helped teams ship some wonderful apps -- but also many really, really terrible ones. We know it can be done, but what makes the successful ones tick? As React Native scales the hype curve towards a mainstream plateau, we need to have a talk about its strengths and weaknesses, and our responsibility as developers to make our products, and React Native as a technology, successful. \n\nThis talk bridges engineering and art, spans topics from psychology to economics, and whatever you think it's going to be like, it probably isn't.\n\nScreen reader support enabled.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHARREDCwwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHARREDCwwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHARREDCwwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZHARREDCwwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZHARREDCwwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZHARREDCwwo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZHARREDCwwo",
+        "videoPublishedAt": "2018-07-24T18:59:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 22,
+    "resultsPerPage": 50
+  }
+}

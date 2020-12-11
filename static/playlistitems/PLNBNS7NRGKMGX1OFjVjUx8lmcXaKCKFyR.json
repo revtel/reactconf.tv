@@ -1,0 +1,374 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "EQicb0UV7dwL8mAlZbOidPY0QeI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "geRErv-TuzEQJ_PL0N-O0hrfPcc",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React's Tackle Box, Using the Right Hooks for the Job - Bryan Pitt",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - React`s Tackle Box, Using the Right Hooks for the Job\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uDguyp13pl8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uDguyp13pl8",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I6KhDVDpkLnp2iRbFRcuPNY4MhM",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Build Modern React apps with Hooks, Suspense, Context, and Firebase - Jeff Huleatt",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Modern React apps with Hooks, Suspense, Context, and Firebase\nWhether you want to A/B test your new dark theme, stream live updates to users while seamlessly handling spotty mobile connections, or just make your site load faster, Firebase can help you develop and grow your app. Learn some of Firebase's best features for the web, and let Jeff demonstrate how to easily integrate them into your React app with ReactFire, a new Firebase library that uses React's latest and greatest APIs such as Hooks, Suspense, and Context.\n\nJeff Huleatt\nJeff works on Firebase at Google, and he is excited about helping app developers make cool stuff on the web. He maintains a number of Firebase's open source repositories, including Reactfire, a library that makes it easy to use Firebase in React web apps.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mi9aKDcpRYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mi9aKDcpRYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mi9aKDcpRYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mi9aKDcpRYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mi9aKDcpRYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mi9aKDcpRYA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Mi9aKDcpRYA",
+        "videoPublishedAt": "2019-12-13T09:25:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6lGsi06_q3PQbZhnDpEL_z14CyQ",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooked on D3: Create Animated Ch(art)s with D3 and React Hooks - Monica Wojciechowska",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooked on D3: Creating Animated Ch(art)s with D3 and React Hooks\n\nFrom a quick glance, it might not seem like D3 and React are a match made in heaven. After all, they’re both all about being in charge - who gets to render, who gets to update, who gets to decide how things should look... the story goes on and on. But with these two, as in life, the best relationship is about compromise and sharing responsibilities. So, how can we turn a tug-of-war into a beautiful, responsive, animated tango? Enter, React hooks!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I-PZ7rQWs04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I-PZ7rQWs04",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2usvXyh4z1gIM6GCYAsqePfGXrk",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Painting Pixels with WebGL & React Hooks: Powerful GPU-driven visuals in React apps - Ashi Krishnan",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Painting Pixels with WebGL with React Hooks\n\nWebGL lets you unlock the power of your GPU. In principle, you can paint almost anything you can dream of. In practice, WebGL is hard, and though projects like three.js make it easier, there are still a lot of hurdles to integrating it into your site in a practical way.\n\nLet's explore how Hooks can make it easier to integrate powerful GPU-driven visuals into our React apps, giving us the best of both worlds: the power of WebGL with the ease and expressiveness of a React component tree.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1NZvwicGK4U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1NZvwicGK4U",
+        "videoPublishedAt": "2019-04-25T06:47:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i86uztP3JQVFxZbxAbLrgFhkQ7o",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Create a More Readable React Codebase Using TypeScript, GraphQL, and Hooks - Emma Brillhart",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# A More Readable React Codebase Using TypeScript, GraphQL, and Hooks\n\nWe’ve all looked at a chunk of code and had no idea what it does - only to realize that we were the ones who wrote it, six or so months ago. If we can’t read our own code after a few months, how can we expect anybody else to? What kind of effect does this have on developer productivity and overall project robustness? This talk explores how Emma and her team were able to make a client’s React codebase more readable and improve communication and productivity by leveraging technologies like TypeScript, GraphQL, and React hooks in a rewrite of the client's website.\n\nIncrease the speed at which new developers are able to onboard to your project, cut down on the time between when a PR is submitted and when it’s merged, and streamline the bug squashing process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nkJbGgieALI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nkJbGgieALI",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lR7WRxLLYbuAUWQc6_lBczvS-BI",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooks in action: implementing a 1KB React router – Alexey Taktarov",
+        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/React-Amsterdam/events/263200596/\n\n## Hooks in action: implementing a 1KB React router\nBy Alexey Taktarov, Resume.io\n\nStill confuse useRef and useState? Not sure what useImperativeHandle does? This talk is a nice step-by-step intro to React hooks and some advanced patterns around them. We're going to build a tiny router for React with API similar to React Router's one.\n\nAbout Alexey https://twitter.com/mlfrg\nAlexey is a full-stack developer with over 10 years of experience. His primary stack includes React, Node.js and Ruby on Rails. While he mainly works with backend/infrastructure as a head of engineering of resume.io (a project he cofounded in 2016), he's also super passionate about design and user interfaces. A true hackathon addict, Alexey believes that working on an open-source project is no different than working on a product and that good design is the main driving factor of a successful project.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bFYxkONAmn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bFYxkONAmn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bFYxkONAmn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bFYxkONAmn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bFYxkONAmn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bFYxkONAmn8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bFYxkONAmn8",
+        "videoPublishedAt": "2019-08-26T13:36:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oa52WPsMbP8PBTxMrIhFe1rqI9U",
+      "id": "UExOQk5TN05SR0tNR1gxT0ZqVmpVeDhsbWNYYUtDS0Z5Ui4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:55:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React with Hooks from Scratch: Build a Hooks clone in just 29 lines of readable JS - Shawn Wang",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# React (with Hooks) from Scratch\n\nIn this talk, you'll learn to create an effective mental model of React Hooks by building a tiny clone of React! This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how you get Custom Hooks and the Rules of Hooks out of this incredible mental model!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGX1OFjVjUx8lmcXaKCKFyR",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dFO4m7Y-yhs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dFO4m7Y-yhs",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  }
+}

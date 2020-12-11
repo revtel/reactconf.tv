@@ -1,0 +1,255 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "G-ydxEPoJBVg6fm6xONbvwmX8XU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mcWTIdYiYQG60iLLTWMUrRKpn14",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-08-11T15:03:56Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast Ep 1: \"Look into the future of React Native Testing Library\"",
+        "description": "Episode 1 - Look into the future of React Native Testing Library with Michał Pierzchała\n\nIn the first episode of our podcast, Mike \"grabbou\" Grabowski(the host) is talking about React Native Testing Library with his guest - Mike Pierzchała (thymikee) who is the owner of the library.\n\nDuring the conversation, they cover such topics as:\n\n* Introduction to the React Native Testing Library\nhttps://callstack.github.io/react-native-testing-library/\n* What is it? What is the case for it? A bit of history?\n* A quick glimpse at the “Testing Library” concept itself\n* Why it has been created? What is this all about?\n* “React Native Testing Library” is under Callstack and separate from the ecosystem – what is the story behind that?\n* What kind of technical differences is between RNTL and the ecosystem? And why so many?\n* The current state of the library\n* What is the future of the React Native Testing Library?\n\n#reactnative #callstack\n\nLearn more about React Native testing from our blog:\n1. React Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\n2. Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n3. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n4. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4qU2KtZTho8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4qU2KtZTho8",
+        "videoPublishedAt": "2020-08-11T16:02:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f3PBXdBLbiZ_9LK-Nff69cJWOFc",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-08-18T13:23:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "How React Native Testing Library is different from Native Testing Library",
+        "description": "In this video Mike Grabowski (@grabbou) and Mike Pierzchała (@thymikee) discuss the differences between React Native Testing Library and Native Testing Library.\nhttps://callstack.github.io/react-native-testing-library/\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast Episode 1 \"Look into the future of React Native Testing Library\":\nhttps://youtu.be/4qU2KtZTho8\n\nLearn more about React Native testing from our blog:\n1. React Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\n2. Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n3. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n4. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KnD_v4gAWZU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KnD_v4gAWZU",
+        "videoPublishedAt": "2020-08-18T13:29:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VdWRM3XqY-WsXDi8dX3m-XOsk1M",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-08-18T13:59:58Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native Testing Library 2.0 - what's new?",
+        "description": "In this video Mike Grabowski (@grabbou) and Mike Pierzchała (@thymikee) talk about the latest release of version 2.0 of React Native Testing Library.\nhttps://callstack.github.io/react-native-testing-library/\n\nFor the full breakdown of whats new, read this post:\nReact Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\nLearn more about React Native testing from our blog:\n1.  Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n2. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n3. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast Episode 1 \"Look into the future of React Native Testing Library\":\nhttps://youtu.be/4qU2KtZTho8\n\nWhat is React Native Testing Library?\nThe React Native Testing Library, or RNTL in short, is a lightweight solution for testing your React Native components. It provides helpful utility functions on top of official react-test-renderer letting you always be up to date with the latest React features. Its opinionated API aims to prevent developers from testing implementation details of their React components while focusing on user experience and accessibility.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gws05zqQwIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gws05zqQwIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gws05zqQwIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gws05zqQwIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gws05zqQwIw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gws05zqQwIw",
+        "videoPublishedAt": "2020-08-18T14:08:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6GOn2pePYgHXV48meea8_VpgUMo",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-08-18T14:16:04Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What Is React Native Testing Library",
+        "description": "In this video Mike Grabowski (@grabbou) and Mike Pierzchała (@thymikee) talk about the React Native Testing Library.\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\nLearn more about React Native testing from our blog:\n1. React Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\n2. Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n3. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n4. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/\n\nWhat is React Native Testing Library?\nThe React Native Testing Library, or RNTL in short, is a lightweight solution for testing your React Native components. It provides helpful utility functions on top of official react-test-renderer letting you always be up to date with the latest React features. Its opinionated API aims to prevent developers from testing implementation details of their React components while focusing on user experience and accessibility.\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast Episode 1 \"Look into the future of React Native Testing Library\":\nhttps://youtu.be/4qU2KtZTho8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0rvB5dI43lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0rvB5dI43lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rvB5dI43lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0rvB5dI43lQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0rvB5dI43lQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0rvB5dI43lQ",
+        "videoPublishedAt": "2020-08-18T14:19:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5ezgvFuqSHXCjZ1C3C_ov7rVMMA",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-10-28T13:26:49Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\"",
+        "description": "Episode 2: RNEU 2020 Conference Q&A Panel\n\nIn episode 2 of The React Native Show podcast Mike Grabowski host a Q&A panel answering questions from React Native EU 2020 conference.\n\nThe guests include:\n- Monica Restrepo - Software Engineer at Major League Soccer\n- Kudo Chien - Software Engineer at CloudMosa\n- Eloy Duran - Principal Software Engineer at Microsoft\n- Ram N - an Engineering Manager at Oculus\n\nSome of the questions from the conversation:\n- What is the status of the React Native re-architecture?\n- What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where one can track updates on the re-architecture?\n- Can we expect a smooth transition path between current and “new” React Native ?\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- What is the feature that you’re most excited about that’s coming up?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OHSe66Dhs7M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OHSe66Dhs7M",
+        "videoPublishedAt": "2020-10-28T13:52:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}

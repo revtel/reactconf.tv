@@ -1,0 +1,822 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "okAYlkcDDxFle2zYYonE9uEIg2Y",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GegQCnNtkdbanUBphk8pMM_cx-8",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:00:38Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Data Visualizations and Internationalization: Make apps for a global audience - Naomi Meyer",
+        "description": "Talk recording from React Day Berlin Conference 2019\n \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Data Visualizations and Internationalization\nBuilding React custom data visualizations with full international support is not always easy.\nThis past year, Naomi worked to add new data visualizations features and modify legacy visualizations, for an international audience - on her team at Adobe. It’s been a learning process to correctly format strings, numbers, dates, times, currencies, calendars, x/y axis, and more!\n\nIn this talk, Naomi shares some of the useful techniques she has learned about customizing data visualizations for a global audience. With a focus on React and high level ideas to keep in mind when designing, coding, testing, internationalizing, and localizing data visualizations for the world!\n\nNaomi Meyer\nNaomi works as a Software Development Engineer at Adobe in New York City, where she is the product champion for internationalization (i18n) on her team. Before writing JavaScript full time, Naomi worked teaching English as a foreign language in local classrooms across Asia and West Africa. She is passionate about developing with diversity, inclusion, and internationalization (i18n) in mind, and enjoys hiking and riding bikes on the weekends.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qq9BaUKUfpY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qq9BaUKUfpY",
+        "videoPublishedAt": "2019-12-13T09:25:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n6jFP-RSbb89-5dlmVSveyO6O84",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:07:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "UI as API - Narendra Shetty",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# UI as API\nFor backend services having a flexible API is a common practice that allows you to combine them with different APIs as if they were LEGO blocks and solve almost any business need. At Twilio we’ve been building REST APIs for over 10 years. When we recently decided to ship Twilio Flex, a software that has a working UI out of the box, we still wanted to make sure that it was as flexible as the rest of our APIs.\n\nIn this talk we’ll dive into how we architected a programmable UI platform using React that both allows you to have a fully working UI out of the box but also be able to customize every functionality and user experience to your needs using the full power of React.\n\nNarendra Shetty\nNarendra works at Twilio as Senior Software Engineer. He is working on building Twilio Flex which is a programmable UI product. Previously worked at Booking.com.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VN43HsCU3qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VN43HsCU3qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VN43HsCU3qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VN43HsCU3qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VN43HsCU3qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VN43HsCU3qM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VN43HsCU3qM",
+        "videoPublishedAt": "2019-12-13T09:25:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NeCDt7WUk4eWrIC6jc6FIFGxCKs",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:06:44Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "How to “Reactify” Your Existing UI Components - Olga Petrova",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# How to “Reactify” Your Existing UI Components\n\nReact is a component-based UI library that doesn’t provide any built-in components. Over the years companies and developers have invested a lot of time and money in development of UI components based on VanillaJS or various frameworks. Building components is time consuming, has integration and maintenance risks, and worst of all, distracts developers from the task at hand - actually building the application. In this presentation, you will learn how to quickly and easily “Reactify” your existing JavaScript components to use them in React applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1w5ym9FOL7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1w5ym9FOL7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1w5ym9FOL7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1w5ym9FOL7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1w5ym9FOL7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1w5ym9FOL7I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1w5ym9FOL7I",
+        "videoPublishedAt": "2018-05-06T11:41:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jakzyGxGb2Bd-yOBpp5oIifYu6I",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:07:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Exploring audio with React and SVGs: Create amazing audio projects - Elizabet Oliveira",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Exploring audio with React and SVGs\nBuilding complex user interfaces can be tricky if all you have is JS and CSS. That’s where React and SVGs come in. When it comes to exploring audio, creativity is key and SVGs in React enable endless design possibilities. So, in this talk, Elizabeth shows you a few powerful examples to inspire you and help you create amazing audio projects.\n\nElizabet Oliveira\nElizabet Oliveira is a UX/UI Designer & Developer from Lisbon currently based in Dublin. She created a project called Cassette Tape, a Google Chrome experiment that explored the web audio API, which she presented at Google I/0 Dublin in 2016. She built and maintains the React-Kawaii library. This library won the award for Fun Side Project of the Year during React OS Awards 2018!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DjhGQAeHHEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DjhGQAeHHEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DjhGQAeHHEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DjhGQAeHHEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DjhGQAeHHEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DjhGQAeHHEY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DjhGQAeHHEY",
+        "videoPublishedAt": "2020-01-06T08:03:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Cy3V72wk5gix5NJZXn2PTrnUeE",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:06:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Henrique Alves: Building Loveable UIs",
+        "description": "Henrique Alves, DADI+, London on Building Loveable UIs\n\nSharing my experience building loveable UIs. Talking about presentational components and pattern types for build scalable web apps in React.\n\nSlides are here https://speakerdeck.com/reactamsterdam/henrique-alves-dadi-plus-london-building-loveable-uis\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rbtmCqBEYpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rbtmCqBEYpg",
+        "videoPublishedAt": "2016-05-04T10:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rm5OlOBLx99ZG301_Cejcrdlg5Y",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-03-24T12:18:31Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Parallel computing in ReactJS: Provide a pleasant user experience - Majid Hajian",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Parallel computing in ReactJS\nUser is working with your application, suddenly, UI freezes and probably, one of the CPU cores is burning! They cannot do anything. The only perception you can feel is as hot as a hell metal case of the laptop. Although this sounds like a horror movie, this is your application that cannot leverage modern APIs to lift heavy computation to a different thread where consequently user suffers the pain.\n\nModern features like Web Workers, WebAssembly, Worklets, and Service Worker allow us to leverage multithreading computing to run tasks parallelly which at the end, makes the user feel like in a rainbow paradise instead of a nightmare, even though JavaScript is a single-threaded programming language!\n\nIn this session, Majid shows his experience running jobs in parallel on a React.js application that will provide a pleasant user experience and exciting development.\n\nMajid Hajian\nMajid Hajian is a passionate software developer with years of developing and architecting complex web and mobile applications. He is passionate about web platform especially flutter, IoT, PWAs, and performance. He loves sharing his knowledge with the community by writing and speaking, contributing to open source and organizing meetups and events.\nMajid is the author of \"Progressive web app with Angular\" book by Apress and \"Progressive Web Apps\" video course by PacktPub and Udemy. He is (co)organizer of a few mobile and web meetups in Norway as well as Nordic conferences for mobile and Angular, Mobile Era and ngVikings.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DOlLO9-nV1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DOlLO9-nV1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOlLO9-nV1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DOlLO9-nV1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DOlLO9-nV1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DOlLO9-nV1A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DOlLO9-nV1A",
+        "videoPublishedAt": "2020-01-06T08:03:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8E5JjrOomTYFk050d1SOueo1nXo",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-03-25T09:35:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Microinteractions & Animations in React Native: Help users understand the UI - Catalin Miron",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Microinteractions and Animations in React Native\nA microinteraction goal is to provide feedback based on the user’s action. This can help users visualize how the interface moves or behaves, even though it’s purely digital on a flat screen.\n\n- What is a microinteraction\n- The power of microinteraction\n- How microinteractions work\n- Basic microinteraction breakdown: Action, Reaction and Feedback\n- Microinteractions examples in React Native\n\nDating app: https://github.com/catalinmiron/react-native-dating-app\nSwipe cards: https://github.com/catalinmiron/react-native-swipe-cards-interaction\nPhoto walkthrough: https://github.com/catalinmiron/react-native-photo-walkthrough\nNavigation transition: https://github.com/catalinmiron/react-native-nav-transition\nShopping list + details: https://github.com/catalinmiron/mobile-shopping-react-native\nFeedback form morph effect: https://github.com/catalinmiron/react-native-morph-svg-gradient\nSeat selection: https://github.com/catalinmiron/react-native-seat-selection\nSync data and intro animation: https://github.com/catalinmiron/react-native-intro-animation.\n\nCatalin Miron\nReact, React Native, GraphQL and OS enthusiast.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a5SgLyfiDnU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "a5SgLyfiDnU",
+        "videoPublishedAt": "2020-01-06T08:03:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pgD-TQhsoG2nuIWxmXUdY3JgjmQ",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:58:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Accessibility with React Native Apps in a Blind World - Alexandre Magno Teles Zimerer",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Accessibility with React Native Apps in a Blind World\n\nHandle accessibility in a real context to make your apps accessible for blind people goes beyond the accessibility label and guidelines on the React Native documentation, and discover new accessibility feature in RN 0.60. See real cases and design flawless that can make the development too difficult, and learn about good practices to create a real accessible app for everyone.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TFKPJKAbvbk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TFKPJKAbvbk",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KWfQr0997e0LvQKKpcxeF4cXRFM",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:57:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Building Webapps for everyone - a11y with React - Manjula Dube",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Building Webapps for everyone - a11y with React\nBuilding React applications has been fairly easy now, However, an often-missing ingredient in many React Applications is a focus on accessibility best practices — especially when component libraries are part of their application. Nothing in React prevents us from building accessible web apps, but we need to learn to harness its power in the right way while dealing with some unique challenges caused by creating web pages with JavaScript. This talk will focus on these issues and how to solve them in the real world, while also adding some a11y power to your development process. This talk will also focus on why it is important to build accessible web apps.\n\nManjula Dube\nManjula loves contributing to OSS in her free time. She loves teaching and believes it is best way to learn more and more. She is one of the organisers for React India.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XwSQg81zU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XwSQg81zU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XwSQg81zU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XwSQg81zU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XwSQg81zU8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2XwSQg81zU8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2XwSQg81zU8",
+        "videoPublishedAt": "2020-01-06T08:03:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G4L6T0xntZLMf65EFzlZmqrCM5w",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-03-25T14:22:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Make Your React Native Apps Accessible: Provide a great experience for every user - Ankita Kulkarni",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Make Your React Native Apps Accessible\n# React Native Track\n\nDid you know React Native has accessibility rules? In this talk, Ankita shows why accessibility matters, what those rules are, the accessibility standards your app falls into, common patterns to follow and how to get over your fear of voice-over.\n\nBy making our apps accessible, we provide a great experience for all our users. This talk is sure to leave you with actionable ways of making your apps accessible. Let’s make this native world a better and inclusive place for everyone.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FqKlsmoaxs0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FqKlsmoaxs0",
+        "videoPublishedAt": "2019-04-25T06:51:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oewoSsOE72nyCC5kXAavrbp7uhs",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:06:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Compassion-Driven Development: Building Accessible React UI - Tae’lur Alexis",
+        "description": "Talk recording from React Day Berlin Conference 2019\n \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Compassion-Driven Development: Building Accessible React UI\n\nAccessibility should be a priority in the design and development process, not merely an afterthought. So I’ll demonstrate best practices, auditing tools to help you inprove the accessibility of your React applications and provide a live example by going in depth into how I’m building my own reusable accessible component library in React.\n\nTae’lur Alexis\nTae’lur Alexis is a Front-End Developer, Accessibility Advocate and Founder of CodeEveryday.io, an online platform dedicated to connecting developers to startups.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/agU1HBLDSBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/agU1HBLDSBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/agU1HBLDSBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/agU1HBLDSBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/agU1HBLDSBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "agU1HBLDSBM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "agU1HBLDSBM",
+        "videoPublishedAt": "2019-12-13T09:25:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bOXVlk2tsPvQayLhVVsrUHm9uGM",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:57:47Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam: Context API,  Design Systems & A11y, React Async",
+        "description": "Livestream of October 2019 meetup: https://www.meetup.com/React-Amsterdam/events/265308674/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pNBY3-N2W4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pNBY3-N2W4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pNBY3-N2W4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pNBY3-N2W4o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pNBY3-N2W4o",
+        "videoPublishedAt": "2019-10-17T19:30:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JvHIB824o0SbriLXvd38fNiiLTA",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:06:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Turning an Application UI into an API – Narendra Shetty",
+        "description": "Talk recording from React Advanced Meetup https://www.meetup.com/React-Advanced/events/260425694/\n\nIn this talk we’ll dive into how at Twilio we ended up architecting a programmable UI platform using React that both allows you to have a fully working UI out of the box but also customize functionality and user experience of it to your needs using the full power of React.\n\nAbout Narendra\n\nNarendra is a Sr. Frontend Developer at Twilio. Javascript enthusiast. He cares about performance and believes that performance is a key for conversion.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HDC99pD42vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HDC99pD42vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HDC99pD42vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HDC99pD42vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HDC99pD42vw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HDC99pD42vw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HDC99pD42vw",
+        "videoPublishedAt": "2019-07-11T12:43:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pumUn8cKK3pffgg9wy0Mh2pDOM4",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:57:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Feb 2018: Declarative D3, Serverless React, A11y + React",
+        "description": "Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLoF1O6vzgY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TLoF1O6vzgY",
+        "videoPublishedAt": "2018-02-20T20:16:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ct_66oN1rFMyW9jp6D0DYCDtV4w",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-23T10:58:30Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Design systems & Accessibility: let's create a good testing strategy – Damien Senger",
+        "description": "# Design Systems & Accessibility: let's create a good testing strategy\nby Damien Senger\n\nOften, I can hear people saying that their design system will make their product accessible, that it will help them to enforce rules and to do more automated testing. But is it this simple? Will a design system make magically your product more accessible? Let’s see together the good things and the pain points of ensuring the accessibility of your product through a design system.\n\nAbout Damien (https://twitter.com/iamhiwelo)\nA queer Design systems & Accessibility lead working in the healthcare industry for Castor EDC. Speaker, teacher and passionate about too many things, fighting every day for a more inclusive web.\n\nThrough different projects, Damien is trying to make the Web a more inclusive and accessible place, while focusing on collaboration and mentoring. By the way, Damien's agender, so their pronouns are they/them.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1iQ9QdRuzTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1iQ9QdRuzTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1iQ9QdRuzTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1iQ9QdRuzTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1iQ9QdRuzTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1iQ9QdRuzTk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1iQ9QdRuzTk",
+        "videoPublishedAt": "2019-11-03T14:43:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rJdVlCCQYTgmH1icXRvpr0mtxaA",
+      "id": "UExOQk5TN05SR0tNRldIaE51dktUNnZ6UHZMSmFfY0xLTC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-05-18T18:55:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Button vs Div: What's the Big Deal Anyway? - Jen Luker",
+        "description": "Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Button vs Div: What's the Big Deal Anyway? \nAccessibility advocates often say \"use the platform,\" but why? In this lightning talk, I'll be showing you implementation differences between the behavior of native HTML elements and their DIV counterparts.\n\nJen Luker \nJen is a Sr. Frontend Engineer, conference speaker, and BookBytes podcast co-host. She has spent the majority of her career as a full-stack developer using PHP, Javascript, and CSS, but has a particular fondness for frontend technologies. She is an advocate for both accessibility, and processes that make doing the right thing easy and the wrong thing hard. When she's not exploring solutions, learning new technologies, or reading, Jen's spare time is spent spinning yarn from raw wool and knitting; she's even been known to 3D print her own tools for the job. She is also fascinated by all things space, antique cars, and IoT.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFWHhNuvKT6vzPvLJa_cLKL",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDa-0tp4_t8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wDa-0tp4_t8",
+        "videoPublishedAt": "2020-05-18T18:54:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 16,
+    "resultsPerPage": 50
+  }
+}

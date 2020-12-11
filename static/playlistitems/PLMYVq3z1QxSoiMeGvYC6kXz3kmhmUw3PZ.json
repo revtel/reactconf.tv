@@ -1,0 +1,322 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "CQu1k81N-cZlJ_-IfYlKqgKAxhU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VZb1NnrgO2h98z9N0ULNDwIsRPA",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:28:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Michel Weststrate: Real World MobX — ReactNext 2016",
+        "description": "At Mendix we use MobX to manage the state of our visual enterprise application studio. In this talk we will take a look behind the scenes and see how MobX simplifies concerns like authentication, data fetching and routing. The strong decoupling of state and UI helps us to iterate on our UI more quickly. The architecture of the studio is pluggable and we will see how MobX helps integrating external producers and consumers of state into the product. In the end, we believe that this approach results in a code base that is sane and accessible. In which we get things done quickly.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aws40KOx90U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Aws40KOx90U",
+        "videoPublishedAt": "2016-10-03T13:39:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WB-bG0KDAh6SYkRJuiPQbf4PBfY",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:28:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Boris Dinkevich: ReactJS: Under The Hood — ReactNext 2016",
+        "description": "Rollup your sleeves, and lets dive deep into the ReactJS code and learn what happens between render() and DOM\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xsKYAa1ZXpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xsKYAa1ZXpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xsKYAa1ZXpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xsKYAa1ZXpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xsKYAa1ZXpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xsKYAa1ZXpQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xsKYAa1ZXpQ",
+        "videoPublishedAt": "2016-10-05T11:44:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jaFmLnSC40dz8WEYjKF344hhPzs",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:28:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Andrew Clark: What's Next for React — ReactNext 2016",
+        "description": "In this talk, we'll discuss how future updates to React's core algorithm will unlock exciting new features you may not have even considered.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aV1271hd9ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aV1271hd9ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aV1271hd9ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aV1271hd9ew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aV1271hd9ew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aV1271hd9ew"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aV1271hd9ew",
+        "videoPublishedAt": "2016-10-02T22:08:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a8bkvj86ShPkdNJNF6Fd3cL0WKo",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:28:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "James K. Nelson: The M and C in MVC — ReactNext 2016",
+        "description": "React only provides the V in MVC -- the part which would usually be state free. But state is inherent to any app. And storing it in component state is kind of crap. So what is a React dev to do? Create a Model and Controller to go with the View!\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUpkYixd03k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUpkYixd03k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUpkYixd03k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fUpkYixd03k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fUpkYixd03k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fUpkYixd03k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fUpkYixd03k",
+        "videoPublishedAt": "2016-10-09T06:10:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LF_W9zI1Pq8TWFy-H7g0DsTCIGI",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:28:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Tal Kol: Building a React Native App for 80 Million Users — ReactNext 2016",
+        "description": "Wix.com is betting big on React Native for our official app, catering to over 80 million Wix users. Production of this scale comes with its set of challenges, especially when using a framework this young. This talk is about the challenges throughout the development lifecycle, applying practiced methodologies, gaps we faced and solved, and the ones we are still trying to solve.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/abSNo2P9mMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/abSNo2P9mMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/abSNo2P9mMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/abSNo2P9mMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/abSNo2P9mMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "abSNo2P9mMM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "abSNo2P9mMM",
+        "videoPublishedAt": "2016-10-02T05:25:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1R7To5jBGPs3scJH0ifL6UOOolM",
+      "id": "UExNWVZxM3oxUXhTb2lNZUd2WUM2a1h6M2ttaG1VdzNQWi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-12-21T06:35:05Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Maayan Glikser: Introduction to BDSM — ReactNext 2016 (Lightning Talk)",
+        "description": "ReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A-GpdrrdYoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A-GpdrrdYoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A-GpdrrdYoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A-GpdrrdYoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A-GpdrrdYoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A-GpdrrdYoY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A-GpdrrdYoY",
+        "videoPublishedAt": "2016-12-21T06:35:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  }
+}

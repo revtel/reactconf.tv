@@ -1,0 +1,426 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "NvoHSxzTWIIZY7fM55r7zeHMICw",
+  "pageInfo": {
+    "totalResults": 8,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "eQTHq0CN0kgP9nJkVQu_RXNkxRs",
+      "id": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+      "snippet": {
+        "publishedAt": "2020-10-07T07:06:27Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020 - Virtual Edition",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native EU 2020 - Virtual Edition",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 23
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5-Kah_SCtRNHLFVX2tAO0drym2w",
+      "id": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+      "snippet": {
+        "publishedAt": "2020-08-11T15:03:45Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qU2KtZTho8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "The React Native Show Podcast",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "FlgRP2G6TzxFJcjmwPkTD9a0SeQ",
+      "id": "PLZ3MwD-soTTHy9_88QPLF8DEJkvoB5Tl-",
+      "snippet": {
+        "publishedAt": "2019-07-15T12:50:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0GfmlGFh3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0GfmlGFh3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0GfmlGFh3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0GfmlGFh3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0GfmlGFh3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native EU 2019",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTHy9_88QPLF8DEJkvoB5Tl-\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "aimwguZSxfI8VfuTxsRl1Mq8QJo",
+      "id": "PLZ3MwD-soTTFNpxKNdn73I8e6R7HPPyfn",
+      "snippet": {
+        "publishedAt": "2019-07-15T12:50:11Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native Wrocław Meetup",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4w_fmgTXr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4w_fmgTXr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4w_fmgTXr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t4w_fmgTXr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t4w_fmgTXr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native Wrocław Meetup",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 3
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTFNpxKNdn73I8e6R7HPPyfn\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "BpFZp1BgfsrUx4enX26DVvcEFOM",
+      "id": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+      "snippet": {
+        "publishedAt": "2018-09-14T07:16:59Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native EU 2018",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PfWGBGGkiP-WXKoNhDEaAIRaTXo",
+      "id": "PLZ3MwD-soTTF76yq91JdPrFshTm_ZNNsf",
+      "snippet": {
+        "publishedAt": "2018-09-10T14:30:19Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35oObzSqaj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35oObzSqaj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35oObzSqaj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35oObzSqaj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35oObzSqaj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native EU 2017",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 29
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTF76yq91JdPrFshTm_ZNNsf\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OwXYuIAHf0-mVJcFMU6WJ9OnH0E",
+      "id": "PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9",
+      "snippet": {
+        "publishedAt": "2018-09-10T10:22:54Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "cross-platformxMeetup",
+        "description": "Cross-Platform Meetup is focusing on bringing great discussions about various technologies. So if you are building or working on something that you would want to share or if you would like to learn something new feel free to join us.\n\nSome of the technologies that we are interested in:\n\n- Kotlin\n\n- React / React Native\n\n- Vue / Vue Native\n\n- ReasonML\n\n- Flutter\n\n- Swift\n\n- JavaScript - etc.\n\nWe're looking for speakers, feel free to send your talk proposal!\n\nWant to co-organize a cross-platform meetup with us?\n\nContact us at meetup@callstack.com!\n\nhttps://www.meetup.com/pl-PL/crossplatformdevelopment/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nPbe4wdvvWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "cross-platformxMeetup",
+          "description": "Cross-Platform Meetup is focusing on bringing great discussions about various technologies. So if you are building or working on something that you would want to share or if you would like to learn something new feel free to join us.\n\nSome of the technologies that we are interested in:\n\n- Kotlin\n\n- React / React Native\n\n- Vue / Vue Native\n\n- ReasonML\n\n- Flutter\n\n- Swift\n\n- JavaScript - etc.\n\nWe're looking for speakers, feel free to send your talk proposal!\n\nWant to co-organize a cross-platform meetup with us?\n\nContact us at meetup@callstack.com!\n\nhttps://www.meetup.com/pl-PL/crossplatformdevelopment/"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 7
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTEwDQvLVjsPorzJGAMpGCD9\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "2BAAhwycHhVM80ykvHZcUyWudQI",
+      "id": "PLZ3MwD-soTTFnEnShoY3Fm22min4altqn",
+      "snippet": {
+        "publishedAt": "2018-05-16T11:55:04Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AbextmntC5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AbextmntC5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AbextmntC5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AbextmntC5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AbextmntC5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 1
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTFnEnShoY3Fm22min4altqn\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}

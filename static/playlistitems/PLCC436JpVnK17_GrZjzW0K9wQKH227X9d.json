@@ -1,0 +1,582 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "vamdcob-DozypmM1PAdiTKyiJU0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2UNKyPEArxYCpcLKkgjSuRzOx8M",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-06-03T18:03:13Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Nik Graf Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AdK3g2-WSWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AdK3g2-WSWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdK3g2-WSWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AdK3g2-WSWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AdK3g2-WSWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AdK3g2-WSWE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AdK3g2-WSWE",
+        "videoPublishedAt": "2019-06-03T18:11:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VtPn86c_76t1HL7AVxgtcpe5xmI",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-06-03T18:53:50Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Jared Palmer Interview by Nader Dabit at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8VO_KJ8juE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8VO_KJ8juE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8VO_KJ8juE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8VO_KJ8juE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8VO_KJ8juE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P8VO_KJ8juE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P8VO_KJ8juE",
+        "videoPublishedAt": "2019-06-03T18:56:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LJKypQk9N-EjcQAzHnpJxJV20jk",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-06-04T08:53:42Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Alec Larson, co-author of react-spring interview by Jared Palmer @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XP9AEo4sVzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XP9AEo4sVzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XP9AEo4sVzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XP9AEo4sVzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XP9AEo4sVzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XP9AEo4sVzw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XP9AEo4sVzw",
+        "videoPublishedAt": "2019-06-04T08:53:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3N_Og133yXn6xAfEwz_ShE7Bt3I",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-06-04T09:26:09Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Charly Poly Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "frontier-forms: https://frontier-forms.dev/\n\nCharly's talk: https://www.youtube.com/watch?v=Ovg9CYwWFBM\n\nGet next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/StyWjW7I3_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/StyWjW7I3_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/StyWjW7I3_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/StyWjW7I3_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/StyWjW7I3_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "StyWjW7I3_8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "StyWjW7I3_8",
+        "videoPublishedAt": "2019-06-04T09:27:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RiyYOtRO4j3YzLIzzGKpq-TgAWU",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-06-04T09:59:34Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Ives van Hoorne of CodeSandbox interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html\n\nhttps://codesandbox.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FHAdtywDX-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FHAdtywDX-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FHAdtywDX-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FHAdtywDX-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FHAdtywDX-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FHAdtywDX-A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FHAdtywDX-A",
+        "videoPublishedAt": "2019-06-04T10:04:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NGz7SSPs1R-FYbo-w1kU0BcaOzE",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-06-04T10:17:34Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Josh Comeau Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtd63KsQw8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtd63KsQw8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtd63KsQw8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtd63KsQw8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtd63KsQw8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qtd63KsQw8s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qtd63KsQw8s",
+        "videoPublishedAt": "2019-06-04T10:20:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q7h6TfxDKw_TOfK66FXjSZCyock",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-06-05T12:27:45Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Ankita Kulkarni Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duAE1rfWFLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duAE1rfWFLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duAE1rfWFLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/duAE1rfWFLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/duAE1rfWFLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "duAE1rfWFLw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "duAE1rfWFLw",
+        "videoPublishedAt": "2019-06-05T12:33:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bnVkm9wdDQlzLn1XsIxHn6m2W-w",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-06-05T13:23:13Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Maël Nison Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9OyZn5mzoLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9OyZn5mzoLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9OyZn5mzoLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9OyZn5mzoLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9OyZn5mzoLk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9OyZn5mzoLk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9OyZn5mzoLk",
+        "videoPublishedAt": "2019-06-05T13:23:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H70UM_ERAV7dxzY4I1uN8H2VUco",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-06-06T15:30:36Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Evan Bacon Interview by Nader Dabit @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NqoufHxoBos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NqoufHxoBos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NqoufHxoBos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NqoufHxoBos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NqoufHxoBos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NqoufHxoBos"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NqoufHxoBos",
+        "videoPublishedAt": "2019-06-06T15:33:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KcwU9RtWOtH2S2ztdQcOGh__KBs",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-06-08T09:45:12Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Paul Armstrong Interview by Jared Palmer at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GD5BHM200A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GD5BHM200A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GD5BHM200A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4GD5BHM200A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4GD5BHM200A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4GD5BHM200A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4GD5BHM200A",
+        "videoPublishedAt": "2019-06-08T09:45:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Wl4lXaLTcJxogBLJlFyz1GTKzU",
+      "id": "UExDQzQzNkpwVm5LMTdfR3JaanpXMEs5d1FLSDIyN1g5ZC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-06-08T10:05:19Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Richard Threlkeld Interview by Nader Dabit at @ReactEurope 2019",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qY-Mky_nNws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qY-Mky_nNws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qY-Mky_nNws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qY-Mky_nNws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qY-Mky_nNws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK17_GrZjzW0K9wQKH227X9d",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qY-Mky_nNws"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qY-Mky_nNws",
+        "videoPublishedAt": "2019-06-08T10:05:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}

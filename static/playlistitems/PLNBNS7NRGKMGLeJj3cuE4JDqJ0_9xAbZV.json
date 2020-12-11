@@ -1,0 +1,1322 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "JR7EMbcxtcvzErqPbGLD24Q2m4I",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jhd5UKqouRC5UOHtsepuWCd685o",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-03-25T10:25:00Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Mocking is hard. No it’s not! – Mattia Assogna",
+        "description": "Video recording from February 2019 meetup https://www.meetup.com/React-Amsterdam/events/257858463/\n\nTesting is considered as standard practice in our industry. We use libraries to mock dependencies to test our code in isolation (e.g. services used in our React components). We take them for granted, assuming that they function correctly, probably by magic! Are mocking libraries “magic”?\n\nJoin Mattia to find out what libraries, such as Jest, are doing under the hood as you write your own mock testing library.\n\nAbout Mattia\nHe loves shell scripting; he literally lives in the terminal (that’s probably why he uses VIM). Other than getting his hands dirty with React, RxJS and Mobx, he is also passionate about cyber security and Motorbikes.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BEKervhdVPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BEKervhdVPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BEKervhdVPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BEKervhdVPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BEKervhdVPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BEKervhdVPI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BEKervhdVPI",
+        "videoPublishedAt": "2019-02-06T17:26:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "892F9v5kfP_3zvtaFlsbX3CMQjw",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-10-28T15:16:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using ReasonML in your next React project - Roy Derks",
+        "description": "Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nReasonML is based on the OCaml programming language and was created at Facebook, by the same creator as React! It shares a lot of features, but with the benefits of a statically typed functional programming language. ReasonML compiles to JavaScript and can therefore be used to create strongly typed React applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x1UO-_a8GL0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x1UO-_a8GL0",
+        "videoPublishedAt": "2018-10-27T10:50:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UQudyQrnPeThcHdmTBFlWy7RhPA",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-10-28T15:16:03Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Framer X: React meets design - Eelco Lempsink",
+        "description": "Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nFramer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBFpY31RooI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBFpY31RooI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBFpY31RooI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kBFpY31RooI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kBFpY31RooI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kBFpY31RooI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kBFpY31RooI",
+        "videoPublishedAt": "2018-10-27T10:47:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X1ReRBcJAUsmO5cFznQKtirS_aw",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-10-28T15:15:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Oct 2018: Framer X, ReasonML & Auto component conversion",
+        "description": "Live stream of our Oct meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xz8YojEUMAE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Xz8YojEUMAE",
+        "videoPublishedAt": "2018-10-26T00:16:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KZ1IQdKCuqgcA11ydv64qL-oV6U",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-03-04T14:58:39Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Breaking The Silence: Screen Readers and React Apps - Almero Steyn",
+        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Breaking The Silence: Screen Readers and React Apps\n\nWhen you rely on screen reader software to browse the internet, every important app update should be read out to you. However, this is often not the case in React applications, preventing many people from enjoying the awesome apps we make. Almero Steyn will put you in their shoes and then show you how to solve these issues easily and dependably. Many will thank you for it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tjk3sGKqv4k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tjk3sGKqv4k",
+        "videoPublishedAt": "2018-03-04T15:03:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FOZuyRRX6QSzjKWBPOZ5YbdlhCg",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-03-04T14:57:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Sending Email With React and AWS Lambda - David Baumgold",
+        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Sending Email With React and AWS Lambda\n\nRendering templates is slow, and sending transactional email means rendering a LOT of templates. At Impraise, we built a system to handle rendering and sending email templates using AWS Lambda and server-side React. Now, our backend can simply call an API, and let Lambda handle the complicated part, and we'll gladly share details with you!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KN7VDUuhnkk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KN7VDUuhnkk",
+        "videoPublishedAt": "2018-03-04T15:26:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GePwaFQGK5VgumtXjblsxiDEn6I",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-03-04T14:56:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Avoiding D3 Spaghetti With React - Finn Fitzsimons",
+        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Avoiding D3 Spaghetti With React\n\nA fresh look at how React can be used to make reusable, animated visualization components. Finn Fitzsimons will break down the challenges involved and by using the animation performance of D3 combined with declarative nature of React you can create any visualization imaginable in a fraction of the time.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NKm3UDUNOME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NKm3UDUNOME"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NKm3UDUNOME",
+        "videoPublishedAt": "2018-03-04T14:59:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CfnQiVVNy3IoRubbrhBC9cYYXo4",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-02-21T09:46:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Feb 2018: Declarative D3, Serverless React, A11y + React",
+        "description": "Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLoF1O6vzgY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TLoF1O6vzgY",
+        "videoPublishedAt": "2018-02-20T20:16:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "05g7hS6JPR2fyQlrkBfXRhTGUFc",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2017-11-22T14:24:49Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Shared Element Transition with React Native - Narendra N Shetty",
+        "description": "Talk recording from React Native Amsterdam Meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8O5zOSEemUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8O5zOSEemUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8O5zOSEemUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8O5zOSEemUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8O5zOSEemUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8O5zOSEemUM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8O5zOSEemUM",
+        "videoPublishedAt": "2017-11-22T14:24:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PK2iEJW38qytMcb5Oz8zUKjpzuI",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2017-11-16T12:08:13Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Native Amsterdam Meetup - November 2017: Navigating To Success",
+        "description": "13:50 \"Making sense of ReactNative Navigator\" by Léon Smit\n37:00 \"Shared Element Transition with React Native\" by Narendra N Shetty\n\nLive stream of our Autumn meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6vgTgxkGVC0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6vgTgxkGVC0",
+        "videoPublishedAt": "2017-11-15T19:43:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pidZX4sYu0UA-v70Qq0K1PfXDRI",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2017-10-21T15:57:39Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React and the Three Layers of Testing - Bart Waardenburg",
+        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nI will discuss our Three Layers of Testing (tm) we use when developing new features for one of our high traffic web applications at the ANWB. (1) Unit testing React & Redux Components, (2) Behavioural testing our interactive React Components and (3) Integration testing our entire application.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L2yOoxzXmw8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "L2yOoxzXmw8",
+        "videoPublishedAt": "2017-10-21T16:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YTUXZid_Vtl_iLQ3vnnmvtEXqv8",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2017-10-21T15:27:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Simplify React Redux with render props - Ludovico Fischer",
+        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nThe React Redux API confuses beginners even more than React Redux. Can we make it more accessible by replacing higher-order components with render props?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X17QE2cb9vQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X17QE2cb9vQ",
+        "videoPublishedAt": "2017-10-21T15:27:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q4gW1z8WUBnq9257a6Nr0_jEI14",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2017-10-21T15:08:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hot Reloading In React: What They Didn't Tell You - Dario Gieselaar",
+        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nA short talk on how hot reloading works, when you should use it, and when you shouldn't use it, and how you can fix it in some cases.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cK_X1qLsHTQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cK_X1qLsHTQ",
+        "videoPublishedAt": "2017-10-21T15:08:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CL_gLOTs76C_2Mq_JMZBhgJ2oBw",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-10-21T14:57:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using Logux in Production - Andrey Sitnik",
+        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nLogux is a new project which replaces AJAX by synchronizing Redux actions in real-time between client and server. It is based on the ideas of CRDT and brings plug&play support for live updates and offline editing. Andrey Sitnik, the creator of PostCSS and Autoprefixer, will explain how his team, Evil Martians, uses Logux with Amplifr, its difficulties, and the resulting productivity boost.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "le6FeAJ30Zw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "le6FeAJ30Zw",
+        "videoPublishedAt": "2017-10-21T14:57:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jlSd7Qnun0odjQZQRcKtnLEZj5o",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-10-16T21:02:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - October 2017: Cross-env Redux Actions and Webpack HMR Tricks",
+        "description": "Live stream of our Autumn meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LPiXFRKu4mc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LPiXFRKu4mc",
+        "videoPublishedAt": "2017-10-19T19:36:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AdUUVAzsC4lGQXCarIgyQiyUZY4",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-03-29T20:06:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Florentijn Hogerwerf and Dirk-Jan Rutten: Lessons learned from implementing a GraphQL API",
+        "description": "GraphQL is a query language for APIs that was released by Facebook back in 2015 and has since started to gain traction with both large and small companies using it for their APIs, most recently Github. \nAs described on graphql.org:“GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.” \nWe got introduced to GraphQL over a year ago and were impressed by its promise. Since then we have discovered patterns on how to best structure and implement a GraphQL API. In this talk we will share some of these patterns and provide examples on how to implement them.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-oa0kvBXz8E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-oa0kvBXz8E",
+        "videoPublishedAt": "2017-03-29T20:06:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J42pa193gcRguqcoYWpvUkVdNDk",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-03-29T20:01:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Narendra N Shetty: Practical Performance Tips Building Progressive Web Apps",
+        "description": "In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits. \nThis is for all the devs who care about performance and who think twice before adding any external library.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dw3B1Ppi--c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Dw3B1Ppi--c",
+        "videoPublishedAt": "2017-03-29T20:01:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SdQFY1B6T2hqBEkQf-t91WqO3zk",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2016-11-07T14:28:03Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Michel Weststrate: MobX: The Quest For Immer Mutable State Management",
+        "description": "New Balance, MIT, GE Money Bank – all these brands are clients of Mendix, a company that drives digital innovation in large enterprises. At React Amsterdam, you can meet its full-stack lead developer Michel who strongly believes in pragmatic, agile and the-simplest-thing-that-could-possibly-work programming.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ta8QKmNRXZM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ta8QKmNRXZM",
+        "videoPublishedAt": "2016-11-07T14:28:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ePdlfr11tpeSbsaMLhkThc3lkXw",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2016-11-07T14:27:13Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Maurice de Beijer: Supporting large scale React apps",
+        "description": "Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, AngularJS and ASP.NET MVC. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, Angular JS and ASP.NET MVC courses.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_4xTt9oUwvQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_4xTt9oUwvQ",
+        "videoPublishedAt": "2016-11-07T14:27:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BiXT0yDPHAhVHUr_GH_69k0jdeg",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2016-11-07T09:31:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Autumn Meetup: MobX and Large Scale React Applications 🍂",
+        "description": "Our first test live stream of our Autumn meetup event at TQ https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "etnPDw5PKqg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "etnPDw5PKqg",
+        "videoPublishedAt": "2016-11-03T20:31:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S_QI5fwfNL0IC98a7_yeNAolpVU",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-11-01T15:02:52Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Farid Safi: Build a React Native chat app in 30 minutes",
+        "description": "Farid is the creator of Gifted Chat and a React Native instructor at LeReacteur.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VTnFDc3IFag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VTnFDc3IFag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VTnFDc3IFag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VTnFDc3IFag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VTnFDc3IFag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VTnFDc3IFag"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VTnFDc3IFag",
+        "videoPublishedAt": "2016-11-01T15:02:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rm25uCUn27SV0gQchu55gAGmU3o",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-11-01T15:02:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Bas de Vries: iOS vs React Native: insights from an iOS developer",
+        "description": "Bas is the co-founder of Florin: an (Dutch) app that allows you to split bills and share experiences with friends and strangers, on a mission to make value transfer more personal and efficient.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j9xX0lWBYEQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j9xX0lWBYEQ",
+        "videoPublishedAt": "2016-11-01T15:02:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SYd1vLm7N2BGwqL-J0ztFNMsr-I",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-07-06T13:14:52Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Denis Izmaylov: Isomorphic React Applications: Performance and Scalability",
+        "description": "Let’s have a look at Isomorphic React Applications. At first sight everything is great - clear project structure, efficient reuse of codebase, less bugs and less response time which give us amazing UX. But what is actually happening when we deploy our application on the server? Why our application is running slower on high load? How to scale and how to get high availability? Just to order more servers? There is few betters solutions.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kI19MCP-wIE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kI19MCP-wIE",
+        "videoPublishedAt": "2016-07-06T13:16:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UQO4ZqR63qclK5S4rnX1WDEVCfA",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-07-06T13:14:52Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Robert Haritonov and Alexey Kureev: React Europe Conference Recap",
+        "description": "Robert and Alexey just returned from React Europe Conference in Paris, one of the biggest React focused events worldwide. In this recap, guys will provide you all the latest and greatest insights happening to React community including React Native, GraphQL and latest tools/project announcements.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3CMnK9eZzmo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3CMnK9eZzmo",
+        "videoPublishedAt": "2016-07-06T13:16:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UFvcsx1flU9CidV9qXiUwSS_06c",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-06-02T05:02:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Maarten Verbaarschot: Routing for problem solvers",
+        "description": "Maarten Verbaarschot, Frontend consultant @ Bluefront\n\nRouting gets complicated quickly, conceptually and technically. My team learned several lessons when a seemingly tiny user story sent us right back to the drawing board, because our router couldn’t handle the scenario. Based on this experience, I will address several patterns that are available in modern routing frameworks. How to creatively leverage the router to solve problems? How to keep things simple? And seeing the router as the main player in wiring all components together: what can we do to make it a truly strong foundation?\n\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xu2SJLidGCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xu2SJLidGCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xu2SJLidGCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xu2SJLidGCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xu2SJLidGCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xu2SJLidGCY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xu2SJLidGCY",
+        "videoPublishedAt": "2016-06-01T13:21:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "usLlU6MyDVjhr9kuJmXv2v9f25M",
+      "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-06-02T04:59:29Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Ramon Victor: What if we tried to implement Redux in vanilla javascript?",
+        "description": "Ramon Victor is a Front-End Engineer @ Booking.com\n\nIn this presentation I wanna share the things I've learned while building a Tic-Tac-Toe game using Redux principles in plain javascript. How store, actions and reducers can be implemented from scratch and how each of these concepts connect together in order achieve the unidirectional data flow approach.\n\nSlides: https://speakerdeck.com/ramonvictor/redux-principles-in-plain-javascript\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35kUY7J7EEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35kUY7J7EEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35kUY7J7EEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35kUY7J7EEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35kUY7J7EEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGLeJj3cuE4JDqJ0_9xAbZV",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "35kUY7J7EEc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "35kUY7J7EEc",
+        "videoPublishedAt": "2016-06-01T13:21:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 26,
+    "resultsPerPage": 50
+  }
+}

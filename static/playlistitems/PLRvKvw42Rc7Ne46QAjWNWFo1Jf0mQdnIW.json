@@ -1,0 +1,555 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "lsc5G7uCS0Yhrnlf9hrkTo3NKRo",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sZSnNblN9MxQTTXDA2Db31IQRKE",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-03-31T20:38:05Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Parashuram Narasimhan - Day 2 Keynote",
+        "description": "Parashuram is a front end engineer on the React Native Core team. Most of his work has been around organizing the next set of investments that should be made to ensure React Native continues to support its open source work. He has contributed to Maya-kai, a gesture mirroring system for RN, CodePush, Mobile Center (now App Center), and also wrote the VSCode RN debugger, among others.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1hvQ8p8q0a0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1hvQ8p8q0a0",
+        "videoPublishedAt": "2018-03-31T20:19:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k0jnSxK9_zPQ6qoIp6LmcANoi50",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Christina Holland - Charts from Scratch in React",
+        "description": "With all the great charting libraries out there, why would you want to roll your own charts from scratch? Sometimes you want more control, or your use case is so simple you can avoid bringing in an unneeded dependency, or maybe you just want to strip away the magic for a moment and learn how the browser's drawing APIs really work. We'll go over some examples of building charts with basic HTML, SVG and Canvas.\n\nChristina works on the dashboard team at Pepperdata, building apps to help users get a handle on what's going on with their complex distributed systems. This is her third career after biotech and animation. She likes elegant puzzle solutions, pretty and intuitive UI, and data visualizations that make complex things simple.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OWRW6u8puXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OWRW6u8puXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWRW6u8puXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OWRW6u8puXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OWRW6u8puXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OWRW6u8puXs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OWRW6u8puXs",
+        "videoPublishedAt": "2018-03-31T00:28:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pODaDiQdXdJ13QELFgUD1c_-MIk",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Tanmai Gopal - A Postgres-backed GraphQL BAAS",
+        "description": "A review of how we created a GraphQL backend backed by Postgres. The key challenges faced by real-world apps and our solution approach, specifically around expressive query arguments, access control, schema iteration, sharing auth between multiple API backends. We will also review some quick tips to make the most out of Postgres and reveal some early performance benchmarks. We will end with a demo how you can create complex data models and make intuitive graphql queries from your app without requiring in-depth knowledge of graphql schemas.\n\nTanmai is the co-founder of hasura.io - a Postgres BaaS + Kubernetes PaaS. He is a StackOverflow powered fullstack, polyglot developer whose areas of interest and work span react, nodejs, python, haskell, docker, postgres, kubernetes. He is passionate about making the power of building things accessible to everyone and is the instructor of India's largest MOOC imad.tech with over 200,000 students. You will occasionally see him speaking, or more often being quietly awkward, at conferences and meetups. He has recently moved to spend time in the Bay Area, just like everyone else.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/neIZcc8y3B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/neIZcc8y3B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/neIZcc8y3B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/neIZcc8y3B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/neIZcc8y3B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "neIZcc8y3B0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "neIZcc8y3B0",
+        "videoPublishedAt": "2018-03-31T00:26:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6I7NnA0lQsK2RtR2S4jLO3smTOU",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jared Forsyth - Type-safe React with ReasonML",
+        "description": "Types can be invaluable when working on a large project, by making refactoring less error-prone, enabling better coordinating between teammates, and improving readability. Reason gives you a powerful, battle-tested type system with cross-file inference, macros, and excellent JavaScript interop. Come learn what differentiates it from added-on type systems like Flow and TypeScript, what it looks like to build React UIs in Reason, and what makes it easy to start into and integrate with your current JavaScript app.\n\nJared interned on the React Native team, rewrote the React devtools, and has given several talks on React & related technologies. He works at Khan Academy on the mobile team, using React Native along side native Java and Swift. He loves type systems and learning new languages, and is deeply invested in improving the experience of programming for everyone.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_thVZKhdgaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_thVZKhdgaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_thVZKhdgaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_thVZKhdgaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_thVZKhdgaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_thVZKhdgaM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_thVZKhdgaM",
+        "videoPublishedAt": "2018-03-31T00:25:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Af1XzEsSxB3D9mPcYcoXoRovpJA",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Sophia Shoemaker - React off the Grid!",
+        "description": "Creating a React application for orphans in Ghana offered some unique challenges. Progressive Web Apps (PWAs) are more than just “cool” or “hip” — they can be really important for applications where the internet is spotty, if available at all. Learn why I chose React + AWS Lambda for a country with poor internet connectivity, and general lessons on the often messy and exciting world of creating offline applications.\n\nSophia became addicted to React in 2014. She is a full stack developer but React is her technology of choice. When she isn't cobbling code, she can be found editing the Fullstack React Newsletter, flying in her husband's Beechcraft Bonanza and playing with her 2 kids. Connect with Sophia on Twitter at @wisecobbler.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vUaW4sEa7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vUaW4sEa7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vUaW4sEa7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1vUaW4sEa7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1vUaW4sEa7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1vUaW4sEa7U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1vUaW4sEa7U",
+        "videoPublishedAt": "2018-03-31T00:24:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S5DQc4GIwP9JLVTcOznXI1ck00g",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Rogelio Guzman - Jest as a Platform",
+        "description": "Jest is a testing framework that has a big emphasize on development experience. We will talk about how Jest can become a platform and how you can leverage it to enhance your existing tooling. Putting your tool on top of Jest, allows you to benefit from its infrastructure, which provides a watch mode, Git integration, etc.\n\nRogelio is an engineer at Docker. He loves to code and is part of the Jest core team.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJ43STkmK-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJ43STkmK-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJ43STkmK-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZJ43STkmK-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZJ43STkmK-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZJ43STkmK-4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZJ43STkmK-4",
+        "videoPublishedAt": "2018-03-31T00:21:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d7LNOKKJ2W5A0s7rAjgCmVNkUkI",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Sashko Stubailo - Incremental Migration to GraphQL",
+        "description": "GraphQL is quickly becoming mainstream as one of the best ways to get data into your React application. When we see people modernize their app architecture and move to React, they often want to migrate their API to GraphQL as part of the same effort. But while React is super easy to adopt in a small part of your app at a time, GraphQL can seem like a much larger investment. In this talk, we’ll go over the fastest and most effective ways for React developers to incrementally migrate their existing APIs and backends to GraphQL, then talk about opportunities for improvement in the space. If you’re using React and are interested in GraphQL, but are looking for an extra push to get it up and running at your company, this is the talk for you!\n\nSashko has been working on open source developer tools for the last 5 years. Most recently he has been leading open source GraphQL tool development at Apollo, after writing the very first versions of Apollo Client. Previously, he has worked on JavaScript build tooling, reactive UI frameworks, and data visualization.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqL96doEAV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqL96doEAV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqL96doEAV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UqL96doEAV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UqL96doEAV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UqL96doEAV4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UqL96doEAV4",
+        "videoPublishedAt": "2018-03-31T00:20:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "an1JnI86muXoihIzmt-_5xQ4pdI",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Suhayl Rouag - How to Hire Great Developers",
+        "description": "There is more to hiring great engineers than just looking at their skillset. In this talk, we'll explore some strategies for hiring great engineers by hiring great people.\n\nSuhayl Rouag heads business development and sales for Jobsity, a nearshore distributed team software and mobile app development firm based in United States with offices in Ecuador and Colombia and the exclusive partner of Real World React for providing expert remote development services. Before joining Jobsity, Suhayl worked as a contractor for the US Army's General Officer Management Office part of the Office of the Chief of Staff of the US Army. As the senior in house business analyst and developer he helped design and build the talent management processes and applications that the US Army uses to develop, promote and train their senior leaders. After his tenure working with the US Army, he moved with his family to Ecuador where he co-founded a toy company specializing in educational toys for the South American market before joining Jobsity.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ar8vgZhLmJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ar8vgZhLmJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ar8vgZhLmJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ar8vgZhLmJI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ar8vgZhLmJI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ar8vgZhLmJI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ar8vgZhLmJI",
+        "videoPublishedAt": "2018-03-31T00:19:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hsOAVYx4TD2UIb3JLkVj1XwENiw",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Matt Biilmann - React-Based Content Management with Netlify CMS & Gatsby",
+        "description": "React is most often associated with Single Page Applications, but tools like Gatsby, React Static, Phenomic and Cuttlebelle has made React hyper-relevant for content driven websites as well. Netlify CMS is an open-source project with the goal of building a content management UI in React. It works with any static site generator, and makes content editors participate in the modern git-centric workflow that developers are used to. This talk will show how to use Netlify CMS with a Gatsby-based site, to build high-performant and infinitely-scalable sites with git-based content editing, a user friendly UI, and live browser previews - all without a backend.\n\nMatt is regarded as one of the driving forces behind the resurgence of static websites and is a founder at Netlify, the fastest growing automation platform for modern websites. Matt has lead the development of all of 3 commercial CMS (swears he won’t do a fourth), has written production code in more than a dozen programming languages, is trilingual and enjoys listening to beer and drinking modern jazz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyRwMy59d4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyRwMy59d4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyRwMy59d4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YyRwMy59d4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YyRwMy59d4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YyRwMy59d4M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YyRwMy59d4M",
+        "videoPublishedAt": "2018-03-31T00:18:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9_DLEWmx9L3eR2lo5hfU-UdZgo8",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:59Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Reactathon 2018 - Front End Happy Hour Closing Panel",
+        "description": "Join senior front-end engineers Ryan Burgess, Jem Young, Stacy London, and Derrick Showers as they close out Reactathon 2018 with a live recording of the Front-End Happy Hour Podcast!\n\nA podcast featuring panelists of engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MRnqnt2ZJ7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MRnqnt2ZJ7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MRnqnt2ZJ7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MRnqnt2ZJ7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MRnqnt2ZJ7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MRnqnt2ZJ7w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MRnqnt2ZJ7w",
+        "videoPublishedAt": "2018-03-31T00:17:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aJRXY1SyCYCcqT8pAGwzkbloVCs",
+      "id": "UExSdkt2dzQyUmM3TmU0NlFBaldOV0ZvMUpmMG1RZG5JVy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-04-07T00:00:52Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jUk3CGI3kz8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jUk3CGI3kz8"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}

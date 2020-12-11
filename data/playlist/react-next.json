@@ -1,0 +1,374 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "GZGr0TpeNuAiWJrkDXYzvNzf0h4",
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "jfwe7-Ukk-saHJmMQBi6MgNpWRI",
+      "id": "PLMYVq3z1QxSrtc-VmYeAoBwVJZFYMkovU",
+      "snippet": {
+        "publishedAt": "2019-07-01T14:34:59Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yt-VRe3V2ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yt-VRe3V2ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yt-VRe3V2ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yt-VRe3V2ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yt-VRe3V2ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2019",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSrtc-VmYeAoBwVJZFYMkovU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "2PTBGSnTm5CW-bdq9Ekf1jc3re0",
+      "id": "PLMYVq3z1QxSr3ABOx2gwuD7jBDbWIUdw1",
+      "snippet": {
+        "publishedAt": "2018-11-15T11:41:52Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6pLZK3R2II/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6pLZK3R2II/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6pLZK3R2II/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6pLZK3R2II/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6pLZK3R2II/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2018",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 17
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSr3ABOx2gwuD7jBDbWIUdw1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QLSAp-3zNm8E9n9DHN36Pv_0g9g",
+      "id": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:13:49Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2017 – Hall B",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2017 – Hall B",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "qCvrtxNcLgMLZ0mV3JEa2cNqqrA",
+      "id": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+      "snippet": {
+        "publishedAt": "2017-10-02T01:50:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2017 – Hall A",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2017 – Hall A",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-2WjHuRn-pZIMykmwj1lX_eDI18",
+      "id": "PLMYVq3z1QxSq5WGj-f2FpXRfSUimJZ14W",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:30:15Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2016 – Lightning Talks",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2016 – Lightning Talks",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 1
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSq5WGj-f2FpXRfSUimJZ14W\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3nwZ_CC_x8mm8m1U8Z7PXDHAbyk",
+      "id": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:29:02Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2016 – Hall B",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2016 – Hall B",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rixxSfCCMDMue7SBSuXCSArxtsM",
+      "id": "PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:27:48Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2016 – Hall A",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aws40KOx90U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "localized": {
+          "title": "ReactNext 2016 – Hall A",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 6
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLMYVq3z1QxSoiMeGvYC6kXz3kmhmUw3PZ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}

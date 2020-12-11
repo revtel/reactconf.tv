@@ -1,0 +1,634 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "W9xl35VIoOqsSNlwFLcw_1AHl9Y",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BDFvhcTcm3e9ANfeGcWqjY1nsyc",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Performance Anxiety with React: Track and increase speed of your apps - Jessica Leach",
+        "description": "Talk recording from React Day Berlin Conference 2019\n \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Performance anxiety with React\nDo you worry about the performance of your React applications? Do not worry anymore, Jessica will take you through a how-to of performance improvement. Take a look at how to use techniques to track and increase speed.\n\nJessica starts with an example app which loads data into a table and discuss how we can make the performance better.\n\nTalk about how the virtual DOM & reconciliation works.\n\nJessica Leach\nJessica is a React developer from the UK. She works for FutureLearn, a platform which makes university education accessible to all. She made a transition into development after taking part in Rails Girls Summer of Code and she has also built an open source project, ScienceMotions, which teaches high school-level science with animation.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vDXF7iGEGzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vDXF7iGEGzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDXF7iGEGzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vDXF7iGEGzo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vDXF7iGEGzo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vDXF7iGEGzo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vDXF7iGEGzo",
+        "videoPublishedAt": "2019-12-13T09:25:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HnwNFtkbP5G55tN6yEnvpj8EJOU",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced Keynote: Performance is magic - Ken Wheeler",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Keynote: Performance is magic\n\nThis talk will explore strategies for fixing performance issues in your apps when they arise. We will look at how we can make our React apps “Blazing” fast, and when it’s time to bail out of React in the name of perf.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t8svxxtUTl8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "t8svxxtUTl8",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0JEcw4flbk22FKRcYCewMsE1_lw",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Demystifying server-rendered React apps: Performance & Security - Fernando Porazzi",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying server-rendered React apps: Performance & Security\n# General Track\n# Lightning Talks\n\nDuring this lightning talk, let's walk through the pros and cons of server-rendered applications, when you want to have it and what you can expect.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g0dqt64-OO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g0dqt64-OO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g0dqt64-OO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g0dqt64-OO4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g0dqt64-OO4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g0dqt64-OO4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "g0dqt64-OO4",
+        "videoPublishedAt": "2019-05-03T08:52:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tPJXFjbaV3n7ohtw7d4wSsEjkKw",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Performant Websites for All- How to Build Fast, Inclusive Applications using Gatsby - Portia Burton",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Lightning talks - Performant Websites for All- How to Build Fast, Inclusive Applications using Gatsby\nThis presentation will show you how to create an a Progressive Web Application using Gatsby. We'll learn:\nWhat is a Progressive Web App (PWA)\nWhy PWA's are important for a more inclusive web\nHow to build your own PWA app using Gatsby.\n\nPortia Burton\nPortia Burton is principal developer at Cecil Digital Agency.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0aMxWDtcDBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0aMxWDtcDBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0aMxWDtcDBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0aMxWDtcDBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0aMxWDtcDBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0aMxWDtcDBk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0aMxWDtcDBk",
+        "videoPublishedAt": "2019-12-13T09:25:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jTgAZB8gsAlDwXgG5yAJoxART7A",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-03-25T09:17:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Speeding up React SSR: How to remove performance bottlenecks - David Mark Clements",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Speeding up React SSR\n# General Track\n# Lightning Talks\n\nReact is a hugely popular frontend framework that revolutionized the frontend development world. React is built primarily for the browser, while Node has fundamentally different operational constraints to the browser. While working as a Principal Architect and Consultant, it has become painfully clear to David that React’s Server Side Rendering (SSR) is a performance bottleneck for web backends around the world. This talk demonstrates a very simple solution that can be dropped into pre-existing React applications to vastly improve the throughput of an SSR Node server (around 20-40x+).\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FaJosYCMnRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FaJosYCMnRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FaJosYCMnRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FaJosYCMnRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FaJosYCMnRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FaJosYCMnRA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FaJosYCMnRA",
+        "videoPublishedAt": "2019-04-25T11:06:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ONxXUdU4sead0voaY-Fje6i7LgM",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Practical Performance for React (Native) – Anna Doubková",
+        "description": "Talk recording from React Advanced Meetup https://www.meetup.com/React-Advanced/events/260425694/\n\nThere are quite a few theoretical concepts of writing good a React application, including popular functional programming approaches. However, few take into consideration the impacts these will have on performance of the application. In this talk you’ll find out how some commonly used patterns have an adverse effect on the speed of your app, and how to avoid using them. We’ll mainly explore UI and state management but we’ll also dive into some native-specific issues and look at how to prevent them.\n\nAbout Anna\n\nAnna is a javascript developer who loves working with new technologies. Currently working at Hive, she does full-stack development to deliver a great end to end solution focused on user experience. She's a frequent speaker, runs workshops, and likes contributing to the community.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TGSgYxJ-yM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TGSgYxJ-yM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TGSgYxJ-yM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TGSgYxJ-yM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TGSgYxJ-yM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TGSgYxJ-yM8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TGSgYxJ-yM8",
+        "videoPublishedAt": "2019-07-11T12:43:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "14wmTnYZQfShMnwjUyjhjn9VjaQ",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Build Lightning Fast SSR React Apps with Top Perceived Performance - Håkon Gullord Krogh",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript\n# General Track\n# Lightning Talks\n\nNetflix changed their frontpage a while back to only serve HTML, CSS and a small amount of JS. Let’s have a look on how you can do the same with Next.js, and if the principles still apply today. Is the user getting a better perceived experience when we turn off the client side JavaScript?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSaFLPciWP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSaFLPciWP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSaFLPciWP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cSaFLPciWP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cSaFLPciWP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cSaFLPciWP8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cSaFLPciWP8",
+        "videoPublishedAt": "2019-05-03T08:52:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u4HQ7DckEaoB6WKqm57-5xuKsbo",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Narendra N Shetty: Practical Performance Tips Building Progressive Web Apps",
+        "description": "In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits. \nThis is for all the devs who care about performance and who think twice before adding any external library.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dw3B1Ppi--c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Dw3B1Ppi--c",
+        "videoPublishedAt": "2017-03-29T20:01:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FvIJuhK3By5dOXVOEWUSYHRej64",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Performance Anxiety With React - Jessica Leach",
+        "description": "Talk recording from React Advanced Meetup https://www.meetup.com/React-Advanced/events/263229863/\n\n## Performance Anxiety With React\nby Jessica Leach (https://twitter.com/JessicaLeach6)\n\nDo not worry about the performance of your React apps anymore, Jessica will take you through a how-to of performance improvement. We will look at how to use techniques to track and increase speed.\n\n- shouldComponentUpdate\n- React.Lazy and Suspense\n- Hooks & Performance\n- React.memo\n- why-did-you-update\n- React Profiler\n- Custom performance measure components\n\nand more...\n\nAbout Jessica\n\nJessica is a React developer from the UK. She works for FutureLearn, a platform which makes university education accessible to all. She made a transition into development after taking part in Rails Girls Summer of Code.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-cPXwpWn4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-cPXwpWn4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-cPXwpWn4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B-cPXwpWn4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B-cPXwpWn4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B-cPXwpWn4k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "B-cPXwpWn4k",
+        "videoPublishedAt": "2019-09-13T16:28:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MnaE5WFEsGJpFMMoNuSVJ_eGtuI",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Denis Izmaylov: Isomorphic React Applications: Performance and Scalability",
+        "description": "Let’s have a look at Isomorphic React Applications. At first sight everything is great - clear project structure, efficient reuse of codebase, less bugs and less response time which give us amazing UX. But what is actually happening when we deploy our application on the server? Why our application is running slower on high load? How to scale and how to get high availability? Just to order more servers? There is few betters solutions.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kI19MCP-wIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kI19MCP-wIE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kI19MCP-wIE",
+        "videoPublishedAt": "2016-07-06T13:16:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eBZjeh0MC0chNYqwBWDzyP4d2yQ",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Practical Performance for React (Native): How common patterns slow down your app - Anna Doubková",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Practical Performance for React (Native)\n# React Native Track\n\nThere are quite a few theoretical concepts of writing good a React application, including popular functional programming approaches. However, few take into consideration the impacts these will have on performance of the application. In this talk you’ll find out how some commonly used patterns have an adverse effect on the speed of your app, and how to avoid using them. The talk explorse UI and state management but also dives into some native-specific issues and look at how to prevent them.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jTdi9oTM22c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jTdi9oTM22c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTdi9oTM22c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jTdi9oTM22c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jTdi9oTM22c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jTdi9oTM22c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jTdi9oTM22c",
+        "videoPublishedAt": "2019-04-25T06:49:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LzWRjvI2WLuYlhbxLfEJEpLl6SU",
+      "id": "UExOQk5TN05SR0tNRUotZFo3UGFibXBvWW5ldHR2a0t6US45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:57Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Performance Limitations of React Native and How to Overcome Them - Tal Kol",
+        "description": "Talk from React Amsterdam Conference 2017  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nTal Kol, Head of Mobile Engineering at Wix.com\n\nReact Native holds great promise in terms of excellent developer experience with JavaScript and code reuse between platforms. The big question is  - do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmiXlJ4ZzAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEJ-dZ7PabmpoYnettvkKzQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OmiXlJ4ZzAo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OmiXlJ4ZzAo",
+        "videoPublishedAt": "2017-06-03T16:51:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,1201 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "hlwUuUIwksj34lZAu92fYfFcqzU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lGjEoVw4GdTANVwf2hQRBUauTTU",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-10-07T07:06:34Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Eli White - Modernizing React Native’s JavaScript",
+        "description": "Abstract:\nA lot is changing in the core of React Native. We’ve got Fabric, TurboModules, JSI, etc. We’ve also been working on how these systems interact with the JavaScript in React Native apps. This talk will be a deep dive into some of the expected JavaScript API changes, React Native’s JS internals, new startup performance improvements, codegen, and more!\n\nEli White is a Software Engineer on the React Native core team at Facebook. Eli can live on ice cream, but thrives on pie.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QwoQgzBgJu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QwoQgzBgJu8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QwoQgzBgJu8",
+        "videoPublishedAt": "2020-10-07T07:31:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RXepT6RytVprR3LzJuiRNOiFL0w",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-10-21T10:47:11Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Steven Moyes - Building For Desktops And Dual Screens",
+        "description": "Abstract:\nReact Native isn't just for building mobile apps! Come learn from Microsoft engineers how you can use React Native to target Windows, Mac, and the new set of dual-screen devices including the Surface Duo and Surface Neo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gWOrCedNR9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gWOrCedNR9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gWOrCedNR9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gWOrCedNR9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gWOrCedNR9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gWOrCedNR9M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gWOrCedNR9M",
+        "videoPublishedAt": "2020-10-21T10:49:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rsWd-B4T__J5L7lA22H23-bSQsg",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-10-21T11:03:55Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Kudo Chien - Extending React Native To The Next Platform",
+        "description": "Abstract:\nReact Native proves the success of running React other than browsers. The official supported frameworks from Facebook are only iOS and Android. There were some other platforms maintained by third-party developers, but these forks sometimes run with older React Native versions. The main reason is the difficulty to follow rapidly changed upstream code. From the upcoming React Native new architecture, there will be more platform-independent shared implementations and more abstraction layers. Let's see if we could extend React Native to some new platforms benefiting from the new architecture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmlvhEJu1L8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmlvhEJu1L8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmlvhEJu1L8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZmlvhEJu1L8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZmlvhEJu1L8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZmlvhEJu1L8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZmlvhEJu1L8",
+        "videoPublishedAt": "2020-10-21T11:06:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yELzGAf_C24WuYNXk0JFb7BX9GE",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-10-21T14:34:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Brent Vante - React Native Or Expo? Both.",
+        "description": "Abstract:\nMost people attending the conference use React Native, but not necessarily with any of the Expo libraries, tools, or services. I'll talk about what we have built, what we're working on, and what we're thinking about next to help everyone level up their React Native iOS, Android, and web app development experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ncfszyfmyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ncfszyfmyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ncfszyfmyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ncfszyfmyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ncfszyfmyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ncfszyfmyQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0ncfszyfmyQ",
+        "videoPublishedAt": "2020-10-21T14:34:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JhYpatXda6iBtrYD3kmMEt6b3eE",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-10-21T14:44:41Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Ram N - React Native Performance - Take 2",
+        "description": "Abstract:\nAs React Native is being used to build many large scale mobile apps. It is important to profile performance to ensure a smooth user experience. Previously, Ram had written and spoken about adding instrumentation to understand the performance characteristics of the app.\nAs the next step, he will explore the various optimizations that can be done in this talk. He will focus on the Javascript section, something where there are many more low hanging fruits to optimizie.\nStarting from React Dev Tools, he will look at how developers can leverage their existing knowledge of web performance to attack mobile perf. He will talk about understanding SysTrace and Sampling Profilers. He will also debunk common myths like the problems with measuring app performance using Chrome JS profiler, debug versions of the app, etc. \nIn this talk, he will plan to outline a holistic approach that can be used to dive deeper into React Native performance.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5Oo51viLw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5Oo51viLw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5Oo51viLw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5Oo51viLw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5Oo51viLw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_5Oo51viLw0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_5Oo51viLw0",
+        "videoPublishedAt": "2020-10-21T14:46:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "torCzqgBc-NnaGApD0L2F5NPhd4",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-10-21T14:59:08Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Omri Bruchim - Performance Does Matter - Making Your React-Native App Fast",
+        "description": "Abstract:\nIn the past 5 years, the Wix mobile app has gone through quite a bit - a brand new look was launched, a large number of features were added in a short period of time, and the number of our users tripled. Unfortunately, one implication of product growth, is a slower performance, especially when it came to things like seamless transition, fluent animations and general slickness of the app. \n\nOver the past year, we made a tremendous effort to improve these regressions. Our ongoing efforts have so far resulted in almost 60% cumulative improvement in all performance metrics.\n\nIn this talk, I’ll deep into all of our secret ingredients for better performance in React Native applications, together with practical examples of:\n-Improving startup time\n-Responsive gestures \n-Preload prioritization\nFurthermore, I’ll outline some general work we’ve done that led us to these improvements, like the right way to measure and analyse your app performance on production, and how you can implement these tips and tricks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C99wvXpeNXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C99wvXpeNXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C99wvXpeNXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C99wvXpeNXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C99wvXpeNXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C99wvXpeNXs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C99wvXpeNXs",
+        "videoPublishedAt": "2020-10-21T15:02:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g0545NPlWeej_Pzw_uzMeixfMaA",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:14:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Yann Leflour - XState ❤️  NoNav - Taking Back Control Of Navigation",
+        "description": "Abstract:\nOur understanding of navigation in mobile stems from years of web usage. Our navigation is a tree and a page transition is an action. But this pattern couldn't be further from what is required by modern app UX standards. In this talk we will go through the required changes in our navigation architecture in order for it to reach its full potential.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q9hY3v-hmhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q9hY3v-hmhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q9hY3v-hmhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q9hY3v-hmhg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q9hY3v-hmhg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q9hY3v-hmhg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q9hY3v-hmhg",
+        "videoPublishedAt": "2020-10-21T15:17:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EJ1YUFCYEP9L-FPSPR9VAMnc2q8",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:26:03Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Aleksandra Desmurs-Linczewska - An Animation Showcase: RN App Can Ce Beautiful",
+        "description": "Abstract:\nAnimations in React Native apps can seem difficult and unnecessary. I will try to prove that they can be easy, achievable and necessary to make your app delightful.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJpesy9VRRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJpesy9VRRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJpesy9VRRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJpesy9VRRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qJpesy9VRRg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qJpesy9VRRg",
+        "videoPublishedAt": "2020-10-21T15:26:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fFYjMKbzdHIxNUMfX2i9mfTrUNY",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:31:56Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Akshat Paul - Lets Go 3D With React Native",
+        "description": "Abstract:\nOne of the most exciting apps genre today are Augmented Reality and Virtual Reality apps and boy it’s never been easy to build them with React Native. \nIn this talk we will learn with practical example how to blend digital and physical world together using React Native. I'll take you to quick introduction to Augmented Reality and Virtual Reality. Fundamentals of ARKit for iOS which is one of biggest AR platform and ARcore for Android. Will use Viro React to do live coding and build an experience like never before for audience. My target for this talk is to make React Native devs familiarised with this world of AR/VR so that they take advantage of this new skill by going through practical example and see for themselves how easy it is with React Native.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b84pGTdBih8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b84pGTdBih8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b84pGTdBih8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b84pGTdBih8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b84pGTdBih8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b84pGTdBih8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b84pGTdBih8",
+        "videoPublishedAt": "2020-10-21T15:37:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nDnWpmlBDpC1a9CY5kugycLWkgA",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:45:41Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Jesse Katsumata - Visual Regression Test In React Native",
+        "description": "Abstract:\nVisual Regression tests are essential for any type of UI development.\nWith out it, you might ship an application after changing the looks of one page without knowing that you broke several other pages. If we can easily see the difference you made in UI for every single PR, it can make the life of reviewers and QAs much simpler. But how would we go about making visual regression test with react native projects? In this talk, I will be sharing what me and my team has been using to perform visual regression test on react native projects, including how components will look in light mode and dark mode.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBv0fN5_4SM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBv0fN5_4SM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBv0fN5_4SM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fBv0fN5_4SM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fBv0fN5_4SM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fBv0fN5_4SM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fBv0fN5_4SM",
+        "videoPublishedAt": "2020-10-21T15:50:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vl3AWok5uac70cnffH7ZELpHsT0",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-10-21T15:48:09Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Maria Marchenkova & Michał Pierzchała - Testing Library Meets React Native",
+        "description": "Abstract:\nReact empowered us to render user interfaces anywhere – in memory, browsers, mobile devices to name a few. Rendering in memory is cheap and fast compared to runtime environment, so in-memory UI testing libraries emerged. One of the most popular one now is React Testing Library. Soon after it went public, React Native Testing Library was created trying to implement their style of testing for React Native components. And a few months later another one came to light out of the blue, quickly becoming an official one. The community ended up with two almost identical libraries. Sounds confusing, huh? It was! This story is about all this drama, how it eventually turned out, how community and empathy wins, how businesses help sustain OSS, sprinkled with examples of how you can test your React Native components with just JavaScript.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDE8E_uu19Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDE8E_uu19Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDE8E_uu19Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kDE8E_uu19Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kDE8E_uu19Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kDE8E_uu19Y"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kDE8E_uu19Y",
+        "videoPublishedAt": "2020-10-21T15:50:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eEOMU7oCPcWBx5bivWZEkRHPS6c",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-10-22T08:21:54Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Fabrizio Bertoglio - Contributing To React Native Is Easy",
+        "description": "Abstract:\nTalk Structure. \nContributing to React Native \n1) Set up the development environment \n2) Understand React Native Project Structure \n3) Finding an Issue to solve \n4) Publishing Pull Request \nContributing to react-native-camera \n1) Set up the development environment \n2) Understand the Project Structure \n3) Finding an Issue to solve \n4) Publishing Pull Request",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RQ2GiApkzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RQ2GiApkzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RQ2GiApkzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9RQ2GiApkzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9RQ2GiApkzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9RQ2GiApkzU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9RQ2GiApkzU",
+        "videoPublishedAt": "2020-10-22T08:26:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IqpsVVYboOrlh6CoiTGKF5nZ6Ts",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:11:36Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Pavlos Vinieratos - Xcode Complexity? No More.",
+        "description": "Abstract:\nXcode has been a big part of the difficulty users face when trying to upgrade React Native. We added CocoaPods to make linking in Xcode easier. We made upgrade-helper to document the changes in Xcode. We made upgrade-support to help users with their problems. Today, I'll show you how to make your Xcode problems go away.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/19y4UBV8irI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/19y4UBV8irI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/19y4UBV8irI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/19y4UBV8irI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/19y4UBV8irI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "19y4UBV8irI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "19y4UBV8irI",
+        "videoPublishedAt": "2020-10-22T11:14:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I0-QRxFNM1LQqKAbM0WmUUOqMuA",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:16:05Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Monica Restrepo - The great Divide: Bridging Native Modules And React Native",
+        "description": "Abstract:\nThis talk aims to give a detailed walk through Bridging Native modules into React Native applications and, React Native's Logic that allows this capability.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJxMl-lV2W8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJxMl-lV2W8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJxMl-lV2W8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DJxMl-lV2W8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DJxMl-lV2W8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DJxMl-lV2W8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DJxMl-lV2W8",
+        "videoPublishedAt": "2020-10-22T11:18:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5EGoOj-0PRWTNbXDatN-hOt_fls",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:17:56Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Dylan Jhaveri - Porting Your SDK To React Native",
+        "description": "Abstract:\nMux maintains 22 SDKs for video players on various platforms: Web, iOS, Android, Apple TV, Roku, Samsung TV. In this talk I will discuss how I used the core web library and built a wrapper SDK around react-native-video. The challenges involved and the workflow for porting over an SDK to React Native world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKS72PYFleY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKS72PYFleY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKS72PYFleY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKS72PYFleY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKS72PYFleY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XKS72PYFleY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XKS72PYFleY",
+        "videoPublishedAt": "2020-10-22T11:20:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sHicCgKNhujN_pWKfuLcvwwPAbw",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:46:34Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Kadi Kraman - GraphQL And React Native - The urql Edition",
+        "description": "Abstract:\nWhen it comes to using GraphQL with React Native, urql is the new kid on the block. I've had some time to use urql with React Native in production, and I'd like to share my experience: how to handle authentication, code sharing, caching, debugging effectively, and when you might or might not want to consider using urql on your next project.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lCmSaWwa8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lCmSaWwa8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lCmSaWwa8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1lCmSaWwa8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1lCmSaWwa8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1lCmSaWwa8U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1lCmSaWwa8U",
+        "videoPublishedAt": "2020-10-22T11:50:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_nqozunsWN6aAPNrurQ-E5wkYsQ",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:56:10Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Saknet Sahu - Building Real-Time Multi-User Apps With JSON Patches",
+        "description": "Abstract:\nSON patches can be used over JSON document for persistent storage that opens up the doors for realtime multi-user apps. They are serializable, small-sized, transferable between realms (threads and network); helps in multi-user implementation, easy to version with history (undo/redo), offline first (optimistic updates). Let's use JSON patches with React / React Native to build a framework for real-time multi-user apps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d7-RNEIVkqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d7-RNEIVkqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d7-RNEIVkqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d7-RNEIVkqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d7-RNEIVkqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d7-RNEIVkqQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "d7-RNEIVkqQ",
+        "videoPublishedAt": "2020-10-22T12:00:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ObERJFjte0mrABnl8C9ouaTSHw",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-10-22T14:15:04Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Juha Linnanen - GraphQLifying React Native App",
+        "description": "Abstract:\nCase study of migrating a large scale application (200k+ weekly users) to using Apollo Client 3.0 for data layer and state management. Features covered include \n\n- New BE GraphQL API to replace multiple separate api calls\n- Local resolver for REST API without GraphQL endpoint\n- Type policies using custom keyFields and cache references\n- Local state management with reactive variables for cache\n- Cache updates with queries and cache.modify\n\nThe end result turned out great, but the talk will also cover potential pitfalls and how those were able to be overcome.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6J9kD0bCXRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6J9kD0bCXRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6J9kD0bCXRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6J9kD0bCXRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6J9kD0bCXRw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6J9kD0bCXRw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6J9kD0bCXRw",
+        "videoPublishedAt": "2020-10-22T14:18:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WZIZohQUeeA-1bzvInPKFf6GgWc",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-10-22T14:23:19Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Gant Laborde - Who Said It?",
+        "description": "Abstract:\nIf we had the ability to read React Native blog posts from the future, it would be as useful as yesterday's lotto numbers.   The technology paradigms change often and when you've been developing React Native for years, it's easy to find yourself doing the same old thing.  I think the best way to test your practices, is to occasionally push yourself outside your comfort zone.  This is my story of writing an app with something new and what I learned.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YLBKcYmqV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YLBKcYmqV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YLBKcYmqV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YLBKcYmqV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YLBKcYmqV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4YLBKcYmqV4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4YLBKcYmqV4",
+        "videoPublishedAt": "2020-10-22T14:32:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tQleXUh2gZzdECQE7TzYP6nOBhc",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-10-22T14:33:09Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Alexander Kuttig - The Power Of Process Automation",
+        "description": "Abstract:\nWe are developing an app based on ReactNative and Firebase for a customer. The app has around 1.8 million downloads and around 300k active users. We are running a three week release cycle with new A/B tests and new features in every release. The application has 99.8% sessions without crashes and a 4.6/4.7 star rating on the AppStores. All that is achieved with only two developers. \nI want to share some insights on how we are able to make this possible. We are able to focus most of the time on developing by automating all tasks which we are able to automate and have clear processes wherever possible. The talk will focus a lot on how to specifically automate task in the ReactNative environment.\nSome examples of things we automated:\n- PR quality checks - Unit testing (Jest) + Code styling (ESlint) + Typechecking\n- End user testing on real devices (AWS Device Farm + Appium)\n- Testing Builds + Shipment to customer\n- Production Builds + Shipment to stores\n- Integration of translation systems\n- Generation of sourcemaps and shipment to bug tracking system",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2l2p1KR11JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2l2p1KR11JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2l2p1KR11JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2l2p1KR11JA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2l2p1KR11JA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2l2p1KR11JA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2l2p1KR11JA",
+        "videoPublishedAt": "2020-10-22T14:37:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Vnhr1WixXOFcOc7xyWNJZlvayw",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-10-22T14:43:26Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Talia Nassi - Controlled Mobile Rollout With React Native And Feature Flags",
+        "description": "Abstract:\nFeature flags allow development teams to separate code deployment from feature release. It has grown to be an essential tool for testing in production, A/B testing, and controlled rollout. Controlled rollout using feature flags is a way to deliver features to your users safely, but doing it on mobile comes with some challenges. How do you propagate feature flagging configuration to mobile devices that don’t always have a strong network? As a mobile developer, you want to be able to use the latest flag configuration, but you also don’t want to stop someone using the app just because you can’t load the feature flag config. \n\nIn this talk, we'll start with why controlled rollout is important and how feature flags enable you to do it successfully, then we will talk about mobile specifics, and then a demo with React Native.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2G5Q5n3BABY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2G5Q5n3BABY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2G5Q5n3BABY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2G5Q5n3BABY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2G5Q5n3BABY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2G5Q5n3BABY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2G5Q5n3BABY",
+        "videoPublishedAt": "2020-10-22T14:47:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kZdPCJQ7f7yTGEIaM0VqqGq2zuM",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-10-22T15:22:24Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Sebastien Lorber - Cross-platform: ReactNative, Jamstack, And Beyond",
+        "description": "Abstract:\nIn this talk, we'll go through the creation of gatsby-plugin-react-native-web, to more advanced cross-platform experiments I run on my static blog and my personal mobile app.\n\nWe'll use technologies like Gatsby, MDX, React-Native-Web, Expo, React-Navigation, Netlify, and see how all these tools can enable CI automated cross-platform content authoring solutions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ScgFQojbAAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ScgFQojbAAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ScgFQojbAAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ScgFQojbAAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ScgFQojbAAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ScgFQojbAAc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ScgFQojbAAc",
+        "videoPublishedAt": "2020-10-22T15:29:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DkG7p8Ei96xvyKhD-eVSLHWbTi8",
+      "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-10-22T15:24:09Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2020: Ramón Huidobro - 5 Lessons Learned From A Major React Native Upgrade",
+        "description": "Abstract:\nUpgrading dependencies can be a daunting experience. When dealing with numerous moving parts, diagnosing issues can demand a lot of patience.\n\nI recently had to upgrade a React Native app from 0.55.4 to 0.62.2 and learned some valuable lessons, which this talk aims to share.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQGcYHvYRRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQGcYHvYRRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQGcYHvYRRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQGcYHvYRRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vQGcYHvYRRQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vQGcYHvYRRQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vQGcYHvYRRQ",
+        "videoPublishedAt": "2020-10-22T15:28:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 23,
+    "resultsPerPage": 50
+  }
+}

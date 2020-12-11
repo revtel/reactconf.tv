@@ -1,0 +1,503 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "PwQIGT509NnKpqSyANL-g8pbP60",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fgO58SIo1B5_33i9MOlzgWLbAVY",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-10-02T03:00:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Ari Lerner: What's New in React? — ReactNext 2017",
+        "description": "The only constant we can could on in tech is that nothing ever stays still. This is a truth in tech and especially true in web development. React is no different. It’s getting faster, easier, and more reusable. In this talk, we’ll be taking a look at the new features of React and what you need to know for working with React 16. It’s a whirlwind topic with a lot of useful information about riding on React along it’s next iteration. Buzzwords: async rendering, error boundaries, fibers.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eKXQw5kR86c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eKXQw5kR86c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eKXQw5kR86c",
+        "videoPublishedAt": "2017-10-02T03:21:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fjOnEtb3865FFwo6TcZft70RvQE",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:59:21Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Doron Zavelevsky: Level Up Your React With TypeScript⁠⁠⁠⁠ — ReactNext 2017",
+        "description": "React and TypeScript are cool technologies that gained a lot of traction and love from web developers. TypeScript is a typed superset of JavaScript that compiles to clean, simple JavaScript code and enables developers to be more productive with better tools, intellisense and static checking. React lets you write JavaScript all through your app. It only makes sense to combine the two. In this talk I’ll go over the benefits of using TypeScript and how to introduce it to your React project, while reviewing common cases.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N-putwT5-tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N-putwT5-tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N-putwT5-tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N-putwT5-tU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N-putwT5-tU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N-putwT5-tU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N-putwT5-tU",
+        "videoPublishedAt": "2017-10-02T03:05:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x_wrMqCe_QizyuLW18aeHoe_gA4",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:15:31Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Juho Vepsäläinen: Webpack – The React Parts — ReactNext 2017",
+        "description": "The success of React also helped to leverage webpack. It’s the tool of choice for React developers. In this talk I will go through a variety of ideas and techniques that will help you get more out of webpack.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZuBmc0KHEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZuBmc0KHEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZuBmc0KHEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZuBmc0KHEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZuBmc0KHEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NZuBmc0KHEs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NZuBmc0KHEs",
+        "videoPublishedAt": "2017-10-02T03:05:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "swDygdazOmpBldSJGxWu-ul3o6I",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-10-02T01:50:15Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Sia Karamalegos: Universal React Apps Using Next.js — ReactNext 2017",
+        "description": "Server-side rendering and code-splitting can drastically improve user experience by minimizing the work that the client has to do. It’s easy to get lost in the lingo, so come learn what it all means and how to easily build universal React apps using the Next.js framework. We’ll walk through the concepts and use code examples to cement your understanding. You’ll get the most out of this session if you’re comfortable with React and ES6 syntax.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ukeXQD8BHuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ukeXQD8BHuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ukeXQD8BHuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ukeXQD8BHuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ukeXQD8BHuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ukeXQD8BHuM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ukeXQD8BHuM",
+        "videoPublishedAt": "2017-10-02T03:05:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hKiK_7VmZnUhfiX24wVnTROZZAs",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:16:33Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Boris Dinkevich: Practical Advanced Redux — ReactNext 2017",
+        "description": "Come and see some amazing things that can be done with Redux middleware and open source tools to make your Redux project shine. NOTE: This is an advanced talk for developers with practical experience using React & Redux.\n\nThe code for the lecture: https://github.com/500tech/middleware-lecture\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gjiu7Lgdg3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gjiu7Lgdg3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gjiu7Lgdg3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gjiu7Lgdg3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gjiu7Lgdg3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gjiu7Lgdg3s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gjiu7Lgdg3s",
+        "videoPublishedAt": "2017-10-02T03:05:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M1t9H3Pwwsf0tPMzI--chSH7Q10",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:16:52Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Michel Weststrate: React, But For Data — ReactNext 2017",
+        "description": "React and its component model is nowadays the most appealing abstraction to declaratively describe user interfaces. The core concepts are so powerful that we can apply them outside the DOM, like in React-VR, Sound manipulation, games etc. In this talk I will demonstrate that all the core ideas powering React are so powerful that we can even translate them to a completely different field: state management. MobX-state-tree applies these very same concepts to make data management declarative, elegant and easy to reason about.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfC_xEA8Z1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfC_xEA8Z1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfC_xEA8Z1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xfC_xEA8Z1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xfC_xEA8Z1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xfC_xEA8Z1M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xfC_xEA8Z1M",
+        "videoPublishedAt": "2017-10-02T03:05:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mQHPIO8I9-Cne4sQlWWZlD5SYiA",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:16:58Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gerard Sans: Relay Modern or Apollo? — ReactNext 2017",
+        "description": "New project starts. Everyone is excited. GraphQL is on the stack. Yay! Life is good! Suddenly someone pops the question. So which GraphQL Client should we use? What do you mean? Oh, nooo! 🙂 Don’t worry I’ve got your back. In this talk I am going to put these two under the microscope and find out what are they best at, what features they share and, most importantly, what are their key differences! You can relax.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7v03BxWnygo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7v03BxWnygo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7v03BxWnygo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7v03BxWnygo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7v03BxWnygo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7v03BxWnygo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7v03BxWnygo",
+        "videoPublishedAt": "2017-10-02T03:05:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CqvSRVs7eF0zyUcqllRlI7sJBIA",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:17:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Kyle Mathews: GatsbyJS — How to Create The Fastest Sites In The World — ReactNext 2017",
+        "description": "Gatsby is a modern JavaScript web framework that let’s you build the fastest websites in the world. It combines the fast performance of static websites, modern browser capabilities like and service workers, and the powerful abstractions, excellent tools, and client capabilities of the webapp world. It is a general purpose data-centric web framework that is successfully being used for a wide variety of sites including blogs, marketing sites, documentation sites, and ecommerce. Come listen to why you should build your next website with Gatsby.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gtd-Ht-D0sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gtd-Ht-D0sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gtd-Ht-D0sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gtd-Ht-D0sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gtd-Ht-D0sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gtd-Ht-D0sg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gtd-Ht-D0sg",
+        "videoPublishedAt": "2017-10-02T03:04:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lWy5EwrvPkohEsJuR3wFurd0zog",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:17:09Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Katarzyna Jastrzębska: Handling Side Effects in Redux With Redux-Saga — ReactNext 2017",
+        "description": "Have you ever struggled with making dependencies between reducers? Have you ever stepped into problem with mulitple async operations done at the same time doing huge mess in your state? Let me be your guide into redux sagas with tips, how and when you can use them in your application to solve all side effects problems at once.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTfjQZCGk_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTfjQZCGk_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTfjQZCGk_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bTfjQZCGk_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bTfjQZCGk_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bTfjQZCGk_0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bTfjQZCGk_0",
+        "videoPublishedAt": "2017-10-02T03:04:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8YDu_r8WzY8nU-_TkUy-m7aniC8",
+      "id": "UExNWVZxM3oxUXhTcXE2RDdqeFZkcXR0T1g3SF9CcnE4Wi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-10-02T02:17:14Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqq6D7jxVdqttOX7H_Brq8Z",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C2y0PKEyZCQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C2y0PKEyZCQ"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
+  }
+}

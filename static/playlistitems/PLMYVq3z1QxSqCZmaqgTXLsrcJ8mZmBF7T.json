@@ -1,0 +1,530 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "zqAlraric_0iGEDErOjS5n1MLK4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZB4azeLYv4d4PEwA6ehcBAyAoN0",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-10-02T13:52:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Vladimir Novick: Things You Didn't Know You Can Do With React Native — ReactNext 2017",
+        "description": "React Native framework is a popular solution nowadays of creating real Native apps with React. But what are it’s limits? In this talk I will cover things you probably haven’t thought about creating in React Native. We will see how Native code can be easily bridged into JavaScript world to create stunning visuals, connecting to wearables and much more.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1InokWxYGnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1InokWxYGnE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1InokWxYGnE",
+        "videoPublishedAt": "2017-10-02T13:52:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wQVT7oaeHQvSBMAxLkGc7wHzhB4",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-10-02T13:45:56Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Brian Hough: Get That CSS Out Of My JavaScript — ReactNext 2017",
+        "description": "React ushered in the era of JSX, bringing HTML to our JavaScript. Now that same community is doing the same for CSS. How’d we get here? What problems are the community trying to solve? Do we hate CSS? Get the perspective of someone who has spent more time than is healthy with existing CSS-In-JS solutions.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/js9BihmW9ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/js9BihmW9ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/js9BihmW9ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/js9BihmW9ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/js9BihmW9ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "js9BihmW9ak"
+        }
+      },
+      "contentDetails": {
+        "videoId": "js9BihmW9ak",
+        "videoPublishedAt": "2017-10-02T13:51:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mV7htpWGN2aAb_EtRZmgtsWqFoQ",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-10-02T13:50:57Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Brandon Dail: Critical ReasonML'ing — ReactNext 2017",
+        "description": "Let's face it, the code we write very rarely resembles the code we send over the wire. Modern web applications are already built with ES6/ES7+, type annotations, JSX, and other language extensions. We treat JavaScript more like a target language: something we compile to, not something we write. If we’re going to treat JavaScript as a compilation target, we should start thinking critically about what we really want in a source language. In this talk, I’m going to try to convince you, through critical ReasonML’ing, that OCaml + ReasonML is one of the most attractive, up-and-coming options to fill this role.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k77aR_JyvEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k77aR_JyvEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k77aR_JyvEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k77aR_JyvEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k77aR_JyvEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k77aR_JyvEE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "k77aR_JyvEE",
+        "videoPublishedAt": "2017-10-02T13:50:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DcIBCGEZLEyB-LvTuQZtFRycNZs",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-10-02T13:53:01Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yehonathan Sharvit: React on Steroids with ClojureScript — ReactNext 2017",
+        "description": "In this talk, we will see how fun and productive it is to write a React application using ClojureScript. ClojureScript is a pragmatic functional LISP-based language for the browser. It embraces immutability and provides the fastest wrappers for React like reagent and om. I will show the basics of the language and show how well it integrates with React. This talk will feature lots of live coding demo.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q85K-VZoQks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q85K-VZoQks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q85K-VZoQks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q85K-VZoQks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q85K-VZoQks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q85K-VZoQks"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q85K-VZoQks",
+        "videoPublishedAt": "2017-10-02T13:53:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c2QyqhvAHli91EE5UntbZXrbCzY",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:13:58Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Jai Santhosh: Dealing with Data Offline in Web Apps — ReactNext 2017",
+        "description": "This talk will explore and help us understand how we can elevate your apps with a Service Worker and explore various options of data management when you are offline including redux-offline, pouchdb, a simple IndexedDB. It will also look into how can you wire your application such that heavy offline data can be seamlessly sync-ed once the user gets online and few approaches of how to manage the behaviour of your APIs to help you with this aspect.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aKqBJl_eU_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aKqBJl_eU_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKqBJl_eU_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aKqBJl_eU_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aKqBJl_eU_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aKqBJl_eU_k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aKqBJl_eU_k",
+        "videoPublishedAt": "2017-10-02T13:53:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LPjlNRvlDLMf428QX0N5kMahfgU",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:14:07Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Peggy Rayzis: Write Once, Render Anywhere — ReactNext 2017",
+        "description": "Wouldn’t it be awesome if you could write a React component once and render it in web, native, and even VR applications without changing a single line of code? Thanks to several libraries that bring React Native’s primitives and APIs to the web, now you can! This talk will introduce three libraries that allow you to develop cross-platform components: React Native Web, React Primitives, and ReactXP. You’ll also learn how to architect your shared component base to achieve maximum reuse across platforms.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HLWM2uhv2wI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HLWM2uhv2wI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLWM2uhv2wI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HLWM2uhv2wI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HLWM2uhv2wI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HLWM2uhv2wI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HLWM2uhv2wI",
+        "videoPublishedAt": "2017-10-02T13:54:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "whNGogewpWB5E_zk0ygtcZCh85Y",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:14:23Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Shirley Wu: D3 and React, Together — ReactNext 2017",
+        "description": "D3 and React, who should control the DOM? After all, React’s whole purpose is managing updates to the DOM so we don’t have to. D3, on the other hand, is a library for building data visualizations, and it too needs access to the DOM. And stepping back, when should we even use D3 and React together? In this talk, I will give guidelines on when React should have ownership of the DOM, and when D3 should instead. More importantly, I will cover the interactions and applications that will benefit the most from using D3 and React, together.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w493jXg5D8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w493jXg5D8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w493jXg5D8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w493jXg5D8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w493jXg5D8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w493jXg5D8o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "w493jXg5D8o",
+        "videoPublishedAt": "2017-10-02T13:54:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bmme8XEvyDg1RC4nziBVWhCCJy4",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:14:31Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Florian Rival: Bridges to React Native — ReactNext 2017",
+        "description": "A great strength of React Native is how easily we can interface our app with native code. In this talk, I’m going to explain the lifecycle of a native module, how to call it, how to reuse screens and pages from an existing codebase or integrate React Native screens into an existing app.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k9qV73E3B_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k9qV73E3B_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k9qV73E3B_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k9qV73E3B_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k9qV73E3B_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k9qV73E3B_k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "k9qV73E3B_k",
+        "videoPublishedAt": "2017-10-02T13:55:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o_0B-3oJNSMgQ9G44evu-WoHDTA",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-10-02T11:14:44Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Rotem Mizrachi-Meidan: Detox — Graybox E2E Tests Library for React Native – ReactNext 2017",
+        "description": "High velocity native mobile development requires us to adopt continuous integration workflows, which means our reliance on manual QA has to drop significantly. The most difficult part of automated testing on mobile is the tip of the testing pyramid – E2E. The core problem with E2E tests is flakiness – tests are usually not deterministic. React Native makes flakiness worse due to the async nature of the bridge. We believe the only way to tackle flakiness head on is by moving from blackbox testing to graybox testing and that’s where detox comes into play. The library synchronizes with the lifecycle of the app, including React Native core, making tests finally deterministic.\n\nReactNext 2017\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgFFeI70PWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgFFeI70PWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgFFeI70PWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GgFFeI70PWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GgFFeI70PWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GgFFeI70PWw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GgFFeI70PWw",
+        "videoPublishedAt": "2017-10-02T13:56:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iWewKrmhdTo_u0cg5CWOWJyTxcM",
+      "id": "UExNWVZxM3oxUXhTcUNabWFxZ1RYTHNyY0o4bVptQkY3VC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-10-23T08:03:30Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Shay Keinan: WebVR and React — ReactNext 2017",
+        "description": "WebVR enables web developers to create frictionless, immersive experiences. We’ll explore the core concepts behind VR, see different demonstrations, learn how to get started with React VR and explore a new powerful approach for building VR experiences using React.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GOTO0Vs29Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GOTO0Vs29Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GOTO0Vs29Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GOTO0Vs29Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GOTO0Vs29Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSqCZmaqgTXLsrcJ8mZmBF7T",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GOTO0Vs29Rg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GOTO0Vs29Rg",
+        "videoPublishedAt": "2017-10-23T08:03:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
+  }
+}

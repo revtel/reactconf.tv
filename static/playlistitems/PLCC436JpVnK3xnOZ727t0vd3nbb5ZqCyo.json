@@ -1,0 +1,478 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "e77Mf7uRwHhK-ln0rVerlF6wS4M",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tbWIjSdr8RctDp_BqHVx5BvOry0",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Joshua Sierles - React Native playground lightning talk at react-europe 2015",
+        "description": "Soon after React Native's release, I started working on this tool to help share and test React Native apps: the React Native Playground (https://rnplay.org). Soon after, a team build around it and made it awesome in a matter of weeks: picking up sponsorship from Appetize.io and building an iOS app with React Native itself.  This talk is a quick overview of how it was built, highlighting the importance of early adopters and runnable examples.\n\nhttps://twitter.com/jsierles\nhttps://github.com/jsierles",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E8aAAXqrVG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E8aAAXqrVG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E8aAAXqrVG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E8aAAXqrVG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E8aAAXqrVG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E8aAAXqrVG0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "E8aAAXqrVG0",
+        "videoPublishedAt": "2015-07-08T16:50:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fOW7DnytjjjTO7IufmTIuLsj6Mw",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Ovidiu Cherecheș - Cosmos lightning talk at react-europe 2015",
+        "description": "Why does it become difficult to create and maintain components as your single page app ages?\nWhat if components were completely decoupled from other components and the global app state?\n\nHow to design components that are truly encapsulated?\nThis talk walks you through the development of Cosmos[0], a one year journey to create an elegant tool for designing encapsulated React components. How it started, the milestones and insights along the way, and what you can do with it today (live demo of Flatris[1] components insideComponentPlayground).\n\n[0] http://github.com/skidding/cosmos\n[1] http://skidding.github.io/flatris\n\nhttps://twitter.com/skidding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t9V2oKK83Kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t9V2oKK83Kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t9V2oKK83Kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t9V2oKK83Kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t9V2oKK83Kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t9V2oKK83Kg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "t9V2oKK83Kg",
+        "videoPublishedAt": "2015-07-14T12:07:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SA_HKfECasVGSv_l8D3VzLWdfo0",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Mike Grabowski - Going native with Este.js lightning talk at react-europe 2015",
+        "description": "Este.js is the most complete React/Flux dev stack. The perfect cure for developers already tired with mainstream frameworks  like Angular or Ember.\n\nIt ships with lots of goodies including immutable single app state, top-down data passing and intl translations out of the box!  So let's use all these features to start building native apps!\n\nIn this lightning he is walking you through the process of transitioning Este.js dev stack to the native world  outlining the most common problems and pitfalls we needed to face, including:\n  - Project setup - preparing the native application ecosystem and reorganising the folder structure\n  - Migration - moving the codebase to React Native, deciding what files can be just dropped in and what needs to be rewritten\n  - Styles - replacing stylesheets and mixins with StyleSheet showing good-to-use patterns we can use to make it all maintainable\n  - Routing - handling lack of the React Router with custom navigation on top of Navigator\n\nhttp://github.com/grabbou\nhttp://twitter.com/grabbou",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jjH52K-zYeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jjH52K-zYeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjH52K-zYeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jjH52K-zYeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jjH52K-zYeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jjH52K-zYeM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jjH52K-zYeM",
+        "videoPublishedAt": "2015-07-14T13:58:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zu1hMMrENrLFUMQ6urQLBYP1gVU",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Dave Brotherstone - Everything they don't tell you about context lightning talk at react-europe 2015",
+        "description": "Rule number 1 of context-club, is don't talk about context. It's undocumented and subject to change, but lots of libraries need it and use it. This talk promises to be a humourous look at context, and will go through the concepts and APIs, whilst attempting not to mention the word \"context\".  Some things are due to change in 0.14, and there's plenty of discussion going on about how to move forward with it, so let's get prepared.\n\nhttps://twitter.com/@bruderstein \nhttps://github.com/bruderstein",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H7vlH-wntD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H7vlH-wntD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H7vlH-wntD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H7vlH-wntD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H7vlH-wntD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H7vlH-wntD4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "H7vlH-wntD4",
+        "videoPublishedAt": "2015-07-14T14:10:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VxDuRjpExP73RuFl_0pfkgrPm_k",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Sunil Pai - Disto lightning talk at react-europe 2015",
+        "description": "Sunil works as a UI architect for myntra.com, which famously shut down its website earlier this, year to go app-only.\nHe talks about how he dealt with the situation personally / professionally, he wrote some thoughts about this https://myntra.github.io/2015/05/17/personal-thoughts-on-the-shutdown-of-the-myntra-website/,  how React saved his career and sanity, and what their new stack is starting to look like.\n    Featuring - disto, his flux framework with full record / replay, dev tools, hot loading, etc, and cortex, myntra's in-house native 'content system', to be open sourced later this year.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9yb-6GskMH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9yb-6GskMH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9yb-6GskMH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9yb-6GskMH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9yb-6GskMH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9yb-6GskMH4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9yb-6GskMH4",
+        "videoPublishedAt": "2015-07-09T12:07:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oVXrvUi2uXC7l0WVexszZmC-KyM",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Andreas Savvide - D3.js with React lightning talk at react-europe 2015",
+        "description": "d3 has been the de facto standard when it comes to data visualisations for a while now and React has recently emerged as the go-to library for building user interfaces. d3 and React are both data-centric libraries, making them a natural fit; d3 takes a data-driven approach and React aims to solve the problem of data changing over time in the context of building large applications.\n    \nIn recent months, there have been various approaches documented on how to effectively use d3 and React together. In this talk, I will be going through what I have learned from all those approaches and how I go about creating reusable chart components with some examples of things I have already built.\n    \nAll reusable components that I make use of and present during my talk will be open sourced.\n\nhttp://ansavvides.github.io/\nhttps://twitter.com/andrs\nhttps://github.com/AnSavvides",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Pbf0n85HH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Pbf0n85HH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Pbf0n85HH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Pbf0n85HH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Pbf0n85HH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6Pbf0n85HH8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6Pbf0n85HH8",
+        "videoPublishedAt": "2015-07-14T14:17:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fkKDwttKAD7dvmAR9O0Q9VYIlms",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Petr Bela - Relay-like REST-friendly Immutable-based data lib lightning talk at react-europe 2015",
+        "description": "In the first wave of Flux frameworks we built our own (it seems everyone had).\n\nHowever, we don't like the amount of boilerplate code we have to write, and we haven't found any Flux library that would solve that.\n\nThere's a light at the end of the tunnel, and it's called Relay. Two problems. Relay is not here yet. And it's not designed to work with REST. Our entire platform is built as a collection of REST services, and we have JS SDKs that wrap around the endpoints.\n\nSo the question is, can we have *something* that is as simple to integrate with React components as Relay is, and lets client-side models deal with data persistence?\n\nWe have a POC and a plan. At this point I'm not sure if the plan will work out, which makes this talk proposal really interesting - either it's going to be about a brand new library, or it will be a reflection on what went wrong / why it can't be done. (But hey, we're engineers, it *has* to work. Trust me.[0])\n\n[0] http://cdn.mothership.sg/wp-content/uploads/2014/11/engineering-meme-3.jpg\n\nhttp://petrbela.com\nhttps://twitter.com/petrbela\nhttps://github.com/petrbela\nhttps://github.com/chute/turbine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YttDwhcNlBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YttDwhcNlBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YttDwhcNlBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YttDwhcNlBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YttDwhcNlBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YttDwhcNlBs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YttDwhcNlBs",
+        "videoPublishedAt": "2015-07-14T14:17:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2XL6oJoFvpqu83zPhfXzqTVyap0",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Red Badger Hackathon Challenge Winner at react-europe 2015",
+        "description": "React-Snake by Rob, Laurens, Matthijs\n\nhttps://github.com/react-europe/hackathon/pull/15",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LUWOdYoyJ34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LUWOdYoyJ34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LUWOdYoyJ34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LUWOdYoyJ34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LUWOdYoyJ34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LUWOdYoyJ34"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LUWOdYoyJ34",
+        "videoPublishedAt": "2015-07-14T14:18:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a9KNoqHbJcWzEpy0vB19uTOTenE",
+      "id": "UExDQzQzNkpwVm5LM3huT1o3Mjd0MHZkM25iYjVacUN5by4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-07-10T10:35:43Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Touchstone challenge winner at react-europe 2015",
+        "description": "This application is a little mobile manga reader built using TouchStone using the MangaEdent API by François de Campredon.\n\nhttps://github.com/react-europe/hackathon/pull/10",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDOtVvRElGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDOtVvRElGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDOtVvRElGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDOtVvRElGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDOtVvRElGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xnOZ727t0vd3nbb5ZqCyo",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDOtVvRElGY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wDOtVvRElGY",
+        "videoPublishedAt": "2015-07-14T14:18:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 50
+  }
+}

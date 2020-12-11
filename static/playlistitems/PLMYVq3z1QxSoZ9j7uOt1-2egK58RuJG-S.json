@@ -1,0 +1,270 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "oDNksH5wxdSRws4GwQ5NZEp_Svc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z84x1guMetYFn0R74plQc8FkF_w",
+      "id": "UExNWVZxM3oxUXhTb1o5ajd1T3QxLTJlZ0s1OFJ1SkctUy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:29:50Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Barak Chamo: High Performance GraphQL — ReactNext 2016",
+        "description": "DataLoader is the missing piece in the React-Relay-GraphQL stack, a utility for caching and coalescing data queries to optimize large, nested GraphQL queries. Digging through it's internals and in turn, JavaScript's internal asynchronous model, we'll see how DataLoader leverages Node's event loop and micro task management to coalesce database calls and dramatically improve upon caveats in common GraphQL-based apps.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c35bj1AT3X8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c35bj1AT3X8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "c35bj1AT3X8",
+        "videoPublishedAt": "2016-10-04T11:58:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SuMd0YgFyKUvYhg_M9bC1uPiJ0A",
+      "id": "UExNWVZxM3oxUXhTb1o5ajd1T3QxLTJlZ0s1OFJ1SkctUy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:29:50Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Anna Blanki: Overcoming React's Limitations — ReactNext 2016",
+        "description": "React is a great library for declarative programming - but what happens when you need to work imperatively? In this talk I'll demonstrate edge cases I met while implementing performant canvas-based image viewer using React - and how I overcame them.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Qo3WFDDSFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Qo3WFDDSFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Qo3WFDDSFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Qo3WFDDSFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Qo3WFDDSFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Qo3WFDDSFs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_Qo3WFDDSFs",
+        "videoPublishedAt": "2016-10-06T06:47:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jQQLtWpRasJ_Zf5vr6GLMg3tTCw",
+      "id": "UExNWVZxM3oxUXhTb1o5ajd1T3QxLTJlZ0s1OFJ1SkctUy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-10-11T09:43:59Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016",
+        "description": "At Callstack.io, we have been working on the media player for one of our clients on both iOS and Android and decided to do it in React Native. React Native itself doesn't provide any APIs to control lock screen, bluetooth headphones or music playback thus they all have to be written. In this talk, we will check how all the above can be added to React Native with native modules while still being 100% reusable and easy to maintain.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_awnyW-9aJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_awnyW-9aJ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_awnyW-9aJ8",
+        "videoPublishedAt": "2016-10-11T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H1paEpbAWbI5BGzJAbnvC15oKc4",
+      "id": "UExNWVZxM3oxUXhTb1o5ajd1T3QxLTJlZ0s1OFJ1SkctUy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-10-13T08:10:33Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Tayar: An Ode to Node: Testing Frontend the Backend Way — ReactNext 2016",
+        "description": "Testing Frontend code is painful. You can either do small unit tests that don't check a lot, or you have to use automation tools to test your code in a living browser. There is a third alternative, which can be a very natural way to test your code - run your frontend code under Node! The benefits are enormous - simple debugging, no need for transpiling and bundling, and no need to raise a server to run the tests.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hRVD78I3Fo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hRVD78I3Fo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hRVD78I3Fo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hRVD78I3Fo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hRVD78I3Fo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hRVD78I3Fo0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hRVD78I3Fo0",
+        "videoPublishedAt": "2016-10-13T11:20:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UDxsJFFtWfIfX53nYnXMjdw5R1Q",
+      "id": "UExNWVZxM3oxUXhTb1o5ajd1T3QxLTJlZ0s1OFJ1SkctUy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-11-07T11:56:37Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Mazuz: Rx-Powered Functional Reactive Flux — ReactNext 2016",
+        "description": "Some state management libraries for ReactJS provide a taste of Functional Reactive Programming, but to really cash in on FRP you must fully embrace it. That's why at NSO we've developed a Functional Reactive Flux architecture by harnessing the power of RxJS - and we now have completely predictable state and UI. In this talk we will go over the merits of FRP and share our journey from idea to production.\n\nReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wh83qXOb03g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wh83qXOb03g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wh83qXOb03g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wh83qXOb03g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wh83qXOb03g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSoZ9j7uOt1-2egK58RuJG-S",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wh83qXOb03g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Wh83qXOb03g",
+        "videoPublishedAt": "2016-11-07T11:55:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "jVNKSeepjluAmJTZdsiq9zAMOck",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eg4V4g_5pT3ITPqjp7Iw_lfWKww",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Sunil Pai -  The “Something” Statements",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pvi0yUwSBec"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pvi0yUwSBec",
+        "videoPublishedAt": "2018-08-22T18:47:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VhBlnhv49ojXgIpPO94bv2R8W98",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Sophia Shoemaker - React  Off the Grid",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UHNfv6k_1OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UHNfv6k_1OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UHNfv6k_1OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UHNfv6k_1OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UHNfv6k_1OQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UHNfv6k_1OQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UHNfv6k_1OQ",
+        "videoPublishedAt": "2018-08-22T18:47:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mBYM1IGozuXK4NOkP3nRuj4weL4",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Shirley Wu - Data Visualizations",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1PDU2Ckt5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1PDU2Ckt5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1PDU2Ckt5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S1PDU2Ckt5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S1PDU2Ckt5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S1PDU2Ckt5w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S1PDU2Ckt5w",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r05d7UzSdqpPA8r75cItSD-NHiQ",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Shawn Swyx Wang - Why React is  not  Reactive",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyFHR0dDZo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyFHR0dDZo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyFHR0dDZo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nyFHR0dDZo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nyFHR0dDZo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nyFHR0dDZo0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nyFHR0dDZo0",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sAfbg3yXIpMg-C0kilNxF60QH60",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Ryan Moore - The Life Cycle Methods And The Wolf - A Musicological Romp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4XxQl-1JJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4XxQl-1JJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4XxQl-1JJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o4XxQl-1JJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o4XxQl-1JJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o4XxQl-1JJU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "o4XxQl-1JJU",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dt2zwycOHlabP5e1fpcVupWhZtw",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Ryan Florence - Route Recalculating",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X-kA8B2QzjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X-kA8B2QzjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X-kA8B2QzjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X-kA8B2QzjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X-kA8B2QzjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X-kA8B2QzjY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X-kA8B2QzjY",
+        "videoPublishedAt": "2018-08-22T18:47:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZkUIHnuFilv7eRqZjtL_3i_JatA",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Michael Chan - Hot Garbage  Clean Code is Dead",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-NP_upexPFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-NP_upexPFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NP_upexPFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-NP_upexPFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-NP_upexPFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-NP_upexPFg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-NP_upexPFg",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VagCqMB4Egrht_mKaBCniM6T5cs",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Lauren Tan - Swipe Left, Uncaught TypeError: Learning to Love Type Systems",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y3uXazpAdwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y3uXazpAdwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y3uXazpAdwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y3uXazpAdwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y3uXazpAdwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y3uXazpAdwo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y3uXazpAdwo",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8npgMTW8792ny4OBvA8usOIic08",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Kent C  Dodds - Simply React",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AiJ8tRRH0f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AiJ8tRRH0f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AiJ8tRRH0f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AiJ8tRRH0f8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AiJ8tRRH0f8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AiJ8tRRH0f8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AiJ8tRRH0f8",
+        "videoPublishedAt": "2018-08-22T18:47:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q5Jl85EUagOz8SEtEETVLId96os",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Ken Wheeler - ReasonML is Serious Business",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lzEweA7RPi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lzEweA7RPi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lzEweA7RPi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lzEweA7RPi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lzEweA7RPi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lzEweA7RPi0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lzEweA7RPi0",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tg9hiqcVd-1rjOOJxGGWxk2MZsE",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SiuuRdtYdWM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SiuuRdtYdWM"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3nTwegAQYg-2V6x2tGhSbatPcSk",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Joshua Comeau - Explorable Explanations with React",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XjFR9Jc-ras/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XjFR9Jc-ras/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XjFR9Jc-ras/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XjFR9Jc-ras/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XjFR9Jc-ras/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XjFR9Jc-ras"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XjFR9Jc-ras",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9s1H2W-H259S1oNWg8JC6hnMMuo",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Jennifer Wong - Translating React",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r33EWrP5EL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r33EWrP5EL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r33EWrP5EL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r33EWrP5EL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r33EWrP5EL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r33EWrP5EL4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "r33EWrP5EL4",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PKq35vADSb15RFOpqQL2HkbnYqo",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Jay Phelps - Help me WebAssembly, you're my only hope!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6KeDFvdxRZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6KeDFvdxRZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6KeDFvdxRZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6KeDFvdxRZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6KeDFvdxRZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6KeDFvdxRZk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6KeDFvdxRZk",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4v8sY0_DXqVNGuMNUAAwUhCdCgk",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Henry Zhu - Through the Open Source Looking Glass",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h0sfFX7WH1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h0sfFX7WH1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0sfFX7WH1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h0sfFX7WH1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h0sfFX7WH1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h0sfFX7WH1c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "h0sfFX7WH1c",
+        "videoPublishedAt": "2018-08-22T18:47:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W0buVVMZFOja7t9D_IgkGr6iYhA",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Feather - AI For Everybody",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vbu7a2P_dQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vbu7a2P_dQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vbu7a2P_dQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vbu7a2P_dQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vbu7a2P_dQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vbu7a2P_dQ4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Vbu7a2P_dQ4",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uNJRj0a05ZD-bSsDIqS814OUS9U",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Eve Porcello - Everything You Need to Know About GraphQL in 3 Components",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F_M8v6MK0Sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F_M8v6MK0Sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F_M8v6MK0Sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F_M8v6MK0Sc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F_M8v6MK0Sc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F_M8v6MK0Sc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "F_M8v6MK0Sc",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1C7nsoQSOhu9d7QM0y1iXGcz2cE",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Carrie Maxwell - Reacting in a Crisis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1E6C8O7fk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1E6C8O7fk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1E6C8O7fk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S1E6C8O7fk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S1E6C8O7fk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S1E6C8O7fk0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S1E6C8O7fk0",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HxSMP_CrNzQog_3NQroXCr9eqLU",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Brian Holt - Chaos Monkeys in Your Browser  What Chaos Engineering Means For the Front End",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A4_rRj-4Mv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A4_rRj-4Mv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A4_rRj-4Mv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A4_rRj-4Mv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A4_rRj-4Mv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A4_rRj-4Mv0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A4_rRj-4Mv0",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z3TSzLPovwsZzb7uJdtx85uh6KM",
+      "id": "UExVRDRrRC13TF96WWZoZEwtMDRJVEY0ZFk2S25EbWF5di4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:12:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Brandon Dail - Algebraic effects, Fibers,  Coroutines   Oh my!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7GcrT0SBSnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7GcrT0SBSnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7GcrT0SBSnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7GcrT0SBSnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7GcrT0SBSnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7GcrT0SBSnI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7GcrT0SBSnI",
+        "videoPublishedAt": "2018-08-22T18:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  }
+}

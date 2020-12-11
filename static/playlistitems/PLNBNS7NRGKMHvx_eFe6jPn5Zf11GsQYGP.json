@@ -1,0 +1,478 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "utTfLo0pd20dSVjdSzN7XOFSouo",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KNjBl9CDiMY7oSyYtM43dL-oGog",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:01:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Microinteractions & Animations in React Native: Help users understand the UI - Catalin Miron",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Microinteractions and Animations in React Native\nA microinteraction goal is to provide feedback based on the user’s action. This can help users visualize how the interface moves or behaves, even though it’s purely digital on a flat screen.\n\n- What is a microinteraction\n- The power of microinteraction\n- How microinteractions work\n- Basic microinteraction breakdown: Action, Reaction and Feedback\n- Microinteractions examples in React Native\n\nDating app: https://github.com/catalinmiron/react-native-dating-app\nSwipe cards: https://github.com/catalinmiron/react-native-swipe-cards-interaction\nPhoto walkthrough: https://github.com/catalinmiron/react-native-photo-walkthrough\nNavigation transition: https://github.com/catalinmiron/react-native-nav-transition\nShopping list + details: https://github.com/catalinmiron/mobile-shopping-react-native\nFeedback form morph effect: https://github.com/catalinmiron/react-native-morph-svg-gradient\nSeat selection: https://github.com/catalinmiron/react-native-seat-selection\nSync data and intro animation: https://github.com/catalinmiron/react-native-intro-animation.\n\nCatalin Miron\nReact, React Native, GraphQL and OS enthusiast.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5SgLyfiDnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a5SgLyfiDnU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "a5SgLyfiDnU",
+        "videoPublishedAt": "2020-01-06T08:03:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OEZRXjwXVyeyWpCMq5ZfuT3iQjE",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:01:33Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Demystifying Complex Animations Creation Process in React Native - Vladimir Novick",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying Complex Animations Creation Process in React Native\n# React Native Track\n\nWhile Animations can be created in React Native pretty easily, real world mobile apps require a combination of several layers of animations, gestures and micro interaction animations to make user experience stand out. Walk through the process from defining complex animation, to implementing it by going through all stages of animation creation process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aOiq-xNSqRo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aOiq-xNSqRo",
+        "videoPublishedAt": "2019-05-03T08:52:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "061vdUTN5u3aGog7LBo69jWrwQc",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:02:01Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooked on D3: Create Animated Ch(art)s with D3 and React Hooks - Monica Wojciechowska",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooked on D3: Creating Animated Ch(art)s with D3 and React Hooks\n\nFrom a quick glance, it might not seem like D3 and React are a match made in heaven. After all, they’re both all about being in charge - who gets to render, who gets to update, who gets to decide how things should look... the story goes on and on. But with these two, as in life, the best relationship is about compromise and sharing responsibilities. So, how can we turn a tug-of-war into a beautiful, responsive, animated tango? Enter, React hooks!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I-PZ7rQWs04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I-PZ7rQWs04",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C24T7rl7cI-fOcFzeHFcVwd0vtw",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:09:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "HobbyTrack: How to perform live trippy visuals with WebGL - Alex Kempton",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# HobbyTrack: How to perform live trippy visuals with WebGL\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B6z0flqI9Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B6z0flqI9Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B6z0flqI9Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B6z0flqI9Lk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B6z0flqI9Lk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B6z0flqI9Lk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "B6z0flqI9Lk",
+        "videoPublishedAt": "2020-01-06T08:03:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sSuYHr6cu8j5iOsd108e87hAVTo",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:09:51Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Large Scale 3D Apps with WebGL and React - Denis Radin",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Large Scale 3D Apps with WebGL and React\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TevXBVy5jpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TevXBVy5jpg",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VCeavjUa3ti40ABp1zTnROYchVs",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:04Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Painting Pixels with WebGL & React Hooks: Powerful GPU-driven visuals in React apps - Ashi Krishnan",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Painting Pixels with WebGL with React Hooks\n\nWebGL lets you unlock the power of your GPU. In principle, you can paint almost anything you can dream of. In practice, WebGL is hard, and though projects like three.js make it easier, there are still a lot of hurdles to integrating it into your site in a practical way.\n\nLet's explore how Hooks can make it easier to integrate powerful GPU-driven visuals into our React apps, giving us the best of both worlds: the power of WebGL with the ease and expressiveness of a React component tree.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1NZvwicGK4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1NZvwicGK4U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1NZvwicGK4U",
+        "videoPublishedAt": "2019-04-25T06:47:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0g_fEDsuyj_76jhRau97-8-7SE",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:10:17Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Denis Radin: React WebGL in Liberty Global",
+        "description": "Denis Radin, Liberty Global, Amsterdan on React WebGL in Liberty Global\n\nA story about connecting, discovering, be free to choose between ‪WebGL‬ / ‎Canvas‬ / ‪‎DOM‬ / ‪#Native‬ or any other UI renderer that will help you learn and better do your projects\n\nSlides are https://speakerdeck.com/reactamsterdam/denis-radin-liberty-global-amsterdam-connect-discover-be-free\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2E7JYEOqAyw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2E7JYEOqAyw",
+        "videoPublishedAt": "2016-06-07T15:00:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vryf9kz5zX4AC1cXrbBfWw4ldfs",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-25T12:25:17Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "An SVG’s Tale: See the superpowers of React and SVG - Elizabet Oliveira",
+        "description": "Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# An SVG’s Tale\n# General Track\n\nDevelopers and designers don’t often use all SVG superpowers in their React applications.\n\nThis way, to drive your inspiration, Elizabeth tells you the story of an SVG image that one day made a very special friend - ReactJS. Alone and despised by its family, SVG yelled: Enough! Now you’ll see what I’m all about! And with this epic scream, little SVG unveiled all its superpowers. She took her friend React and they showed the world how to come up with creative solutions together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BISiYX5s_Qw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BISiYX5s_Qw",
+        "videoPublishedAt": "2019-05-03T08:52:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kLCR_PH5z0cWuTdrdnsbeMwjTTE",
+      "id": "UExOQk5TN05SR0tNSHZ4X2VGZTZqUG41WmYxMUdzUVlHUC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:05:05Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Data Visualizations and Internationalization: Make apps for a global audience - Naomi Meyer",
+        "description": "Talk recording from React Day Berlin Conference 2019\n \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Data Visualizations and Internationalization\nBuilding React custom data visualizations with full international support is not always easy.\nThis past year, Naomi worked to add new data visualizations features and modify legacy visualizations, for an international audience - on her team at Adobe. It’s been a learning process to correctly format strings, numbers, dates, times, currencies, calendars, x/y axis, and more!\n\nIn this talk, Naomi shares some of the useful techniques she has learned about customizing data visualizations for a global audience. With a focus on React and high level ideas to keep in mind when designing, coding, testing, internationalizing, and localizing data visualizations for the world!\n\nNaomi Meyer\nNaomi works as a Software Development Engineer at Adobe in New York City, where she is the product champion for internationalization (i18n) on her team. Before writing JavaScript full time, Naomi worked teaching English as a foreign language in local classrooms across Asia and West Africa. She is passionate about developing with diversity, inclusion, and internationalization (i18n) in mind, and enjoys hiking and riding bikes on the weekends.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qq9BaUKUfpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHvx_eFe6jPn5Zf11GsQYGP",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qq9BaUKUfpY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qq9BaUKUfpY",
+        "videoPublishedAt": "2019-12-13T09:25:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 50
+  }
+}

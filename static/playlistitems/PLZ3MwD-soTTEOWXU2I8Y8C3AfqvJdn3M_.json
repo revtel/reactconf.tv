@@ -1,0 +1,1560 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "14x_gHY1qJ_zLmK0Hht0rLrMN_4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mq5W87_MngJoU_6UQqbF_Pp3h7w",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2018-09-19T14:14:52Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2018 - Mike Grabowski INTRO",
+        "description": "Are you ready?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0teBk9seF5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0teBk9seF5M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0teBk9seF5M",
+        "videoPublishedAt": "2018-09-19T14:14:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZkObcal_yWXMpixD2A2Kk1ujltc",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2018-09-19T14:23:12Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Mike Grabowski - Look at the Core",
+        "description": "React Native EU Conference 2018",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dmj22Zo4sFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dmj22Zo4sFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dmj22Zo4sFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dmj22Zo4sFg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Dmj22Zo4sFg",
+        "videoPublishedAt": "2018-09-19T14:23:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TIEtj5ZrnV1I2V2tPy7dYlWsB2M",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Eric Vicenti - Owning Transitions",
+        "description": "The \"Transitioner\" is the view in React Navigation responsible for animating between screens and supporting navigation gestures. We will discuss how views like \"stack\" work today, how they evolved, and how they fit into React Navigation and other navigation libraries. Historically, it has been quite difficult to create custom screen transitions and gestures. So the time has come to introduce a new Transitioner, and give you complete control over screen transitions in your React Native App.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LKqGx3z0W4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LKqGx3z0W4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LKqGx3z0W4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LKqGx3z0W4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LKqGx3z0W4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1LKqGx3z0W4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1LKqGx3z0W4",
+        "videoPublishedAt": "2018-09-14T13:41:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7DARbpqpa9a8OFCXBmOtbHykX8U",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Roy Derks - GraphQL Will Do To REST What JSON Did To XML",
+        "description": "Why GraphQL will become the new standard for accessing external data in your React Native app. I will show how using GraphQL instead of REST services the development process becomes even more declarative as GraphQL will take away the (imperative) hassle of tying data from multiple endpoints together. This will increase the level of complexity in React Native development, while also increasing the performance of the application.\n\nSlides: https://www.slideshare.net/RoyDerks1/graphql-will-do-to-rest-what-json-did-to-xml-113763718",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oYimRomwJYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oYimRomwJYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oYimRomwJYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oYimRomwJYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oYimRomwJYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oYimRomwJYo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oYimRomwJYo",
+        "videoPublishedAt": "2018-09-14T13:41:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "erOVs2oT0oYIaaONkcT8MUtWzkU",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Sara Vieira - GQL all the Things!",
+        "description": "Let's take a look at look at what we can do with React Apollo today, how we can use it to even manage our local state and see what the future holds for us in the new releases of React Apollo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tiJqAsT6GE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tiJqAsT6GE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tiJqAsT6GE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tiJqAsT6GE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tiJqAsT6GE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3tiJqAsT6GE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3tiJqAsT6GE",
+        "videoPublishedAt": "2018-09-14T13:41:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j7QJjFeQsi_9ZZJO-ACXIRT7ijE",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Krzysztof Magiera - It all starts with navigation",
+        "description": "For the past 2.5 years I've been working on a bunch of projects, all aiming to expose some native capabilities to be controlled from JavaScript in React Native app. Most notable ones were: native driver support for Animated and two libraries: React Native Gesture Handler and Reanimated. All these projects were inspired by needs of navigation libraries and were meant to fill the gap between platform native navigation solutions and ones that are available in React Native.\nOur React Native projects often starts by deciding whether to go with native navigation (react-native-navigation) or JS navigation library (react-navigation). But given all these improvements can we still call react-navigation \"not native\"? In this talk we will learn how Gesture Handler and Reanimated libraries came to live with navigation being the driving force. In this context I will discuss how far is react-navigation from finally proclaiming the badge of really native navigation library.\n\nSlides: https://speakerdeck.com/kmagiera/it-all-starts-with-navigation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0Jl1KCWiag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0Jl1KCWiag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0Jl1KCWiag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z0Jl1KCWiag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z0Jl1KCWiag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z0Jl1KCWiag"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Z0Jl1KCWiag",
+        "videoPublishedAt": "2018-09-14T13:41:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EiqsbV6PJQ9rI6rx0TJF_Idl9J0",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Quinlan Jung - Self hosting mobile applications",
+        "description": "When building a website, you expose an endpoint where you control the contents that are served back to a user. What if you could do this with a mobile app? Quin will be talking about how you can host your own javascript bundles, writing your own policies so you control exactly what version of the app different users get, and pushing them over the air to users for real time updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mk1uE4S4ykM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mk1uE4S4ykM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mk1uE4S4ykM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mk1uE4S4ykM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mk1uE4S4ykM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mk1uE4S4ykM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Mk1uE4S4ykM",
+        "videoPublishedAt": "2018-09-14T13:41:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mSc3mSFtemIdr7Iv3OJTetZT9MU",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Pavlo Babenko - How to hang a painting on the wall with React Native",
+        "description": "So you want to buy a painting, but not sure which one. Or where to place it? we have a solution. Just use your phone for this. Augmented reality becomes more popular in recent years. Companies like Apple or Google invests tons of money to develop AR support. Smartphones became powerful enough to deal with all these new features. And it'll be ridiculous not to use all this power when looking for the best place to put a piece of art. In this talk we'll be looking at ARKit from Apple and the ways how we can use it with React Native. We'll be building a simple app to hang paintings on the wall and learning how to deal with newest AR technologies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-ZFOL_aLr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-ZFOL_aLr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-ZFOL_aLr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y-ZFOL_aLr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y-ZFOL_aLr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y-ZFOL_aLr8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y-ZFOL_aLr8",
+        "videoPublishedAt": "2018-09-14T13:41:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ppx-7G8qtZpi02aebWlAJ8kxek",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Radosław Pietruszewski - Next-generation React databases",
+        "description": "How do you manage user data in your React Native app? A popular approach is to use Redux or MobX with a persistence adapter. This works great for small, simple apps, but it has a serious flaw: it doesn't scale very well. Introducing WatermelonDB — a next generation database for React and React Native. Here's why you should care: \n- Highly scalable. Works as well for 20,000 database records as it does for 100. Instant launch. No matter how much data you have, the app still launches with near-zero performance penalty \n- Lazy loaded everything. Don't load all data at launch, query only the exact records you need. That's why it's fast! \n- Fully reactive. All records and queries are observable using RxJS. A change in one place propagates to all other places automatically \n- Made for React. Comes with a HOC so you can declaratively tie together data and components \n- Relational. Document stores are simple, but relational databases are powerful. Want to find, say, all posts that have a comment by user X? Sure, that'll be about a millisecond. \n- Cross-platform. Works on iOS and Android (using SQLite), on the web (using LokiJS), and it's easy to add more \n- Performant. Uses asynchronous processing, multi-threading (also on the web), resource sharing, and caching to squeeze extra performance \n- Built for sync. Comes with syncing primitives so you can supply your own synchronization code",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UlZ1QnFF4Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UlZ1QnFF4Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UlZ1QnFF4Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UlZ1QnFF4Cw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UlZ1QnFF4Cw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UlZ1QnFF4Cw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UlZ1QnFF4Cw",
+        "videoPublishedAt": "2018-09-14T13:41:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NPqWR27I6tbiNubhrM85L_XJ_9Q",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:50Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "[LIGHTNING TALK] Ferran Negre Pizarro - Paper: Welcome to Material Design 2.0",
+        "description": "react-native-paper has always tried to deliver first class components for your React Native application. Highly adaptable, accessible and theme awareness for both Android and iOS following material design guidelines in a strict way. In this lighting talk we are gonna explore what we can do with Paper and discover everything that the team has been working on the past few months.\nWe are going to walkthrough the present and the future of Paper. And just FYI, we have a surprise prepared for today so stay tuned till the end!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0CxUzjWkRms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0CxUzjWkRms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0CxUzjWkRms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0CxUzjWkRms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0CxUzjWkRms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0CxUzjWkRms"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0CxUzjWkRms",
+        "videoPublishedAt": "2018-09-14T13:42:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "raoeIaOFgkgEHDsHVlIeBGw-gP4",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "[LIGHTNING TALK] Yeswanth Swami - Understanding \"Native\" in React Native",
+        "description": "This talk aims to familiarize you with Native topics(of Android & iOS), essential to your React-Native development The topics covered in the talk are: \n- Understanding “bridge” between JS and Native \n- Understanding Push Notifications for Android & iOS \n- Android & iOS Permission model \n- Android Build system & Manifest \n- iOS Build system (XCode, Info.plist) \n- Overview of where Android and iOS is heading in the future and what it means for React-Native developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bphVy8Wi4Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bphVy8Wi4Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bphVy8Wi4Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bphVy8Wi4Wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bphVy8Wi4Wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bphVy8Wi4Wo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bphVy8Wi4Wo",
+        "videoPublishedAt": "2018-09-14T13:41:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VN3HvMV66_KQVQhM0nl8UrdMV8Y",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "[LIGHTNING TALK] Anna Doubková - Going Native: Reusing Code",
+        "description": "React Native allows you to re-use your React code to build native applications. What’s not to like? This approach is simple in theory but challenging in practice. In this talk, you’ll learn how to go truly cross-platform, how to transform web applications into native applications and vice versa. Which parts can be used both in web and native, and which ones can't - and why? What are the intricacies of shared code bases and how do we handle cross-team communication when building web and native apps at the same time? With real-life examples, code snippets, and memes, you will learn everything you need to know to get started on your native journey.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/po_Nvfgr7QQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/po_Nvfgr7QQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/po_Nvfgr7QQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/po_Nvfgr7QQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/po_Nvfgr7QQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "po_Nvfgr7QQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "po_Nvfgr7QQ",
+        "videoPublishedAt": "2018-09-14T13:41:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UaaP5TP5snANaN6od2TtazT5DUU",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "[LIGHTNING TALK] Radek Czemerys - Building Bluetooth powered React Native App",
+        "description": "A case study on a React Native app that relies heavily on a bluetooth device: \n- Quick introduction to BLE devices\n- How to deal with Bluetooth in React Native - available libraries, configuration\n- Will Bluetooth work when my app is in the background?\n- How to reuse code with different platforms (e.g. Electron on desktop)\n\nSlides: https://app.ludus.one/03937bba-f6ad-4267-b8ce-8ba91eddfbbe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H2wpUyCdSqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H2wpUyCdSqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H2wpUyCdSqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H2wpUyCdSqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H2wpUyCdSqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H2wpUyCdSqY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "H2wpUyCdSqY",
+        "videoPublishedAt": "2018-09-14T13:41:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i4qfeVBRgKYcBmMvZHm8wT7r2lk",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "[LIGHTNING TALK] Josef Roth - Developing iOS apps on Linux",
+        "description": "Not everyone is happy with the hardware and software offered by Apple with their MacBooks. However for iOS app developers there is no other choice but using an Apple Computer. But is that really true? No! With React Native there are ways to work around this necessity. In my talk I want to depict the possibilities of developing iOS apps on a linux machine.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pmj-VhaH9D0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pmj-VhaH9D0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pmj-VhaH9D0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pmj-VhaH9D0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pmj-VhaH9D0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pmj-VhaH9D0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Pmj-VhaH9D0",
+        "videoPublishedAt": "2018-09-14T13:41:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JA7d0Qbmx3j2v9Rt2SjVLnZTiJ0",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Matt Hargett - Bringing React Native to the next billion devices",
+        "description": "Matt Hargett - Bringing React Native to the next billion devices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iI2TdjitUS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iI2TdjitUS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iI2TdjitUS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iI2TdjitUS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iI2TdjitUS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iI2TdjitUS4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iI2TdjitUS4",
+        "videoPublishedAt": "2018-09-14T13:41:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8oa3dAQjaNST5hzel9wvm3Hujto",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Stanisław Chmiela - Chopping Expo up into universal modules to take over the world",
+        "description": "Expo SDK (part of Expo toolchain) is an open-source library built around React Native, allowing developers to access native components and APIs without too much fuss. Until recently it has been a big monolith, it was hard for developers to either remove unused APIs from their bundle or to use some Expo code in vanilla React Native applications. We’ve decided it is time for Expo to be redesigned and split into multiple, separate native + JS (+ more 🤭) libraries which developers will be able to opt-out of using in Expo standalone apps and also to use in their plain RN projects. This talk will describe the process of making this transition, design of the solution we’ve settled on and difficulties we had to overcome along the way (and how we’ve done it).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-9CJZRv7uOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-9CJZRv7uOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-9CJZRv7uOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-9CJZRv7uOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-9CJZRv7uOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-9CJZRv7uOY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-9CJZRv7uOY",
+        "videoPublishedAt": "2018-09-14T13:41:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oafV1WOaofIHc27KCROlb0N1sv0",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Gant Laborde - Taming the Machine (feat. Nicolas Cage)",
+        "description": "Machine Learning is a buzzword, because big companies love it. Big companies love it, because it's insanely cool. Join me as we cover the breath-taking aspects of Machine Learning (ML) and dive deep into how it's currently showing up in mobile; especially React Native. We'll touch the tip of the iceberg and spark ML creativity for everyone!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oJXaIoRZdBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oJXaIoRZdBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oJXaIoRZdBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oJXaIoRZdBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oJXaIoRZdBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oJXaIoRZdBM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oJXaIoRZdBM",
+        "videoPublishedAt": "2018-09-14T13:42:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "82chKD1vosAaAmcHcpl-I3JCa88",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:50:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Jani Eväkallio - This is a Talk About You",
+        "description": "Over the last three years, I’ve spoken to hundreds of React Native developers, and slowly a picture emerges. It’s a picture of excitement and frustration, obsession with technology and pushing the boundaries. It’s a picture of you. This talk will blend meticulous research, subjective personal experiences and speculative fiction to discover the core of that elusive Developer Experience, and ask the inconvenient questions you’ve always been afraid to ask.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVcMAtaAwsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVcMAtaAwsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVcMAtaAwsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVcMAtaAwsA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVcMAtaAwsA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVcMAtaAwsA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mVcMAtaAwsA",
+        "videoPublishedAt": "2018-09-13T13:17:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U599xGfVSvdHr2D_9D1v0pxrjC8",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Rafael de Oleza - Building JavaScript bundles for React Native",
+        "description": "React Native uses Metro for building the JavaScript code that runs on the devices, both during development and production.\nIn this talk you'll learn the main concepts about bundling JavaScript code (both for web applications and React Native) and the architecture of Metro, which is focused around build speed.\n\nSlides: https://speakerdeck.com/rafeca/building-js-bundles-for-react-native",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tX2lg59Wm7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tX2lg59Wm7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tX2lg59Wm7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tX2lg59Wm7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tX2lg59Wm7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tX2lg59Wm7g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tX2lg59Wm7g",
+        "videoPublishedAt": "2018-09-14T13:42:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iyOPUoZMzHAT_hjqg4oONQYCACE",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Harry Tormey - React Native Brownfield: Lessons from the Trenches",
+        "description": "Hot reloading--the ability to push over the air updates to published apps and the promise of having your app “just work” out of the box on Android as well as iOS--make React Native a tempting proposition for frontend developers. But what do you do when you have to integrate React Native into a large existing native code base?\n\nThis talk is from the perspective of an experienced native iOS developer who has worked with React Native to ship several cross-platform Greenfield and brownfield apps.\n\n\nThings I will talk about: \n- Overview of the challenges involved in integrating React Native into an existing app\n- A real life case study integrating React Native into a native app with millions of users\n- Strategies for passing data and events in a brownfield app\n- Strategies for deciding what’s a good candidate to port to React Native and what’s not\n- Working with build systems like CocoaPods\n- Dealing with an existing navigation system\n- How to do CodePush in a brownfield app\n- How to handle navigation in a brownfield app\n- Best practices for working with Native engineers\n- Example brownfield application\nExtra notes: This is a new talk based on work I did for a client with a large existing native app used by millions of users.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zksANLhEH8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zksANLhEH8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zksANLhEH8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zksANLhEH8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zksANLhEH8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zksANLhEH8o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zksANLhEH8o",
+        "videoPublishedAt": "2018-09-14T13:42:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "myruysZbSVLldL-8uMpzZnyakwE",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Samuli Hakoniemi - Better User Experience With Animations",
+        "description": "Most user interfaces in mobile applications are visually attractive. And it’s always a huge pleasure for developers to work together with talented designers. However an excellent UI requires even more - the art of telling a story. My presentation is about enhancing the UI and UX by taking advantage of animation capabilities in React Native. During the talk, you will learn in practice when and how animations should be used and how to create an alluring story for the application.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uMHW4pHIFt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uMHW4pHIFt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMHW4pHIFt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uMHW4pHIFt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uMHW4pHIFt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uMHW4pHIFt8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uMHW4pHIFt8",
+        "videoPublishedAt": "2018-09-14T13:42:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XsRwvD8bLw70sbM937rybJ6Erx8",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Vladimir Novick - Demystifying complex animations creation process in React Native",
+        "description": "While Animations can be created in React Native pretty easily, real world mobile apps require a combination of several layers of animations, gestures and micro interaction animations to make user experience stand out. In this talk we will walk through the process from defining complex animation, to implementing it by going through all stages of animation creation process.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAbHIsRoqb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAbHIsRoqb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAbHIsRoqb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAbHIsRoqb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAbHIsRoqb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PAbHIsRoqb8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PAbHIsRoqb8",
+        "videoPublishedAt": "2018-09-14T13:42:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U6O6-762H6GfBugX6h6XpgtCWe0",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "David Vacca - The state of React Native",
+        "description": "This presentation will focus on core projects the React Native team is working on, particularly regarding the re-architecture of the framework.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqMTXagEvHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqMTXagEvHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqMTXagEvHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FqMTXagEvHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FqMTXagEvHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FqMTXagEvHo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FqMTXagEvHo",
+        "videoPublishedAt": "2018-09-14T13:42:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rNPibxqvR92qvY23KiLp8f6VaUM",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Narendra Shetty - A/B testing with React Native",
+        "description": "A/B testing is a common practice in web world. Should that button say \"click here\" or \"learn more\"? Will the layout of your homepage materially impact app downloads? Instead of going with your gut, let data drive your product development. I will be talking about how to do that in the app world using React Native, both for iOS and Android and the complexities around it. Also I plan to cover these aspects — \n– Why should you use A/B testing in your business?\n– What all can you test using A/B testing? \n– How can you do efficient A/B testing of change in your product?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kD9o9MKbEbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kD9o9MKbEbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kD9o9MKbEbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kD9o9MKbEbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kD9o9MKbEbU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kD9o9MKbEbU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kD9o9MKbEbU",
+        "videoPublishedAt": "2018-09-14T13:42:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bGw0iWd6W_SyKIYIx1CeS-J2BII",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Akshat Paul - Building apps for everyone - Accessibility with React Native",
+        "description": "Developers constantly strive to make stunning apps which not only solve day to day problems but augment life of their users in a way that the app becomes an important part of their lives. The examples of such disruptive apps is endless but at the same time it’s also important that an app for many does not leave few behind. In our quest for building next great app Apple and Android both provides apis to keep accessibility integral part of application design. In this talk I’ll be introducing this concept to every React Native developer and give handson how they can make use of voiceover, accessibility properties and other accessibility elements part of their RN app to make an application inclusive for all. I am equally excited to talk and give demo on this topic since such reminders have far reaching effect on developer community when they build their next app.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69ba8Gm9Q4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69ba8Gm9Q4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69ba8Gm9Q4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/69ba8Gm9Q4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/69ba8Gm9Q4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "69ba8Gm9Q4U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "69ba8Gm9Q4U",
+        "videoPublishedAt": "2018-09-14T13:42:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bJV5_82jCAtOLoBbCEL45nxpyTQ",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Wouter van den Broek - Getting to the Native in React Native",
+        "description": "The Native part in React Native can look very scary and intimidated but is does not have to be that way, so in this talk you will see what the most frequent challenges are when working on the native side of React Native and how to conquer them. If you attend this session you see and learn how to solve a lot of native issues that pop up when working with React Native native code and modules.\n- The basic of the React Native native module\nWhat Is a native module in react native, what are all the moving parts, how do the function in the total process of react native and what is the potential\n- Extending native modules\nNative modules are easy extendable, you can use other languages like Swift or Kotlin and even other platforms (Windows/Mac). Also you can extend existing native modules form others if you want to\n- Building\nShowing what happens when building, how to solve build errors, solving dependencies and to release when building succeeded\n- Tips & Tricks\nSome more tips and tricks when working with native code in your react native project which I encountered in my career.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/woELcVbZlZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/woELcVbZlZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/woELcVbZlZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/woELcVbZlZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/woELcVbZlZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "woELcVbZlZA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "woELcVbZlZA",
+        "videoPublishedAt": "2018-09-14T13:42:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NQZvR67EpTWjjvWOoWe1Xm4QTHg",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2018 - Q&A Panel",
+        "description": "React Native EU 2018 Q&A session with Quinlan Jung (Expo), Eli White (Facebook), Harry Tormey, Matt Hargett (PlayStation), Akshat Paul (McKinsey & Company).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ijKSgjWb18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ijKSgjWb18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ijKSgjWb18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ijKSgjWb18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ijKSgjWb18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ijKSgjWb18"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0ijKSgjWb18",
+        "videoPublishedAt": "2018-09-14T13:42:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rtJYXcU83xILkaAWecLuf8gWoGQ",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-09-14T13:51:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Mike Grabowski - Thank you!",
+        "description": "The closing of React Native EU 2018.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WD8eGAGiAKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WD8eGAGiAKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WD8eGAGiAKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WD8eGAGiAKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WD8eGAGiAKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WD8eGAGiAKU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WD8eGAGiAKU",
+        "videoPublishedAt": "2018-09-14T13:42:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O4OpdvhhncEJalwKdhzLzG67XUw",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2018-09-19T14:30:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2018 - Interviews with Speakers",
+        "description": "Krzysztof Borowy from Callstack conducts interviews with conference speakers:\nGant Laborde - InfiniteRed\nKrzysztof Magiera - Software Mansion\nQuinlan Jung - EXPO\nMike Grabowski - Callstack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2achAoXoY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2achAoXoY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2achAoXoY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2achAoXoY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V2achAoXoY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V2achAoXoY8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "V2achAoXoY8",
+        "videoPublishedAt": "2018-09-19T13:36:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jPeRjynBz1NRDA1OcfkR3-muRVA",
+      "id": "UExaM013RC1zb1RURU9XWFUySThZOEMzQWZxdkpkbjNNXy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2018-10-16T14:46:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2018 - The Movie",
+        "description": "React Native EU Conference 2018\n\nReact Native EU 2018 2nd edition took place on September 5-6th in Wroclaw, Poland, as the conference focused exclusively on React Native. It was preceded by two-day workshops session.\n\nhttps://react-native.eu/\nhttps://twitter.com/react_native_eu\nhttps://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7-BDvT6pM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7-BDvT6pM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7-BDvT6pM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N7-BDvT6pM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N7-BDvT6pM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEOWXU2I8Y8C3AfqvJdn3M_",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N7-BDvT6pM8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N7-BDvT6pM8",
+        "videoPublishedAt": "2018-10-16T15:28:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 30,
+    "resultsPerPage": 50
+  }
+}

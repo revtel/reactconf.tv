@@ -1,0 +1,1649 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "v3VE6KRTgOcz36IO6mCeL-tgw1A",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tFoM5q9vV56oFLr6HDjzT-fQMXc",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced Keynote: Performance is magic - Ken Wheeler",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Keynote: Performance is magic\n\nThis talk will explore strategies for fixing performance issues in your apps when they arise. We will look at how we can make our React apps “Blazing” fast, and when it’s time to bail out of React in the name of perf.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t8svxxtUTl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t8svxxtUTl8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "t8svxxtUTl8",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-jGBjYgcaCLTI35sRwPreJEt0aE",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React with Hooks from Scratch: Build a Hooks clone in just 29 lines of readable JS - Shawn Wang",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# React (with Hooks) from Scratch\n\nIn this talk, you'll learn to create an effective mental model of React Hooks by building a tiny clone of React! This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how you get Custom Hooks and the Rules of Hooks out of this incredible mental model!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dFO4m7Y-yhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dFO4m7Y-yhs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dFO4m7Y-yhs",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Q2cmq8SuNikp-Rnv8ezUnmWvmE",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "What a Drag - Vojtech Miksu",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# What a Drag\n\n\"Can we do this thing drag and droppable?\". That’s one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?\n\nLet’s take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.\"\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y_XkQ2qMTSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y_XkQ2qMTSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y_XkQ2qMTSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y_XkQ2qMTSA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y_XkQ2qMTSA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y_XkQ2qMTSA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y_XkQ2qMTSA",
+        "videoPublishedAt": "2019-11-05T15:32:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gZD0nU2Vc0yNtrJYsALvRcwFbts",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Don’t Let Your Unit Tests Slow You Down: Improve your front-end testing - Daniel Irvine",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Don’t Let Your Unit Tests Slow You Down\n\nDo your unit tests feel like a chore to maintain? Are they sometimes useful but come with a high maintenance cost? Do you secretly believe you’d work faster without them there? A great test suite should help speed up your development process, not slow you down. This talk highlights some techniques you can use to improve the front-end unit tests you write.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vDXRDQ9aJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vDXRDQ9aJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vDXRDQ9aJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1vDXRDQ9aJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1vDXRDQ9aJE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1vDXRDQ9aJE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1vDXRDQ9aJE",
+        "videoPublishedAt": "2019-11-05T15:32:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eJ2ZzdaQxhQxu877szwVhrnsDck",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Design Systems Design System: Discovering new ideas and patterns - Siddharth Kshetrapal",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Design Systems Design System\n\nThis is a meta talk about building design systems and all the angles you can approach it from. Design systems are for people, not just dev and design people, all the people. There are so many angles that you can approach design systems from and all of them are valid. Siddharth has been doing this for more than 2 years now, and he's still discovering new ideas and patterns. Here are some of his thoughts on a system for designing design systems.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dd-Y9K7IKmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dd-Y9K7IKmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dd-Y9K7IKmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dd-Y9K7IKmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dd-Y9K7IKmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dd-Y9K7IKmk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Dd-Y9K7IKmk",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_dU-MOXPP2GGCC7cAwAD36QJ0xk",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Create a More Readable React Codebase Using TypeScript, GraphQL, and Hooks - Emma Brillhart",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# A More Readable React Codebase Using TypeScript, GraphQL, and Hooks\n\nWe’ve all looked at a chunk of code and had no idea what it does - only to realize that we were the ones who wrote it, six or so months ago. If we can’t read our own code after a few months, how can we expect anybody else to? What kind of effect does this have on developer productivity and overall project robustness? This talk explores how Emma and her team were able to make a client’s React codebase more readable and improve communication and productivity by leveraging technologies like TypeScript, GraphQL, and React hooks in a rewrite of the client's website.\n\nIncrease the speed at which new developers are able to onboard to your project, cut down on the time between when a PR is submitted and when it’s merged, and streamline the bug squashing process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkJbGgieALI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nkJbGgieALI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nkJbGgieALI",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rfwaPrMrrixSo9CR5WAZeKY8t_U",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Designing GraphQL Schemas: Avoid the downsides of GraphQL's flexibility - Nik Graf",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Designing GraphQL Schemas\n\nGraphQL brings joy to using APIs. Even though it's based on a type system, GraphQL in many ways is more flexible than REST. But the flexibility that makes GraphQL a joy to work with can have its downsides if you aren't careful.\n\nSchema design is an area where one small oversight at the beginning can get you stuck having to deal with weird naming, bloated duplicates, and other annoying workarounds. It doesn't have to be like this! \n\nNik Graf has extensive experience designing GraphQL schemas, for a variety of business applications.Nik has prepared several examples following different design patterns. Through exploration and comparison, you'll come away with actionable knowledge for designing and extending schemas.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fBkmlFfwRu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fBkmlFfwRu0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fBkmlFfwRu0",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QMYn8KqZA6gChfQIfHlTcVKVc8Q",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Accessibility with React Native Apps in a Blind World - Alexandre Magno Teles Zimerer",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Accessibility with React Native Apps in a Blind World\n\nHandle accessibility in a real context to make your apps accessible for blind people goes beyond the accessibility label and guidelines on the React Native documentation, and discover new accessibility feature in RN 0.60. See real cases and design flawless that can make the development too difficult, and learn about good practices to create a real accessible app for everyone.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TFKPJKAbvbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TFKPJKAbvbk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TFKPJKAbvbk",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8fNjRp3LLGQvtlYb4tP3eY-PN5k",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Build your own Native Module - Patrick Loureiro",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Build your own Native Module\n\nSometimes an app needs to access a platform API and React Native doesn’t have a corresponding module yet. Maybe you want to reuse some existing Objective-C, Swift or C++ code without having to reimplement it in JavaScript, or write some high performance, multi-threaded code such as for image processing, a database, or any number of advanced extensions. In this talk you will learn how to do that and see a real-world example.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgsYyQphpWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgsYyQphpWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgsYyQphpWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgsYyQphpWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgsYyQphpWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgsYyQphpWg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EgsYyQphpWg",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YHPhdUSr0FUeFRWb6SVd5A2s3e4",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Visual Feature Engineering for Machine Learning with React - Olga Petrova",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Visual Feature Engineering for Machine Learning with React\n\nTensorflow.js brought Machine Learning to Javascript that gives a wide range of possibilities. Now it is possible to build, train and use ML models directly in browser. But the efficiency of ML model highly depends on the features that it is using. React allows to reinforce ML feature engineering process. It is great for displaying fast-changing data in web and let to visualize features, model’s layers and weights in a run-time during model training that gives useful insides on how features correspond to the result, what are good features and what features could be removed. During the session we will use React-based model visualization to pick the best features to predict results of soccer matches played at the FIFA World Cups. We will check count of matches that team have won and lost, count of wins and loses against a particular competitor, goal differences, stage, etc. We will validate our model using matches results from the last Mundial in Russia in 2018.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PDFgp_rcS4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PDFgp_rcS4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PDFgp_rcS4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PDFgp_rcS4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PDFgp_rcS4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PDFgp_rcS4M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PDFgp_rcS4M",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YSG217iq6ZQ9JpxztQ4Jj3x537Y",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-11-05T15:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Native: See the Past, the Present and the Future - Lorenzo Sciandra",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# React Native: the Past, the Present and the Future\n\nReact Native is now 4 years old. During this time, we’ve observed more progression than ever before towards the vision of a cross-platform mobile solution. Even still, we have yet to realise its core mission of being as powerful as pure native. There have been many challenges that we’ve faced head on as they’ve surfaced. In overcoming them with the support of the community, we’ve managed to establish React Native as a force that is now defining the future of the segment.\n\nExplore this history-in-the-making before diving deeper into more technical subjects including the JSI & JSC upgrade, TurboModules & Fabric, and the CodeGen. With all the pieces of the puzzle in place and landing on master by end of the year, we are closer to reaching our original objective than ever before - while pushing the limits to a whole new level.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7gm0owyO8HU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7gm0owyO8HU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7gm0owyO8HU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7gm0owyO8HU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7gm0owyO8HU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7gm0owyO8HU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7gm0owyO8HU",
+        "videoPublishedAt": "2019-11-05T15:32:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5wDcXvKim10dsYPUQ3-jsUTuIBs",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Statically Typing JavaScript - David Gomes",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Statically Typing JavaScript\n\nLet’s explore the challenge of statically typing JavaScript, which is notoriously complicated due to the dynamic nature of the language. We’ll start in 2005, when academia researchers first started exploring the idea of adding a strongly typed system on top of JavaScript. We’ll walk through the complications at hand (with plenty of examples), and understand the design goals of both TypeScript and Flow. After understanding the state of the art, we’ll briefly go over what’s going to change in this space over the next few years.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s4XM7LnjS00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s4XM7LnjS00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s4XM7LnjS00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s4XM7LnjS00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s4XM7LnjS00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s4XM7LnjS00"
+        }
+      },
+      "contentDetails": {
+        "videoId": "s4XM7LnjS00",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R_pDWuRNg97TLYsXi73jxJwHt3A",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Formik 2.0: Build forms in React, without the tears - Jared Palmer",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Formik 2.0\n\nFormik takes care of the repetitive and annoying stuff--keeping track of values/errors/visited fields, orchestrating validation, and handling submission--so you don't have to. This means you spend less time wiring up state and change handlers and more time focusing on your business logic.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uyLrwn8FdmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uyLrwn8FdmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uyLrwn8FdmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uyLrwn8FdmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uyLrwn8FdmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uyLrwn8FdmM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uyLrwn8FdmM",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s_iMExM7_crI0QZPIXv8jywLo40",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Native at Wix: Architecture For App in Scale - Omri Bruchim",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# React Native at Wix - Architecture For App in Scale\n\nEver wondered how to use micro-services approach in a FED/mobile application? Hesitating to choose React Native for your big project? Omri is here to eliminate the school of thought that React Native is mostly for small mobile applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFaTQVH7elI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFaTQVH7elI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFaTQVH7elI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IFaTQVH7elI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IFaTQVH7elI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IFaTQVH7elI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IFaTQVH7elI",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4h6ETYnC5xnZQsRNBF6BCjPOHhA",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooking Up A Conference In Real-Time With React Native & GraphQL - Nader Dabit",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooking Up A Conference In Real-Time With React Native & GraphQL\n\n\"You’re starting a conference. You announce the conference, start planning the venue, getting sponsors, & fielding talks. Things start getting serious, & before you know it you’re overloaded with obligations. Oh, & you forgot: You also need a conference app!\n\nYou don’t just want any conference app; you want it to be fun, engaging, & a valuable addition to the attendees. How can you do this in the least amount of time?\n\nIn this talk, I’ll show how you can rapidly prototype, build, & deploy your app using GraphQL, React Native, & AWS AppSync so you can spend your time worrying about more important things in life. In addition to what you’d expect from a conference app, we’ll be adding live chat so attendees discuss talks & speakers can field questions & interact with them in real-time.\"\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QZIyzhLV3wU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QZIyzhLV3wU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QZIyzhLV3wU",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Mpca5gxXYqVJMPg2ft0yhRQUEo",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Offline-first in React Native: How to build great offline apps - Josh Warwick",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Offline-first in React-Native: How to Lose Your Web Dev Reflexes and Build Great Offline Apps\n\nReact has helped us build web applications faster than ever, but turns out this doesn’t help build mobile apps. The main hurdle for web developers coming to mobile development (native apps with React native or PWAs) is handling offline capabilities.\n\nJosh speaks firsthand about this learning curve, the pitfalls and realisations of doing this in production apps. As an architect developer at Theodo, he has seen developers struggle with this mindset switch on their projects over the past 2 years, and wants to share their learnings!\n\nJosh speaks about:\n- Optimistic UX updating\n- Data persistence between app/server\n- Offline mode (request queuing)\n- Reconciling updates after this\"\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7TtH57Nlic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7TtH57Nlic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7TtH57Nlic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b7TtH57Nlic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b7TtH57Nlic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b7TtH57Nlic"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b7TtH57Nlic",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f4gg9wxUly7rmnfAB59YMYZssy8",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-11-13T09:54:54Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hooked on D3: Create Animated Ch(art)s with D3 and React Hooks - Monica Wojciechowska",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Hooked on D3: Creating Animated Ch(art)s with D3 and React Hooks\n\nFrom a quick glance, it might not seem like D3 and React are a match made in heaven. After all, they’re both all about being in charge - who gets to render, who gets to update, who gets to decide how things should look... the story goes on and on. But with these two, as in life, the best relationship is about compromise and sharing responsibilities. So, how can we turn a tug-of-war into a beautiful, responsive, animated tango? Enter, React hooks!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-PZ7rQWs04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I-PZ7rQWs04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I-PZ7rQWs04",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vAroJ80c53UJ9WSmyqNT1tVRcWI",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React's Tackle Box, Using the Right Hooks for the Job - Bryan Pitt",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - React`s Tackle Box, Using the Right Hooks for the Job\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uDguyp13pl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uDguyp13pl8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "uDguyp13pl8",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HYXSbDU_6nvZ_55_mdfgG27auqE",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Functions vs Classes - Dave Nicholas",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Functions vs Classes\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g5ysVzAJ028/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g5ysVzAJ028/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5ysVzAJ028/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g5ysVzAJ028/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g5ysVzAJ028/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g5ysVzAJ028"
+        }
+      },
+      "contentDetails": {
+        "videoId": "g5ysVzAJ028",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1eiy48Q0eaZI1vjkJAznhXjW6ZU",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Turning the News into Cache at the Guardian - Alex Ware",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Turning the News into Cache at the Guardian\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/clkTxIV18VQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/clkTxIV18VQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/clkTxIV18VQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/clkTxIV18VQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/clkTxIV18VQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "clkTxIV18VQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "clkTxIV18VQ",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "woUcCayTU2asgVvjmIMxcK86VqA",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Threading in React Native: A Bridge Too Far? - Alex Thomas",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Threading in React Native: A Bridge Too Far?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8S45U_2iAAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8S45U_2iAAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8S45U_2iAAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8S45U_2iAAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8S45U_2iAAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8S45U_2iAAU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8S45U_2iAAU",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "98K-dnBsf9-Kvlfax5J_3cGM8m4",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Advanced TypeScript with React - Nikhil Verma",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Advanced TypeScript with React\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zQfD4ZxxyKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zQfD4ZxxyKA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zQfD4ZxxyKA",
+        "videoPublishedAt": "2019-11-05T15:32:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MzDpJEHIAfpGmucAIdYpFJe8SxA",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React-ing to Tech Debt - Leonardo Garcia Crespo",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - React-ing to Tech Debt\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sfksOX8bV80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sfksOX8bV80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sfksOX8bV80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sfksOX8bV80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sfksOX8bV80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sfksOX8bV80"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sfksOX8bV80",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9xNR30juMRplrqkFRU-J9E-V9hc",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Large Scale 3D Apps with WebGL and React - Denis Radin",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Large Scale 3D Apps with WebGL and React\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TevXBVy5jpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TevXBVy5jpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TevXBVy5jpg",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "th4oiALqRromsalY4q3ZyvkSwW0",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:22:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Escape From React! - David Miller",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Lightning talks - Escape From React!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/46-Vtx2rXWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/46-Vtx2rXWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/46-Vtx2rXWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/46-Vtx2rXWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/46-Vtx2rXWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "46-Vtx2rXWk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "46-Vtx2rXWk",
+        "videoPublishedAt": "2019-11-26T08:18:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ePuNY6kfbMh-ZHqiGtv8VkS18ew",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:28:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Open Source Stage: Firecom – Nick Filippopoulos",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z4HsiyxLglQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z4HsiyxLglQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z4HsiyxLglQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z4HsiyxLglQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z4HsiyxLglQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z4HsiyxLglQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z4HsiyxLglQ",
+        "videoPublishedAt": "2019-11-26T08:28:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nhQ9_K2-J3uPVW69gpZIXwjqUM0",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:30:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Open Source Stage: figma-graphql – Bernardo Raposo",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQVQAbJpwO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QQVQAbJpwO0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QQVQAbJpwO0",
+        "videoPublishedAt": "2019-11-26T08:30:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ImLbY2cSleBR6PHKD5rtIddAxPM",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:31:17Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Open Source Stage: The Feminist Hub – Ines Guerrero",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0h8ZRMjmpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0h8ZRMjmpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0h8ZRMjmpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0h8ZRMjmpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0h8ZRMjmpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b0h8ZRMjmpY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b0h8ZRMjmpY",
+        "videoPublishedAt": "2019-11-26T08:31:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GRRQ9x5VqEEIMH8PvhEfEXd7SVU",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2019-11-26T08:32:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Open Source Stage: Gitpay – Alexandre Magno Teles Zimerer",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8PWn83auBCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8PWn83auBCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8PWn83auBCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8PWn83auBCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8PWn83auBCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8PWn83auBCk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8PWn83auBCk",
+        "videoPublishedAt": "2019-11-26T08:32:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cBtvgVc4r7_6iCGWFL9aSpPPfHI",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-10-28T15:10:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced 2019 - React Native Track",
+        "description": "Live stream of React Amsterdam Conference 2019 https://reactadvanced.com/\n\nGeneral track live stream https://www.youtube.com/watch?v=q6TD3PvmQts\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XDOCDBJsqzI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XDOCDBJsqzI",
+        "videoPublishedAt": "2019-10-25T17:28:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CqptOWMzcIB_QuJQxmnOi1Wg504",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-10-28T15:10:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced 2019 - General Track",
+        "description": "Live stream of React Amsterdam Conference 2019 https://reactadvanced.com\n\nLive stream of the React Native track https://www.youtube.com/watch?v=XDOCDBJsqzI\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q6TD3PvmQts"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q6TD3PvmQts",
+        "videoPublishedAt": "2019-10-25T18:15:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lny4rsVkdXq3ahj0q33CdPpr_w4",
+      "id": "UExOQk5TN05SR0tNSDd5ZnBZUUQ0VHJGVjI1U01PQ0lQTS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-08-10T08:49:06Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced 2019 Aftermovie",
+        "description": "Check out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qn6eHlfz6MI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qn6eHlfz6MI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qn6eHlfz6MI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qn6eHlfz6MI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qn6eHlfz6MI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qn6eHlfz6MI",
+        "videoPublishedAt": "2020-08-10T09:00:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 32,
+    "resultsPerPage": 50
+  }
+}

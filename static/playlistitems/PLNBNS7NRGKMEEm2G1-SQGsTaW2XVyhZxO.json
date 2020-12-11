@@ -1,0 +1,208 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Y5WEbQOhvAIQmrwGtfVbZWP8FsQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5cV4YFW53j_WuvumsDAT5gfgVe8",
+      "id": "UExOQk5TN05SR0tNRUVtMkcxLVNRR3NUYVcyWFZ5aFp4Ty41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:04:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Wonky Game Physics in Reason and Lessons Learned - Phil Plückthun",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n#Wonky Game Physics in Reason and Lessons Learned\n\nReprocessing is a new library for Reason, a rather new programming language building on the OCaml + JavaScript ecosystems. It’s a lean wrapper around OpenGL and WebGL and allows truly cross-platform games to be written rather easily.\nReason is great for a whole lot of things, but let me take you through a story of trying to write a 2D physics engine in just under 8 hours (Mistakes were made), what strongly typed languages don’t protect you off, and a vision of what you could build with Reason or Reprocessing. The universal future is coming, and Reason is orienting itself just right with projects like bsb-native.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PUBJwiECPoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PUBJwiECPoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PUBJwiECPoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PUBJwiECPoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PUBJwiECPoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEEm2G1-SQGsTaW2XVyhZxO",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PUBJwiECPoc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PUBJwiECPoc",
+        "videoPublishedAt": "2018-05-11T15:07:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qE0lKSDupdYQuaSragqmTWlXot8",
+      "id": "UExOQk5TN05SR0tNRUVtMkcxLVNRR3NUYVcyWFZ5aFp4Ty4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:04:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using ReasonML in your next React project - Roy Derks",
+        "description": "Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nReasonML is based on the OCaml programming language and was created at Facebook, by the same creator as React! It shares a lot of features, but with the benefits of a statically typed functional programming language. ReasonML compiles to JavaScript and can therefore be used to create strongly typed React applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEEm2G1-SQGsTaW2XVyhZxO",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x1UO-_a8GL0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x1UO-_a8GL0",
+        "videoPublishedAt": "2018-10-27T10:50:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4vVOOdQez0t8hcQHq5zw-G3kUiA",
+      "id": "UExOQk5TN05SR0tNRUVtMkcxLVNRR3NUYVcyWFZ5aFp4Ty4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:04:32Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "ReasonML for Skeptics - Eric Schaefer",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# ReasonML for Skeptics\nYou've seen it all. You are not working on a \"\"green field.\"\" You slay dragons.\n\nThis talk would like to show a real-world example of a typed functional language actually making your developer life better, in an existing Javascript code base. And it's something your team might not cringe at either.\n\nEric Schaefer\nEric is a frontend engineer working with EyeEm in Berlin. He is passionate about the intersection of code and creativity, and has built software for Native Instruments, RedBull, Google, and others.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cmOSN_mZbEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cmOSN_mZbEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cmOSN_mZbEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cmOSN_mZbEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cmOSN_mZbEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEEm2G1-SQGsTaW2XVyhZxO",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cmOSN_mZbEo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cmOSN_mZbEo",
+        "videoPublishedAt": "2020-01-06T08:03:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mh1anC691h0C3vXl_djtCZ4kP0s",
+      "id": "UExOQk5TN05SR0tNRUVtMkcxLVNRR3NUYVcyWFZ5aFp4Ty41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-23T11:04:49Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Oct 2018: Framer X, ReasonML & Auto component conversion",
+        "description": "Live stream of our Oct meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEEm2G1-SQGsTaW2XVyhZxO",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xz8YojEUMAE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Xz8YojEUMAE",
+        "videoPublishedAt": "2018-10-26T00:16:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 50
+  }
+}

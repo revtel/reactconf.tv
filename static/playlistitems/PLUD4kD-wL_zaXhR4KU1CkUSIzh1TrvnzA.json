@@ -1,0 +1,1102 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "l6HCtDEHXbYGJBK2vkeTErxYn5o",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IwoYaI-u_PpbT7Ya2J27JGLHTRU",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Chrome ❤️ ⚛️ (no, really) - Nicole Sullivan - React Rally 2019",
+        "description": "Nicole Sullivan (https://twitter.com/stubbornella) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XD8UQeYm5Vk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XD8UQeYm5Vk",
+        "videoPublishedAt": "2019-08-30T02:22:45Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pbTufKUvjTMgofaYWknUz1M9_d8",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Frontend Application Bundles: The Docker of Frontend - Glen Maddern - React Rally 2019",
+        "description": "Glen Maddern (https://twitter.com/glenmaddern) at React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WaqB90kWwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WaqB90kWwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WaqB90kWwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WaqB90kWwc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WaqB90kWwc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WaqB90kWwc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9WaqB90kWwc",
+        "videoPublishedAt": "2019-08-30T00:53:15Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oIKx1OVndLW43-Tkl99HbFK_p3s",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019",
+        "description": "Mihai Cernusca (https://twitter.com/mcernusca) at React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqQX_pIAJug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqQX_pIAJug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqQX_pIAJug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CqQX_pIAJug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CqQX_pIAJug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CqQX_pIAJug"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CqQX_pIAJug",
+        "videoPublishedAt": "2019-09-02T22:33:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VYujjh-vJpGJZjMiDWaMZTbbzXo",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Is React Translated Yet? - Nat Alison - React Rally 2019",
+        "description": "Nat Alison (https://twitter.com/tesseralis) at React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9PW4HeZyBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9PW4HeZyBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9PW4HeZyBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9PW4HeZyBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9PW4HeZyBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V9PW4HeZyBw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "V9PW4HeZyBw",
+        "videoPublishedAt": "2019-09-02T22:37:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dKQGCgwNo9C9_Mi2HP5Z32gf8_M",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Saving the Web, 16ms at a Time - Josh Comeau - React Rally 2019",
+        "description": "Josh Comeau (https://twitter.com/joshwcomeau) at React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DNGGzwmfouU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DNGGzwmfouU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DNGGzwmfouU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DNGGzwmfouU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DNGGzwmfouU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DNGGzwmfouU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DNGGzwmfouU",
+        "videoPublishedAt": "2019-09-02T22:40:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q4uFgDo3ijHvYwvZsggUJHIypqA",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Helping Governments And Nonprofits With Our Coding Superpower - Joel Denning - React Rally 2019",
+        "description": "Joel Denning (https://twitter.com/joelbdenning) at React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Si0is6GkB64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Si0is6GkB64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Si0is6GkB64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Si0is6GkB64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Si0is6GkB64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Si0is6GkB64"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Si0is6GkB64",
+        "videoPublishedAt": "2019-09-02T22:44:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "55CeviO3RcnLHgKvMoLsnmJOVNE",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Battle for the DOM: D3 vs. React - Danielle Carrick - React Rally 2019",
+        "description": "Danielle Carrick (https://twitter.com/DanieC) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S3YOcZ0F9vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S3YOcZ0F9vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S3YOcZ0F9vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S3YOcZ0F9vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S3YOcZ0F9vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S3YOcZ0F9vQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S3YOcZ0F9vQ",
+        "videoPublishedAt": "2019-09-02T22:47:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NpwTPGMp-XHrYMlBfCuzHtuDkuo",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "A11y And React, Why Is It Important? - Johnny Bell - React Rally 2019",
+        "description": "Johnny Bell (https://twitter.com/johnnyxbell) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_756Hsawbv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_756Hsawbv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_756Hsawbv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_756Hsawbv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_756Hsawbv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_756Hsawbv4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_756Hsawbv4",
+        "videoPublishedAt": "2019-09-02T22:51:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lMGFKO-djF-H1niXgim-djUXMwU",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Creating Awesome UX with Observables - Feather Knee - React Rally 2019",
+        "description": "Feather Knee (https://twitter.com/featherart) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9OlUwSZyAww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9OlUwSZyAww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9OlUwSZyAww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9OlUwSZyAww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9OlUwSZyAww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9OlUwSZyAww"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9OlUwSZyAww",
+        "videoPublishedAt": "2019-09-02T22:54:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TjMBIA2kQhdG-8e7pdLwHLj_K3U",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "So You Think YOU'RE a Junior Dev? - Revel Carlberg West - React Rally 2019",
+        "description": "Revel Carlberg West (https://twitter.com/revelcw) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SCUIEQryBZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SCUIEQryBZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SCUIEQryBZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SCUIEQryBZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SCUIEQryBZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SCUIEQryBZ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SCUIEQryBZ8",
+        "videoPublishedAt": "2019-09-02T22:56:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pbErr937DR2oRhL2Osw57dEwD5U",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Horrible Interfaces and How to Build Them - Anthony Frehner - React Rally 2019",
+        "description": "Anthony Frehner (https://twitter.com/aahfrena) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RgqSlRbbvwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RgqSlRbbvwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RgqSlRbbvwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RgqSlRbbvwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RgqSlRbbvwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RgqSlRbbvwA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RgqSlRbbvwA",
+        "videoPublishedAt": "2019-09-02T22:58:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vTZv5SIYCbwRorFs7pryUUUdlrY",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "The Universe in a Single Arrow: A Live Dive into the Lambda Calculus - Anjana Vakil",
+        "description": "Anjana Vakil (https://twitter.com/AnjanaVakil) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1QY7P_yXc_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1QY7P_yXc_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1QY7P_yXc_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1QY7P_yXc_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1QY7P_yXc_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1QY7P_yXc_M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1QY7P_yXc_M",
+        "videoPublishedAt": "2019-09-02T23:01:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eCIih6Q9ObNldcGYgGYX_Micv_Q",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "All The Memory Safety Of C Combined With All The Blazing Speed Of JavaScript -Sarah Lim",
+        "description": "Sarah Lim (https://twitter.com/soylentqueen) at React Rally 2019\nLinks:\n📊 Slides: http://sarahlim.com/react-rally-2019/\n🧮  Fiddle: https://mbebenita.github.io/WasmExplorer/\n🦀 Rust code: https://github.com/sarahlim/wasm-trace\n👯‍♀️ Roommate: https://twitter.com/meggrasse",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtTybfTlj58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtTybfTlj58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtTybfTlj58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NtTybfTlj58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NtTybfTlj58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NtTybfTlj58"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NtTybfTlj58",
+        "videoPublishedAt": "2019-09-02T23:04:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5pRdHR65_fR_oiJRIW-ajNnSTY0",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Debugging the Debugger - Princiya Sequeira - React Rally 2019",
+        "description": "Princiya Sequeira (https://twitter.com/princi_ya) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QklMZaObKY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QklMZaObKY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QklMZaObKY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QklMZaObKY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QklMZaObKY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QklMZaObKY4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "QklMZaObKY4",
+        "videoPublishedAt": "2019-09-02T23:06:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tzCkf5J8WphLno2UBOSlfoJUEHM",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Write Fewer Tests! From Automation to Autogeneration - David Khourshid - React Rally 2019",
+        "description": "David Khourshid (https://twitter.com/davidkpiano) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpNmPKjPSFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpNmPKjPSFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpNmPKjPSFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpNmPKjPSFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpNmPKjPSFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tpNmPKjPSFQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tpNmPKjPSFQ",
+        "videoPublishedAt": "2019-09-02T23:08:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iui3Syv0s2dG7a5NXYsecM_G2xg",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Harnessing React to Build Consistently Designed Applications - Emily Plummer - React Rally 2019",
+        "description": "Emily Plummer (https://twitter.com/emplums) at React Rally 2019.\nSee the slides at https://bit.ly/emplums",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ef7lkrRlp3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ef7lkrRlp3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ef7lkrRlp3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ef7lkrRlp3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ef7lkrRlp3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ef7lkrRlp3w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ef7lkrRlp3w",
+        "videoPublishedAt": "2019-09-02T23:09:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UFkFRzG0jA7gwxKidV-lFjNeDFU",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Hook Pitfalls - Kent C. Dodds - React Rally 2019",
+        "description": "Kent C. Dodds (https://twitter.com/kentcdodds) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VIRcX2X7EUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VIRcX2X7EUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VIRcX2X7EUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VIRcX2X7EUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VIRcX2X7EUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VIRcX2X7EUk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VIRcX2X7EUk",
+        "videoPublishedAt": "2019-09-02T23:11:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fabTLJJW1mCN1Z-hm73o1wqm-Es",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Code is a User Interface - Justin Falcone - React Rally 2019",
+        "description": "Justin Falcone (https://twitter.com/modernserf) at React Rally 2019\nLinks:\n* Zebu https://github.com/modernserf/zebu\n* Constraints - Crista Lopes tagide.com/blog/research/constraints\n* Little Languages - Jon Bentley staff.um.edu.mt/afra1/seminar/little-languages.pdf\n* Purpose-Built Languages - Mike Shapiro queue.acm.org/detail.cfm?id=1508217\n* Code is a User Interface! - Mischa Hildebrand medium.com/@PhiJay/code-is-a-user-interface-daeff886a440",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UzZQJH_EZmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UzZQJH_EZmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UzZQJH_EZmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UzZQJH_EZmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UzZQJH_EZmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UzZQJH_EZmA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UzZQJH_EZmA",
+        "videoPublishedAt": "2019-09-02T23:17:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tzn-FAoNVcwSgXn5AxwzDoi9sIo",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Follow The (Full)stack Trace: Understand Your App with Distributed Tracing - Will Klein",
+        "description": "Will Klein (https://twitter.com/willslab) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_fICKWXfkKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_fICKWXfkKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_fICKWXfkKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_fICKWXfkKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_fICKWXfkKo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_fICKWXfkKo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_fICKWXfkKo",
+        "videoPublishedAt": "2019-09-02T23:24:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rpa0cl_4a2ldvmkwaZYdc-pytv4",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Weaving Tapestries of Code - Jen Luker",
+        "description": "Jen Luker (https://twitter.com/knitcodemonkey) at React Rally 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5tyaBBqKIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5tyaBBqKIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5tyaBBqKIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M5tyaBBqKIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M5tyaBBqKIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M5tyaBBqKIw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "M5tyaBBqKIw",
+        "videoPublishedAt": "2019-09-02T23:26:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i6vVjyBtN7sbYQ3GMX9GRghC09k",
+      "id": "UExVRDRrRC13TF96YVhoUjRLVTFDa1VTSXpoMVRydm56QS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-09-02T22:11:21Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Human React - Brian Holt",
+        "description": "Brian Holt (https://twitter.com/holtbt) at React Rally 2019.\nSlides: https://speakerdeck.com/btholt/human-react",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZPxFKRTW94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZPxFKRTW94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZPxFKRTW94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZPxFKRTW94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZPxFKRTW94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZPxFKRTW94"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sZPxFKRTW94",
+        "videoPublishedAt": "2019-09-02T23:29:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
+  }
+}

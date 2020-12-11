@@ -1,0 +1,738 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "38z8aN3SYWtfILtXInJK4FJK6SA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9psF3HzOQhEJ9zJH7Mn_0lEauC4",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-05-02T15:48:06Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Jamis Charles: Migrating Safely to React",
+        "description": "Jamis Charles, PayPal, San Jose on Migrating Safely to React\n\nYou love React. You want to rewrite your whole app in React right now. But you have millions of paying users, and maintaining a stable app is absolutely critical. How do you migrate now and optimise for future change?\n\nSlides are here https://speakerdeck.com/reactamsterdam/jamis-charles-paypal-san-jose-migrating-safely-to-react\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXDZBxbRRag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXDZBxbRRag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXDZBxbRRag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXDZBxbRRag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXDZBxbRRag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sXDZBxbRRag"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sXDZBxbRRag",
+        "videoPublishedAt": "2016-05-02T15:48:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RaoYA2-rLZTJ9D9SIqgvg2uWKzo",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-05-04T10:00:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Henrique Alves: Building Loveable UIs",
+        "description": "Henrique Alves, DADI+, London on Building Loveable UIs\n\nSharing my experience building loveable UIs. Talking about presentational components and pattern types for build scalable web apps in React.\n\nSlides are here https://speakerdeck.com/reactamsterdam/henrique-alves-dadi-plus-london-building-loveable-uis\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rbtmCqBEYpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rbtmCqBEYpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rbtmCqBEYpg",
+        "videoPublishedAt": "2016-05-04T10:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8eDTpXvklIXYdb7HHoUU7YIFdZg",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-05-06T13:54:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Tadeu Zagallo: React Native Architecture Overview",
+        "description": "Tadeu Zagallo, Facebook, London on React Native Architecture Overview\n\nSoftware Engineer at Facebook who works on React Native performance. He will talk about React Native architecture and best practices to get all the benefits of using the platform.\n\nSlides are here https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ah2qNbI40vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ah2qNbI40vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ah2qNbI40vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ah2qNbI40vE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ah2qNbI40vE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ah2qNbI40vE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ah2qNbI40vE",
+        "videoPublishedAt": "2016-05-06T13:54:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wBX--SiEg1W-Hr1reL9lBsmAtvU",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-05-10T12:35:37Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Martijn Walraven: Building Reactive GraphQL Apps with Apollo",
+        "description": "Martijn Walraven, Meteor, Amsterdam on Building Reactive GraphQL Apps With Apollo\n\nIn this talk, I’ll introduce our efforts to design a reactive system to automatically re-run GraphQL queries when the underlying data changes. You will see how to make the collaborative parts of your app update in real time with little extra code, how to integrate with a SQL database or REST API, and how this works in concert with GraphQL’s best features to simplify your app’s data management while being predictable and maintainable.\n\nSlides are here https://speakerdeck.com/reactamsterdam/martijn-walraven-meteor-amsterdam-building-reactive-graphql-apps-with-apollo\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Dgt691lXhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Dgt691lXhs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1Dgt691lXhs",
+        "videoPublishedAt": "2016-05-10T12:35:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iQotAw5CmgCDz3PoFrxw5O9qbNE",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-05-10T12:59:18Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Sven Anders Robbestad: Mastering Server-rendered Apps",
+        "description": "Sven Anders Robbestad, Inmeta Consulting AS, Oslo on Mastering Server-rendered Apps\n\nCreating a fully server-rendered app is perhaps the most intimidating challenge a React dev faces. This talk will show you how to wrap your mind around the React, Express, shared routing and data flow Redux and come out the other end with a fully realised server-rendered app.\n\nSlides are here https://speakerdeck.com/reactamsterdam/sven-anders-robbestad-inmeta-consulting-as-oslo-mastering-server-rendered-apps\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tlysAZSd45k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tlysAZSd45k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tlysAZSd45k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tlysAZSd45k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tlysAZSd45k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tlysAZSd45k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tlysAZSd45k",
+        "videoPublishedAt": "2016-05-12T11:07:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kVqG-0fm1fxC3gipTh24nJ6M3KI",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-05-10T13:00:36Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Oleg Slobodskoi: JavaScript Style Sheets",
+        "description": "Oleg Slobodskoi, Chatgrape, Berlin on Javascript Style Sheets\n\nAbout the good parts of writing styles in javascript using JSS. Comparison to other existing CSS solutions and points about negative aspects got so far.\n\nSlides are here https://speakerdeck.com/reactamsterdam/oleg-slobodskoi-chatgrape-berlin-javascript-style-sheets\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BI4frdqSBY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BI4frdqSBY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BI4frdqSBY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BI4frdqSBY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BI4frdqSBY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BI4frdqSBY4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BI4frdqSBY4",
+        "videoPublishedAt": "2016-05-19T12:12:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WulTy_gLzrDli3xWrsYuXXcnWns",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2016-05-10T13:02:53Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Johannes Stein: React for Game Development",
+        "description": "Johannes Stein, freelancer, Berlin on React For Game Development\n\nUsing React for game development may not seem like an obvious choice at first. With React itself being compared to the Doom 3 game engine at F8 2014, we may not find ourselves in such a bad spot. We will take a look at how games are usually structured. Then we will examine different concepts in game development such as the entity-component pattern, object pools, and how we can implement them in React. At the end, we'll put it all together into a React-powered game.\n\nSlides are here https://speakerdeck.com/reactamsterdam/johannes-stein-freelance-berlin-react-for-game-development\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JaK-RrYPPRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JaK-RrYPPRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaK-RrYPPRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JaK-RrYPPRk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JaK-RrYPPRk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JaK-RrYPPRk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JaK-RrYPPRk",
+        "videoPublishedAt": "2016-05-17T13:23:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xIu4bthy12m9jSX7T4nJ5QwwfMA",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2016-05-10T13:18:14Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Joshua Sierles: The React Native Playground",
+        "description": "Joshua Sierles, freelancer, Sevilla on The React Native Playground\n\nThe React Native Playground breaks down barriers to mobile development by making it easy to write React Native apps right in the browser, and test them across platforms and devices.\n\nSlides are here https://speakerdeck.com/reactamsterdam/joshua-sierles-freelance-sevilla-the-react-native-playground\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fN3AVJuxMIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fN3AVJuxMIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fN3AVJuxMIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fN3AVJuxMIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fN3AVJuxMIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fN3AVJuxMIc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fN3AVJuxMIc",
+        "videoPublishedAt": "2016-05-23T14:36:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8qgC-JztGUc2dayFhqAoYbF2PIk",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2016-05-10T13:20:51Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Paul van Dam: Introducing and Implementing React at Coolblue",
+        "description": "Paul van Dam, Coolblue, Rotterdam on Introducing and Implementing React at Coolblue\n\nAt Coolblue we want to keep our employees as happy as possible. That means handing them tools that are fast and easy to work with. Last year we started building new tooling using React. How did we come to this decision and how does it suit a fast growing, dynamic organisation? In this talk I will take you on a trip through the research and decision making that was part of coming to our current development stack.\n\nSlides are here https://speakerdeck.com/reactamsterdam/paul-van-dam-coolblue-rotterdam-introducing-and-implementing-react-at-coolblue\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aHCYceqOrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aHCYceqOrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aHCYceqOrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3aHCYceqOrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3aHCYceqOrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3aHCYceqOrU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3aHCYceqOrU",
+        "videoPublishedAt": "2016-06-01T13:22:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2wm5qFVsWyb7tY503H_wzR6pCAY",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2016-05-10T13:29:15Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Robert Haritonov: React Component Library",
+        "description": "Robert Haritonov, Liberty Global, Amsterdam on React Component Library\n\nRobert is a passionate developer, evangelist, automation geek and open source enthusiast. Apart from broad front-end development skills, his current main expertise is focused on isomorphic SPA development, automation, style guides and component libraries. He maintains an open source Living Style Guide Platform called SourceJS (http://sourcejs.com) and lead the product development team at Liberty Global. Apart from organising the React Amsterdam conference himself, he is representing his development team at Liberty Global and in a short speech will introduce you the UI storytelling processes they follow organising own React components library.\n\nSlides are https://speakerdeck.com/reactamsterdam/robert-haritonov-liberty-global-amsterdam-the-developers-guide-to-the-react-component-libraries\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvsp7vLAIUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvsp7vLAIUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvsp7vLAIUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cvsp7vLAIUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cvsp7vLAIUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cvsp7vLAIUk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cvsp7vLAIUk",
+        "videoPublishedAt": "2016-05-27T15:42:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nWJLNg0R_NAIDCx2L3qgxiNVfsw",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2016-05-24T15:48:35Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Jack Franklin: Testing React Applications",
+        "description": "Jack Franklin, Pusher, London on Testing React Applications\n\nWe'll discuss the best tooling and approaches for building ReactJS applications in the NodeJS environment and in the browser using React TestUtils and other third party libraries that make it easy to test your components. We'll see how to build components in a way that makes them more maintainable, testable and easier to work with.\n\nSlides are https://speakerdeck.com/reactamsterdam/jack-franklin-pusher-london-testing-react-applications\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBhHsYlF4mQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBhHsYlF4mQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBhHsYlF4mQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KBhHsYlF4mQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KBhHsYlF4mQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KBhHsYlF4mQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KBhHsYlF4mQ",
+        "videoPublishedAt": "2016-05-24T15:48:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RkPdUIT_0CGe_IwQoFSvia8xHc0",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2016-05-31T14:52:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Alexey Kureev, Mike Grabowski: Solving a Tooling Problem for React Native",
+        "description": "Alexey Kureev from Publitas, Amsterdam, and Mike Grabowski from Callstack.io, Wroclaw, on Solving a Tooling Problem For React Native\n\nUnfortunately, React Native, being open-sourced last year, still suffers from the lack of great unified tooling. Managing native dependencies, adding custom fonts, just to name few, are the most common things that require you to know a lot of Objective-C and Java. This talk addresses to solve React Native tooling problems.\n\nSlides are https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iF6lNtqFLKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iF6lNtqFLKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iF6lNtqFLKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iF6lNtqFLKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iF6lNtqFLKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iF6lNtqFLKY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iF6lNtqFLKY",
+        "videoPublishedAt": "2016-05-31T14:52:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2cmEtw_06vobM38kPJ-7thSLE7s",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2016-06-07T15:00:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Denis Radin: React WebGL in Liberty Global",
+        "description": "Denis Radin, Liberty Global, Amsterdan on React WebGL in Liberty Global\n\nA story about connecting, discovering, be free to choose between ‪WebGL‬ / ‎Canvas‬ / ‪‎DOM‬ / ‪#Native‬ or any other UI renderer that will help you learn and better do your projects\n\nSlides are https://speakerdeck.com/reactamsterdam/denis-radin-liberty-global-amsterdam-connect-discover-be-free\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2E7JYEOqAyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2E7JYEOqAyw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2E7JYEOqAyw",
+        "videoPublishedAt": "2016-06-07T15:00:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yKYbJImoaYU7xOXFD2w8xI7yYuE",
+      "id": "UExOQk5TN05SR0tNRzN1THJtNWZnWTAyaEo4N1d6YjRJVS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2016-06-10T09:33:46Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Michel Weststrate: State Management is Easy",
+        "description": "Michel Weststrate, Mendix, Rotterdam on State Management is Easy\n\nState is the heart of each application and there is no quicker way to create buggy, unmanageable applications then by producing inconsistent state. Hence many state management solutions try to restrict the ways in which you can modify state, for example by making state immutable. But this introduces new problems; data needs to be normalised, referential integrity can no longer be guaranteed and it becomes next to impossible to use powerful concepts like prototypes.\n\nAt Mendix these restrictions where unacceptable and so MobX was born. MobX makes state management simple again by addressing the root issue: it makes it impossible to produce an inconsistent state. This makes state management simple and scalable again.\n\nSlides are https://speakerdeck.com/reactamsterdam/michel-weststrate-mendix-rotterdam-state-management-is-easy\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ApmSsu3qnf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ApmSsu3qnf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ApmSsu3qnf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ApmSsu3qnf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ApmSsu3qnf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ApmSsu3qnf0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ApmSsu3qnf0",
+        "videoPublishedAt": "2016-05-26T16:27:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 14,
+    "resultsPerPage": 50
+  }
+}

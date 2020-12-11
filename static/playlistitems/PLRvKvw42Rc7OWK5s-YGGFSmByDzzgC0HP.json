@@ -1,0 +1,634 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "P8iVRsFFB5uvU0hmj0QHnESwga0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3sA7OOQRuMT-sauZLhUuIbfk1ao",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-03-31T01:07:37Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Brian Douglas - Reactathon 2018 Kickoff",
+        "description": "React revolutionized the way we build modern user interfaces. But before it took off, it was built to solve a few key problems when building apps for the web. In this short talk, we'll learn what those problems were and how React approached solving them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "knn364bssQU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "knn364bssQU",
+        "videoPublishedAt": "2018-03-31T00:14:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eynDJWRMfgvec7R7-fCSpn-4Vzk",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-03-31T01:06:40Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Ben Ilegbodu - Why React?",
+        "description": "As the Frontend Platform team at Eventbrite switched from Backbone/Marionette over to React, it had to convince other developers, managers, directors, and non-engineers that React was the right path. And the rationale for moving wasn’t just because React is insanely popular. There are many tangible benefits that make the effort of migrating worthwhile. New to React and want to learn a little about how it works? Seeking ammunition to convince your team to make the change? Come learn about why we made the decision to transition to React, through an introduction of how to build user interactions with React.\n\nBen is a Christian, a husband and a father of 2 with 10+ years of experience developing user interfaces for the Web. He currently leads and manages Eventbrite’s Frontend Platform team. On the side, Ben also enjoys playing basketball, DIY, watching movies, and blogging. He blogs at (benmvp.com) and tweets (@benmvp) about his experiences with new web technologies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wfec35hSALc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wfec35hSALc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wfec35hSALc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wfec35hSALc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wfec35hSALc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wfec35hSALc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Wfec35hSALc",
+        "videoPublishedAt": "2018-03-31T01:03:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rfDf3aCaYjp0ZlO0klqg2AZPgzU",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jay Phelps - Why I Love JSX!",
+        "description": "JSX is an XML-like syntax extension to JavaScript, popularized by React. When seen for the first time it can often elicit bad memories of intermixing HTML and code, but JSX is *very* different! Let's learn exactly what it is, how it works, and even how you can use it outside of React.\n\nReactive programming nut and compiler enthusiast. Jay is a Senior Software Engineer at Netflix. Lover of all things open source, his contributions span numerous ecosystems. Former RxJS core team member and author of core-decorators, git-blame-someone-else, and co-author of redux-observable.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IL-J3pLIAok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IL-J3pLIAok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IL-J3pLIAok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IL-J3pLIAok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IL-J3pLIAok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IL-J3pLIAok"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IL-J3pLIAok",
+        "videoPublishedAt": "2018-03-31T01:02:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OSU1uOFDNUEzaiRhOrLFlzlDJW4",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Feather Knee - From Imperative to Declarative",
+        "description": "There are often many ways to solve the same problem. This talk explores two different approaches, imperative and declarative. We will look at code samples and discuss the relative merits of each, starting with vanilla JS then moving to more concrete examples in JSX.\n\nFeather started her career at Accenture as a technical consultant in various Silicon Valley companies including Sun Microsystems, Robert Half, and Electronic Arts. She went on to work as a Java developer for various startups that didn’t survive the first dot.com meltdown. After this she left the tech world to have a career as a working artist for several years. She returned to teach a web development bootcamp in both NYC and SF for General Assembly. She then went on to work as a full stack developer at Netflix for the next few years, and is now a front end developer at Nvidia. She lives in San Jose with her partner and the cutest dog on earth.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/34BKJmaa8VQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/34BKJmaa8VQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/34BKJmaa8VQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/34BKJmaa8VQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/34BKJmaa8VQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "34BKJmaa8VQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "34BKJmaa8VQ",
+        "videoPublishedAt": "2018-03-31T01:01:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hv_oKQRaVS7E2aXeXQECt95vH4s",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Joe Seifi - CSS in React",
+        "description": "React has no standard way to style components. A slew of ideas and frameworks have grown out of the community. But, with so many CSS in JS solutions, how do you know which one to choose? In this talk, I will cover five different ways to style your React projects, and the pros and cons of each approach. From CSS Modules with SASS to Styled Components, you’ll learn how each library works so that you know which one(s) best fits your needs.\n\nJoe Seifi is a senior software engineer at Eventbrite in San Francisco. Previously he worked at Trulia, Apple, and Disney on various web projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XJjlgEo_0js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XJjlgEo_0js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJjlgEo_0js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XJjlgEo_0js/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XJjlgEo_0js/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XJjlgEo_0js"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XJjlgEo_0js",
+        "videoPublishedAt": "2018-03-31T01:01:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sVGNSf3UeXKPSfZHYPLifh6oWo0",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Swizec Teller - Data Visualizations with React + D3",
+        "description": "React can make your D3 amazing. Want to animate 20,000 elements with React? I'll show you. Want to build a complex dataviz? You'll know how. Want to write maintainable dataviz components that you can reuse in any project? I gotchu, fam. This talk shows you everything I've learned about creating reusable and maintainable graphical components over 3 years of hammering away at the question: 'Jeez D3 sure is hard to learn, how do we make this easier?'\n\nHi I'm Swizec, a geek with a hat. Rumor has it my bird is more popular these days than my hat 🤔 I’ve made some books and courses on web development and working on more. Been doing JavaScript since before jQuery was cool and building my first React component back in 2015 blew my mind.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9JvIyz7uB2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9JvIyz7uB2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9JvIyz7uB2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9JvIyz7uB2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9JvIyz7uB2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9JvIyz7uB2s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9JvIyz7uB2s",
+        "videoPublishedAt": "2018-03-31T01:00:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JgoycAULC-FuDSvxX5l-aJdzu3I",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Mark Erikson - The Fundamentals of Redux",
+        "description": "Redux is the most widely-used state management library for React applications, and has spread throughout the Javascript ecosystem. However, the learning curve can be steep for many people. Come join Redux co-maintainer Mark Erikson as we talk about the core concepts of Redux, how to use Redux with React, and how Redux was designed to make Javascript applications predictable.\n\nMark is a software engineer living in southwest Ohio, USA, where he patiently awaits the annual heartbreak from the Reds and the Bengals. Mark is a Redux maintainer, author of the Redux FAQ, maintains the React/Redux Links list and Redux Addons Catalog, tweets at @acemarke, and blogs at http://blog.isquaredsoftware.com. He can be usually found in the Reactiflux chat channels, answering questions about React and Redux.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ewelU8WHXQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ewelU8WHXQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ewelU8WHXQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ewelU8WHXQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ewelU8WHXQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ewelU8WHXQ4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ewelU8WHXQ4",
+        "videoPublishedAt": "2018-03-31T00:59:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FOfrDVnkofeTKb5POMMEFVhBjzU",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Harry Tormey - an iOS Developer's Opinion of React Native",
+        "description": "The promise of writing code for iOS and having it “just work” out of the box on Android is a tempting one. That along with hot reloading code and the ability to push over the air updates to published apps make React Native a tempting proposition. This sounds too good to be true so what’s the catch? React Native is a framework for building native apps using Javascript. Many native developers rightly associate hybrid Javascript apps with disappointing consumer experiences and frustrating development environments. Over the years the same promises have been made by many other Javascript based frameworks, so why is React Native any different? This talk will be from the perspective of an experienced iOS developer who has been working with React Native for the last 2 years and has shipped several cross platform apps with it.\n\nHarry is an iOS developer who is very enthusiastic about React Native. Currently he works as a mobile contractor with various companies. In the past he’s worked as a Software Engineer at Facebook, Apple and a number of startups you've probably never heard of.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6anak6P_3Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6anak6P_3Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6anak6P_3Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6anak6P_3Z8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6anak6P_3Z8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6anak6P_3Z8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6anak6P_3Z8",
+        "videoPublishedAt": "2018-03-31T00:59:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gcGim-du-JCzYBRVoq72bxsOPMM",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jon Wong - Intro to GraphQL",
+        "description": "GraphQL is a declarative query language that is revolutionizing how we think about the data in our applications — it helps make accessing APIs from both the client and the server an absolute breeze. Come learn the basics of GraphQL and how you can use it today!\n\nJon is an engineer on the Frontend Infrastructure team at Coursera where he works to help developers focus on the problem at hand: building a world-class learning experience! He's been using GraphQL for over a year and loves using it for every product he builds and is looking forward to share the joy of GraphQL with as many people as he can!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yfhRHknHwrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yfhRHknHwrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yfhRHknHwrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yfhRHknHwrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yfhRHknHwrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yfhRHknHwrM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yfhRHknHwrM",
+        "videoPublishedAt": "2018-03-30T23:58:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4NdhYEcjr1WOd6AQgXzvVHLmRl0",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Kyle Mathews - The Client-Side Revolution, Brought to You by React",
+        "description": "Building websites has changed dramatically over the last few years. In this session we’ll go on a history trip to discover where we came from, why React is a such a big deal, and where we might be going soon. We’ll discuss what a website is and why we use the tools we do to build them and how this is the best of all times to be building for the web.\n\nKyle is a tech entrepreneur based in San Francisco, CA. He's founded several startups and is now helping build a next generation open source JavaScript website framework called Gatsby that blends the speed and simplicity of static sites with the rich tooling and client-side capabilities of React.js.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bq31S6h6TwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bq31S6h6TwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bq31S6h6TwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bq31S6h6TwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bq31S6h6TwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bq31S6h6TwE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Bq31S6h6TwE",
+        "videoPublishedAt": "2018-03-31T00:57:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4fSLTcrKuf_54Ue6xEhP4VeXSYA",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "David Wells - Why Serverless Architecture is Changing Software Development",
+        "description": "The 'Serverless Architecture' has become massively popular this year, and for the right reasons. It’s zero-administration nature and pay-per-execution pricing model enable developers to manage less infrastructure and build more than ever. So what are developers actually building with it? David will explore different use cases for building microservices with Serverless technology. The talk will include real world serverless examples from companies & the open source world.\n\nDavid Wells is a full stack developer at Serverless, Inc. in San Francisco. He is passionate about developer experience and creating products that are powerful and easy to use. His previous roles include lead UI/UX developer at Mulesoft and founder of Inbound Now, an open source marketing software platform. He specialized in Full stack JavaScript, HTML, CSS, Marketing, & UI/ UX.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RkHFJrsx1QA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RkHFJrsx1QA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RkHFJrsx1QA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RkHFJrsx1QA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RkHFJrsx1QA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RkHFJrsx1QA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RkHFJrsx1QA",
+        "videoPublishedAt": "2018-03-31T00:56:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dn4xiANygkMFLOC7o79s2aj1Xs4",
+      "id": "UExSdkt2dzQyUmM3T1dLNXMtWUdHRlNtQnlEenpnQzBIUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:10:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Matt Biilmann - React & the JAMstack",
+        "description": "Matt is regarded as one of the driving forces behind the resurgence of static websites and is a founder at Netlify, the fastest growing automation platform for modern websites. Matt has lead the development of all of 3 commercial CMS (swears he won’t do a fourth), has written production code in more than a dozen programming languages, is trilingual and enjoys listening to beer and drinking modern jazz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZF9pE2suBZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZF9pE2suBZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZF9pE2suBZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZF9pE2suBZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZF9pE2suBZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZF9pE2suBZs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZF9pE2suBZs",
+        "videoPublishedAt": "2018-03-31T00:55:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 50
+  }
+}

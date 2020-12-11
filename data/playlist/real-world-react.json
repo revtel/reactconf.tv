@@ -1,0 +1,218 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "ywNmsn-A-kfGs5cr_CmEJ5qXNdo",
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "9Wthridw_T-SwCG3RPp4kKc45wM",
+      "id": "PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t",
+      "snippet": {
+        "publishedAt": "2018-09-16T19:00:25Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Reactathon September 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8E9AEZjglqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "localized": {
+          "title": "Reactathon September 2018",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLRvKvw42Rc7NuAKIXX-54_v0_X2vAF23t\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "a1UFLYkH65EZ93qVu-fNul9X-AA",
+      "id": "PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:37:04Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Reactathon 2018 - Advanced Conf Day 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1hvQ8p8q0a0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "localized": {
+          "title": "Reactathon 2018 - Advanced Conf Day 2",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLRvKvw42Rc7Ne46QAjWNWFo1Jf0mQdnIW\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "olNuVrtTY5S7VvCyq323PxwgxT4",
+      "id": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:17:47Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Reactathon 2018 - Advanced Conf Day 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "localized": {
+          "title": "Reactathon 2018 - Advanced Conf Day 1",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jVDJ_T78ApdrPTZIwg1OpuKuNHA",
+      "id": "PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:09:22Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Reactathon 2018 - Fundamentals Conference",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/knn364bssQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "localized": {
+          "title": "Reactathon 2018 - Fundamentals Conference",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 12
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}

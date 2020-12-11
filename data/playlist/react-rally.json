@@ -1,0 +1,312 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "Y1PgY3xH-TjdNwSAoYYVNLyCD-E",
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "Q8mGjkMxtwCLuZFMTJ52XU7fMqU",
+      "id": "PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA",
+      "snippet": {
+        "publishedAt": "2019-09-02T17:12:44Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2019",
+        "description": "All talks in order from React Rally 2019.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XD8UQeYm5Vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "React Rally 2019",
+          "description": "All talks in order from React Rally 2019."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 21
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "B2J5fZwdJ9n3vVEXYaVzLPTIZmM",
+      "id": "PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv",
+      "snippet": {
+        "publishedAt": "2019-08-22T14:10:47Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvi0yUwSBec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "React Rally 2018",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zYfhdL-04ITF4dY6KnDmayv\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "CXpZV2MbhR3arIjU3HR7mCGvn-c",
+      "id": "PLUD4kD-wL_zZUhvAIHJjueJDPr6qHvkni",
+      "snippet": {
+        "publishedAt": "2017-08-25T16:40:09Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4KnHNCZcH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4KnHNCZcH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4KnHNCZcH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4KnHNCZcH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4KnHNCZcH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "React Rally 2017",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 12
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zZUhvAIHJjueJDPr6qHvkni\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "eJ7x-tkULnIuaZao1gxmDaOF2qk",
+      "id": "PLUD4kD-wL_zYaJdCPp8E6VmEiPux9msg_",
+      "snippet": {
+        "publishedAt": "2016-08-22T18:16:36Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Speaker Interviews 2016",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_4v5qaRPPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_4v5qaRPPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_4v5qaRPPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "Speaker Interviews 2016",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 7
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zYaJdCPp8E6VmEiPux9msg_\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vBGsN_xGyPdur1AGbsaM9Q58q4I",
+      "id": "PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ",
+      "snippet": {
+        "publishedAt": "2016-08-22T18:16:03Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2016",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_MAD4Oly9yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_MAD4Oly9yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_MAD4Oly9yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_MAD4Oly9yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_MAD4Oly9yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "React Rally 2016",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Q7zbr4UQ9GbtL8w4EdIXDb5xVq4",
+      "id": "PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ",
+      "snippet": {
+        "publishedAt": "2015-08-27T04:33:38Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2015",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1uRC3hmKQnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1uRC3hmKQnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1uRC3hmKQnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1uRC3hmKQnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1uRC3hmKQnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "localized": {
+          "title": "React Rally 2015",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}

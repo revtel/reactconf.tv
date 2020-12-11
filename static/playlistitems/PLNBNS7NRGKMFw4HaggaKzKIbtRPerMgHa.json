@@ -1,0 +1,270 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "9qT-gQY5vSfXphXTVfsGXUmCjuY",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GTjrVCfpATKyxFw1mmJ5wo8sXQA",
+      "id": "UExOQk5TN05SR0tNRnc0SGFnZ2FLektJYnRSUGVyTWdIYS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:12:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Component based Navigation in React Native - Satyajit Sahoo and Michal Osadnik",
+        "description": "Talk recording from React Day Berlin Conference 2019\n  \nCheck out the latest React Day Berlin news – https://reactday.berlin\n\nSee other React conferences by GitNation\nReact Summit Amsterdam – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\n\n# Component based Navigation in React Native\nWe'll present the new version of React Navigation and talk about navigation and routing in React and React Native apps.\n\nSatyajit Sahoo\nFrontend developer working on React and React Native. Loves CSS, TypeScript and working with animations and gestures in React Native. Currently building React Navigation.\n\nMichal Osadnik\nSoftware Engineer, React Native lover, CS Student. Fan of good design and high user experience. Plays guitar, loves literature and poetry from 19th & beginning of 20th centuries as well as theoretical computer science and movies which everyone considers boring. Gets satisfaction from making things work and discovering how they work. Part of React Navigation and rainbow.me team. Works at Software Mansion in Krakow.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rcW58vGDtTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rcW58vGDtTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rcW58vGDtTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rcW58vGDtTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rcW58vGDtTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFw4HaggaKzKIbtRPerMgHa",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rcW58vGDtTg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rcW58vGDtTg",
+        "videoPublishedAt": "2019-12-13T09:25:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9M_LfCPHUG9OVTNFBTJY99X5Iao",
+      "id": "UExOQk5TN05SR0tNRnc0SGFnZ2FLektJYnRSUGVyTWdIYS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:12:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Navigating the Hype-Driven Frontend Development World Without Going Insane - Kitze",
+        "description": "Talk recording from React Advanced 2019 Conference  \n\nCheck out the latest React Advanced London news – https://reactadvanced.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Summit Amsterdam – https://reactsummit.com/\n\n# Navigating the Hype-Driven Frontend Development World Without Going Insane\n\nThe obsession to always move on to the latest and greatest, and the fear of missing out while working with something that's older than a few months is currently dominating the dev world. In Kitze's previous talks, he always included a short bit about this topic, and it resonated well with the audience. This time, he does a full talk on it because everyone is struggling with this problem.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2WtILkz0fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2WtILkz0fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2WtILkz0fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u2WtILkz0fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u2WtILkz0fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFw4HaggaKzKIbtRPerMgHa",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u2WtILkz0fI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "u2WtILkz0fI",
+        "videoPublishedAt": "2019-11-13T09:55:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SMygwvSrn-Y70LXCr2FgUWeS0H0",
+      "id": "UExOQk5TN05SR0tNRnc0SGFnZ2FLektJYnRSUGVyTWdIYS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:12:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Navigation - Brent Vatne",
+        "description": "Talk recording from React Amsterdam 2018 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n#React Navigation\n\nYou start using React Native. Styling? Got it. Animations? A little different, but sure. Now let's add a navigation bar and another screen that we transition to...\nThis is where you hit a fork in the road. You can either use a library that wraps the native navigation APIs for the platform or a re-implementation of those APIs using the same React Native primitives (View, Text, Animated, etc) that you use throughout your app. The former is commonly called “native navigation\" because most of the implementation is in \"native\" and the latter is called \"JavaScript-based navigation\" because most of the implementation is in JavaScript. React Navigation is a \"JavaScript-based\" navigation solution and React Native Navigation is a \"native\" navigation library. The choice you make has a significant impact on your app, and it's something you will live with every day while you continue to work on the project.\nI lead the React Navigation along with the creator of the project, Eric Vicenti. I'll explain why we think that building a JavaScript-based navigation library is important, what the limitations are (why there is room for both categories of solutions), and I'll show you how to take full advantage of it.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wJJZ9Od8MjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wJJZ9Od8MjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wJJZ9Od8MjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wJJZ9Od8MjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wJJZ9Od8MjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFw4HaggaKzKIbtRPerMgHa",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wJJZ9Od8MjM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wJJZ9Od8MjM",
+        "videoPublishedAt": "2018-04-24T22:52:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qLpc9C93INZhsQafNVuFABwG8HU",
+      "id": "UExOQk5TN05SR0tNRnc0SGFnZ2FLektJYnRSUGVyTWdIYS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:12:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Making sense of ReactNative Navigator - Léon Smit",
+        "description": "Talk recording from React Native Amsterdam Meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SMya5Db76J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SMya5Db76J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMya5Db76J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SMya5Db76J0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SMya5Db76J0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFw4HaggaKzKIbtRPerMgHa",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SMya5Db76J0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SMya5Db76J0",
+        "videoPublishedAt": "2017-11-22T14:25:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zYvVR0ShYX5DpKCWLZ6FCNBIEMc",
+      "id": "UExOQk5TN05SR0tNRnc0SGFnZ2FLektJYnRSUGVyTWdIYS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-25T15:12:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Navigating React Native Navigation - Kurtis Kemple",
+        "description": "Talk from React Amsterdam Conference 2017  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nKurtis Kemple, Technology Lead at Major League Soccer\n\nWhen you start out on React Native project, there is a certain sense of awe as the package manager delivers the first bundle to the simulator. You quickly add some hello world text and maybe even a Pokemon image. Things are really starting to look up… \nAnd then you need to add another view and you realize that you need to navigate somewhere. So you check out the React Native Docs and are quickly greeted by IOSTabBar, Navigation, and NavigationExperimental modules. With so many different options in the core codebase you realize that it’s still a bit of an unsolved problem. Now you’re looking at 3rd party integrations… and you start to wonder, just how should you implement navigation? \nThis talk will outline the different approaches to navigation available in React Native and in the RN eco-system, and the pro’s and con’s of each solution.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/42ogpJVwtw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/42ogpJVwtw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/42ogpJVwtw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/42ogpJVwtw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/42ogpJVwtw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFw4HaggaKzKIbtRPerMgHa",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "42ogpJVwtw0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "42ogpJVwtw0",
+        "videoPublishedAt": "2017-05-14T14:45:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}

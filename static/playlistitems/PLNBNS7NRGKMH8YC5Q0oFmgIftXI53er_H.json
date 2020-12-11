@@ -1,0 +1,398 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "iT9acXnY3INUYnrY1rQ2-KEYMXM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yxY-m5BOkSKwwyA03yts7vx162o",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-10-28T15:10:21Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced 2019 - React Native Track",
+        "description": "Live stream of React Amsterdam Conference 2019 https://reactadvanced.com/\n\nGeneral track live stream https://www.youtube.com/watch?v=q6TD3PvmQts\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDOCDBJsqzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XDOCDBJsqzI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XDOCDBJsqzI",
+        "videoPublishedAt": "2019-10-25T17:28:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JTVquk8HSjo5D-GJ3T4nB1_wNUQ",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-10-28T15:09:51Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Advanced 2019 - General Track",
+        "description": "Live stream of React Amsterdam Conference 2019 https://reactadvanced.com\n\nLive stream of the React Native track https://www.youtube.com/watch?v=XDOCDBJsqzI\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6TD3PvmQts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q6TD3PvmQts"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q6TD3PvmQts",
+        "videoPublishedAt": "2019-10-25T18:15:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VMPSGpo8P9PhF_QM-GgOM3dXG2Y",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-10-28T15:15:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Oct 2018: Framer X, ReasonML & Auto component conversion",
+        "description": "Live stream of our Oct meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xz8YojEUMAE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Xz8YojEUMAE",
+        "videoPublishedAt": "2018-10-26T00:16:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VhUnFMKL5jmoKkJ-qHXMlkKT0bs",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-04-14T12:39:21Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam 2018 - React Native Track",
+        "description": "Live stream of React Amsterdam Conference 2018  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n04:55 Cross-Language React - Leland Richardson\n40:05 React Navigation - Brent Vatne\n1:46:30 Network Layer in React Native - Alexey Kureev\n2:08:30 React Native AR + VR Made Simple - Nadir Dabit\n2:44:15 Making Programming for People - Tereza Sokol\n4:49:15 Imperative is the new black - Mike Grabowski\n5:19:15 Push Notifications with React Native - Narendra Shetty\n6:15:10 Continuous Workflow for a Large React Native App: Mobile At Wix - Rotem Mizrachi-Meidan and Shalom Yerushalmy\n6:40:20 Controlling Smart Homes With React Native - Vladimir Novick\n\nGeneral track live stream https://www.youtube.com/watch?v=smBND2pwdUE\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N-X3Z5A-pW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N-X3Z5A-pW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N-X3Z5A-pW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N-X3Z5A-pW4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N-X3Z5A-pW4",
+        "videoPublishedAt": "2018-04-13T15:33:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ee888mTmEjfOtS4dwg8RNoMJCOQ",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-04-14T12:38:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam 2018 - General Track",
+        "description": "Live stream of React Amsterdam Conference 2018  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com \n\n23:09 Reactive Programming Demystified: Drink the Kool-Aid - Tracy Lee\n52:17 setState Machine - Michele Bertoli\n2:01:40 There and back again: grokking state and data - Michel Weststrate\n2:34:00 D3 and React, Together - Shirley Wu\n3:06:10 Structure Your App's Story With Sagas and Selectors - Rebecca Hill\n3:16:14 How to “Reactify” Your Existing UI Components - Olga Petrova\n3:24:20 Inclusive React: A Survival Guide - Almero Steyn\n5:00:48 React State Management In a GraphQL Era - Kristijan Ristovski\n5:25:46 GraphQL at scale with AWS - Richard Threlkeld\n6:33:10 Rethinking With React 16 - Manjula Dube\n7:03:23 Mixed Mode React - Ken Wheeler\n7:31:36 Open source awards\n\nReact Native track live stream https://www.youtube.com/watch?v=N-X3Z5A-pW4\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/smBND2pwdUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/smBND2pwdUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/smBND2pwdUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "smBND2pwdUE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "smBND2pwdUE",
+        "videoPublishedAt": "2018-04-13T15:35:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wcnvZLGzG4MhZNlfd23VvxcrNBU",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-02-21T09:46:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - Feb 2018: Declarative D3, Serverless React, A11y + React",
+        "description": "Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLoF1O6vzgY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TLoF1O6vzgY",
+        "videoPublishedAt": "2018-02-20T20:16:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jF1cTT5Oi-V20uKHpIw5PhE4AyA",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-11-16T12:08:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Native Amsterdam Meetup - November 2017: Navigating To Success",
+        "description": "13:50 \"Making sense of ReactNative Navigator\" by Léon Smit\n37:00 \"Shared Element Transition with React Native\" by Narendra N Shetty\n\nLive stream of our Autumn meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6vgTgxkGVC0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6vgTgxkGVC0",
+        "videoPublishedAt": "2017-11-15T19:43:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jEq8n6uf3LXE98kugoMFGH6cCrk",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-10-16T21:02:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Meetup - October 2017: Cross-env Redux Actions and Webpack HMR Tricks",
+        "description": "Live stream of our Autumn meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LPiXFRKu4mc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LPiXFRKu4mc",
+        "videoPublishedAt": "2017-10-19T19:36:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-l7FxiIkSw1Cp7G1AUWX6KwiCW8",
+      "id": "UExOQk5TN05SR0tNSDhZQzVRMG9GbWdJZnRYSTUzZXJfSC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-07T09:31:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Amsterdam Autumn Meetup: MobX and Large Scale React Applications 🍂",
+        "description": "Our first test live stream of our Autumn meetup event at TQ https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/etnPDw5PKqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMH8YC5Q0oFmgIftXI53er_H",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "etnPDw5PKqg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "etnPDw5PKqg",
+        "videoPublishedAt": "2016-11-03T20:31:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ZId1BWgE_wqxc5Kui9Ds997rtYI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0l9Cup6RKPSFa0X-pNz_GoyYONY",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-03-31T00:49:28Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Brian Douglas - Welcome to Reactathon",
+        "description": "It's been quite a year for React! In this short talk, we'll cover a few of the highlights -- following Brian's welcome to the conference.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/57hmk4GvJpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "57hmk4GvJpk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "57hmk4GvJpk",
+        "videoPublishedAt": "2018-03-31T00:48:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kBXjFL_oySTP5o2_9JInzM4MdCo",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "David Wells - Building a self-documenting component library for your company",
+        "description": "Design systems are an extremely efficient way to scale out a scalable frontend solution across multiple teams in a large (or growing) organization. Come and learn how to building an internal component library & design system can help your company ship and iterate faster. This talk will cover how David has built multiple design systems and will run through the protips and pitfalls learned along the way. TLDR; It’s easier than you think to create a scalable, maintainable UI library + Design system with React.\n\nDavid Wells is a full stack developer at Serverless, Inc. in San Francisco. He is passionate about developer experience and creating products that are powerful and easy to use. His previous roles include lead UI/UX developer at Mulesoft and founder of Inbound Now, an open source marketing software platform. He specialized in Full stack JavaScript, HTML, CSS, Marketing, & UI/ UX.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cIAE4bbYNsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cIAE4bbYNsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cIAE4bbYNsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cIAE4bbYNsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cIAE4bbYNsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cIAE4bbYNsc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cIAE4bbYNsc",
+        "videoPublishedAt": "2018-03-31T00:40:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IdTDbVqonNWSEnQ1gFzeJoPiomY",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Jay Phelps - React, Powered by WebAssembly",
+        "description": "WebAssembly (aka wasm) is a new, standardized compilation target for the web, available in all modern browsers. But since it's so low level it can be difficult to see how it will revolutionize the future generations of React apps and potentially even power React itself. In this talk Jay will reveal what it is, how you can use it today, and the incredible opportunities it will continue to unlock.\n\nReactive programming nut and compiler enthusiast. Jay is a Senior Software Engineer at Netflix. Lover of all things open source, his contributions span numerous ecosystems. Former RxJS core team member and author of core-decorators, git-blame-someone-else, and co-author of redux-observable.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s2ccNDxRqpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s2ccNDxRqpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2ccNDxRqpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s2ccNDxRqpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s2ccNDxRqpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s2ccNDxRqpo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "s2ccNDxRqpo",
+        "videoPublishedAt": "2018-03-31T00:39:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9CZvU_7fXxGKrkLrc8nO6B1jxvE",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Erica Cooksey - Sharing Code between React and React Native",
+        "description": "Many companies use React JS for their website and would like to reuse that code in their mobile apps. This talk will cover identifying the best candidates for shared code, sharing both UI components and UI-less business logic, and using React Native in both greenfield and brownfield apps.\n\nAfter working for large companies including Amazon and WalmartLabs, Erica joined Eaze as the first Android engineer. She is excited about building Eaze's mobile technology from the ground up! Erica lives in San Jose and spends most of her free time training and competing in powerlifting and Brazilian jiu jitsu.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EwMqU_EF8Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EwMqU_EF8Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EwMqU_EF8Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EwMqU_EF8Uw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EwMqU_EF8Uw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EwMqU_EF8Uw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EwMqU_EF8Uw",
+        "videoPublishedAt": "2018-03-31T00:38:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hxHypFP7A74q6mF_t4j9CD5ZpYA",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Johannes Schickling - The future of backend development: Serverless GraphQL",
+        "description": "Using GraphQL APIs is by now the default for most React developers. But how does a GraphQL backend actually work? This talk gives an overview over modern backend development using GraphQL and the benefits of serverless deployment workflow.\n\nJohannes is CEO and co-founder of Graphcool/Prisma (GraphQL database proxy) and is currently based in SF & Berlin. He previously built and sold the VR company “Optonaut”. Johannes loves cutting-edge technologies and was one of the first adopters of Docker, React & GraphQL.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cS51Zv-x9-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cS51Zv-x9-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cS51Zv-x9-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cS51Zv-x9-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cS51Zv-x9-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cS51Zv-x9-k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cS51Zv-x9-k",
+        "videoPublishedAt": "2018-03-31T00:37:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RrApm9TiOrTYR39wXHVf1ma4znk",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Berkeley Martinez - Vertical Redux Architecture",
+        "description": "At freeCodeCamp, we've built a large Redux app with lots of moving parts. But building large scale Redux apps can get quite frustrating. In this talk we'll cover some rules to mitigate common issues seen in large apps, structural guidelines inspired by Clojure(Script) frameworks, and Redux theory of actions as events that help keep your large app transparent and manageable.\n\nBerkeley is a San Francisco native and the CTO of freeCodeCamp.org, where students learn full-stack web development for free. He is also the author of Redux-Epic, a library built to do better async and server-side rendering in React with RxJS Observables. Previously, Berkeley worked as a professional consultant and instructor with Real World Reacton and over two years trained engineers from Twilio, Amazon, OpenTable, Pinterest, Netflix, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2n5ms2Sksek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2n5ms2Sksek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2n5ms2Sksek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2n5ms2Sksek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2n5ms2Sksek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2n5ms2Sksek"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2n5ms2Sksek",
+        "videoPublishedAt": "2018-03-31T00:36:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-bTG2w0spWgWPDAkLblnsq6-o-8",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Kaylie Kwon - Motion in JavaScript",
+        "description": "You may have heard of CSS in JS, but what alternatives are there for implementing interactive motions in JS? This talk will be a comparison of several approaches from using vanilla Javascript to libraries like Anime.js and Popmotion, as well as ones in React ecosystem like React Transition Group and React Motion.\n\nKaylie is a frontend engineer at Eventbrite from San Francisco, who loves all things related to devtools and open source.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i03rQ0SiscQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i03rQ0SiscQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i03rQ0SiscQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i03rQ0SiscQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i03rQ0SiscQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i03rQ0SiscQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "i03rQ0SiscQ",
+        "videoPublishedAt": "2018-03-31T00:35:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8E6IZKpsKYu8ubEhK2qClqWFqrs",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Brian Leroux - Serverless-Side Rendering with AWS and Parcel.js",
+        "description": "Brian is a former member of the Adobe PhoneGap team and helped to foster the Apache Cordova project. He is also responsible for wtfjs. Lately he has been botbuilding on the cloud with begin.com and hacking on Architect (https://arc.codes), a project of the JavaScript Foundation (JSF).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3rxj8TiN3K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3rxj8TiN3K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rxj8TiN3K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3rxj8TiN3K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3rxj8TiN3K4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3rxj8TiN3K4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3rxj8TiN3K4",
+        "videoPublishedAt": "2018-03-31T00:34:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IipswzwkxD35dDfvSs_8a1nI9zk",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Kyle Mathews - Advanced Web Performance Optimizations",
+        "description": "As web developers, we have incredible demands placed upon us. Expectations for the quality of websites are remarkably high, and continue to rise. Not only must websites be feature-rich and robust, they must load and run quickly on a near-infinite variety of devices and browsers all around the world. Oh, and do it with limited team members on an aggressive timeline. Come join Kyle Mathews, founder of Gatsby, as he talks about modern web performance. You'll learn the tools & techniques you can start using today to make your React sites super fast. We’ll discuss code splitting, \"link preload\", greedy prefetching, header optimizations, service workers, and more using Gatsby as a case study for these techniques.\n\nKyle is a tech entrepreneur based in San Francisco, CA. He's founded several startups and is now helping build a next generation open source JavaScript website framework called Gatsby that blends the speed and simplicity of static sites with the rich tooling and client-side capabilities of React.js.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQEotVfTXwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQEotVfTXwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQEotVfTXwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HQEotVfTXwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HQEotVfTXwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HQEotVfTXwk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HQEotVfTXwk",
+        "videoPublishedAt": "2018-03-31T00:33:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "luVfGUI0V0ea2u3TCvnX9KYafMU",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Tyler Martinez - GraphQL Outside the Box",
+        "description": "At Docker, we are using GraphQL alongside our existing REST APIs and making it work without a GraphQL server. Instead, we use GraphQL client side, where it serves as the interface to our network layer and the glue that binds our components together. We have taken this approach as a progressive solution to the difficult problem of introducing GraphQL to an existing application stack. By breaking the rules a bit we gain many of the benefits that GraphQL provides immediately while spreading out the implementation over many releases. While a novel approach I also envision a future where running GraphQL on the client is not uncommon. With the advent of blockchain technology and the concept of “dapps” we must reconsider the role of the application that runs on the end user’s device. By running GraphQL on the client we can consume remote GraphQL services, interact directly with the blockchain, browser / native APIs, and more through GraphQL.\n\nTyler is an engineer at Docker working on UI applications. When not writing code you can find him at a beach near his home in San Francisco.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rb8ccqm7R_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rb8ccqm7R_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rb8ccqm7R_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rb8ccqm7R_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rb8ccqm7R_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rb8ccqm7R_8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rb8ccqm7R_8",
+        "videoPublishedAt": "2018-03-31T00:31:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ip6SUBHpwM37q_XqepZl_Uni2qM",
+      "id": "UExSdkt2dzQyUmM3TjBRcFgyUmM1Q2RycUd1eHp3RF8wSC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-03-30T23:26:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Zubair Ahmed - Connecting a React Front-end to an Ethereum Smart Contract",
+        "description": "Learn how to leverage the front-end skills you already know to connect to a smart contract and deploy to the Ethereum blockchain. We'll cover a brief introduction to Solidity, the Ethereum smart contract programming language (similar to JavaScript), and discuss the tools you need create a smart contract on the Ethereum blockchain. We'll also learn how to use web-based blockchain intermediaries such as Metamask.\n\nZubair is a software engineer with Oakland Blockchain Developers and the CTO of GIVE. He specializes in Solidity, Web3.js, Remix, Truffle, IPFS, geth, and smart contract security. He also loves building the front-end of his dApps with React, and is excited to share his insight on building for Ethereum.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gd2RefIhISQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gd2RefIhISQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gd2RefIhISQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gd2RefIhISQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gd2RefIhISQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7N0QpX2Rc5CdrqGuxzwD_0H",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gd2RefIhISQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gd2RefIhISQ",
+        "videoPublishedAt": "2018-03-31T00:30:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}

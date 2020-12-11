@@ -1,0 +1,62 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "cNjm7DRwFP5oDnOSSQ2L2qMt9AM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3_zgBPz8JXiyfgXBoznuFOt4kXQ",
+      "id": "UExNWVZxM3oxUXhTcTVXR2otZjJGcFhSZlNVaW1KWjE0Vy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-10-10T15:30:22Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Vladimir Novick: Redux Reconfiguration in Runtime Techniques — ReactNext 2016 (Lightning Talk)",
+        "description": "ReactNext 2016\nTel Aviv, Israel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZvbZTXs3Y3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq5WGj-f2FpXRfSUimJZ14W",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZvbZTXs3Y3E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZvbZTXs3Y3E",
+        "videoPublishedAt": "2016-10-10T10:47:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}

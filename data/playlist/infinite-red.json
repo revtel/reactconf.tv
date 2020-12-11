@@ -1,0 +1,416 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "3b-od0hSmsDIgfMdQoN4ycCwzKA",
+  "pageInfo": {
+    "totalResults": 8,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "h2s95vdX2HyM95UGp-m6aL04PRg",
+      "id": "PLFHvL21g9bk2o4RndbHj23bG8IOYVLXM-",
+      "snippet": {
+        "publishedAt": "2020-09-09T16:12:59Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Gant's Picks",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w03n9T7yrDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w03n9T7yrDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w03n9T7yrDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w03n9T7yrDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w03n9T7yrDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "Gant's Picks",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk2o4RndbHj23bG8IOYVLXM-\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Nd6uXvJqJAL4vcfVwk2qtqs-BJI",
+      "id": "PLFHvL21g9bk3gQd1Wo_Mexnu18ZumiHoy",
+      "snippet": {
+        "publishedAt": "2020-01-21T17:17:38Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "React Native Newsletter",
+        "description": "Playlist for the React Native Newsletter - reactnative.cc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cCT99POiTw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cCT99POiTw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cCT99POiTw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cCT99POiTw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cCT99POiTw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "React Native Newsletter",
+          "description": "Playlist for the React Native Newsletter - reactnative.cc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 6
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk3gQd1Wo_Mexnu18ZumiHoy\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-Hm5TNiOtYa__azu5DkGA7FrXjA",
+      "id": "PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9",
+      "snippet": {
+        "publishedAt": "2019-07-31T16:17:31Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zEjqDWqeDdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zEjqDWqeDdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zEjqDWqeDdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "Chain React 2019",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9TdRay4ZpNs52UvGSMrEmoiGqkY",
+      "id": "PLFHvL21g9bk0aLVuew6dKYV9amCDVarsB",
+      "snippet": {
+        "publishedAt": "2019-03-28T18:24:50Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "React Native Portland",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_MqE7EaGy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_MqE7EaGy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_MqE7EaGy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O_MqE7EaGy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O_MqE7EaGy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "React Native Portland",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 2
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk0aLVuew6dKYV9amCDVarsB\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "FFq7r2BcSByvtLT0SyJTNwvLbNo",
+      "id": "PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u",
+      "snippet": {
+        "publishedAt": "2018-07-24T18:56:15Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M9X2qGddHkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "Chain React 2018",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3xUgqj3FMT-AFMkvmeM-IVP1Nyc",
+      "id": "PLFHvL21g9bk2JkPWyAWiPXEJcjzWKN81k",
+      "snippet": {
+        "publishedAt": "2017-09-06T17:17:51Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "React Native EU",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FskuV7ojN5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FskuV7ojN5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FskuV7ojN5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FskuV7ojN5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FskuV7ojN5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "React Native EU",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 1
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk2JkPWyAWiPXEJcjzWKN81k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JCVfnYaquBMa4ZeVNxrmW38B0GM",
+      "id": "PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs",
+      "snippet": {
+        "publishedAt": "2017-07-19T19:58:43Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Ignite",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9l5_af3ryXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "Ignite",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk1aEUUxhSrbYEu8u3buTePs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6RUDVk2yrVJhzZGvQ6oTQBCTGx0",
+      "id": "PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522",
+      "snippet": {
+        "publishedAt": "2017-07-18T14:39:22Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chain React 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cz5BzwgATpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cz5BzwgATpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cz5BzwgATpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cz5BzwgATpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cz5BzwgATpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "localized": {
+          "title": "Chain React 2017",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}
