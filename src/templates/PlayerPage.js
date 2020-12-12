@@ -112,7 +112,7 @@ function PlayerPage(props) {
       !isInFavorite,
     );
     app.actions.setToast(
-      isInFavorite ? 'Add to favorates done' : 'Remove from favorites done',
+      isInFavorite ? 'Remove from favorites done' : 'Add to favorates done',
     );
   }
 
