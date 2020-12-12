@@ -27,7 +27,7 @@ If you have any idea or suggestion, feel free to open an issue or create a PR.
 7. Submit a pull request, referencing any issues it addresses.
 8. We will review your Pull Request as soon as possible. Thank you for your contribution ✨
 
-### Contact
-[gmail](mailto:contact@revtel.tech)
+## Contact
+[mail](mailto:contact@revtel.tech)
 
 [![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
