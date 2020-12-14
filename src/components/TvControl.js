@@ -6,7 +6,7 @@ import {
   CheckBox,
   CheckBoxOutlineBlank,
 } from '@styled-icons/material';
-import {Heart, HeartDislike} from '@styled-icons/ionicons-sharp';
+import {Heart, HeartFill} from '@styled-icons/octicons';
 import TalkList from './TalkList';
 import SlideInPanel from './SlideInPanel';
 import useDimension from '../hooks/use-dimension';
@@ -78,7 +78,7 @@ function TvControlEx(props) {
 
         <button onClick={toggleFavoriteState}>
           {isInFavorite ? (
-            <HeartDislike size={24} color="white" />
+            <HeartFill size={24} color="white" />
           ) : (
             <Heart size={24} color="white" />
           )}
