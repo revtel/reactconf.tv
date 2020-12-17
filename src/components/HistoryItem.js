@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import * as Ant from 'antd';
 import {PlayArrow} from '@styled-icons/material';
+import * as Widgets from './Widgets';
 
 function HistoryItem(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
@@ -32,12 +32,9 @@ function HistoryItem(props) {
           </div>
         </div>
 
-        <Ant.Button
-          type="primary"
-          onClick={onInfoClick}
-          style={{width: '100%'}}>
+        <Widgets.Button onClick={onInfoClick} style={{width: '100%'}}>
           {`SEE ALL ${item.conf.contentDetails.itemCount} TALKS`}
-        </Ant.Button>
+        </Widgets.Button>
       </div>
     </Wrapper>
   );

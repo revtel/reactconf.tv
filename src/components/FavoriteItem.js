@@ -1,7 +1,6 @@
 import React from 'react';
 import {navigate} from 'gatsby';
 import styled from 'styled-components';
-import * as Ant from 'antd';
 import * as AppContext from '../AppContext';
 import * as Widgets from './Widgets';
 import {DeleteForever} from '@styled-icons/material';
@@ -33,14 +32,13 @@ function FavoriteItem(props) {
           <div style={{marginBottom: 10}}>{item.title}</div>
 
           <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
-            <Ant.Button
+            <Widgets.Button
               style={{marginRight: 5}}
-              type="primary"
               onClick={() =>
                 navigate(`/player?conf=${item.confId}&idx=${item.talkIdx}`)
               }>
               Watch
-            </Ant.Button>
+            </Widgets.Button>
           </Widgets.FlexRow>
         </div>
       </div>

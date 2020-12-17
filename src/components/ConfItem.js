@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import * as Ant from 'antd';
 import {PlayArrow} from '@styled-icons/material';
+import * as Widgets from './Widgets';
 
 function ConfItemList(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
@@ -13,8 +13,7 @@ function ConfItemList(props) {
       <div className="info">
         <div className="title">{item.snippet.title}</div>
       </div>
-      <Ant.Button
-        size="small"
+      <Widgets.Button
         type="outlined"
         style={{position: 'absolute', right: 8, bottom: 8}}
         onClick={(e) => {
@@ -28,7 +27,7 @@ function ConfItemList(props) {
               color: '#E50914',
             }}>{`${item.contentDetails.itemCount} Talks`}</div>
         </div>
-      </Ant.Button>
+      </Widgets.Button>
     </Wrapper>
   );
 }

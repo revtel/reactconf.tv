@@ -5,7 +5,6 @@ import ReactPlayer from 'react-player/youtube';
 import {SkipNext, SkipPrevious, Home} from '@styled-icons/material';
 import SEO from '../components/seo';
 import * as Widgets from '../components/Widgets';
-import * as Ant from 'antd';
 import * as AppContext from '../AppContext';
 import TvControl from '../components/TvControl';
 import useDimension from '../hooks/use-dimension';
@@ -161,7 +160,7 @@ function PlayerPage(props) {
       <Wrapper height={dimension.innerHeight}>
         <TitleBar visible={showNavbar}>
           <Widgets.FlexRow
-            style={{transform: 'translateX(-18px)', marginBottom: 10}}>
+            style={{transform: 'translateX(-16px)', marginBottom: 10}}>
             <IconButton
               Icon={Home}
               label="HOME"
@@ -224,12 +223,12 @@ function PlayerPage(props) {
 function IconButton(props) {
   const {Icon, label, ...extraProps} = props;
   return (
-    <Ant.Button type="text" {...extraProps}>
+    <Widgets.Button type="text" {...extraProps}>
       <Widgets.FlexRow>
         <Icon size={28} color="white" />
         <div style={{color: 'white'}}>{label}</div>
       </Widgets.FlexRow>
-    </Ant.Button>
+    </Widgets.Button>
   );
 }
 

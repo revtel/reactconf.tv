@@ -1,7 +1,6 @@
 import React from 'react';
 import {navigate} from 'gatsby';
 import styled from 'styled-components';
-import * as Ant from 'antd';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
 import SEO from '../components/seo';
@@ -94,14 +93,12 @@ function LandingPage(props) {
             return (
               <div key={idx}>
                 <Widgets.FlexRow>
-                  <YearLabel style={{marginLeft: 30, marginRight: 10}}>
+                  <YearLabel style={{marginLeft: 30, marginRight: 4}}>
                     {conf.year}
                   </YearLabel>
-                  <Ant.Badge
-                    style={{top: -8, left: -5}}
-                    count={conf.items.length}
-                    showZero
-                  />
+                  <Widgets.Badge style={{transform: 'translateY(-8px)'}}>
+                    {conf.items.length}
+                  </Widgets.Badge>
                 </Widgets.FlexRow>
                 <ConfItemList
                   items={conf.items}
