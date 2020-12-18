@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import * as Ant from 'antd';
 import * as Widgets from './Widgets';
 import * as AppContext from '../AppContext';
 import ProgressBar from './ProgressBar';
@@ -33,19 +32,19 @@ function TalkItem(props) {
           <div style={{marginBottom: 10}}>{talk.snippet.title}</div>
 
           <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
-            <Ant.Button
+            <Widgets.Button
               style={{marginRight: 5}}
-              type="primary"
               onClick={() => onItemClick({talk, idx})}>
               Watch
-            </Ant.Button>
-            <Ant.Button
+            </Widgets.Button>
+            <Widgets.Button
+              type="outlined"
               style={{marginRight: 5}}
               onClick={() =>
                 app.actions.setVideoFinished(videoId, finished ? false : true)
               }>
               {finished ? 'Reset progress' : 'Mark as finished'}
-            </Ant.Button>
+            </Widgets.Button>
           </Widgets.FlexRow>
         </div>
       </div>
