@@ -1,6 +1,6 @@
 ## 📺 React Conference TV 
 > A collections web, contains the react conferences and important info. site
-> [TV link](https://reactconftv.netlify.app/)
+> [stg site](https://reactconf.netlify.app/)
 
 
 ##  Motivation
