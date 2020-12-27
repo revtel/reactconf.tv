@@ -49,8 +49,9 @@ function PlayerPage(props) {
           setFirstProgressLoaded(true);
           const prevProgress = app.actions.getVideoProgressFromCache(videoId);
           if (prevProgress) {
+            let displayTime = app.actions.calcDisplayTime(prevProgress);
             playerRef.current.seekTo(prevProgress);
-            app.actions.setToast('Resume from last time left off');
+            app.actions.setToast(`Playback resumed from ${displayTime}`);
             return;
           }
         }
