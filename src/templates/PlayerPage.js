@@ -50,6 +50,7 @@ function PlayerPage(props) {
           const prevProgress = app.actions.getVideoProgressFromCache(videoId);
           if (prevProgress) {
             playerRef.current.seekTo(prevProgress);
+            app.actions.setToast('Resume from last time left off');
             return;
           }
         }
