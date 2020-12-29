@@ -11,7 +11,7 @@ function Toast(props) {
     if (toastContent) {
       setTimeout(() => {
         app.actions.setToast(null);
-      }, 2000);
+      }, 3000);
     }
   }, [toastContent, app.actions]);
 

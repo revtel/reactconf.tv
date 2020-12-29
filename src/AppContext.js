@@ -111,6 +111,10 @@ class Provider extends React.Component {
         return this.videoProgessCache[videoId];
       },
 
+      calcDisplayTime: (rawTime) => {
+        return new Date(rawTime * 1000).toISOString().substr(11, 8);
+      },
+
       setToast: (toastContent) => this.setState({toastContent}),
     };
   }

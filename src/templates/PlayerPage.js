@@ -50,6 +50,11 @@ function PlayerPage(props) {
           const prevProgress = app.actions.getVideoProgressFromCache(videoId);
           if (prevProgress) {
             playerRef.current.seekTo(prevProgress);
+            app.actions.setToast(
+              `Playback resumed from ${new Date(prevProgress * 1000)
+                .toISOString()
+                .substr(11, 8)}`,
+            );
             return;
           }
         }
