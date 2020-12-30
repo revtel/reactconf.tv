@@ -5,28 +5,24 @@
 
 ## Outline
 
-:rocket:[Getting Started](#getting-started)
+- :rocket: [Getting Started](#getting-started)<br/>
 
-:bomb:[Motivation](#motivation)
+- :bomb: [Motivation](#motivation)<br/>
 
-:hammer_and_pick:[Built With](#built-with)
+- :hammer_and_pick: [Built With](#built-with)<br/>
 
-:heavy_heart_exclamation:[Contribute](#contribute)
+- :heavy_heart_exclamation: [Contribute](#contribute)<br/>
 
-:open_file_folder:[Directory Structure](#directory-structure)
+- :open_file_folder: [Directory Structure](#directory-structure)<br/>
 
-:telephone_receiver:[Contact](#contact)
+- :telephone_receiver: [Contact](#contact)<br/>
 
 ## Getting Started
 
 ```
-
 cd reactconf-tv
-
 npm install
-
 npm run start
-
 ```
 
 open [http://localhost:8000/](http://localhost:8000/) running locally for reactconf-tv
