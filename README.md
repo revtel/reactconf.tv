@@ -1,15 +1,21 @@
-## 📺 React Conference TV 
+# 📺 React Conference TV 
+
 > A collections web, contains the react conferences and important info. site
 > [stg site](https://reactconf.netlify.app/)
 
 ## Outline
 
-[Getting Started](#getting-started)
-[Motivation](#motivation)
-[Built With](#built-with)
-[Contribute](#contribute)
-[Directory Structure](#directory-structure)
-[Contact](#contact)
+:rocket:[Getting Started](#getting-started)
+
+:bomb:[Motivation](#motivation)
+
+:hammer_and_pick:[Built With](#built-with)
+
+:heavy_heart_exclamation:[Contribute](#contribute)
+
+:open_file_folder:[Directory Structure](#directory-structure)
+
+:telephone_receiver:[Contact](#contact)
 
 ## Getting Started
 
