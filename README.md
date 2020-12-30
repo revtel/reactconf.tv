@@ -5,17 +5,17 @@
 
 ## Outline
 
-- :rocket: [Getting Started](#getting-started)<br/>
+- 🚀 [Getting Started](#getting-started)<br/>
 
-- :bomb: [Motivation](#motivation)<br/>
+- 💣 [Motivation](#motivation)<br/>
 
-- :hammer_and_pick: [Built With](#built-with)<br/>
+- 🔨  [Built With](#built-with)<br/>
 
-- :heavy_heart_exclamation: [Contribute](#contribute)<br/>
+- 💎 [Contribute](#contribute)<br/>
 
-- :open_file_folder: [Directory Structure](#directory-structure)<br/>
+- 📂 [Directory Structure](#directory-structure)<br/>
 
-- :telephone_receiver: [Contact](#contact)<br/>
+- 📞 [Contact](#contact)<br/>
 
 ## Getting Started
 
@@ -25,11 +25,12 @@ npm install
 npm run start
 ```
 
-open [http://localhost:8000/](http://localhost:8000/) running locally for reactconf-tv
+open [http://localhost:8000/](http://localhost:8000/) for running locally reactconf-tv
 
 
 ## Motivation
-We want to create a friendly gallery gathering the seperate important infomations of react.
+We want to create a friendly gallery gathering the separate important information of react.
+
 
 
 
@@ -41,6 +42,32 @@ We want to create a friendly gallery gathering the seperate important infomation
 ## Contribute
 Welcome to contribute!
 If you have any idea or suggestion, feel free to open an issue or create a PR.
+
+##### ⭐  How To Contribute a New Conference Resource for Reactconf-tv
+
+- Can see the file `data.json` in `data` folder , and then you would see below data structure 
+
+```
+{
+  "name": "reactconf.tv",
+  "ytChannels": [
+    {
+      "name": "react-conf",
+      "display": "React Conf",
+      "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+      "conferences": [
+        {
+          "name": "react-conf",
+          "display": "React Conf",
+          "filters": ["React Conf"]
+        }
+      ]
+    }
+  ]
+}
+```
+
+
 
 ### step
 1. Open a new issue with description.
@@ -91,6 +118,7 @@ reactconf-tv
 ```
 
 ## Contact
-[mail](mailto:contact@revtel.tech)
+
+[📮 mail](mailto:contact@revtel.tech) 
 
 [![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
