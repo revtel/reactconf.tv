@@ -2,8 +2,31 @@
 > A collections web, contains the react conferences and important info. site
 > [stg site](https://reactconf.netlify.app/)
 
+## Outline
 
-##  Motivation
+[Getting Started](#getting-started)
+[Motivation](#motivation)
+[Built With](#built-with)
+[Contribute](#contribute)
+[Directory Structure](#directory-structure)
+[Contact](#contact)
+
+## Getting Started
+
+```
+
+cd reactconf-tv
+
+npm install
+
+npm run start
+
+```
+
+open [http://localhost:8000/](http://localhost:8000/) running locally for reactconf-tv
+
+
+## Motivation
 We want to create a friendly gallery gathering the seperate important infomations of react.
 
 
@@ -29,7 +52,7 @@ If you have any idea or suggestion, feel free to open an issue or create a PR.
 
 ## Directory Structure
 
-The following is the hign level folder structure of reactConf-tv
+The following is the hign level folder structure of reactconf-tv
 
 ```
 reactconf-tv
