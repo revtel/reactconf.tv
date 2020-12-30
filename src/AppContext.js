@@ -6,8 +6,8 @@ let VideoStore = null;
 
 class Provider extends React.Component {
   constructor(props) {
-    super();
-    console.log('App initialied');
+    super(props);
+    console.log('App initialization');
     this.state = {
       loading: false,
       toastContent: null,

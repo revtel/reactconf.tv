@@ -73,7 +73,14 @@ function NavBar(props) {
             style={{marginRight: 10}}
             onClick={() => navigate('/favorites')}
           />
-          <LogoGithub className="btn" color="white" size={33} />
+          <LogoGithub
+            className="btn"
+            color="white"
+            size={33}
+            onClick={() => {
+              window.open('https://github.com/revtel/reactconf-tv');
+            }}
+          />
         </RightActions>
       </Widgets.MaxWidthCenter>
     </NavBarWrapper>
