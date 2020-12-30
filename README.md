@@ -27,6 +27,44 @@ If you have any idea or suggestion, feel free to open an issue or create a PR.
 7. Submit a pull request, referencing any issues it addresses.
 8. We will review your Pull Request as soon as possible. Thank you for your contribution ✨
 
+## Directory Structure
+
+The following is the hign level folder structure of reactConf-tv
+
+```
+reactconf-tv
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── data
+│   ├── all.json
+│   ├── data.json
+│   └── playlist
+├── gatsby-browser.js
+├── gatsby-config.js
+├── gatsby-node.js
+├── gatsby-ssr.js
+├── package-lock.json
+├── package.json
+├── scripts
+│   └── fetch-data.js
+├── src
+│   ├── AppContext.js
+│   ├── PageContainer.js
+│   ├── components
+│   ├── hooks
+│   ├── images
+│   ├── index.css
+│   ├── pages
+│   ├── templates
+│   └── utils
+└── static
+    ├── fonts
+    ├── lib
+    ├── playlistitems
+    └── worker.js
+```
+
 ## Contact
 [mail](mailto:contact@revtel.tech)
 
