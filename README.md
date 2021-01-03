@@ -1,4 +1,4 @@
-# 📺 React Conference TV 
+# 📺 React Conference TV
 
 > A collections web, contains the react conferences and important info. site
 > [stg site](https://reactconf.netlify.app/)
@@ -43,13 +43,11 @@ We want to create a friendly gallery gathering the separate important informatio
 Welcome to contribute!
 If you have any idea or suggestion, feel free to open an issue or create a PR.
 
-##### ⭐  How To Contribute a New Conference Resource for Reactconf-tv
+####  How To Contribute a New Conference Resource for Reactconf-tv
 
-- Can see the file `data.json` in `data` folder , and then you would see below data structure 
+- Can see the file `data.json` in `data` folder , and then you would see below data structure
 
 ```
-{
-  "name": "reactconf.tv",
   "ytChannels": [
     {
       "name": "react-conf",
@@ -64,16 +62,46 @@ If you have any idea or suggestion, feel free to open an issue or create a PR.
       ]
     }
   ]
-}
 ```
 
+- ytChannels
+  - `name` Channel Name
+  - `display` Unused
+  - `channelId` Channel id which use to fetch youtube api
+    - conferences
+      - `name` The name of the playlist
+      - `display` The playlist name will display on the reactconf-tv playlist
+      - `filters` The keyword to get the playlist
+
+- How to get the channel id ?
+   - Select the channel which you want to append to reactconf-tv,<br/>
+     you would see the channel id on the url.
+
+     `https://www.youtube.com/channel/${channel_id}`
+
+- Where the keyword which I would place in the filters array ?
+   - See the below picture , you will see the two playlists,<br/>
+     what they have in common is the keyword `React Conf`,<br/>
+     so if you want to append these palylists,<br/>
+     please concat the `React Conf` in the filters of the channel.<br/>
+
+     - p.s. Because system limitations, please choose the playlist that postfix has particular year.
+
+    ![Imgur](https://i.imgur.com/WevsAiU.png)
+
+- Why I concat the structure of channel, but I didn’t see the list in reactconf-tv ?
+   - because reactconf-tv is static site, we will output static files we need first.<br/>
+     so maybe you can run below script, you will fetch the data you want,
+     then submit pull request.
+
+      `node scripts/fetch-data.js`
 
 
 ### step
 1. Open a new issue with description.
 2. Fork and clone the repo. https://github.com/your-username/reactconf-tv.git.
 3. Create a new branch based off the develop branch.
-4. `npm install && npm start` to run the development enviroment. 
+4. `npm install && npm start` to run the development enviroment.
 5. Make changes.
 6. Make commit message with [conventional commits specification](https://www.conventionalcommits.org/en/v1.0.0/).
 7. Submit a pull request, referencing any issues it addresses.
@@ -119,6 +147,6 @@ reactconf-tv
 
 ## Contact
 
-[📮 mail](mailto:contact@revtel.tech) 
+[📮 mail](mailto:contact@revtel.tech)
 
 [![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
