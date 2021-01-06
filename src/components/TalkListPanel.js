@@ -31,7 +31,7 @@ function BottomPanelContent(props) {
           evt.stopPropagation();
         }}>
         <div className="title-bar">
-          <div className="title">{conf.snippet.title}</div>
+          <div className="title">{conf.title}</div>
           <Close size={24} onClick={close} />
         </div>
         <div className="scroll-area">

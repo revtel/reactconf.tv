@@ -3,7 +3,7 @@ export default function groupConfByYear(channels) {
     const items = [];
     for (const channel of channels) {
       for (const item of channel.items) {
-        if (item.snippet.title.indexOf(yearLabel) > -1) {
+        if (item.title.indexOf(yearLabel) > -1) {
           items.push({
             channel,
             ...item,
