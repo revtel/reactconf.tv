@@ -7,6 +7,33 @@ import {Close} from '@styled-icons/material';
 import * as AppContext from '../AppContext';
 import TalkList from '../components/TalkList';
 
+function TalkListPanel(props) {
+  const {dimension} = useDimension();
+  const panelProps = {
+    position: 'bottom',
+    size: dimension?.innerHeight * 0.8 || 500,
+    style: {backgroundColor: 'transparent'},
+  };
+
+  return (
+    <SlideInPanel
+      {...panelProps}
+      getInstance={(inst) => {
+        props.getInstance({
+          open: async (conf) => {
+            inst.open(
+              <BottomPanelContent conf={conf} close={inst.close.bind(inst)} />,
+            );
+          },
+          close: inst.close.bind(inst),
+        });
+      }}
+    />
+  );
+}
+
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 function BottomPanelContent(props) {
   const {conf, close} = props;
   const [confDetail, setConfDetail] = React.useState(null);
@@ -14,6 +41,8 @@ function BottomPanelContent(props) {
 
   React.useEffect(() => {
     async function fetchData() {
+      // delay a little bit, let the slide-up animation runs
+      await delay(300);
       setConfDetail(await app.actions.fetchPlaylistItems(conf.id));
     }
 
@@ -96,62 +125,5 @@ const Content = styled.div`
     }
   }
 `;
-
-function TalkListPanel(props) {
-  const {dimension, direction = 'bottom'} = useDimension();
-  const app = React.useContext(AppContext.Context);
-  let panelProps = null;
-
-  if (direction === 'bottom') {
-    panelProps = {
-      position: 'bottom',
-      size: dimension?.innerHeight * 0.8 || 500,
-      style: {backgroundColor: 'transparent'},
-    };
-  } else {
-    // left
-    panelProps = {
-      position: 'left',
-      size: 280,
-    };
-  }
-
-  return (
-    <SlideInPanel
-      {...panelProps}
-      getInstance={(inst) => {
-        props.getInstance({
-          open: async (conf) => {
-            if (direction === 'bottom') {
-              inst.open(
-                <BottomPanelContent
-                  conf={conf}
-                  close={inst.close.bind(inst)}
-                />,
-              );
-            } else {
-              // left
-              const confDetail = await app.actions.fetchPlaylistItems(conf.id);
-              console.log('DBG', confDetail);
-              inst.open(
-                <div style={{height: '100%', overflow: 'auto'}}>
-                  <TalkList
-                    items={confDetail.items}
-                    onItemClick={({talk, idx}) => {
-                      navigate(`/player?conf=${conf.id}&idx=${idx}`);
-                    }}
-                  />
-                </div>,
-              );
-            }
-          },
-          close: () => {
-            inst.close();
-          },
-        });
-      }}
-    />
-  );
-}
 
 export default TalkListPanel;

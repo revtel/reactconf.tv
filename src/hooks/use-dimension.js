@@ -7,7 +7,6 @@ function useDimension() {
     if (typeof window !== undefined) {
       nextDimension.innerWidth = window.innerWidth;
       nextDimension.innerHeight = window.innerHeight;
-      console.log('setDimension');
       setDimension(nextDimension);
     }
   }, []);
