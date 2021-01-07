@@ -51,7 +51,9 @@ function NavBar(props) {
           {explicitTitle || title}
         </CenterTitle>
 
-        <SiteTitle hide={showCenterTitle}>ReactConf.TV</SiteTitle>
+        <SiteTitle hide={showCenterTitle}>
+          <img src={'../images/logo-dark-2.png'} alt="logo" width="180" />
+        </SiteTitle>
 
         <BackButton
           hide={!showCenterTitle}

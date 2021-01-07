@@ -2,20 +2,25 @@
 
 > A collections web, contains the react conferences and important info. site
 > [stg site](https://reactconf.netlify.app/)
+<p align="center">
+  <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
+</p>
 
 ## Outline
 
-- 🚀 [Getting Started](#getting-started)<br/>
+- [Getting Started](#getting-started)<br/>
 
-- 💣 [Motivation](#motivation)<br/>
+- [Motivation](#motivation)<br/>
 
-- 🔨  [Built With](#built-with)<br/>
+- [Built With](#built-with)<br/>
 
-- 💎 [Contribute](#contribute)<br/>
+- [Contribute](#contribute)<br/>
 
-- 📂 [Directory Structure](#directory-structure)<br/>
+- [Directory Structure](#directory-structure)<br/>
 
-- 📞 [Contact](#contact)<br/>
+- [Contributors](#contributors)<br/>
+
+- [Contact](#contact)<br/>
 
 ## Getting Started
 
@@ -145,8 +150,46 @@ reactconf-tv
     └── worker.js
 ```
 
+
+## Contributors
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/whitedogg13">
+          <img src="https://avatars3.githubusercontent.com/u/10307875?s=400&u=4ca8b7f2af4a1a32dcdee594aca61a800262c421&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Richie Hsieh</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mylio-chang">
+          <img src="https://avatars3.githubusercontent.com/u/32530956?s=400&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Mylio change</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ulayab">
+          <img src="https://avatars2.githubusercontent.com/u/19527809?s=400&u=afa10a82996b318931ede57b8a2fce3dc7c4d83a&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Ula chao</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/guychienll">
+          <img src="https://avatars3.githubusercontent.com/u/63462677?s=460&u=a82006b332820e1da1fc774d3337c1656303c1f3&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Guy Chien</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Contact
 
-[📮 mail](mailto:contact@revtel.tech)
+[Revtel Tech](mailto:contact@revtel.tech)
 
 [![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
