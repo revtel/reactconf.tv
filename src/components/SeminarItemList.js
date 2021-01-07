@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
-import ConfItem from './ConfItem';
+import SeminarItem from './SeminarItem';
 import useDimension from '../hooks/use-dimension';
 
-function ConfItemList(props) {
+function SeminarItemList(props) {
   const {items, onItemClick} = props;
   const {dimension} = useDimension();
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
@@ -13,7 +13,7 @@ function ConfItemList(props) {
     <ListWrapper innerWidth={(items.length + 1) * itemWidth}>
       <div className="items-wrapper">
         {items.map((item, idx) => (
-          <ConfItem
+          <SeminarItem
             key={idx}
             item={item}
             width={itemWidth}
@@ -40,4 +40,4 @@ const ListWrapper = styled.div`
   }
 `;
 
-export default ConfItemList;
+export default SeminarItemList;

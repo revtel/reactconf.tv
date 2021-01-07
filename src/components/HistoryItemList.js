@@ -18,9 +18,9 @@ function HistoryItemList(props) {
               key={idx}
               item={item}
               width={itemWidth}
-              onInfoClick={() => onItemClick(item.conf)}
+              onInfoClick={() => onItemClick(item.seminar)}
               onWatchClick={() => {
-                navigate(`/player?conf=${item.conf.id}&idx=${item.talkIdx}`);
+                navigate(`/player?conf=${item.seminar.id}&idx=${item.talkIdx}`);
               }}
             />
           );
