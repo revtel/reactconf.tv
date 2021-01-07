@@ -6,22 +6,13 @@ import useDimension from '../hooks/use-dimension';
 import NavBar from '../components/NavBar';
 import FavoriteItem from '../components/FavoriteItem';
 
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 function FavoritePage(props) {
   const app = React.useContext(AppContext.Context);
   const favorites = app.favoriteCache || [];
   const {dimension} = useDimension();
 
   React.useEffect(() => {
-    // just to trigger a fake loading animation
-    async function showLoading() {
-      app.actions.setLoading(true);
-      await delay(1000);
-      app.actions.setLoading(false);
-    }
-
-    showLoading();
+    app.actions.showGlobalSpinner();
   }, [app.actions]);
 
   function calcGridLayout() {
