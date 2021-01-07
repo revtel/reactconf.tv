@@ -12,8 +12,6 @@ import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
@@ -30,14 +28,7 @@ function LandingPage(props) {
   }, [confChannels]);
 
   React.useEffect(() => {
-    async function showLoading() {
-      app.actions.setLoading(true);
-      await delay(1000);
-      window.scrollTo({top: 0, behavior: 'smooth'});
-      app.actions.setLoading(false);
-    }
-
-    showLoading();
+    app.actions.showGlobalSpinner();
   }, [selectedChannel, app.actions]);
 
   const historyCache = app.watchHistoryCache || {};

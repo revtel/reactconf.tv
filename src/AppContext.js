@@ -10,6 +10,8 @@ const Context = React.createContext();
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
 
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 class Provider extends React.Component {
   constructor(props) {
     super(props);
@@ -21,6 +23,17 @@ class Provider extends React.Component {
 
     this.actions = {
       setLoading: (loading) => this.setState({loading}),
+
+      showGlobalSpinner: async ({ms = 1000, scrollToTop = true} = {}) => {
+        this.setState({loading: true});
+        await delay(ms);
+        this.setState({loading: false});
+        if (scrollToTop) {
+          if (typeof window !== 'undefined') {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+          }
+        }
+      },
 
       getAllChannelsData: (pageContext) => {
         if (!this._confChannels) {
