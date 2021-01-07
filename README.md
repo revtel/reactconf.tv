@@ -1,6 +1,6 @@
 # 📺 React Conference TV
 
-> Find & watch your favorite React Conferences in one place!
+> ReactConf.tw is a place where passionate React developers are able to search organized and up-to-date videos! Offering friendly features and video sortings to promptly watch all these fantastic contents! Come and check it out!
 
 <p align="center">
   <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
@@ -32,6 +32,7 @@ open [http://localhost:8000/](http://localhost:8000/) for running locally reactc
 
 
 ## Motivation
+We are a React Dev team based in Taipei, Taiwan. Year by year we have dedicated in both open-source study and implementations, apparently there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learing experience!
 
 
 ## Built with
