@@ -7,8 +7,6 @@ import {Close} from '@styled-icons/material';
 import * as AppContext from '../AppContext';
 import TalkList from '../components/TalkList';
 
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 function BottomPanelContent(props) {
   const {conf, close} = props;
   const [confDetail, setConfDetail] = React.useState(null);
@@ -16,7 +14,6 @@ function BottomPanelContent(props) {
 
   React.useEffect(() => {
     async function fetchData() {
-      await delay(600);
       setConfDetail(await app.actions.fetchPlaylistItems(conf.id));
     }
 
@@ -31,7 +28,7 @@ function BottomPanelContent(props) {
           evt.stopPropagation();
         }}>
         <div className="title-bar">
-          <div className="title">{conf.snippet.title}</div>
+          <div className="title">{conf.title}</div>
           <Close size={24} onClick={close} />
         </div>
         <div className="scroll-area">
@@ -39,7 +36,7 @@ function BottomPanelContent(props) {
 
           {confDetail && (
             <TalkList
-              conf={confDetail}
+              items={confDetail.items}
               onItemClick={({talk, idx}) => {
                 navigate(`/player?conf=${conf.id}&idx=${idx}`);
               }}
@@ -135,10 +132,11 @@ function TalkListPanel(props) {
             } else {
               // left
               const confDetail = await app.actions.fetchPlaylistItems(conf.id);
+              console.log('DBG', confDetail);
               inst.open(
                 <div style={{height: '100%', overflow: 'auto'}}>
                   <TalkList
-                    conf={confDetail}
+                    items={confDetail.items}
                     onItemClick={({talk, idx}) => {
                       navigate(`/player?conf=${conf.id}&idx=${idx}`);
                     }}

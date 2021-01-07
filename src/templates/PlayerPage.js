@@ -22,7 +22,7 @@ function PlayerPage(props) {
   const {dimension} = useDimension();
   const confId = qs.parse(location.search).conf;
   const currIdx = parseInt(qs.parse(location.search).idx || 0);
-  const videoId = confData?.items[currIdx].snippet.resourceId.videoId;
+  const videoId = confData?.items[currIdx].videoId;
 
   React.useEffect(() => {
     app.actions.setLoading(true);
@@ -110,8 +110,8 @@ function PlayerPage(props) {
       {
         confId,
         talkIdx: currIdx,
-        title: confData.items[currIdx].snippet.title,
-        thumbnail: confData.items[currIdx].snippet.thumbnails.standard?.url,
+        title: confData.items[currIdx].title,
+        thumbnail: confData.items[currIdx].thumbnail,
       },
       !isInFavorite,
     );
@@ -185,7 +185,7 @@ function PlayerPage(props) {
 
           <div className="title">
             <div className="idx">Talk #{currIdx + 1}</div>
-            {confData.items[currIdx].snippet.title}
+            {confData.items[currIdx].title}
           </div>
         </TitleBar>
 
@@ -194,7 +194,7 @@ function PlayerPage(props) {
             key={`${confId}-${currIdx}`}
             ref={onPlayerRef}
             className="react-player"
-            url={`https://www.youtube.com/watch?v=${confData.items[currIdx].snippet.resourceId.videoId}`}
+            url={`https://www.youtube.com/watch?v=${confData.items[currIdx].videoId}`}
             width="100%"
             height="100%"
             controls={true}

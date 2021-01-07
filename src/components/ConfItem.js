@@ -3,15 +3,15 @@ import styled from 'styled-components';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
 
-function ConfItemList(props) {
+function ConfItem(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
   const height = width * (10 / 16);
 
   return (
     <Wrapper onClick={() => onInfoClick(item)} style={{width, height}}>
-      <img src={item.snippet.thumbnails.medium.url} alt="conference snapshot" />
+      <img src={item.thumbnail} alt="conference snapshot" />
       <div className="info">
-        <div className="title">{item.snippet.title}</div>
+        <div className="title">{item.title}</div>
       </div>
       <Widgets.Button
         type="outlined"
@@ -25,7 +25,7 @@ function ConfItemList(props) {
           <div
             style={{
               color: '#E50914',
-            }}>{`${item.contentDetails.itemCount} Talks`}</div>
+            }}>{`${item.totalCount} Talks`}</div>
         </div>
       </Widgets.Button>
     </Wrapper>
@@ -68,4 +68,4 @@ const Wrapper = styled.div`
   }
 `;
 
-export default ConfItemList;
+export default ConfItem;

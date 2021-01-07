@@ -15,10 +15,11 @@ import groupConfByYear from '../utils/groupConfByYear';
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function LandingPage(props) {
-  const {confChannels} = props.pageContext;
+  const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
   const bottomPanelRef = React.useRef();
-  const confMap = React.useMemo(() => {
+  const confChannels = app.actions.getAllChannelsData(props.pageContext);
+  const confById = React.useMemo(() => {
     const _confMap = {};
     for (const channel of confChannels) {
       for (const conf of channel.items) {
@@ -27,7 +28,6 @@ function LandingPage(props) {
     }
     return _confMap;
   }, [confChannels]);
-  const app = React.useContext(AppContext.Context);
 
   React.useEffect(() => {
     async function showLoading() {
@@ -43,12 +43,10 @@ function LandingPage(props) {
   const historyCache = app.watchHistoryCache || {};
   const recentWatchedConfs = Object.keys(historyCache)
     .map((k) => ({
-      conf: confMap[k],
+      conf: confById[k],
       ...historyCache[k],
     }))
     .sort((a, b) => b.timestamp - a.timestamp);
-
-  console.log('recentWatched', recentWatchedConfs);
 
   const confListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : confChannels,

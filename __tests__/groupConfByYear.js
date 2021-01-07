@@ -9,27 +9,21 @@ const testData = [
   {
     items: [
       {
-        snippet: {
-          title: 'Conf1 2019',
-        },
+        title: 'Conf1 2019',
       },
     ],
   },
   {
     items: [
       {
-        snippet: {
-          title: 'Conf2 2019',
-        },
+        title: 'Conf2 2019',
       },
     ],
   },
   {
     items: [
       {
-        snippet: {
-          title: 'Conf3 2019',
-        },
+        title: 'Conf3 2019',
       },
     ],
   },

@@ -37,7 +37,7 @@ function TvControlEx(props) {
     leftDrawer.current.open(
       <DrawerWrapper>
         <TalkList
-          conf={conf}
+          items={conf.items}
           currIdx={currIdx}
           onItemClick={async ({talk, idx}) => {
             goToTalk(idx);

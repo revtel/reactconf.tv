@@ -1,5 +1,9 @@
 import React from 'react';
 import * as idbKeyval from 'idb-keyval';
+import {
+  transformAllChannelsData,
+  transformConfEventData,
+} from './utils/transformData';
 
 const Context = React.createContext();
 let VideoStore = null;
@@ -16,9 +20,18 @@ class Provider extends React.Component {
     this.actions = {
       setLoading: (loading) => this.setState({loading}),
 
+      getAllChannelsData: (pageContext) => {
+        if (!this._confChannels) {
+          this._confChannels = transformAllChannelsData(
+            pageContext.confChannels,
+          );
+        }
+        return this._confChannels;
+      },
+
       fetchPlaylistItems: async (playlistId) => {
         const resp = await fetch(`/playlistitems/${playlistId}.json`);
-        return await resp.json();
+        return transformConfEventData(await resp.json());
       },
 
       setWatchHistory: async (confId, talkIdx) => {
