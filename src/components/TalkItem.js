@@ -8,7 +8,7 @@ import {CheckCircle} from '@styled-icons/material';
 function TalkItem(props) {
   const {talk, idx, currIdx, onItemClick} = props;
   const app = React.useContext(AppContext.Context);
-  const videoId = talk.snippet.resourceId.videoId;
+  const videoId = talk.videoId;
   const progress = (app.videoProgressCache || {})[videoId];
   const duration = (app.videoDurationCache || {})[videoId];
   const finished = (app.videoFinishedCache || {})[videoId];
@@ -18,10 +18,7 @@ function TalkItem(props) {
   return (
     <TalkItemWrapper>
       <div className="talk-thumb">
-        <img
-          src={talk.snippet.thumbnails.standard?.url}
-          alt="snapshot for the talk"
-        />
+        <img src={talk.thumbnail} alt="snapshot for the talk" />
         {idx !== undefined && <div className="idx">{idx + 1}</div>}
       </div>
 
@@ -29,7 +26,7 @@ function TalkItem(props) {
         <Progress progress={progress} duration={duration} finished={finished} />
 
         <div style={{padding: '0px 10px 10px 10px'}}>
-          <div style={{marginBottom: 10}}>{talk.snippet.title}</div>
+          <div style={{marginBottom: 10}}>{talk.title}</div>
 
           <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
             <Widgets.Button

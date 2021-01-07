@@ -6,7 +6,6 @@ import * as Widgets from './Widgets';
 function ConfItem(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
   const height = width * (10 / 16);
-  console.log(item);
 
   return (
     <Wrapper onClick={() => onInfoClick(item)} style={{width, height}}>

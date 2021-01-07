@@ -14,29 +14,12 @@ import groupConfByYear from '../utils/groupConfByYear';
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-function transformData(channels) {
-  return channels.map((ch) => {
-    return {
-      name: ch.name,
-      display: ch.display,
-      items: ch.items.map((confEvent) => {
-        return {
-          id: confEvent.id,
-          title: confEvent.snippet.title,
-          thumbnail: confEvent.snippet.thumbnails.medium.url,
-          totalCount: confEvent.contentDetails.itemCount,
-        };
-      }),
-    };
-  });
-}
-
 function LandingPage(props) {
-  const {confChannels: _confChannels} = props.pageContext;
+  const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
   const bottomPanelRef = React.useRef();
-  const confChannels = transformData(_confChannels);
-  const confMap = React.useMemo(() => {
+  const confChannels = app.actions.getAllChannelsData(props.pageContext);
+  const confById = React.useMemo(() => {
     const _confMap = {};
     for (const channel of confChannels) {
       for (const conf of channel.items) {
@@ -45,7 +28,6 @@ function LandingPage(props) {
     }
     return _confMap;
   }, [confChannels]);
-  const app = React.useContext(AppContext.Context);
 
   React.useEffect(() => {
     async function showLoading() {
@@ -61,12 +43,10 @@ function LandingPage(props) {
   const historyCache = app.watchHistoryCache || {};
   const recentWatchedConfs = Object.keys(historyCache)
     .map((k) => ({
-      conf: confMap[k],
+      conf: confById[k],
       ...historyCache[k],
     }))
     .sort((a, b) => b.timestamp - a.timestamp);
-
-  console.log('recentWatched', recentWatchedConfs);
 
   const confListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : confChannels,
