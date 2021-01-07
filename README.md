@@ -1,7 +1,7 @@
 # 📺 React Conference TV
 
-> A collections web, contains the react conferences and important info. site
-> [stg site](https://reactconf.netlify.app/)
+> Find & watch your favorite React Conferences in one place!
+
 <p align="center">
   <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
 </p>
@@ -20,23 +20,18 @@
 
 - [Contributors](#contributors)<br/>
 
-- [Contact](#contact)<br/>
-
 ## Getting Started
 
 ```
 cd reactconf-tv
 npm install
-npm run start
+npm start
 ```
 
 open [http://localhost:8000/](http://localhost:8000/) for running locally reactconf-tv
 
 
 ## Motivation
-We want to create a friendly gallery gathering the separate important information of react.
-
-
 
 
 ## Built with
@@ -122,7 +117,6 @@ reactconf-tv
 ├── LICENSE
 ├── README.md
 ├── data
-│   ├── all.json
 │   ├── data.json
 │   └── playlist
 ├── gatsby-browser.js
@@ -145,9 +139,8 @@ reactconf-tv
 │   └── utils
 └── static
     ├── fonts
-    ├── lib
-    ├── playlistitems
-    └── worker.js
+    ├── images
+    └── playlistitems
 ```
 
 
@@ -168,14 +161,14 @@ reactconf-tv
           <img src="https://avatars3.githubusercontent.com/u/32530956?s=400&v=4" width="100px" />
         </a>
         <br/>
-        <div>Mylio change</div>
+        <div>Mylio Chang</div>
       </td>
       <td align="center">
         <a href="https://github.com/ulayab">
           <img src="https://avatars2.githubusercontent.com/u/19527809?s=400&u=afa10a82996b318931ede57b8a2fce3dc7c4d83a&v=4" width="100px" />
         </a>
         <br/>
-        <div>Ula chao</div>
+        <div>Ula Chao</div>
       </td>
       <td align="center">
         <a href="https://github.com/guychienll">
@@ -187,9 +180,3 @@ reactconf-tv
     </tr>
   </tbody>
 </table>
-
-## Contact
-
-[Revtel Tech](mailto:contact@revtel.tech)
-
-[![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
