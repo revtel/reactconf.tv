@@ -2,6 +2,9 @@
 
 > A collections web, contains the react conferences and important info. site
 > [stg site](https://reactconf.netlify.app/)
+<p align="center">
+  <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
+</p>
 
 ## Outline
 
