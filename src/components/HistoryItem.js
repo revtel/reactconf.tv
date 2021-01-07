@@ -9,7 +9,7 @@ function HistoryItem(props) {
   return (
     <Wrapper style={{width}}>
       <div className="img-wrapper">
-        <img src={item.conf.thumbnail} alt="conference snapshot" />
+        <img src={item.seminar.thumbnail} alt="conference snapshot" />
 
         <div className="gradient" />
 
@@ -20,17 +20,17 @@ function HistoryItem(props) {
 
       <div className="content">
         <div className="title">
-          <div>{item.conf.title}</div>
+          <div>{item.seminar.title}</div>
           <div>
             <span style={{fontSize: 20, fontWeight: 'bold'}}>
               {item.talkIdx + 1}
             </span>
-            <span>{` / ${item.conf.totalCount}`}</span>
+            <span>{` / ${item.seminar.totalCount}`}</span>
           </div>
         </div>
 
         <Widgets.Button onClick={onInfoClick} style={{width: '100%'}}>
-          {`SEE ALL ${item.conf.totalCount} TALKS`}
+          {`SEE ALL ${item.seminar.totalCount} TALKS`}
         </Widgets.Button>
       </div>
     </Wrapper>

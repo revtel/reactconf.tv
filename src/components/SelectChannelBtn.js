@@ -4,7 +4,7 @@ import {List} from '@styled-icons/material';
 import SlideInPanel from './SlideInPanel';
 
 function SelectChannelBtn(props) {
-  const {confChannels, selectedChannel, setSelectedChannel} = props;
+  const {channels, selectedChannel, setSelectedChannel} = props;
   const leftPanelRef = React.useRef();
 
   return (
@@ -25,7 +25,7 @@ function SelectChannelBtn(props) {
         onClick={() => {
           leftPanelRef.current.open(
             <div>
-              {confChannels.map((channel) => (
+              {channels.map((channel) => (
                 <Channel
                   key={channel.name}
                   active={
