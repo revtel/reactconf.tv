@@ -1,6 +1,6 @@
-# 📺 React Conference TV
+# 📺 ReactConf.TV
 
-ReactConf.tv is a place where passionate React developers are able to search organized and up-to-date react conference videos. Offering friendly features and video sortings to promptly watch all these fantastic contents in one place. 
+ReactConf.TV is a place where passionate React developers are able to search organized and up-to-date react conference videos. Offering friendly features and video sortings to promptly watch all these fantastic contents in one place. 
 
 Come and [check it out](https://reactconf.tv)!
 
