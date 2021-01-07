@@ -1,6 +1,8 @@
 # 📺 React Conference TV
 
-> ReactConf.tw is a place where passionate React developers are able to search organized and up-to-date videos! Offering friendly features and video sortings to promptly watch all these fantastic contents! Come and check it out!
+ReactConf.tv is a place where passionate React developers are able to search organized and up-to-date react conference videos. Offering friendly features and video sortings to promptly watch all these fantastic contents in one place. 
+
+Come and [check it out](https://reactconf.tv)!
 
 <p align="center">
   <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
@@ -32,15 +34,16 @@ open [http://localhost:8000/](http://localhost:8000/) for running locally reactc
 
 
 ## Motivation
-We are a React Dev team based in Taipei, Taiwan. Year by year we have dedicated in both open-source study and implementations, apparently there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learning experience!
 
+We love React. Since there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learning experience.
 
 ## Built with
-- [Gatsby](https://www.gatsbyjs.com/)
-- [YouTube api](https://developers.google.com/youtube/v3)
 
+- [GatsbyJS](https://www.gatsbyjs.com/)
+- [YouTube API](https://developers.google.com/youtube/v3)
 
 ## Contribute
+
 Welcome to contribute!
 If you have any idea or suggestion, feel free to open an issue or create a PR.
 
