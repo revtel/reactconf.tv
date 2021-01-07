@@ -112,7 +112,6 @@ function LandingPage(props) {
       </Wrapper>
 
       <TalkListPanel
-        direction="bottom"
         getInstance={(inst) => {
           bottomPanelRef.current = inst;
         }}
