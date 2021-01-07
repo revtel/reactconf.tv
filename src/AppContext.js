@@ -6,6 +6,8 @@ import {
 } from './utils/transformData';
 
 const Context = React.createContext();
+
+// this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
 
 class Provider extends React.Component {
@@ -139,45 +141,6 @@ class Provider extends React.Component {
     this.actions.invalidateVideoProgressCache();
     this.actions.invalidateVideoFinishedCache();
     this.actions.invalidateFavoriteCache();
-
-    if (window.Worker) {
-      this.worker = new Worker('/worker.js');
-      this.msgs = [];
-      this.worker.onmessage = (e) => {
-        const msgIdx = this.msgs.findIndex(
-          (m) => m.timestamp === e.data.timestamp,
-        );
-        if (msgIdx > -1) {
-          const msg = this.msgs[msgIdx];
-          this.msgs.splice(msgIdx, 1);
-          msg.callback(null, e.data.response);
-        }
-      };
-      this.sendToWorker = ({type, payload}) => {
-        return new Promise((resolve, reject) => {
-          const msg = {
-            timestamp: Date.now(),
-            type,
-            payload,
-          };
-          const callback = (err, resp) => {
-            if (err) {
-              reject(err);
-            } else {
-              resolve(resp);
-            }
-          };
-          this.msgs.push({...msg, callback});
-          this.worker.postMessage(msg);
-        });
-      };
-    }
-  }
-
-  componentWillUnmount() {
-    if (this.worker) {
-      this.worker.terminate();
-    }
   }
 
   render() {
