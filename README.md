@@ -32,7 +32,7 @@ open [http://localhost:8000/](http://localhost:8000/) for running locally reactc
 
 
 ## Motivation
-We are a React Dev team based in Taipei, Taiwan. Year by year we have dedicated in both open-source study and implementations, apparently there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learing experience!
+We are a React Dev team based in Taipei, Taiwan. Year by year we have dedicated in both open-source study and implementations, apparently there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learning experience!
 
 
 ## Built with
