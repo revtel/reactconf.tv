@@ -6,7 +6,7 @@ import * as Widgets from '../components/Widgets';
 import SEO from '../components/seo';
 import NavBar from '../components/NavBar';
 import BannerImage from '../components/BannerImage';
-import ConfItemList from '../components/ConfItemList';
+import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
@@ -16,31 +16,31 @@ function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
   const bottomPanelRef = React.useRef();
-  const confChannels = app.actions.getAllChannelsData(props.pageContext);
-  const confById = React.useMemo(() => {
-    const _confMap = {};
-    for (const channel of confChannels) {
-      for (const conf of channel.items) {
-        _confMap[conf.id] = conf;
+  const channels = app.actions.getAllChannelsData(props.pageContext);
+  const seminarById = React.useMemo(() => {
+    const resultMap = {};
+    for (const channel of channels) {
+      for (const seminar of channel.items) {
+        resultMap[seminar.id] = seminar;
       }
     }
-    return _confMap;
-  }, [confChannels]);
+    return resultMap;
+  }, [channels]);
 
   React.useEffect(() => {
     app.actions.showGlobalSpinner();
   }, [selectedChannel, app.actions]);
 
   const historyCache = app.watchHistoryCache || {};
-  const recentWatchedConfs = Object.keys(historyCache)
+  const recentWatchedSeminars = Object.keys(historyCache)
     .map((k) => ({
-      conf: confById[k],
+      seminar: seminarById[k],
       ...historyCache[k],
     }))
     .sort((a, b) => b.timestamp - a.timestamp);
 
-  const confListByYear = groupConfByYear(
-    selectedChannel ? [selectedChannel] : confChannels,
+  const seminarListByYear = groupConfByYear(
+    selectedChannel ? [selectedChannel] : channels,
   );
 
   return (
@@ -57,7 +57,7 @@ function LandingPage(props) {
         </div>
 
         <div className="content">
-          {recentWatchedConfs.length > 0 && !selectedChannel && (
+          {recentWatchedSeminars.length > 0 && !selectedChannel && (
             <div className="recent-watched">
               <Widgets.FlexRow>
                 <YearLabel style={{marginLeft: 30, marginRight: 10}}>
@@ -65,17 +65,14 @@ function LandingPage(props) {
                 </YearLabel>
               </Widgets.FlexRow>
               <HistoryItemList
-                items={recentWatchedConfs}
-                onItemClick={(conf) => bottomPanelRef.current.open(conf)}
-                onWatchClick={(conf) => {
-                  navigate(`/player?conf=${conf.id}`);
-                }}
+                items={recentWatchedSeminars}
+                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
               />
             </div>
           )}
 
-          {confListByYear.map((conf, idx) => {
-            if (!conf.items?.length) {
+          {seminarListByYear.map((seminarByYear, idx) => {
+            if (!seminarByYear.items?.length) {
               return null;
             }
 
@@ -83,17 +80,19 @@ function LandingPage(props) {
               <div key={idx}>
                 <Widgets.FlexRow>
                   <YearLabel style={{marginLeft: 30, marginRight: 4}}>
-                    {conf.year}
+                    {seminarByYear.year}
                   </YearLabel>
                   <Widgets.Badge style={{transform: 'translateY(-8px)'}}>
-                    {conf.items.length}
+                    {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
-                <ConfItemList
-                  items={conf.items}
-                  onItemClick={(conf) => bottomPanelRef.current.open(conf)}
-                  onWatchClick={(conf) => {
-                    navigate(`/player?conf=${conf.id}`);
+                <SeminarItemList
+                  items={seminarByYear.items}
+                  onItemClick={(seminar) =>
+                    bottomPanelRef.current.open(seminar)
+                  }
+                  onWatchClick={(seminar) => {
+                    navigate(`/player?conf=${seminar.id}`);
                   }}
                 />
               </div>
@@ -109,7 +108,7 @@ function LandingPage(props) {
       />
 
       <SelectChannelBtn
-        confChannels={confChannels}
+        channels={channels}
         selectedChannel={selectedChannel}
         setSelectedChannel={setSelectedChannel}
       />

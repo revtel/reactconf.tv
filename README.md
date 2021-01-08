@@ -1,45 +1,49 @@
-# 📺 React Conference TV
+# 📺 ReactConf.TV
 
-> A collections web, contains the react conferences and important info. site
-> [stg site](https://reactconf.netlify.app/)
+ReactConf.TV is a place where passionate React developers are able to search organized and up-to-date react conference videos. Offering friendly features to promptly watch all these fantastic contents in one place. 
+
+Come and [check it out](https://reactconf.tv)!
+
+<p align="center">
+  <img width="320" src="https://static.revtel-api.com/common/a107f1d8328847709c300ba25d675d6f.png" />
+</p>
 
 ## Outline
 
-- 🚀 [Getting Started](#getting-started)<br/>
+- [Getting Started](#getting-started)<br/>
 
-- 💣 [Motivation](#motivation)<br/>
+- [Motivation](#motivation)<br/>
 
-- 🔨  [Built With](#built-with)<br/>
+- [Built With](#built-with)<br/>
 
-- 💎 [Contribute](#contribute)<br/>
+- [Contribute](#contribute)<br/>
 
-- 📂 [Directory Structure](#directory-structure)<br/>
+- [Directory Structure](#directory-structure)<br/>
 
-- 📞 [Contact](#contact)<br/>
+- [Contributors](#contributors)<br/>
 
 ## Getting Started
 
 ```
 cd reactconf-tv
 npm install
-npm run start
+npm start
 ```
 
 open [http://localhost:8000/](http://localhost:8000/) for running locally reactconf-tv
 
 
 ## Motivation
-We want to create a friendly gallery gathering the separate important information of react.
 
-
-
+We love React. Since there are always awesome tech talks and information online, we would like to build up a place where everyone can enjoy smooth learning experience.
 
 ## Built with
-- [Gatsby](https://www.gatsbyjs.com/)
-- [YouTube api](https://developers.google.com/youtube/v3)
 
+- [GatsbyJS](https://www.gatsbyjs.com/)
+- [YouTube API](https://developers.google.com/youtube/v3)
 
 ## Contribute
+
 Welcome to contribute!
 If you have any idea or suggestion, feel free to open an issue or create a PR.
 
@@ -117,7 +121,6 @@ reactconf-tv
 ├── LICENSE
 ├── README.md
 ├── data
-│   ├── all.json
 │   ├── data.json
 │   └── playlist
 ├── gatsby-browser.js
@@ -140,13 +143,44 @@ reactconf-tv
 │   └── utils
 └── static
     ├── fonts
-    ├── lib
-    ├── playlistitems
-    └── worker.js
+    ├── images
+    └── playlistitems
 ```
 
-## Contact
 
-[📮 mail](mailto:contact@revtel.tech)
+## Contributors
 
-[![](https://www.revtel.tech/static/4545186ab8b681a171f4dd479ae818c8/af03b/revtel-logo-color.png)](https://www.revtel.tech/)
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/whitedogg13">
+          <img src="https://avatars3.githubusercontent.com/u/10307875?s=400&u=4ca8b7f2af4a1a32dcdee594aca61a800262c421&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Richie Hsieh</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mylio-chang">
+          <img src="https://avatars3.githubusercontent.com/u/32530956?s=400&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Mylio Chang</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ulayab">
+          <img src="https://avatars2.githubusercontent.com/u/19527809?s=400&u=afa10a82996b318931ede57b8a2fce3dc7c4d83a&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Ula Chao</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/guychienll">
+          <img src="https://avatars3.githubusercontent.com/u/63462677?s=460&u=a82006b332820e1da1fc774d3337c1656303c1f3&v=4" width="100px" />
+        </a>
+        <br/>
+        <div>Guy Chien</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
