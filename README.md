@@ -155,28 +155,28 @@ reactconf-tv
     <tr>
       <td align="center">
         <a href="https://github.com/whitedogg13">
-          <img src="https://avatars3.githubusercontent.com/u/10307875?s=400&u=4ca8b7f2af4a1a32dcdee594aca61a800262c421&v=4" width="100px" />
+          <img src="https://www.revtel.tech/static/27c58c6bb6f59c00bb890c4d2f9a823f/b7b73/Richie.png" width="100px" />
         </a>
         <br/>
         <div>Richie Hsieh</div>
       </td>
       <td align="center">
         <a href="https://github.com/Mylio-chang">
-          <img src="https://avatars3.githubusercontent.com/u/32530956?s=400&v=4" width="100px" />
+          <img src="https://www.revtel.tech/static/8d3cbe17e6fc8aa9adb2f37129e71084/3b974/Mylio.png" width="100px" />
         </a>
         <br/>
         <div>Mylio Chang</div>
       </td>
       <td align="center">
         <a href="https://github.com/ulayab">
-          <img src="https://avatars2.githubusercontent.com/u/19527809?s=400&u=afa10a82996b318931ede57b8a2fce3dc7c4d83a&v=4" width="100px" />
+          <img src="https://www.revtel.tech/static/82e3edac286008386fed7b945d46b99c/b7b73/Ula.png" width="100px" />
         </a>
         <br/>
         <div>Ula Chao</div>
       </td>
       <td align="center">
         <a href="https://github.com/guychienll">
-          <img src="https://avatars3.githubusercontent.com/u/63462677?s=460&u=a82006b332820e1da1fc774d3337c1656303c1f3&v=4" width="100px" />
+          <img src="https://www.revtel.tech/static/c0be7e3b863d6941f4946b68cd181ded/b7b73/Guy.png" width="100px" />
         </a>
         <br/>
         <div>Guy Chien</div>
