@@ -1,4 +1,6 @@
-module.exports = {
+const gtagId = 'G-RXJNC5MZMF';
+
+let gatsbyConfig = {
   siteMetadata: {
     title: `ReactConf.TV`,
     description: `Collect React conferences all over the world!`,
@@ -37,3 +39,14 @@ module.exports = {
     `gatsby-plugin-styled-components`,
   ],
 };
+
+if (gtagId) {
+  gatsbyConfig.plugins.push({
+    resolve: `gatsby-plugin-google-gtag`,
+    options: {
+      trackingIds: [gtagId],
+    },
+  });
+}
+
+module.exports = gatsbyConfig;
