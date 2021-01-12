@@ -92,6 +92,7 @@ const Content = styled.div`
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   position: relative;
+  overflow: hidden;
 
   & > .title-bar {
     position: absolute;
@@ -119,6 +120,7 @@ const Content = styled.div`
     padding: 60px 20px;
     height: 100%;
     overflow: auto;
+    overscroll-behavior: none;
 
     & > .loading {
       font-family: VictorMono;

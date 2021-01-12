@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
+import styled, {css} from 'styled-components';
 
 export const AbsCoverAll = styled.div`
   position: absolute;
@@ -91,4 +91,21 @@ export const Badge = styled.div`
   justify-content: center;
   background-color: #e50914;
   padding: 0 6px;
+`;
+
+export const ScrollBarCss = css`
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: ${(props) =>
+      props.showScrollBar ? 'darkgray' : 'transparent'};
+  }
+
+  body::-webkit-scrollbar-track-piece {
+    display: none;
+  }
 `;
