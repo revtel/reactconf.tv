@@ -161,6 +161,13 @@ reactconf-tv
         <div>Richie Hsieh</div>
       </td>
       <td align="center">
+        <a href="https://github.com/whitedogg13">
+          <img src="https://www.revtel.tech/static/803d205f3d3ae32b16ab8bbbaa5c11c8/b7b73/Sam.png" width="100px" />
+        </a>
+        <br/>
+        <div>Sam Huang</div>
+      </td>
+      <td align="center">
         <a href="https://github.com/Mylio-chang">
           <img src="https://www.revtel.tech/static/8d3cbe17e6fc8aa9adb2f37129e71084/3b974/Mylio.png" width="100px" />
         </a>
