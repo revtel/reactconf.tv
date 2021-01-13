@@ -159,6 +159,13 @@ reactconf-tv
 <table>
   <tbody>
     <tr>
+       <td align="center">
+        <a href="https://github.com/whitedogg13">
+          <img src="https://www.revtel.tech/static/dc01f2dc8b180769fa4c0e5ea8ef8419/b7b73/Rick.png" width="100px" />
+        </a>
+        <br/>
+        <div>Rick Ho</div>
+      </td>
       <td align="center">
         <a href="https://github.com/whitedogg13">
           <img src="https://www.revtel.tech/static/27c58c6bb6f59c00bb890c4d2f9a823f/b7b73/Richie.png" width="100px" />
@@ -173,12 +180,21 @@ reactconf-tv
         <br/>
         <div>Sam Huang</div>
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+       <td align="center">
         <a href="https://github.com/Mylio-chang">
           <img src="https://www.revtel.tech/static/8d3cbe17e6fc8aa9adb2f37129e71084/3b974/Mylio.png" width="100px" />
         </a>
         <br/>
         <div>Mylio Chang</div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mylio-chang">
+          <img src="https://www.revtel.tech/static/8e76175095cbd317769b5335cf2de64c/b7b73/Chien.png" width="100px" />
+        </a>
+        <br/>
+        <div>Chien Hsiao</div>
       </td>
       <td align="center">
         <a href="https://github.com/ulayab">
