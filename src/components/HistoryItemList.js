@@ -3,14 +3,20 @@ import styled from 'styled-components';
 import {navigate} from 'gatsby';
 import HistoryItem from './HistoryItem';
 import useDimension from '../hooks/use-dimension';
+import {ScrollBarCss} from './Widgets';
 
 function HistoryItemList(props) {
   const {items, onItemClick} = props;
+  const [showScrollBar, setShowScrollBar] = React.useState(false);
   const {dimension} = useDimension();
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (
-    <HistoryListWrapper innerWidth={(items.length + 1) * itemWidth}>
+    <HistoryListWrapper
+      innerWidth={(items.length + 1) * itemWidth}
+      showScrollBar={showScrollBar}
+      onMouseEnter={() => setShowScrollBar(true)}
+      onMouseLeave={() => setShowScrollBar(false)}>
       <div className="items-wrapper">
         {items.map((item, idx) => {
           return (
@@ -40,6 +46,8 @@ const HistoryListWrapper = styled.div`
     width: ${(props) => props.innerWidth}px;
     display: flex;
   }
+
+  ${ScrollBarCss};
 `;
 
 export default HistoryItemList;

@@ -3,14 +3,20 @@ import styled from 'styled-components';
 import {navigate} from 'gatsby';
 import SeminarItem from './SeminarItem';
 import useDimension from '../hooks/use-dimension';
+import {ScrollBarCss} from './Widgets';
 
 function SeminarItemList(props) {
   const {items, onItemClick} = props;
   const {dimension} = useDimension();
+  const [showScrollBar, setShowScrollBar] = React.useState(false);
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (
-    <ListWrapper innerWidth={(items.length + 1) * itemWidth}>
+    <ListWrapper
+      innerWidth={(items.length + 1) * itemWidth}
+      showScrollBar={showScrollBar}
+      onMouseEnter={() => setShowScrollBar(true)}
+      onMouseLeave={() => setShowScrollBar(false)}>
       <div className="items-wrapper">
         {items.map((item, idx) => (
           <SeminarItem
@@ -38,6 +44,8 @@ const ListWrapper = styled.div`
     display: flex;
     flex-wrap: nowrap;
   }
+
+  ${ScrollBarCss}
 `;
 
 export default SeminarItemList;
