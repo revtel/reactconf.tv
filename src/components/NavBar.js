@@ -95,7 +95,8 @@ const NavBarWrapper = styled.div`
   left: 0;
   width: 100%;
   z-index: 3;
-  background-color: ${(props) => (props.transparent ? 'transparent' : 'gray')};
+  background-color: ${(props) =>
+    props.transparent ? 'transparent' : '#212121'};
   box-shadow: ${(props) =>
     props.transparent
       ? 'none'
