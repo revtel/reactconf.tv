@@ -80,7 +80,7 @@ const TalkItemWrapper = styled.div`
       height: 30px;
       line-height: 30px;
       text-align: center;
-      background-color: #e50914;
+      background-color: #4f77e2;
       color: white;
     }
   }
@@ -99,7 +99,7 @@ const TalkItemWrapper = styled.div`
     top: -10px;
     right: -10px;
     padding: 10px;
-    background-color: #e50914;
+    background-color: #4f77e2;
     color: white;
     z-index: 12;
   }

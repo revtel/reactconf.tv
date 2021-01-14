@@ -11,7 +11,7 @@ function ActivityIndicator(props) {
     <>
       <Wrapper visible={visible}>
         <div className="spinner">
-          <LoaderAlt size={32} color="#e50914" />
+          <LoaderAlt size={32} color="#4f77e2" />
         </div>
       </Wrapper>
 

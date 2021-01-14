@@ -23,7 +23,7 @@ function FavoriteItem(props) {
       <div className="talk-thumb">
         <img src={item.thumbnail} alt="snapshot for the talk" />
         <div className="delete" onClick={deleteFavorite}>
-          <DeleteForever size={24} color="#E50914" />
+          <DeleteForever size={24} color="#4f77e2" />
         </div>
       </div>
 

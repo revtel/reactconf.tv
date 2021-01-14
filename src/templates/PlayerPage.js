@@ -274,7 +274,7 @@ const TitleBar = styled.div`
     margin-right: 15px;
     font-family: VictorMono;
     padding: 15px;
-    border-left: 3px solid #e50914;
+    border-left: 3px solid #4f77e2;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -283,7 +283,7 @@ const TitleBar = styled.div`
       padding: 0px 8px;
       align-self: flex-start;
       text-align: center;
-      background-color: #e50914;
+      background-color: #4f77e2;
     }
   }
 `;

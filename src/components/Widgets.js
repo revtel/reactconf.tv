@@ -63,15 +63,15 @@ const ButtonBase = styled.button`
 `;
 
 const ButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#E50914'};
-  background-color: ${(props) => props.color || '#E50914'};
+  border: 1px solid ${(props) => props.color || '#4f77e2'};
+  background-color: ${(props) => props.color || '#4f77e2'};
   color: white;
 `;
 
 const OutlineButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#E50914'};
+  border: 1px solid ${(props) => props.color || '#4f77e2'};
   background-color: white;
-  color: ${(props) => props.color || '#E50914'};
+  color: ${(props) => props.color || '#4f77e2'};
 `;
 
 const TextButtonWrapper = styled(ButtonBase)`
@@ -89,7 +89,7 @@ export const Badge = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #e50914;
+  background-color: #4f77e2;
   padding: 0 6px;
 `;
 
