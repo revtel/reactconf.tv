@@ -43,7 +43,7 @@ function NavBar(props) {
   return (
     <NavBarWrapper transparent={transparent}>
       <Widgets.MaxWidthCenter
-        maxWidth={1024}
+        maxWidth={1180}
         style={{padding: 12, position: 'relative'}}>
         <CenterTitle
           hide={!showCenterTitle}
