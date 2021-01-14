@@ -1,8 +1,6 @@
 # 📺 ReactConf.TV
 
-`ReactConf.TV` is a place where passionate React developers are able to search & watch organized and up-to-date react conference videos. 
-
-[Check it out](https://reactconf.tv)!
+`ReactConf.TV` is a place where passionate React developers are able to search & watch organized and up-to-date react conference videos. [Check it out](https://reactconf.tv)!
 
 Built with
 - [GatsbyJS](https://www.gatsbyjs.com/)
@@ -116,7 +114,7 @@ If you have any idea or suggestion, feel free to open an issue or create a PR.
 
 ### step
 1. Open a new issue with description.
-2. Fork and clone the repo. https://github.com/your-username/reactconf-tv.git.
+2. Fork and clone the repo. https://github.com/revtel/reactconf-tv.git.
 3. Create a new branch based off the develop branch.
 4. `npm install && npm start` to run the development enviroment.
 5. Make changes.
