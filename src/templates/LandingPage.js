@@ -82,7 +82,7 @@ function LandingPage(props) {
                   <YearLabel style={{marginLeft: 30, marginRight: 4}}>
                     {seminarByYear.year}
                   </YearLabel>
-                  <Widgets.Badge style={{transform: 'translateY(-8px)'}}>
+                  <Widgets.Badge style={{marginLeft: 8}}>
                     {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>

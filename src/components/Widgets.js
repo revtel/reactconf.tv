@@ -80,16 +80,16 @@ const TextButtonWrapper = styled(ButtonBase)`
 `;
 
 export const Badge = styled.div`
+  font-weight: bold;
   height: 24px;
   min-width: 24px;
-  color: white;
-  border-radius: 12px;
-  border: 1px solid white;
+  color: #4f77e2;
+  border-radius: 5px;
+  border: 2px solid #4f77e2;
   font-size: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #4f77e2;
   padding: 0 6px;
 `;
 
