@@ -67,7 +67,11 @@ function PlayerPage(props) {
           videoId,
           playerRef.current.getDuration(),
         );
-        await app.actions.setWatchHistory(confId, currIdx);
+        await app.actions.setWatchHistory({
+          confId,
+          talkIdx: currIdx,
+          talkData: confData.items[currIdx],
+        });
       }
     },
     [videoId, app.actions, confId, currIdx, firstProgressLoaded],
