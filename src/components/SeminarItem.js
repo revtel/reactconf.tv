@@ -21,10 +21,10 @@ function SeminarItem(props) {
           onWatchClick(item);
         }}>
         <div style={{display: 'flex', alignItems: 'center'}}>
-          <PlayArrow size={18} color={'#E50914'} />
+          <PlayArrow size={18} color={'#4f77e2'} />
           <div
             style={{
-              color: '#E50914',
+              color: '#4f77e2',
             }}>{`${item.totalCount} Talks`}</div>
         </div>
       </Widgets.Button>
@@ -59,6 +59,11 @@ const Wrapper = styled.div`
     width: 100%;
     padding: 8px;
     color: white;
+
+    & > .title {
+      font-family: Roboto;
+      letter-spacing: 1px;
+    }
   }
 
   &:hover {

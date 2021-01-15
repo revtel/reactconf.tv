@@ -23,7 +23,7 @@ function FavoriteItem(props) {
       <div className="talk-thumb">
         <img src={item.thumbnail} alt="snapshot for the talk" />
         <div className="delete" onClick={deleteFavorite}>
-          <DeleteForever size={24} color="#E50914" />
+          <DeleteForever size={24} color="#4f77e2" />
         </div>
       </div>
 
@@ -79,7 +79,8 @@ const ItemWrapper = styled.div`
     width: 100%;
     color: gray;
     font-size: 14px;
-    font-family: VictorMono;
+    font-family: Roboto;
+    letter-spacing: 1px;
     background-color: white;
     margin-bottom: 5px;
   }

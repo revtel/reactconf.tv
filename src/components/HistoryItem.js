@@ -14,7 +14,7 @@ function HistoryItem(props) {
         <div className="gradient" />
 
         <button className="play" onClick={onWatchClick}>
-          <PlayArrow size={50} color="#E50914" style={{padding: 0}} />
+          <PlayArrow size={50} color="#4f77e2" style={{padding: 0}} />
         </button>
       </div>
 
@@ -66,7 +66,7 @@ const Wrapper = styled.div`
       left: 50%;
       transform: translate(-50%, -50%);
       background-color: rgba(0, 0, 0, 0.3);
-      border: 4px solid #e50914;
+      border: 4px solid #4f77e2;
       border-radius: 50%;
       cursor: pointer;
       outline: none;
@@ -95,7 +95,8 @@ const Wrapper = styled.div`
       height: 90px;
       color: white;
       text-align: center;
-      font-family: VictorMono;
+      font-family: Roboto;
+      letter-spacing: 1px;
     }
   }
 `;

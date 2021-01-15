@@ -82,7 +82,7 @@ function LandingPage(props) {
                   <YearLabel style={{marginLeft: 30, marginRight: 4}}>
                     {seminarByYear.year}
                   </YearLabel>
-                  <Widgets.Badge style={{transform: 'translateY(-8px)'}}>
+                  <Widgets.Badge style={{marginLeft: 8}}>
                     {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
@@ -119,12 +119,13 @@ function LandingPage(props) {
 const YearLabel = styled.div`
   color: white;
   font-size: 18px;
-  font-family: VictorMono;
+  font-family: Roboto;
+  letter-spacing: 1px;
 `;
 
 const Wrapper = styled.div`
   min-height: 100vh;
-  background-color: #4c4c4c;
+  background-color: #181818;
 
   & > .navbar {
     position: fixed;

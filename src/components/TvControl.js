@@ -109,7 +109,7 @@ const Wrapper = styled.div`
     display: flex;
     align-items: center;
     border-radius: ${ICON_SIZE / 2}px;
-    background-color: #e50914;
+    background-color: #4f77e2;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
     transition: 200ms;
     overflow: hidden;
@@ -134,7 +134,7 @@ const Wrapper = styled.div`
       position: relative;
       left: ${(props) => (props.expand ? 0 : -8)}px;
       border-radius: ${ICON_SIZE / 2}px;
-      background-color: ${(props) => (props.expand ? 'gray' : '#e50914')};
+      background-color: ${(props) => (props.expand ? 'gray' : '#4f77e2')};
       transition: 200ms 100ms;
       transform: ${(props) => (props.expand ? 'rotate(180deg)' : 'none')};
     }

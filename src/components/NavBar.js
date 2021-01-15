@@ -43,7 +43,7 @@ function NavBar(props) {
   return (
     <NavBarWrapper transparent={transparent}>
       <Widgets.MaxWidthCenter
-        maxWidth={1024}
+        maxWidth={1180}
         style={{padding: 12, position: 'relative'}}>
         <CenterTitle
           hide={!showCenterTitle}
@@ -95,7 +95,8 @@ const NavBarWrapper = styled.div`
   left: 0;
   width: 100%;
   z-index: 3;
-  background-color: ${(props) => (props.transparent ? 'transparent' : 'gray')};
+  background-color: ${(props) =>
+    props.transparent ? 'transparent' : '#212121'};
   box-shadow: ${(props) =>
     props.transparent
       ? 'none'

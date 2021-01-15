@@ -60,18 +60,20 @@ const ButtonBase = styled.button`
   padding: 6px 12px;
   border-radius: 4px;
   cursor: pointer;
+  font-family: Roboto;
+  letter-spacing: 1px;
 `;
 
 const ButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#E50914'};
-  background-color: ${(props) => props.color || '#E50914'};
+  border: 1px solid ${(props) => props.color || '#4f77e2'};
+  background-color: ${(props) => props.color || '#4f77e2'};
   color: white;
 `;
 
 const OutlineButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#E50914'};
+  border: 1px solid ${(props) => props.color || '#4f77e2'};
   background-color: white;
-  color: ${(props) => props.color || '#E50914'};
+  color: ${(props) => props.color || '#4f77e2'};
 `;
 
 const TextButtonWrapper = styled(ButtonBase)`
@@ -80,16 +82,16 @@ const TextButtonWrapper = styled(ButtonBase)`
 `;
 
 export const Badge = styled.div`
+  font-weight: bold;
   height: 24px;
   min-width: 24px;
-  color: white;
-  border-radius: 12px;
-  border: 1px solid white;
+  color: #4f77e2;
+  border-radius: 5px;
+  border: 2px solid #4f77e2;
   font-size: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #e50914;
   padding: 0 6px;
 `;
 
