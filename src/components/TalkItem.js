@@ -3,15 +3,26 @@ import styled from 'styled-components';
 import * as Widgets from './Widgets';
 import * as AppContext from '../AppContext';
 import ProgressBar from './ProgressBar';
-import {CheckCircle} from '@styled-icons/material';
+import {
+  CheckCircle,
+  CheckBox,
+  CheckBoxOutlineBlank,
+  PlayCircleOutline,
+} from '@styled-icons/material';
+import {Heart, HeartFill} from '@styled-icons/octicons';
+import useFavoriteState from '../hooks/useFavoriteState';
 
 function TalkItem(props) {
-  const {talk, idx, currIdx, onItemClick} = props;
+  const {confId, talk, idx, currIdx, onItemClick} = props;
   const app = React.useContext(AppContext.Context);
   const videoId = talk.videoId;
   const progress = (app.videoProgressCache || {})[videoId];
   const duration = (app.videoDurationCache || {})[videoId];
   const finished = (app.videoFinishedCache || {})[videoId];
+  const {isInFavorite, toggleFavoriteState} = useFavoriteState({
+    confId,
+    talkIdx: idx,
+  });
 
   const isPlaying = idx !== undefined && idx === currIdx;
 
@@ -30,17 +41,36 @@ function TalkItem(props) {
 
           <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
             <Widgets.Button
-              style={{marginRight: 5}}
+              type="text"
               onClick={() => onItemClick({talk, idx})}>
-              Watch
+              <PlayCircleOutline size={28} color={'red'} />
             </Widgets.Button>
+
             <Widgets.Button
-              type="outlined"
-              style={{marginRight: 5}}
+              type="text"
+              onClick={() => {
+                toggleFavoriteState({
+                  title: talk.title,
+                  thumbnail: talk.thumbnail,
+                });
+              }}>
+              {isInFavorite ? (
+                <HeartFill size={24} color={'red'} />
+              ) : (
+                <Heart size={24} color={'red'} />
+              )}
+            </Widgets.Button>
+
+            <Widgets.Button
+              type="text"
               onClick={() =>
                 app.actions.setVideoFinished(videoId, finished ? false : true)
               }>
-              {finished ? 'Reset progress' : 'Mark as finished'}
+              {finished ? (
+                <CheckBox size={26} color={'red'} />
+              ) : (
+                <CheckBoxOutlineBlank size={26} color={'red'} />
+              )}
             </Widgets.Button>
           </Widgets.FlexRow>
         </div>

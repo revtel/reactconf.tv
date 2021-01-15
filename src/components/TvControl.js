@@ -10,23 +10,27 @@ import {Heart, HeartFill} from '@styled-icons/octicons';
 import TalkList from './TalkList';
 import SlideInPanel from './SlideInPanel';
 import useDimension from '../hooks/use-dimension';
+import useFavoriteState from '../hooks/useFavoriteState';
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function TvControlEx(props) {
   const {
     conf,
+    confId,
     currIdx,
     goToTalk,
     onExpand,
     isFinished,
-    isInFavorite,
     toggleFinishedState,
-    toggleFavoriteState,
   } = props;
   const [expand, _setExpand] = React.useState(false);
   const leftDrawer = React.useRef();
   const {dimension} = useDimension();
+  const {isInFavorite, toggleFavoriteState} = useFavoriteState({
+    confId,
+    talkIdx: currIdx,
+  });
 
   function setExpand(_expand) {
     _setExpand(_expand);
@@ -37,6 +41,7 @@ function TvControlEx(props) {
     leftDrawer.current.open(
       <DrawerWrapper>
         <TalkList
+          confId={confId}
           items={conf.items}
           currIdx={currIdx}
           onItemClick={async ({talk, idx}) => {
