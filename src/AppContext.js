@@ -49,10 +49,11 @@ class Provider extends React.Component {
         return transformConfEventData(await resp.json());
       },
 
-      setWatchHistory: async (confId, talkIdx) => {
+      setWatchHistory: async ({confId, talkIdx, talkData}) => {
         this.watchHistoryCache[confId] = {
           talkIdx,
           timestamp: new Date().getTime(),
+          talkThumbnail: talkData.thumbnail,
         };
         await idbKeyval.set('history', this.watchHistoryCache, VideoStore);
       },

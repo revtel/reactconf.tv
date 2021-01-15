@@ -9,8 +9,10 @@ function HistoryItem(props) {
   return (
     <Wrapper style={{width}}>
       <div className="img-wrapper">
-        <img src={item.seminar.thumbnail} alt="conference snapshot" />
-
+        <img
+          src={item.talkThumbnail ? item.talkThumbnail : item.seminar.thumbnail}
+          alt="conference snapshot"
+        />
         <div className="gradient" />
 
         <button className="play" onClick={onWatchClick}>
