@@ -272,7 +272,8 @@ const TitleBar = styled.div`
     color: white;
     font-size: 16px;
     margin-right: 15px;
-    font-family: VictorMono;
+    font-family: Roboto;
+    letter-spacing: 1px;
     padding: 15px;
     border-left: 3px solid #4f77e2;
     position: relative;

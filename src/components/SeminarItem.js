@@ -59,6 +59,11 @@ const Wrapper = styled.div`
     width: 100%;
     padding: 8px;
     color: white;
+
+    & > .title {
+      font-family: Roboto;
+      letter-spacing: 1px;
+    }
   }
 
   &:hover {

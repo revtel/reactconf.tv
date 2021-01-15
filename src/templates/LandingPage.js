@@ -119,7 +119,8 @@ function LandingPage(props) {
 const YearLabel = styled.div`
   color: white;
   font-size: 18px;
-  font-family: VictorMono;
+  font-family: Roboto;
+  letter-spacing: 1px;
 `;
 
 const Wrapper = styled.div`

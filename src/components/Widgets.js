@@ -60,6 +60,8 @@ const ButtonBase = styled.button`
   padding: 6px 12px;
   border-radius: 4px;
   cursor: pointer;
+  font-family: Roboto;
+  letter-spacing: 1px;
 `;
 
 const ButtonWrapper = styled(ButtonBase)`

@@ -95,7 +95,8 @@ const Wrapper = styled.div`
       height: 90px;
       color: white;
       text-align: center;
-      font-family: VictorMono;
+      font-family: Roboto;
+      letter-spacing: 1px;
     }
   }
 `;

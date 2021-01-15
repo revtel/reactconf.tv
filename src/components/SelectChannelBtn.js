@@ -65,7 +65,8 @@ const CircleBtn = styled.button`
 `;
 
 const Channel = styled.div`
-  font-family: VictorMonoItalic;
+  font-family: Roboto;
+  letter-spacing: 1px;
   font-size: 18px;
   margin-bottom: 10px;
   color: ${(props) => (props.active ? 'red' : 'black')};

@@ -112,7 +112,9 @@ const Content = styled.div`
 
     & > .title {
       flex: 1;
-      font-family: VictorMonoItalic;
+      font-family: Roboto;
+      letter-spacing: 1px;
+      font-weight: bold;
     }
   }
 
@@ -123,7 +125,7 @@ const Content = styled.div`
     overscroll-behavior: none;
 
     & > .loading {
-      font-family: VictorMono;
+      font-family: Roboto;
     }
   }
 `;
