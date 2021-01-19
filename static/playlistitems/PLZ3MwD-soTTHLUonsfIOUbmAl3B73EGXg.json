@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "G-ydxEPoJBVg6fm6xONbvwmX8XU",
+  "etag": "MzZgQ0qBz9mvfZhF_S1T5EYK0gU",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "mcWTIdYiYQG60iLLTWMUrRKpn14",
+      "etag": "NaSO9L0Z61DwSf6DEd2S8UK9Z2U",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-08-11T15:03:56Z",
@@ -56,7 +56,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "f3PBXdBLbiZ_9LK-Nff69cJWOFc",
+      "etag": "nXkWZmn0py6uh6qE8pGyFw3Fxj8",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-08-18T13:23:21Z",
@@ -103,7 +103,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VdWRM3XqY-WsXDi8dX3m-XOsk1M",
+      "etag": "8nowKuEzCyLPmaQYPNzu19BXjdM",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-08-18T13:59:58Z",
@@ -150,7 +150,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6GOn2pePYgHXV48meea8_VpgUMo",
+      "etag": "5-aCm6jRF1f2-m5Kfl3uip6GBJQ",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-08-18T14:16:04Z",
@@ -197,13 +197,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5ezgvFuqSHXCjZ1C3C_ov7rVMMA",
+      "etag": "t5jbMwFNn1mKlsGfyQC_VT1kvAI",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-10-28T13:26:49Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
         "title": "The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\"",
-        "description": "Episode 2: RNEU 2020 Conference Q&A Panel\n\nIn episode 2 of The React Native Show podcast Mike Grabowski host a Q&A panel answering questions from React Native EU 2020 conference.\n\nThe guests include:\n- Monica Restrepo - Software Engineer at Major League Soccer\n- Kudo Chien - Software Engineer at CloudMosa\n- Eloy Duran - Principal Software Engineer at Microsoft\n- Ram N - an Engineering Manager at Oculus\n\nSome of the questions from the conversation:\n- What is the status of the React Native re-architecture?\n- What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where one can track updates on the re-architecture?\n- Can we expect a smooth transition path between current and “new” React Native ?\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- What is the feature that you’re most excited about that’s coming up?",
+        "description": "Episode 2: RNEU 2020 Conference Q&A Panel\n\n00:00 Introduction\n11:48 New Architecture\n23:37 Multiplatform\n44:40 General Development\n\nIn episode 2 of The React Native Show podcast Mike Grabowski host a Q&A panel answering questions from React Native EU 2020 conference.\n\nThe guests include:\n- Monica Restrepo - Software Engineer at Major League Soccer\n- Kudo Chien - Software Engineer at CloudMosa\n- Eloy Duran - Principal Software Engineer at Microsoft\n- Ram N - an Engineering Manager at Oculus\n\nSome of the questions from the conversation:\n- What is the status of the React Native re-architecture?\n- What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where one can track updates on the re-architecture?\n- Can we expect a smooth transition path between current and “new” React Native ?\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- What is the feature that you’re most excited about that’s coming up?",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/default.jpg",
@@ -246,10 +246,62 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g5a5tIDEl5VrXwpEduqQ5Ffwd4Q",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-12-15T12:04:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast - Episode 3: \"Dive Into React Native Paper UI Kit\"",
+        "description": "Is UI kit good for your next mobile app? Well, React Native Paper definitely is!\n\nThis time, our host Mike Grabowski and his guest, Dawid Urbaniak, the lead engineer on React Native Paper, are talking about this popular UI library. \n\nHere is the agenda for this episode:\nIntroduction part:\n- introduction to React Native Paper\n- key features of React Native Paper \n- how is React Native Paper different from the other libraries such as Native Base or React Native Elements \n\nA dive into React Native Paper:\n- How did the React Native Paper team approach animations to make them truly native-looking?\n- What opportunities do you think Turbo Modules and Fabric will bring in terms of performance? Are they likely to make animations even smoother?\n- What are the details of the major upgrade to the library that include support for Material Design 2.0?\n- Designers often make their slight adjustments and create whole new components when working with Material Design. Is Paper an “all or nothing” UI library or can you easily adjust it and extend it to your own designs?\n- Can designers use some parts of Paper to create their own UI library?\n- What makes the React Native Paper so unique and popular?\n- Plans for the future of React Native Paper. \n\nSit back, relax and enjoy The React Native Show!\n\nDon’t forget to push the Subscribe button and share this video on your social media. More episodes are coming soon!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YmwW9khdocM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YmwW9khdocM",
+        "videoPublishedAt": "2020-12-15T12:12:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 5,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }
