@@ -106,23 +106,7 @@ function PlayerPage(props) {
     return null;
   }
 
-  const isInFavorite = app.actions.isInFavorite(confId, currIdx);
   const isFinished = (app.videoFinishedCache || {})[videoId];
-
-  function toggleFavoriteState() {
-    app.actions.saveToFavorite(
-      {
-        confId,
-        talkIdx: currIdx,
-        title: confData.items[currIdx].title,
-        thumbnail: confData.items[currIdx].thumbnail,
-      },
-      !isInFavorite,
-    );
-    app.actions.setToast(
-      isInFavorite ? 'Remove from favorites done' : 'Add to favorates done',
-    );
-  }
 
   function toggleFinishedState() {
     app.actions.setVideoFinished(videoId, !isFinished);
@@ -215,15 +199,14 @@ function PlayerPage(props) {
 
       <TvControl
         conf={confData}
+        confId={confId}
         currIdx={currIdx}
         goToTalk={goToTalk}
         onExpand={(expand) => {
           setShowNavbar(expand);
         }}
         isFinished={isFinished}
-        isInFavorite={isInFavorite}
         toggleFinishedState={toggleFinishedState}
-        toggleFavoriteState={toggleFavoriteState}
       />
     </>
   );

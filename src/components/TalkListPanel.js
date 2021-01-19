@@ -65,6 +65,7 @@ function BottomPanelContent(props) {
 
           {confDetail && (
             <TalkList
+              confId={conf.id}
               items={confDetail.items}
               onItemClick={({talk, idx}) => {
                 navigate(`/player?conf=${conf.id}&idx=${idx}`);
