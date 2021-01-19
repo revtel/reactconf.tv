@@ -101,6 +101,18 @@
           "filters": ["Reactathon"]
         }
       ]
+    },
+    {
+      "name": "geekabyte",
+      "display": "Geekabyte",
+      "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+      "conferences": [
+        {
+          "name": "react-india",
+          "display": "React India",
+          "filters": ["React India"]
+        }
+      ]
     }
   ]
 }

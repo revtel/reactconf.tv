@@ -1,14 +1,66 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "qber28LfPbZjfwIimm6Hm65FDQg",
+  "etag": "-kFQQwrJOhjwArbLUQI51C6b3M8",
   "pageInfo": {
-    "totalResults": 28,
+    "totalResults": 29,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlist",
-      "etag": "WghBrXElnTQY0TBL-xtXUYFp6zU",
+      "etag": "zJrwiTm0K96fcI6GZmpQ9dzA28k",
+      "id": "PLNBNS7NRGKMEkFzsSFt_dt2H5oc9yqfzI",
+      "snippet": {
+        "publishedAt": "2020-12-08T10:43:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL Galaxy 2020",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "localized": {
+          "title": "GraphQL Galaxy 2020",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 13
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLNBNS7NRGKMEkFzsSFt_dt2H5oc9yqfzI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "qPXkKzh9w4qst6g37RqkT2VJuzM",
       "id": "PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL",
       "snippet": {
         "publishedAt": "2020-11-03T10:25:21Z",
@@ -52,7 +104,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 10
+        "itemCount": 40
       },
       "player": {
         "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLNBNS7NRGKMH8pOV1aH2XqVYG53eHU_PL\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

@@ -1,0 +1,62 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "1sgT5MV7m-FL7p8oDnJ8y8PaRwM",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "e8v2gPWVDdJgOquqeJzyg-yoTkI",
+      "id": "PLGyAOw8YW7ret6gsmywSGsd4zyAAy2WJy",
+      "snippet": {
+        "publishedAt": "2019-10-29T00:22:59Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FjlB6H879t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FjlB6H879t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FjlB6H879t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FjlB6H879t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FjlB6H879t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Geekabyte",
+        "localized": {
+          "title": "React India 2019",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 24
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLGyAOw8YW7ret6gsmywSGsd4zyAAy2WJy\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}
