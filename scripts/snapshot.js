@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
 const fetch = require('node-fetch');
+const execa = require('execa');
 const log = console.log;
 const playlistPath = 'static/playlistitems';
 const snapshotPath = 'static/snapshots';
@@ -32,9 +33,42 @@ async function fetchViewStats(videoIdList) {
   return statsResp.json();
 }
 
+async function restructureSnapshots() {
+  const _timestamps = fs
+    .readdirSync(snapshotPath)
+    .filter((fname) => fname !== 'latest.json' && fname !== 'previous.json')
+    .map((fname) => parseInt(fname.split('.')[0]))
+    .sort()
+    .reverse();
+
+  const [latest, ...timestamps] = _timestamps;
+  const THRESHOLD = 7 * 24 * 3600 * 1000;
+
+  let previous = null;
+  for (const ts of timestamps) {
+    if (latest - ts > THRESHOLD) {
+      previous = ts;
+      break;
+    }
+  }
+
+  if (!previous) {
+    previous = timestamps[timestamps.length - 1];
+  }
+
+  await execa('cp', [
+    path.join(snapshotPath, `${previous}.json`),
+    path.join(snapshotPath, `previous.json`),
+  ]);
+
+  await execa('cp', [
+    path.join(snapshotPath, `${latest}.json`),
+    path.join(snapshotPath, `latest.json`),
+  ]);
+}
+
 async function snapshot() {
   log(chalk.gray('scanning static/playlistitems') + `\n`);
-
   const playlists = fs.readdirSync(playlistPath);
   const snapshotJson = {};
 
@@ -73,6 +107,8 @@ async function snapshot() {
     path.join(snapshotPath, `${new Date().getTime()}.json`),
     JSON.stringify(snapshotJson, null, 2),
   );
+
+  await restructureSnapshots();
 
   log(chalk.green('Done'));
   return true;
