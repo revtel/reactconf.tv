@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useMemo} from 'react';
 import {navigate} from 'gatsby';
 import styled from 'styled-components';
 import * as AppContext from '../AppContext';
@@ -11,11 +11,13 @@ import HistoryItemList from '../components/HistoryItemList';
 import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
+import getChannelsOfTrendingNow from '../utils/getTrendingNow';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
   const bottomPanelRef = React.useRef();
+
   const channels = app.actions.getAllChannelsData(props.pageContext);
   const seminarById = React.useMemo(() => {
     const resultMap = {};
@@ -32,6 +34,7 @@ function LandingPage(props) {
   }, [selectedChannel, app.actions]);
 
   const historyCache = app.watchHistoryCache || {};
+
   const recentWatchedSeminars = Object.keys(historyCache)
     .map((k) => ({
       seminar: seminarById[k],
@@ -42,6 +45,10 @@ function LandingPage(props) {
   const seminarListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : channels,
   );
+
+  const trendingNow = useMemo(() => getChannelsOfTrendingNow(channels), [
+    channels,
+  ]);
 
   return (
     <>
@@ -60,13 +67,33 @@ function LandingPage(props) {
           {recentWatchedSeminars.length > 0 && !selectedChannel && (
             <div className="recent-watched">
               <Widgets.FlexRow>
-                <YearLabel style={{marginLeft: 30, marginRight: 10}}>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
                   KEEP WATCHING
-                </YearLabel>
+                </Label>
               </Widgets.FlexRow>
               <HistoryItemList
                 items={recentWatchedSeminars}
                 onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
+              />
+            </div>
+          )}
+
+          {trendingNow.length > 0 && !selectedChannel && (
+            <div className="trending-now">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  Trending Now
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  {trendingNow.length}
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+              <SeminarItemList
+                items={trendingNow}
+                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
+                onWatchClick={(seminar) => {
+                  navigate(`/player?conf=${seminar.id}`);
+                }}
               />
             </div>
           )}
@@ -79,9 +106,9 @@ function LandingPage(props) {
             return (
               <div key={idx}>
                 <Widgets.FlexRow>
-                  <YearLabel style={{marginLeft: 30, marginRight: 4}}>
+                  <Label style={{marginLeft: 30, marginRight: 4}}>
                     {seminarByYear.year}
-                  </YearLabel>
+                  </Label>
                   <Widgets.Badge style={{marginLeft: 8}}>
                     {seminarByYear.items.length}
                   </Widgets.Badge>
@@ -116,7 +143,7 @@ function LandingPage(props) {
   );
 }
 
-const YearLabel = styled.div`
+const Label = styled.div`
   color: white;
   font-size: 18px;
   font-family: Roboto;
