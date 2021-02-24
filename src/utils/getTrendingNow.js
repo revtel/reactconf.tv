@@ -34,7 +34,7 @@ export const restructureToSeminars = (channels) =>
     return theChannel.items.find((item) => item.id === playlist.playlistId);
   });
 
-const filterOutUnexpectedData = () => R.filter((item) => !!item);
+export const filterOutUnexpectedData = () => R.filter((item) => !!item);
 
 const getTop10Seminars = (channels) => {
   const diffViewCountByPlayListId = aggregateDiffViewCountByPlaylistId(
