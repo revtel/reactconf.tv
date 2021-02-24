@@ -11,6 +11,7 @@ import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import getTop10Seminars from '../utils/getTrendingNow';
+import getNewReleases from '../utils/getNewReleases';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
@@ -47,6 +48,10 @@ function LandingPage(props) {
 
   const top10Seminars = useMemo(() => getTop10Seminars(channels), [channels]);
 
+  const newReleasesSeminars = useMemo(() => getNewReleases(channels), [
+    channels,
+  ]);
+
   return (
     <>
       <SEO title="React Conferences" />
@@ -70,6 +75,24 @@ function LandingPage(props) {
               </Widgets.FlexRow>
               <HistoryItemList
                 items={recentWatchedSeminars}
+                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
+              />
+            </div>
+          )}
+
+          {newReleasesSeminars.length > 0 && !selectedChannel && (
+            <div className="new-releases">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  New Releases
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  {newReleasesSeminars.length}
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <SeminarItemList
+                items={newReleasesSeminars}
                 onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
               />
             </div>

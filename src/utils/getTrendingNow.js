@@ -22,7 +22,7 @@ const aggregateDiffViewCountByPlaylistId = R.reduce((acc, cur) => {
   return acc;
 }, {});
 
-const restructureToSeminars = (channels) =>
+export const restructureToSeminars = (channels) =>
   R.map((playlist) => {
     const theChannel = channels.find(
       (channel) =>
@@ -31,13 +31,7 @@ const restructureToSeminars = (channels) =>
     if (!theChannel) {
       return null;
     }
-    const thePlaylist = theChannel.items.find(
-      (item) => item.id === playlist.playlistId,
-    );
-
-    return {
-      ...thePlaylist,
-    };
+    return theChannel.items.find((item) => item.id === playlist.playlistId);
   });
 
 const filterOutUnexpectedData = () => R.filter((item) => !!item);
