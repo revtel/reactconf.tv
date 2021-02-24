@@ -1,5 +1,4 @@
 import React, {useMemo} from 'react';
-import {navigate} from 'gatsby';
 import styled from 'styled-components';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
@@ -11,7 +10,7 @@ import HistoryItemList from '../components/HistoryItemList';
 import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
-import getChannelsOfTrendingNow from '../utils/getTrendingNow';
+import getTop10Seminars from '../utils/getTrendingNow';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
@@ -46,9 +45,7 @@ function LandingPage(props) {
     selectedChannel ? [selectedChannel] : channels,
   );
 
-  const trendingNow = useMemo(() => getChannelsOfTrendingNow(channels), [
-    channels,
-  ]);
+  const top10Seminars = useMemo(() => getTop10Seminars(channels), [channels]);
 
   return (
     <>
@@ -78,22 +75,20 @@ function LandingPage(props) {
             </div>
           )}
 
-          {trendingNow.length > 0 && !selectedChannel && (
+          {top10Seminars.length > 0 && !selectedChannel && (
             <div className="trending-now">
               <Widgets.FlexRow>
                 <Label style={{marginLeft: 30, marginRight: 10}}>
                   Trending Now
                 </Label>
                 <Widgets.Badge style={{marginLeft: 8}}>
-                  {trendingNow.length}
+                  {top10Seminars.length}
                 </Widgets.Badge>
               </Widgets.FlexRow>
+
               <SeminarItemList
-                items={trendingNow}
+                items={top10Seminars}
                 onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-                onWatchClick={(seminar) => {
-                  navigate(`/player?conf=${seminar.id}`);
-                }}
               />
             </div>
           )}
@@ -118,9 +113,6 @@ function LandingPage(props) {
                   onItemClick={(seminar) =>
                     bottomPanelRef.current.open(seminar)
                   }
-                  onWatchClick={(seminar) => {
-                    navigate(`/player?conf=${seminar.id}`);
-                  }}
                 />
               </div>
             );

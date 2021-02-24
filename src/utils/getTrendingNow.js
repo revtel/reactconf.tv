@@ -2,65 +2,61 @@ import latest from '../../static/snapshots/latest.json';
 import previous from '../../static/snapshots/previous.json';
 import * as R from 'ramda';
 
-const getChannelsOfTrendingNow = (channels) => {
-  const latestGroupList = R.pipe(
-    R.values,
-    R.groupBy((item) => item.playlistId),
-    R.values,
-  )(latest);
+const aggregateDiffViewCountByPlaylistId = R.reduce((acc, cur) => {
+  const curPlaylistId = latest[cur].playlistId;
 
-  const previousGroupList = R.pipe(
-    R.values,
-    R.groupBy((item) => item.playlistId),
-    R.values,
-  )(previous);
+  let nextViewCount;
+  if (cur in previous) {
+    nextViewCount =
+      !latest[cur].stats || !previous[cur].stats
+        ? 0
+        : latest[cur].stats.viewCount - previous[cur].stats.viewCount;
+  } else {
+    nextViewCount = latest[cur].stats ? latest[cur].stats.viewCount : 0;
+  }
 
-  const getStatsSum = (field) =>
-    R.reduce(
-      (acc, cur) =>
-        (acc = acc += isNaN(parseInt(cur.stats ? cur.stats[field] : null))
-          ? 0
-          : parseInt(cur.stats ? cur.stats[field] : null)),
-      0,
+  acc[curPlaylistId] = acc[curPlaylistId]
+    ? acc[curPlaylistId] + nextViewCount
+    : nextViewCount;
+
+  return acc;
+}, {});
+
+const restructureToSeminars = (channels) =>
+  R.map((playlist) => {
+    const theChannel = channels.find(
+      (channel) =>
+        !!channel.items.find((item) => item.id === playlist.playlistId),
+    );
+    if (!theChannel) {
+      return null;
+    }
+    const thePlaylist = theChannel.items.find(
+      (item) => item.id === playlist.playlistId,
     );
 
-  const latestViewCountSumList = R.pipe(
-    R.map((item) => ({
-      playlistId: item[0].playlistId,
-      sum: getStatsSum('viewCount')(item),
-    })),
-  )(latestGroupList);
+    return {
+      ...thePlaylist,
+    };
+  });
 
-  const previousViewCountSumList = R.pipe(
-    R.map((item) => ({
-      playlistId: item[0].playlistId,
-      sum: getStatsSum('viewCount')(item),
-    })),
-  )(previousGroupList);
+const filterOutUnexpectedData = () => R.filter((item) => !!item);
+
+const getTop10Seminars = (channels) => {
+  const diffViewCountByPlayListId = aggregateDiffViewCountByPlaylistId(
+    Object.keys(latest),
+  );
 
   return R.pipe(
     R.addIndex(R.map)((item, index) => ({
-      playlistId: item.playlistId,
-      sum: item.sum - previousViewCountSumList[index].sum,
+      playlistId: R.keys(diffViewCountByPlayListId)[index],
+      sum: item,
     })),
     R.sort((a, b) => b.sum - a.sum),
-    R.map((playlist) =>
-      channels.find(
-        (channel) =>
-          !!channel.items.find((item) => item.id === playlist.playlistId),
-      ),
-    ),
-    R.filter((item) => !!item),
-    R.uniq(),
-    R.slice(0, 5),
-    R.map((channel) => ({
-      channel: channel,
-      id: channel.items[0].id,
-      title: channel.items[0].title,
-      thumbnail: channel.items[0].thumbnail,
-      totalCount: channel.items[0].totalCount,
-    })),
-  )(latestViewCountSumList);
+    R.slice(0, 10),
+    restructureToSeminars(channels),
+    filterOutUnexpectedData(),
+  )(R.values(diffViewCountByPlayListId));
 };
 
-export default getChannelsOfTrendingNow;
+export default getTop10Seminars;
