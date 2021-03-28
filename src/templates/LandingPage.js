@@ -7,11 +7,13 @@ import NavBar from '../components/NavBar';
 import BannerImage from '../components/BannerImage';
 import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
+import VideoItemList from '../components/VideoItemList';
 import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import getTop10Seminars from '../utils/getTrendingNow';
 import getNewReleases from '../utils/getNewReleases';
+import getMostViewed from '../utils/getMostViewed';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
@@ -45,6 +47,8 @@ function LandingPage(props) {
   const seminarListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : channels,
   );
+
+  const classicVideos = getMostViewed();
 
   const top10Seminars = useMemo(() => getTop10Seminars(channels), [channels]);
 
@@ -113,6 +117,19 @@ function LandingPage(props) {
                 items={top10Seminars}
                 onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
               />
+            </div>
+          )}
+
+          {classicVideos.length > 0 && !selectedChannel && (
+            <div className="trending-now">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  Most Cumulative Views
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={classicVideos} />
             </div>
           )}
 
