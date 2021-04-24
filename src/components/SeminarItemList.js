@@ -4,11 +4,13 @@ import {navigate} from 'gatsby';
 import SeminarItem from './SeminarItem';
 import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
+import {useRevent} from 'revent-lib';
 
 function SeminarItemList(props) {
   const {items, onItemClick} = props;
   const {dimension} = useDimension();
   const [showScrollBar, setShowScrollBar] = React.useState(false);
+  const [_, setSrc] = useRevent('src');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (
@@ -23,7 +25,18 @@ function SeminarItemList(props) {
             key={idx}
             item={item}
             width={itemWidth}
-            onInfoClick={() => onItemClick(item)}
+            onInfoClick={(e) => {
+              const rect = e.target.getBoundingClientRect();
+              setSrc({
+                item,
+                rect: {
+                  top: rect.top,
+                  left: rect.left,
+                  width: rect.width,
+                  height: rect.height,
+                },
+              });
+            }}
             onWatchClick={() => {
               navigate(`/player?conf=${item.id}`);
             }}

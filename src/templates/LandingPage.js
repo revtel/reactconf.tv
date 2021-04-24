@@ -11,6 +11,7 @@ import HistoryItemList from '../components/HistoryItemList';
 import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
+import SeminarDetail from '../components/SeminarDetail';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
@@ -99,6 +100,8 @@ function LandingPage(props) {
             );
           })}
         </div>
+
+        <SeminarDetail />
       </Wrapper>
 
       <TalkListPanel
