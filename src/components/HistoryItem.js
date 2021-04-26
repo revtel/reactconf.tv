@@ -8,11 +8,11 @@ import {useRevent} from 'revent-lib';
 function HistoryItem(props) {
   const {item, width} = props;
   const imgRef = React.useRef();
-  const [_, setSrc] = useRevent('src');
+  const [_, setSelectedConf] = useRevent('selectedConf');
 
   function onInfoClick() {
     const rect = imgRef.current.getBoundingClientRect();
-    setSrc({
+    setSelectedConf({
       item: item.seminar,
       rect: {
         top: rect.top,

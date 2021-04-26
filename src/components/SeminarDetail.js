@@ -13,7 +13,7 @@ const TranState = {
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function SeminarDetail(props) {
-  const [src] = useRevent('src');
+  const [selectedConf] = useRevent('selectedConf');
   const [data, setData] = React.useState({});
   const [tranState, setTranState] = React.useState(TranState.NONE);
   const [showDetail, setShowDetail] = React.useState(false);
@@ -22,8 +22,8 @@ function SeminarDetail(props) {
 
   React.useEffect(() => {
     async function animIn() {
-      if (src) {
-        const {rect, item} = src;
+      if (selectedConf) {
+        const {rect, item} = selectedConf;
         const padding = 20;
         const destWidth =
           (window.innerWidth > window.innerHeight
@@ -50,13 +50,15 @@ function SeminarDetail(props) {
         await delay(50);
         setTranState(TranState.DEST);
         await delay(300);
-        setConfDetail(await app.actions.fetchPlaylistItems(src.item.id));
+        setConfDetail(
+          await app.actions.fetchPlaylistItems(selectedConf.item.id),
+        );
         setShowDetail(true);
       }
     }
 
     animIn();
-  }, [src, app.actions]);
+  }, [selectedConf, app.actions]);
 
   async function animOut() {
     setShowDetail(false);
@@ -82,7 +84,7 @@ function SeminarDetail(props) {
   }
 
   const displayData = getDisplayData();
-  const conf = src?.item;
+  const conf = selectedConf?.item;
 
   return (
     <Wrapper

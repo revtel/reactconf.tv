@@ -10,7 +10,7 @@ function SeminarItemList(props) {
   const {items} = props;
   const {dimension} = useDimension();
   const [showScrollBar, setShowScrollBar] = React.useState(false);
-  const [_, setSrc] = useRevent('src');
+  const [_, setSelectedConf] = useRevent('selectedConf');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (
@@ -27,7 +27,7 @@ function SeminarItemList(props) {
             width={itemWidth}
             onInfoClick={(e) => {
               const rect = e.target.getBoundingClientRect();
-              setSrc({
+              setSelectedConf({
                 item,
                 rect: {
                   top: rect.top,
