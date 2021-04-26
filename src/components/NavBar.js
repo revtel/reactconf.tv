@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useRef} from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
 import * as Widgets from '../components/Widgets';
@@ -15,6 +15,7 @@ function NavBar(props) {
   } = props;
   const [title, setTitle] = React.useState('untitled');
   const [transparent, setTransparent] = React.useState(true);
+  const keys = useRef({}).current;
 
   React.useEffect(() => {
     function onScroll() {
@@ -31,6 +32,32 @@ function NavBar(props) {
       window.removeEventListener('scroll', onScroll);
     };
   }, [transparent]);
+
+  React.useEffect(() => {
+    const listener = (e) => {
+      keys[e.code] = true;
+      if (keys['MetaLeft'] || (keys['MetaRight'] && e.code === 'KeyK')) {
+        console.log('hello react');
+      }
+    };
+
+    if (typeof window) {
+      window.addEventListener('keydown', listener);
+    }
+
+    return window.addEventListener('keydown', listener);
+  }, [keys]);
+
+  React.useEffect(() => {
+    const listener = (e) => {
+      delete keys[e.code];
+    };
+    if (typeof window) {
+      window.addEventListener('keyup', listener);
+    }
+
+    return window.addEventListener('keyup', listener);
+  }, [keys]);
 
   React.useEffect(() => {
     if (selectedChannel && selectedChannel?.name !== title) {
