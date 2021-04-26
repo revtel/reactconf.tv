@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "PZY5H8X2-8X_l1apZy91ey6nhAI",
+  "etag": "ZIph4NOk-fl0v-swHgC1guk6_bk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "BFKhP8mT31pjF0bm29SS7o4BGOw",
+      "etag": "zliz2d3nfup6v3p3ku-YeTVB1HU",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2018-09-16T19:00:54Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8E9AEZjglqI"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "8E9AEZjglqI",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8w2Bey9CiMs9m2Wr2vkhu3Y49N8",
+      "etag": "IikC8LeBh41Cq1rZ1h5UfFBHacM",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2018-09-16T19:00:46Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TmhJN6rdm28"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "TmhJN6rdm28",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_mgsNwuDIYLo2Akt35pbzifgRjM",
+      "etag": "vzNKQKi6lsvnQNYvn0SBhALiCUY",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2018-09-16T19:00:36Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dhECubL0R3U"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "dhECubL0R3U",
@@ -160,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9wtBraGRAaf8T9aM6ruJj6vuaNE",
+      "etag": "Kq0GYRJfkLaKUDiTCgrYLZRNn4k",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2018-09-16T19:00:25Z",
@@ -200,7 +206,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BgeOAzXotbY"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "BgeOAzXotbY",
@@ -212,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "z6WsVvItE2_FN_m5TGiUM4e-MbI",
+      "etag": "cP4On4XN6jUrBw9sPLBw_nHEIK4",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2018-09-18T19:13:43Z",
@@ -252,7 +260,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_D3IPecC0S8"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "_D3IPecC0S8",
@@ -264,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ac0I1TLlVOQd_lAFXNO3QpEB9ac",
+      "etag": "3g1As5ikSHnTd0n5hETutbtNDvw",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2018-09-20T15:39:50Z",
@@ -304,7 +314,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CPECnlUwk-c"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "CPECnlUwk-c",
@@ -316,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Gup-RZd0tAIaFrlhSqo7imkfnhk",
+      "etag": "haV0qjJHWOkpAr-DPTUStNXIF3Y",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2018-09-21T06:50:56Z",
@@ -356,7 +368,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7OcYgDmrJd4"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "7OcYgDmrJd4",
@@ -368,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XAvUbIhYfHzNuH4lsx9u2IMKlbc",
+      "etag": "rE4TAEm_EA76jUxpW0RUgieiH7c",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2018-09-28T04:59:45Z",
@@ -408,7 +422,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hqUiu4dKbBw"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "hqUiu4dKbBw",
@@ -420,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KqFVSIjq55NQnK_dwMh3gwMNy-M",
+      "etag": "IhGMgCrCsA31WcfVxagDAptBe7c",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2018-09-28T04:59:53Z",
@@ -460,7 +476,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hGikkGJ_ioI"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "hGikkGJ_ioI",
@@ -472,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "n6OWZ955g7uv08ngxy-gqYRG8oI",
+      "etag": "ktkdhqb6iYDs1h_VqvqzLh6ibEo",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2018-09-30T15:15:22Z",
@@ -512,7 +530,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2vKFUfQkbOs"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "2vKFUfQkbOs",
@@ -524,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yVApmPRdoWY64p1Py0bdc9tbGms",
+      "etag": "ipsQms1x3ieAouG6NdowL8SOpFQ",
       "id": "UExSdkt2dzQyUmM3TnVBS0lYWC01NF92MF9YMnZBRjIzdC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2018-09-30T15:15:32Z",
@@ -564,7 +584,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bTHa3XxUdmM"
-        }
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
       },
       "contentDetails": {
         "videoId": "bTHa3XxUdmM",

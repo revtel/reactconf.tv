@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "uKGMx1sqcgEQcPDu0nbCcAQhgg0",
+  "etag": "EuJHYMl3EkuR70WQgmGjZWnkYOM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "d1iMHPwuHhNx4lmPmVFial4v068",
+      "etag": "PNIWCC25NNesdQfzofiZ1V_ts_s",
       "id": "UExNWVZxM3oxUXhTcTVXR2otZjJGcFhSZlNVaW1KWjE0Vy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2016-10-10T15:30:22Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZvbZTXs3Y3E"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
         "videoId": "ZvbZTXs3Y3E",

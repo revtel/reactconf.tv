@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "MrMY3R51jHIsvfQm5sxJ-V5UJA4",
+  "etag": "yx_qqy4q0eeSG3e3eJQb0YGYamY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "2WJZA9cl2axuilcXPOuPjFeToHU",
+      "etag": "zK4wlZNY1iTuKJ78FcmCvis3ErE",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -34,7 +34,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zEjqDWqeDdg"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "zEjqDWqeDdg",
@@ -46,7 +48,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Qypr8azORFEhgrI7ibfm4wB2p9k",
+      "etag": "bT9eJsi0czhUHsUG3qEe2l8b8zk",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -86,7 +88,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "JHxqicqL0WE"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "JHxqicqL0WE",
@@ -98,7 +102,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3z_nICp79lmuYBF2s3hG7o5JcIM",
+      "etag": "XMkZPp1gwFPwnK_aMWsgwCZdfxc",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -138,7 +142,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nphKGWjhg2M"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "nphKGWjhg2M",
@@ -150,7 +156,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7aWAeME_ZgtbDleKEQb15bbOJo8",
+      "etag": "FBK5jD8p9f8aDE-XQwVUfHjpGe0",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -190,7 +196,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4EFjDSijAZU"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "4EFjDSijAZU",
@@ -202,7 +210,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "knCMBAfGzYVaizk_rj7kieYsNFU",
+      "etag": "okTKX2aBO_iqimms6NCOZFQ6jsg",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -242,7 +250,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "wj3xN_fSQ10"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "wj3xN_fSQ10",
@@ -254,7 +264,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "olkQhVBopo8KHW7kvJAWaK-Fjzk",
+      "etag": "ydtKx9Iyvn8GEt9qiYfbHsik_GM",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -294,7 +304,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "p6VbcTe0SjE"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "p6VbcTe0SjE",
@@ -306,7 +318,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VBCIDLWzx97A0RegQJdPwEF08Qs",
+      "etag": "FUH7kpvOBNfz7ERy_5vAK-XiTTs",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -346,7 +358,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KxSwRHi4lHk"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "KxSwRHi4lHk",
@@ -358,7 +372,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9sEPhhsbpp6RnRzSGOPwwgdzmaw",
+      "etag": "WMs-YJrgWcFt2FxioMLKvK87Hxs",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -398,7 +412,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3LLQ5AshtNc"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "3LLQ5AshtNc",
@@ -410,7 +426,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YI6zrsPPIViHmlz658XgrRf131Q",
+      "etag": "NPa9rOZToZKzb5GIutd8LX3tE-I",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -450,7 +466,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UArGKNWuvy8"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "UArGKNWuvy8",
@@ -462,7 +480,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YoYh8TzP0D06yahogW6NnLx52oQ",
+      "etag": "zV9zgOZqkqdo9l071AcuAKds5P0",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -502,7 +520,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OVzMw3vYrDI"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "OVzMw3vYrDI",
@@ -514,7 +534,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xhnRoRb9I1A7lTSk91xOuXag8xQ",
+      "etag": "nNOKmmaMyDwS-ehO79ofPglLQ8A",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -554,7 +574,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lZeXnW8qUdY"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "lZeXnW8qUdY",
@@ -566,7 +588,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1eAGIL_kkwNU67ue8sxcF2Muf0k",
+      "etag": "9Wa_gP2lDm4gWzAI9CZjMFMYTIA",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -606,7 +628,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Jm19JlVukak"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "Jm19JlVukak",
@@ -618,7 +642,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WMChBDrU5Y7P3Jxqw6ieDn259MI",
+      "etag": "yrVHDurfwzigkKU3UEe25YHAz9g",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -658,7 +682,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SGTIVnScag8"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "SGTIVnScag8",
@@ -670,7 +696,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_7-WkNDFXFbGxHq2e2OguhHQ7oU",
+      "etag": "GwfzJzX782XWAFCeeAvIPujG2Pg",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -710,7 +736,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8Vu6VlsNXMA"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "8Vu6VlsNXMA",
@@ -722,7 +750,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3wVcYflxpRRBB7-cO51NPyiJ3Hg",
+      "etag": "c89bZ2Tm-gJMpCsRLOOjh76pqTA",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -762,7 +790,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_CjfQuaNPM0"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "_CjfQuaNPM0",
@@ -774,7 +804,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OWqYj1V03sy-f62YLgvDH1A71no",
+      "etag": "aQ_d0AdoenT60KxXo6u4ErW8l1o",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -814,7 +844,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "y7TZ_ltwjZ4"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "y7TZ_ltwjZ4",
@@ -826,7 +858,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OIBrj69FaEeI4UEHdAwoWSaMZHE",
+      "etag": "xd44aG0CjKFmvpuit0NrSnYsznw",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -866,7 +898,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BRLkfXtRIKI"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "BRLkfXtRIKI",
@@ -878,7 +912,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ofwyTJRp-cPjSnuA16QmLEM7Skw",
+      "etag": "dKYp56RmkWezc-fNtwnKIl8tJL0",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -918,7 +952,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oGwBv2GIZGE"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "oGwBv2GIZGE",
@@ -930,7 +966,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CAxhzSJIppBSokIrpylrgRlliHc",
+      "etag": "1_e7O_lx3mg68J8FKOupxwj3l78",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -970,7 +1006,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2YOHgUT_oBc"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "2YOHgUT_oBc",
@@ -982,7 +1020,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4Y4O17ZXWrvTxbmxpL5LLI-FF1A",
+      "etag": "T1jqHxdEDL3zwKFxAtCavRHjaBc",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2019-07-31T16:17:35Z",
@@ -1022,7 +1060,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jD6iCt-Qz5k"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "jD6iCt-Qz5k",
@@ -1034,7 +1074,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ez6zErKrsav_f1CMT3c1GiJwLDA",
+      "etag": "9TRtyaUZ17cQMc3vQtKDScoLC-k",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2019-07-31T19:19:42Z",
@@ -1074,7 +1114,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Z2WV9DWrPNk"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "Z2WV9DWrPNk",
@@ -1086,7 +1128,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tFODkEJAq0g3xVg3TmsFb2XbpeQ",
+      "etag": "AneujbcJW6a5XdyfJjQwsZ--9Es",
       "id": "UExGSHZMMjFnOWJrMmJUV1RDUDFCdWVpaUl6OHEyNTh6OS5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2019-07-31T19:19:42Z",
@@ -1126,7 +1168,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "S-fKtTufP98"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "S-fKtTufP98",

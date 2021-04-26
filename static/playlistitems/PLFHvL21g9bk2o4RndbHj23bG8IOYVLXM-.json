@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "MAdBVs1YFb3dpMXTlYDdBuZOdDM",
+  "etag": "uxchG-w7i7y-w2MeIaN-ooFsUmw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "PE6DuuswbcYVGSy7fNsEx3o1jho",
+      "etag": "74-wIWjPZAsCOJNAyxB2l9eHfKc",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2020-10-18T15:24:41Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "w03n9T7yrDs"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "w03n9T7yrDs",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8IN2mIc0EpniOtRQp7EiulMYhzs",
+      "etag": "_3H3Qo3TQZccTjgHplzO3QCDqRc",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-09-09T16:13:05Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "O3062mEBwnA"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "O3062mEBwnA",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "L3b32lgZo8tdWMZaYEkIc2NIa6c",
+      "etag": "VNfJmavZivqh_HESqRV1kvzi1wY",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-09-09T16:13:41Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WIueH8ffsMo"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "WIueH8ffsMo",
@@ -160,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lFSHMHiM4VMwOqIp8arBpFHjPlI",
+      "etag": "ZU5mVlBsyUxkl2KXvxUXQi94Sa4",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-09-09T16:13:53Z",
@@ -200,7 +206,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KC0gr6lcY2k"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "KC0gr6lcY2k",
@@ -212,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hSX4hiKFQpgv-8lB5JCqL7WTm34",
+      "etag": "Tggl7CYgpRnR5yH8llDSSlrp1S4",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:06Z",
@@ -252,7 +260,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jUOQrqX4uaM"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "jUOQrqX4uaM",
@@ -264,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a9vWMfqt9HhyNm5_Qn81l4EjHEs",
+      "etag": "3cruVwyiWRkFoS7p92z6DuUGUUw",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:13Z",
@@ -304,7 +314,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-AODXscK3Yk"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "-AODXscK3Yk",
@@ -316,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LDaGjxBdyg9YInxcrouozcUpEIM",
+      "etag": "_kYNAXk9vz763RRVXguTTiUOk7Y",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:22Z",
@@ -356,7 +368,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3rOfa06C_GA"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "3rOfa06C_GA",
@@ -368,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1ajE6SqJZGjGx7ex0d2bPPfk2-0",
+      "etag": "g9DfyoIJTHZH9HRbu28cfBk9H-E",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:31Z",
@@ -408,7 +422,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0rg921iw7l4"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "0rg921iw7l4",
@@ -420,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vv-gppSBt7PIGrzPmOnQKZFAzhU",
+      "etag": "1o4i0K3pcpiFMwelwnZlHMWXyik",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:39Z",
@@ -460,7 +476,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bjyv9s2mDBE"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "bjyv9s2mDBE",
@@ -472,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GozgZRSl1CvMTKGuiKIs4jZRsII",
+      "etag": "klPkarzTyqFlaDcV8TQgWlM_GM0",
       "id": "UExGSHZMMjFnOWJrMm80Um5kYkhqMjNiRzhJT1lWTFhNLS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2020-09-09T16:14:53Z",
@@ -512,7 +530,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "n1FGHUINhzM"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "n1FGHUINhzM",

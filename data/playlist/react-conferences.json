@@ -1,14 +1,66 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "-kFQQwrJOhjwArbLUQI51C6b3M8",
+  "etag": "ZsLCOo0lImMejxQ4zRbA1_trZ1M",
   "pageInfo": {
-    "totalResults": 29,
+    "totalResults": 30,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlist",
-      "etag": "zJrwiTm0K96fcI6GZmpQ9dzA28k",
+      "etag": "L8WSHVXdPEwyv5p_DCdj6tFv9fY",
+      "id": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+      "snippet": {
+        "publishedAt": "2021-04-15T09:01:13Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit Remote Edition 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "localized": {
+          "title": "React Summit Remote Edition 2021",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "msHoKswM0wqcGDBSCcCjWCPAJgE",
       "id": "PLNBNS7NRGKMEkFzsSFt_dt2H5oc9yqfzI",
       "snippet": {
         "publishedAt": "2020-12-08T10:43:02Z",
@@ -52,7 +104,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 13
+        "itemCount": 14
       },
       "player": {
         "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLNBNS7NRGKMEkFzsSFt_dt2H5oc9yqfzI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -632,7 +684,7 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "ZZ1Tb4XLlsgnpqhX7v7YvQH9hRw",
+      "etag": "tbowQuToY1RIpD4j-U_g94ifArc",
       "id": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
       "snippet": {
         "publishedAt": "2020-03-23T10:50:50Z",
@@ -676,7 +728,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 14
+        "itemCount": 39
       },
       "player": {
         "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

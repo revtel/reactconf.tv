@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "fOtuIhaUrZ8HwDjxhsQzhO_XDn0",
+  "etag": "g4mI0jH5KaBYPcURJd4AfLqkISc",
   "pageInfo": {
     "totalResults": 8,
     "resultsPerPage": 50
@@ -60,7 +60,7 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "VvPBSstT9KBvHGGPWE4QBWpx1vw",
+      "etag": "tmEZul_w_y29HVUxplCgJ9L1qro",
       "id": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
       "snippet": {
         "publishedAt": "2020-08-11T15:03:45Z",
@@ -104,7 +104,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 6
+        "itemCount": 19
       },
       "player": {
         "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

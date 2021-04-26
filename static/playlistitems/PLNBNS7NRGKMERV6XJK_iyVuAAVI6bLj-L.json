@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "gtT0ABufmoWt_qEOyKh3bbyTz7o",
+  "etag": "vOmL8tLW_RXcwhXLCXmwcB14irs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ON4OIrbVPISdLXlzLsBuyEJV8_E",
+      "etag": "eu5ichYpbyyJXNVuIVVQl70SqY8",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CWO6U7jaO20"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "CWO6U7jaO20",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jjwYfz7DKYbtNeX-CdJvINZMFjY",
+      "etag": "IWvqoFa8Os7Rkw243rCt3vKPuLE",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QZIyzhLV3wU"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "QZIyzhLV3wU",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DLaS10O3SRv8UzHoGIT3xpJ7asY",
+      "etag": "FBEl68e33QpmheJV3G2XgFx1Z7M",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qBla-jgNKZc"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "qBla-jgNKZc",
@@ -160,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0D4vmPRmKKEIdiunAt2ob1yaE2M",
+      "etag": "PlgZfzwRQ3iD5CpSlGu4KDuqehA",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -200,7 +206,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nkJbGgieALI"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "nkJbGgieALI",
@@ -212,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DKXG83-mIO7LB2IN0heBtR_nTks",
+      "etag": "JLrytqyb0FeTiyCOibECIUJifpE",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -252,7 +260,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "P_mGa91wZ4o"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "P_mGa91wZ4o",
@@ -264,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4ouH2vt-H7NhKoDALaSEO1Eh0H8",
+      "etag": "MOL_keAzbnonLJ9CChFTjSS3Wn4",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -304,7 +314,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fBkmlFfwRu0"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "fBkmlFfwRu0",
@@ -316,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TiznUNeZJjDQSNYPmDrYk0_dkwQ",
+      "etag": "A-x_j1nmkxJcf-AWISNhQ7uumpo",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -356,7 +368,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q54YDGC_t3Y"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "Q54YDGC_t3Y",
@@ -368,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "maafOURP4yV8x-tzVX40E_fDTZ8",
+      "etag": "U5YL9H3JwTKI0y6RU9OCm4ZiP7g",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -408,7 +422,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QQVQAbJpwO0"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "QQVQAbJpwO0",
@@ -420,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Toongv-2ZFbevT-CpaBaYfyKvtA",
+      "etag": "JCPIgmSOM8J67DgqGzEIoPHCm-U",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -460,7 +476,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sxciVldf-ak"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "sxciVldf-ak",
@@ -472,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VXk3jZVgG82k0DQEfErBJll5pM4",
+      "etag": "Ghqaz_ZiNsejergqYX0xrswXYxQ",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -512,7 +530,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-oa0kvBXz8E"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "-oa0kvBXz8E",
@@ -524,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yggr_sj1RRAvtcdGszzYRm8w_y8",
+      "etag": "J68Y-JIR7np7Gu8z9MIsQ-5szVI",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -564,7 +584,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "6bRFElKG0a8"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "6bRFElKG0a8",
@@ -576,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xl3mLlO-BF4-MQnEFOZTdwu7u_Q",
+      "etag": "0DEXZo6IkrVJqHRyJE5TVwR-gIo",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2020-03-23T10:54:43Z",
@@ -616,7 +638,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1Dgt691lXhs"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "1Dgt691lXhs",
@@ -628,7 +652,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IkNmLO_0EgZzc6vRHBpob-n78wI",
+      "etag": "suMNfsM2XS-avJEgGzJO_HojsYs",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2020-03-25T09:59:45Z",
@@ -668,7 +692,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VQ-umMTEQq4"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "VQ-umMTEQq4",
@@ -680,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DvfnZbZfns7ZaPGJxXE1qFdQU_U",
+      "etag": "pNnQ-7HNswogwPW9CS5UqDVw4Y8",
       "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2020-05-18T18:55:19Z",
@@ -720,7 +746,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BUzISj87ovc"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "BUzISj87ovc",
@@ -729,10 +757,1273 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vAphfD6CJJ7r40ms3KhpQ525dhg",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "The Next Generation of GraphQL and TypeScript - Dotan Simha",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → https://bit.ly/3ogRAEd\n\nNew features in TypeScript that can improve our GraphQL workflow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TFhPFCwXL6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TFhPFCwXL6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFhPFCwXL6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TFhPFCwXL6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TFhPFCwXL6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TFhPFCwXL6s"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "TFhPFCwXL6s",
+        "videoPublishedAt": "2021-01-19T10:16:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_SGGHOWeuNyO-vTjGO3d-0WWdqk",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Going From Zero to Building Multi-Region GraphQL Applications - Nikhil Chandrappa",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nOff late GraphQL workloads see wide adoption in enterprise workloads as GraphQL provides a consistent and flexible way for UI to consume data from the APIs. For API developers like me, seeing GraphQL servers abstracting away the data filtering and the access patterns associated with backend APIs is a complete paradigm shift. Traditional API design tasks, like data modeling, access patterns required to implement high-performance Data APIs, are still relevant when implementing GraphQL applications?\n \n This talk will walk you through the learnings as a backend API developer building a hello world GraphQL application to implement a globally distributed GraphQL API for a real-world e-commerce application. We will look into scaling and resiliency required for building high-performance GraphQL APIs. Also, look into how database capabilities play an essential role in implementing a successful GraphQL application.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dedmrILQpeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dedmrILQpeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dedmrILQpeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dedmrILQpeA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dedmrILQpeA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dedmrILQpeA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "dedmrILQpeA",
+        "videoPublishedAt": "2021-01-20T11:00:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CEcoTRuKhaNyoZthb_ZpkrZztzU",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "But Can Your GraphQL Client Do This? — A Deep-Dive Into urql - Kadi Kraman",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nLet’s explore how the urql GraphQL client came to be and what makes it stand out. We will explore how various challenges were solved in new ways from first principles. Expect a look at future standard features such as Offline Support, an overview of small design choices that are baked into urql, and some features that are already standard and have first-party support such as authentication and file upload.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N3mSR4VPmf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N3mSR4VPmf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N3mSR4VPmf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N3mSR4VPmf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N3mSR4VPmf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N3mSR4VPmf4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "N3mSR4VPmf4",
+        "videoPublishedAt": "2021-01-18T08:58:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_TzV_4B8s-D_N-WGZ6bBShnsHGg",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Let's Talk GraphQL With Your Services - Roy Derks",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nGraphQL is a query language for APIs, but what if your API doesn't support GraphQL? There's a lot of information on how you can use GraphQL to make your APIs more readable or even more content on using GraphQL as a data layer for your existing APIs. This all makes perfect sense, but what if you actually want to know how to transform existing services to GraphQL? In this talk I'll demonstrate how you can use your existing services to create GraphQL schemas using Abstract Syntax Trees and TypeScript.\n \nThis is not a talk to show how to wrap services with GraphQL, in this talk I'll show data models to use an AST to transform existing services to GraphQL. Also, thinking patterns and best class approaches will be shown.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DszRpn5dQq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DszRpn5dQq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DszRpn5dQq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DszRpn5dQq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DszRpn5dQq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DszRpn5dQq0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "DszRpn5dQq0",
+        "videoPublishedAt": "2021-01-15T13:48:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kkX_K8kGxLuYX1l86g8OJ-pyUCk",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Build Your GraphQL APIs Faster with Nexus Schema - Ryan Chenkie",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nDeveloping a real-world full-stack app often involves tedious threading of data across multiple layers of the stack. This is particularly undesirable during prototyping phases where the main goal may be just to demonstrate an idea or design. It’s also risky when going to production since data inconsistencies between the layers can lead to bugs.\n \nNexus Schema is a library for building code-first, type-safe GraphQL APIs and can greatly help with this velocity and type-safety dilemma. In this talk, we'll look at how to build GraphQL APIs faster and with the benefits of type safety using Nexus Schema.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIeg7gDbAjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIeg7gDbAjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIeg7gDbAjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIeg7gDbAjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIeg7gDbAjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DIeg7gDbAjg"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "DIeg7gDbAjg",
+        "videoPublishedAt": "2021-01-14T10:53:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xTXJ_GgRSH1bzQBUH7ziSbq999Q",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Building a Highly Scalable Cloud API Gateway - Nader Dabit",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nOne of the benefits of GraphQL is that it enables a single entry point into any number of back end service or databases. More and more companies are adopting cloud technologies – leading to more jobs, more money, and more opportunities in cloud computing. When GraphQL is integrated with a cloud back end, enabling secure and direct access to dozens of databases and managed services, the limitations are endless. The problem is often that building out these implementations from scratch, and getting them right, is hard. In this talk, I’ll show how you can build cloud-based GraphQL back ends connecting to multiple databases (SQL and NoSQL), serverless functions, machine learning services, and microservices using TypeScript, AppSync, and AWS CDK – and do so in fewer lines of code than you’d expect. We’ll also look at how subscriptions, security, caching, and authentication are all handled, enabling you to build APIs that can simultaneously connect to tens of millions of clients at once to offer true real-time applications at scale. By the end of the talk, you should feel comfortable knowing that you can become a cloud engineer using an existing GraphQL skillset.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zUYetASj3Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zUYetASj3Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUYetASj3Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zUYetASj3Wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zUYetASj3Wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zUYetASj3Wc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "zUYetASj3Wc",
+        "videoPublishedAt": "2021-01-12T08:41:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N3ANJGvbsXfUsQAL8VQ8ZKasiLI",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL Anywhere - Our Journey With GraphQL Mesh and Schema Stitching - Uri Goldshtein",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nDuring our work with many different clients from all shapes and sizes, The Guild had to come up with all kinds of innovative solutions to help customers achieve the most out of GraphQL and help adopt it more easily. During that talk I will mention how you could use GraphQL in places you though it wasn’t possible, share open source tools to help you and provide new perspectives about why GraphQL is a great technology.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfg6ZJ2GGRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfg6ZJ2GGRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfg6ZJ2GGRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mfg6ZJ2GGRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mfg6ZJ2GGRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mfg6ZJ2GGRc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "mfg6ZJ2GGRc",
+        "videoPublishedAt": "2021-01-11T08:44:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1DCZnAMx3hncTsYZ6pQ4wze9wIc",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using GraphQL on WordPress - Sid Chatterjee",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nWordPress has been around for a really long time and is the most popular CMS on the web. Consuming its REST API however to build modern static sites leaves a lot to be desired. In this talk, we’ll live code a site that consumes WordPress over GraphQL and see the power of GraphQL in making mature and familiar services, easy to consume.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zE2Fbz0iOpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zE2Fbz0iOpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zE2Fbz0iOpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zE2Fbz0iOpE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zE2Fbz0iOpE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zE2Fbz0iOpE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "zE2Fbz0iOpE",
+        "videoPublishedAt": "2021-01-05T10:50:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z_9kyLGumxZ1og4zl739dlo3600",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL + JAMStack Panel discussion with Scott Moss, Sid Chaterjee, and Alex Lobera",
+        "description": "Recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nTo watch the full version of the panel discussion, follow the link → https://bit.ly/3ogRAEd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jbo5JB_koVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jbo5JB_koVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jbo5JB_koVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jbo5JB_koVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jbo5JB_koVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jbo5JB_koVs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Jbo5JB_koVs",
+        "videoPublishedAt": "2020-12-10T14:49:33Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tlBXFhg0p0_AoNePc-zrc5aSBRM",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL at Scale Panel Discussion with Dan Schafer, Nick Schrock, Danielle Man and Tanmai Gopal",
+        "description": "Recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nTo watch the full version of the panel discussion, follow the link → https://bit.ly/3ogRAEd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z_vB3zUy2jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z_vB3zUy2jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_vB3zUy2jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z_vB3zUy2jc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z_vB3zUy2jc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z_vB3zUy2jc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "z_vB3zUy2jc",
+        "videoPublishedAt": "2020-12-10T10:27:16Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g8RbLYk4TPWzngp9nwoLJ57VVWQ",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "It Depends — Examining GraphQL Myths and Assumptions - Marc-André Giroux",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nAs with any technology choice, choosing GraphQL as an API style involves tradeoffs. Some tell us GraphQL is here to replace everything else, others tell us using GraphQL is a mistake. In this talk, we'll explore why both these things are false, and how everything is context dependent.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfC3QSH772s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfC3QSH772s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfC3QSH772s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IfC3QSH772s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IfC3QSH772s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IfC3QSH772s"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "IfC3QSH772s",
+        "videoPublishedAt": "2020-12-10T10:25:58Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eY8VGTozxuvBIGyspPm0Ip8dBJQ",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel discussion hosted by the Apollo team",
+        "description": "Recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nTo watch the full version of the panel discussion, follow the link → https://bit.ly/3ogRAEd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sooz4wASYhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sooz4wASYhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sooz4wASYhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sooz4wASYhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sooz4wASYhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sooz4wASYhA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Sooz4wASYhA",
+        "videoPublishedAt": "2020-12-10T10:23:03Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ll4uQipb6zDJPNu9SNFj3Ij78-Q",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL Observability - Ashley Narcisse",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nGraphQL is an immensely powerful tool and while there are tons of resources out there on how to leverage it, there doesn't seem to be much open discussion around Day 2 (maintenance in production) operations of GraphQL. In this talk, we'll be focusing around observability and the various techniques and tools we can use to get a better understanding of how our graphQL services are running in production. More specifically we'll we focusing on combining ApolloServer and OpenTelemetry.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVS5lTg2hDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVS5lTg2hDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVS5lTg2hDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pVS5lTg2hDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pVS5lTg2hDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pVS5lTg2hDk"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "pVS5lTg2hDk",
+        "videoPublishedAt": "2020-12-08T18:45:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yqomR6F6CUU15rBFmLaEW-LMUis",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "The Diminishing API Layer - Tejas Dinkar",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nApps are hard enough to build without having to worry about layers and layers that sit between your users and the database. In this talk we examine trends in serverless computing, and their impact on modern databases and API layers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k3ILkP3ZapA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k3ILkP3ZapA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "k3ILkP3ZapA",
+        "videoPublishedAt": "2020-12-08T17:15:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k6Kpv_AE6Zo5giTGt4XhypYax9Y",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL 2021 Wishlist: The top GraphQL Opportunities & Challenges for 2021 - Tanmai Gopal",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nAs GraphQL enters its 6th year, we've come a long way as a community and an ecosystem. But there's still a lot of work to be done for GraphQL to go totally mainstream and retain its momentum. In this talk, I'll highlight the top cross-cutting technical and tooling challenges that practitioners face in getting GraphQL adopted and hope to spark new ideas and discussions around what we need to spec out, what we need to build and what need to improve! I'm excited to share a list of opportunities and ideas that encompass a) the boring things that need to be done (eg: health-check & error handling!), b) the hard problems that need to be solved (eg: rate-limiting & security) and c) the exciting challenges (eg: GraphQL & wasm) facing us as a GraphQL community. I hope that at the end of the talk we have a real sense of what the top challenges are and why, and that we're excited about going into 2021 discussing these challenges and building potential solutions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PEE2O86avYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PEE2O86avYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEE2O86avYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PEE2O86avYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PEE2O86avYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PEE2O86avYw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "PEE2O86avYw",
+        "videoPublishedAt": "2020-12-08T15:15:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "leNwKGaRKxv7NtEl01OXCf0Mrrc",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL for Everyone - Danielle Man",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nData is knowledge and knowledge is power. One of the greatest powers we have as developers is the ability to access and manipulate raw data with ease. But it takes a lot of context to know how to write a SQL query or use an API or make a CURL request. A lot of our energy in the GraphQL community is spent moving the specification forward and improving developer tools around it, but we don't spend much time talking about what GraphQL can do to help people in our organizations beyond our developers –– our designers, product managers, business leaders, customer success engineers, etc. In this talk, I will share the outcomes of some research we did at Apollo on GraphQL accessibility, and my vision for how GraphQL can connect humans to data that impacts them much more effectively, thereby giving them an ability to answer their own questions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ua_8cECclT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ua_8cECclT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ua_8cECclT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ua_8cECclT4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ua_8cECclT4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ua_8cECclT4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "ua_8cECclT4",
+        "videoPublishedAt": "2020-12-08T10:43:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UGO7I7szfEQZbAo2E2-gGnL3254",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Security Testing for GraphQL Backed Applications - Ryan Severns",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nWith StackHawk, engineering teams can run security tests against GraphQL backed applications to find and fix vulnerabilities before they hit production. With automated testing on every PR, you can be confident that your GraphQL API is secure. Join StackHawk co-founder Ryan Severns for a quick overview of GraphQL security with StackHawk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QR08W2cyjeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QR08W2cyjeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QR08W2cyjeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QR08W2cyjeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QR08W2cyjeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QR08W2cyjeM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "QR08W2cyjeM",
+        "videoPublishedAt": "2020-12-08T10:43:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KGhVVa7MdgVMmolry0eCRTzAY4c",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Native GraphQL, GraphQL as a Database Query Language - Brecht De Rooms",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nGraphQL was originally not designed as a database language yet it's quickly becoming a popular choice to interact with databases. What if databases natively support GraphQL by default? What are the advantages of native GraphQL support? How is a GraphQL query handled behind the scenes in FaunaDB and what database guarantees does such an approach provide?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLspIkB1Tts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLspIkB1Tts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLspIkB1Tts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NLspIkB1Tts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NLspIkB1Tts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NLspIkB1Tts"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "NLspIkB1Tts",
+        "videoPublishedAt": "2020-12-08T10:43:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R4bpkxwdsGGMVK0uB3kWe-5p74U",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Secure Your GraphQL Endpoints With Tyk in 5 Minutes - Matt Tanner",
+        "description": "Talk recording from GraphQL Galaxy Conference 2020\nWebsite - https://graphqlgalaxy.com\n\nWatch the full version of the all conference talks including QnA sessions and panel discussions with the inventors of GraphQL on GitNation Video platform , follow the link → http://bit.ly/3pQnGay\n\nIf you have existing GraphQL APIs or plan on building them in the future, join us for a 5-minute session to show you how to quickly secure them using Tyk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oFGqTJ--NM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oFGqTJ--NM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oFGqTJ--NM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8oFGqTJ--NM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8oFGqTJ--NM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8oFGqTJ--NM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "8oFGqTJ--NM",
+        "videoPublishedAt": "2020-12-08T10:43:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ET3woiD_6nibJO9Fb9VdR9_4-7U",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I5pZTEjnMsI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I5pZTEjnMsI"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8GaEACeYGXopfHPlTmeY7OrYAWM",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lRh91Z3BgGI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lRh91Z3BgGI"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vw8gReHR_f1WN9YZxSpnAFexFwY",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WmWb9omA0O0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WmWb9omA0O0"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kk07KTkEM7Uwfxn0NjpmZabtcXE",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Create Collaborative VR Environment in the Browser with React and GraphQL - Vladimir Novick",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Create Collaborative VR Environment in the Browser with React and GraphQL\nVirtual Reality gives us an ability to experience virtual worlds from the comfort of our homes. But it doesn't have to be experienced alone. In this talk we will see how we can use React, WebVR and GraphQL to create social VR experience in the browser.\n\nSlides - https://slides.com/vladimirnovick/vr-collaborative-environment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2JjlpPWUqaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2JjlpPWUqaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2JjlpPWUqaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2JjlpPWUqaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2JjlpPWUqaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2JjlpPWUqaE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "2JjlpPWUqaE",
+        "videoPublishedAt": "2020-11-20T08:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QuEVFQ16Oe9rY2CJ5SaWS6xdp4o",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Building Real-time Serverless GraphQL APIs on AWS with TypeScript and CDK - Nader Dabit",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Building Real-time Serverless GraphQL APIs on AWS with TypeScript and CDK\nCDK (Cloud development kit) enables developers to build cloud infrastructure using popular programming languages like Python, Typescript, or JavaScript. CDK is a next-level abstraction in infrastructure as code, allowing developers who were traditionally unfamiliar with cloud computing to build scalable APIs and web services using their existing skillset, and do so in only a few lines of code. In this talk, you’ll learn how to use the TypeScript flavor of CDK to build a hyper-scalable real-time API with GraphQL, Lambda, DynamoDB, and AWS AppSync . At the end of the talk, I’ll live code an API from scratch in just a couple of minutes and then test out queries, mutations, and subscriptions. By the end of the talk, you should have a good understanding of GraphQL, AppSync, and CDK and be ready to build an API in your next project using TypeScript and CDK.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QD4T8UE7jt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QD4T8UE7jt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QD4T8UE7jt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QD4T8UE7jt0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QD4T8UE7jt0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QD4T8UE7jt0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "QD4T8UE7jt0",
+        "videoPublishedAt": "2020-11-20T08:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e2G70Zl-Ril8-yLJV_4c6RiYurI",
+      "id": "UExOQk5TN05SR0tNRVJWNlhKS19peVZ1QUFWSTZiTGotTC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:44:20Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "GraphQL and React - Two Great Tastes that Taste Great Together - Adron Hall",
+        "description": "Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# GraphQL and React - Two Great Tastes that Taste Great Together\nAs a full-stack engineer with a bias towards the database...and a career spent working with and evangelizing database and distributed systems...why GraphQL? In this talk, I will share some of my personal journey with React, GraphQL, their respective communities, and my point-of-view on the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2hfpJxoKSb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMERV6XJK_iyVuAAVI6bLj-L",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2hfpJxoKSb8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "2hfpJxoKSb8",
+        "videoPublishedAt": "2020-11-10T08:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 39,
     "resultsPerPage": 50
   }
 }
