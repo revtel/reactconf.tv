@@ -1,19 +1,17 @@
 import React from 'react';
 import styled from 'styled-components';
-
-import * as AppContext from '../AppContext';
+import {useRevent} from 'revent-lib';
 
 function Toast(props) {
-  const app = React.useContext(AppContext.Context);
-  const toastContent = app.state.toastContent;
+  const [toastContent, setToastContent] = useRevent('toast');
 
   React.useEffect(() => {
     if (toastContent) {
       setTimeout(() => {
-        app.actions.setToast(null);
+        setToastContent(null);
       }, 3000);
     }
-  }, [toastContent, app.actions]);
+  }, [toastContent, setToastContent]);
 
   return <ToastWrapper visible={toastContent}>{toastContent}</ToastWrapper>;
 }

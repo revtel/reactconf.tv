@@ -1,12 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
-import {navigate} from 'gatsby';
 import HistoryItem from './HistoryItem';
 import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
 
 function HistoryItemList(props) {
-  const {items, onItemClick} = props;
+  const {items} = props;
   const [showScrollBar, setShowScrollBar] = React.useState(false);
   const {dimension} = useDimension();
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
@@ -19,17 +18,7 @@ function HistoryItemList(props) {
       onMouseLeave={() => setShowScrollBar(false)}>
       <div className="items-wrapper">
         {items.map((item, idx) => {
-          return (
-            <HistoryItem
-              key={idx}
-              item={item}
-              width={itemWidth}
-              onInfoClick={() => onItemClick(item.seminar)}
-              onWatchClick={() => {
-                navigate(`/player?conf=${item.seminar.id}&idx=${item.talkIdx}`);
-              }}
-            />
-          );
+          return <HistoryItem key={idx} item={item} width={itemWidth} />;
         })}
       </div>
     </HistoryListWrapper>

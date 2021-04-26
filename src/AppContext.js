@@ -1,11 +1,14 @@
 import React from 'react';
 import * as idbKeyval from 'idb-keyval';
+import * as Revent from 'revent-lib';
 import {
   transformAllChannelsData,
   transformConfEventData,
 } from './utils/transformData';
 
 const Context = React.createContext();
+const ShowSpinnerProxy = Revent.getProxy('spinner');
+const ShowToastProxy = Revent.getProxy('toast');
 
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
@@ -16,24 +19,25 @@ class Provider extends React.Component {
   constructor(props) {
     super(props);
     console.log('App initialization');
-    this.state = {
-      loading: false,
-      toastContent: null,
-    };
 
     this.actions = {
-      setLoading: (loading) => this.setState({loading}),
+      setLoading: (loading) => {
+        ShowSpinnerProxy.update(loading);
+      },
 
       showGlobalSpinner: async ({ms = 1000, scrollToTop = true} = {}) => {
-        this.setState({loading: true});
+        await delay(20);
+        ShowSpinnerProxy.update(true);
         await delay(ms);
-        this.setState({loading: false});
+        ShowSpinnerProxy.update(false);
         if (scrollToTop) {
           if (typeof window !== 'undefined') {
             window.scrollTo({top: 0, behavior: 'smooth'});
           }
         }
       },
+
+      setToast: (toastContent) => ShowToastProxy.update(toastContent),
 
       getAllChannelsData: (pageContext) => {
         if (!this._confChannels) {
@@ -143,8 +147,6 @@ class Provider extends React.Component {
       calcDisplayTime: (rawTime) => {
         return new Date(rawTime * 1000).toISOString().substr(11, 8);
       },
-
-      setToast: (toastContent) => this.setState({toastContent}),
     };
   }
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import {navigate} from 'gatsby';
 import * as Widgets from './Widgets';
 import * as AppContext from '../AppContext';
 import ProgressBar from './ProgressBar';
@@ -13,7 +14,7 @@ import {Heart, HeartFill} from '@styled-icons/octicons';
 import useFavoriteState from '../hooks/useFavoriteState';
 
 function TalkItem(props) {
-  const {confId, talk, idx, currIdx, onItemClick} = props;
+  const {confId, talk, idx, currIdx, onItemClick, showThumbnail = true} = props;
   const app = React.useContext(AppContext.Context);
   const videoId = talk.videoId;
   const progress = (app.videoProgressCache || {})[videoId];
@@ -28,10 +29,12 @@ function TalkItem(props) {
 
   return (
     <TalkItemWrapper>
-      <div className="talk-thumb">
-        <img src={talk.thumbnail} alt="snapshot for the talk" />
-        {idx !== undefined && <div className="idx">{idx + 1}</div>}
-      </div>
+      {showThumbnail && (
+        <div className="talk-thumb">
+          <img src={talk.thumbnail} alt="snapshot for the talk" />
+          {idx !== undefined && <div className="idx">{idx + 1}</div>}
+        </div>
+      )}
 
       <div className={'talk-title'}>
         <Progress progress={progress} duration={duration} finished={finished} />
@@ -42,13 +45,21 @@ function TalkItem(props) {
           <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
             <Widgets.Button
               type="text"
-              onClick={() => onItemClick({talk, idx})}>
+              onClick={(evt) => {
+                evt.stopPropagation();
+                if (onItemClick) {
+                  onItemClick({talk, idx});
+                } else {
+                  navigate(`/player?conf=${confId}&idx=${idx}`);
+                }
+              }}>
               <PlayCircleOutline size={28} color={'red'} />
             </Widgets.Button>
 
             <Widgets.Button
               type="text"
-              onClick={() => {
+              onClick={(evt) => {
+                evt.stopPropagation();
                 toggleFavoriteState({
                   title: talk.title,
                   thumbnail: talk.thumbnail,
@@ -63,9 +74,10 @@ function TalkItem(props) {
 
             <Widgets.Button
               type="text"
-              onClick={() =>
-                app.actions.setVideoFinished(videoId, finished ? false : true)
-              }>
+              onClick={(evt) => {
+                evt.stopPropagation();
+                app.actions.setVideoFinished(videoId, finished ? false : true);
+              }}>
               {finished ? (
                 <CheckBox size={26} color={'red'} />
               ) : (
