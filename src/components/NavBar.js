@@ -1,10 +1,11 @@
-import React, {useRef} from 'react';
+import React, {useContext, useRef} from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
 import * as Widgets from '../components/Widgets';
 import {ArrowBack} from '@styled-icons/material';
 import {LogoGithub} from '@styled-icons/ionicons-solid';
 import {BookHeart} from '@styled-icons/boxicons-regular';
+import {Context} from '../AppContext';
 
 function NavBar(props) {
   const {
@@ -16,6 +17,7 @@ function NavBar(props) {
   const [title, setTitle] = React.useState('untitled');
   const [transparent, setTransparent] = React.useState(true);
   const keys = useRef({}).current;
+  const app = useContext(Context);
 
   React.useEffect(() => {
     function onScroll() {
@@ -36,8 +38,17 @@ function NavBar(props) {
   React.useEffect(() => {
     const listener = (e) => {
       keys[e.code] = true;
-      if (keys['MetaLeft'] || (keys['MetaRight'] && e.code === 'KeyK')) {
-        console.log('hello react');
+      if ((keys['MetaLeft'] || keys['MetaRight']) && e.code === 'KeyK') {
+        app.actions.setModal(
+          <div
+            style={{
+              backgroundColor: 'skyblue',
+              width: 100,
+              height: 100,
+              borderRadius: 50,
+            }}
+          />,
+        );
       }
     };
 
@@ -46,10 +57,13 @@ function NavBar(props) {
     }
 
     return window.addEventListener('keydown', listener);
-  }, [keys]);
+  }, [app.actions, keys]);
 
   React.useEffect(() => {
     const listener = (e) => {
+      if (e.code === 'Escape') {
+        app.actions.setModal(null);
+      }
       delete keys[e.code];
     };
     if (typeof window) {
@@ -57,7 +71,7 @@ function NavBar(props) {
     }
 
     return window.addEventListener('keyup', listener);
-  }, [keys]);
+  }, [app.actions, keys]);
 
   React.useEffect(() => {
     if (selectedChannel && selectedChannel?.name !== title) {

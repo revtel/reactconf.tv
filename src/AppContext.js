@@ -9,6 +9,7 @@ import {
 const Context = React.createContext();
 const ShowSpinnerProxy = Revent.getProxy('spinner');
 const ShowToastProxy = Revent.getProxy('toast');
+const showModalProxy = Revent.getProxy('modal');
 
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
@@ -38,6 +39,8 @@ class Provider extends React.Component {
       },
 
       setToast: (toastContent) => ShowToastProxy.update(toastContent),
+
+      setModal: (modalContent) => showModalProxy.update(modalContent),
 
       getAllChannelsData: (pageContext) => {
         if (!this._confChannels) {

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import '../index.css';
 import ActivityIndicator from './ActivityIndicator';
 import Toast from './Toast';
+import Modal from './Modal';
 
 const Layout = ({children}) => {
   return (
@@ -10,6 +11,7 @@ const Layout = ({children}) => {
       {children}
       <ActivityIndicator />
       <Toast />
+      <Modal />
     </main>
   );
 };
