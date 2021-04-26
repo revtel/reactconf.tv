@@ -49,10 +49,13 @@ function SeminarDetail(props) {
         setTranState(TranState.SRC);
         await delay(50);
         setTranState(TranState.DEST);
-        await delay(300);
-        setConfDetail(
-          await app.actions.fetchPlaylistItems(selectedConf.item.id),
-        );
+
+        const results = await Promise.all([
+          delay(300),
+          app.actions.fetchPlaylistItems(selectedConf.item.id),
+        ]);
+
+        setConfDetail(results[1]);
         setShowDetail(true);
       }
     }
@@ -136,6 +139,7 @@ const Wrapper = styled.div`
     opacity: ${(props) => (props.displayInfo.visible ? 1 : 0)};
     object-fit: cover;
     transition: 200ms;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.75), 0 15px 12px rgba(0, 0, 0, 0.6);
   }
 
   & > section {
@@ -143,6 +147,7 @@ const Wrapper = styled.div`
     top: ${(props) => props.displayInfo.top + props.displayInfo.height}px;
     left: ${(props) => props.displayInfo.left}px;
     width: ${(props) => props.displayInfo.width}px;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.75), 0 15px 12px rgba(0, 0, 0, 0.6);
 
     & > .conf-detail {
       background-color: #888;

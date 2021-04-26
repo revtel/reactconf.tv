@@ -108,7 +108,7 @@ const YearLabel = styled.div`
 
 const Wrapper = styled.div`
   min-height: 100vh;
-  background-color: #181818;
+  background-color: #383838;
 
   & > .navbar {
     position: fixed;
