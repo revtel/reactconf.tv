@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Rh4YoMxP60eo2_Kc6Fw0AVbEuSU",
+  "etag": "EaDVlcgQC1ABOPRf8hncPi5QnjU",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "bmC7Hg1kIEvXZ_5WM97kP9HpTGQ",
+      "etag": "Vs5twywrY2bSDaTIlAISwFt4tqc",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2016-06-15T19:40:37Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "REYHHaoJyfw"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "REYHHaoJyfw",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yPFArc61gy8PfRomr0zMc9ENQ4U",
+      "etag": "GZsguIGvr3AYW5yUqLqbAtp2uuA",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2016-06-15T19:40:27Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0zwcwyAWvGg"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "0zwcwyAWvGg",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q_5h_Ub6h7ZIX7zbOBs9Qwx3dBE",
+      "etag": "5Z33J_gv3xqMcO8SfGgsDpvNWjs",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2016-06-15T19:30:10Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zvxpIk7e0xI"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "zvxpIk7e0xI",
@@ -160,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jQLj-nqld1XwzXTf8YHKojH6Jq8",
+      "etag": "4VXHSLJEt5RWySZY7XrspH_9Kfw",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2016-06-15T19:40:34Z",
@@ -200,7 +206,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "g9WTLwMuAZc"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "g9WTLwMuAZc",
@@ -212,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "11YyeFL01X2DB-RkYQ1n_HjAkT8",
+      "etag": "PuO8xhdmhKGHIRBU08_-Yn3HPIE",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2016-06-15T19:40:30Z",
@@ -252,7 +260,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ce_DLuGy6LE"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "Ce_DLuGy6LE",
@@ -264,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VUeOQOtG_dMWKO6Qxty-fhF327U",
+      "etag": "r2sz9_6nFkdXej4bB2BzYlRdDRo",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2016-06-15T19:38:20Z",
@@ -304,7 +314,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xxA_lzBXAl8"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "xxA_lzBXAl8",
@@ -316,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "D8zxFy-AEDuIbIu76PfH8aZ_VJY",
+      "etag": "YKuixtq2ePnEe7MKuk_3eksdAB0",
       "id": "UExDQzQzNkpwVm5LMjlJTUtPVU9zQW5KbVlqR2RIbktqUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2016-06-15T19:30:50Z",
@@ -356,7 +368,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "rJDbhkTCM4I"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
       },
       "contentDetails": {
         "videoId": "rJDbhkTCM4I",

@@ -22,7 +22,7 @@ const aggregateDiffViewCountByPlaylistId = R.reduce((acc, cur) => {
   return acc;
 }, {});
 
-export const restructureToSeminars = (channels) =>
+const restructureToSeminars = (channels) =>
   R.map((playlist) => {
     const theChannel = channels.find(
       (channel) =>
@@ -34,7 +34,7 @@ export const restructureToSeminars = (channels) =>
     return theChannel.items.find((item) => item.id === playlist.playlistId);
   });
 
-export const filterOutUnexpectedData = () => R.filter((item) => !!item);
+const filterOutUnexpectedData = () => R.filter((item) => !!item);
 
 const getTop10Seminars = (channels) => {
   const diffViewCountByPlayListId = aggregateDiffViewCountByPlaylistId(
@@ -53,4 +53,37 @@ const getTop10Seminars = (channels) => {
   )(R.values(diffViewCountByPlayListId));
 };
 
-export default getTop10Seminars;
+const getTop10Videos = () => {
+  const latestVideoList = Object.values(latest).map((video) => ({
+    id: video.videoId,
+    viewed: parseInt(video.stats?.viewCount),
+  }));
+  const previousVideoList = Object.values(previous).map((video) => ({
+    id: video.videoId,
+    viewed: parseInt(video.stats?.viewCount),
+  }));
+
+  let diffVideoViewedList = [];
+  for (const video of latestVideoList) {
+    diffVideoViewedList.push({
+      id: video.id,
+      viewed:
+        video.viewed -
+        (previousVideoList.find((v) => v.id === video.id)
+          ? previousVideoList.find((v) => v.id === video.id).viewed
+          : 0),
+    });
+  }
+
+  return diffVideoViewedList
+    .sort((a, b) => b.viewed - a.viewed)
+    .slice(0, 10)
+    .map((video) => latest[video.id]);
+};
+
+export {
+  getTop10Seminars,
+  getTop10Videos,
+  filterOutUnexpectedData,
+  restructureToSeminars,
+};

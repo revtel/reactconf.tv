@@ -1,0 +1,442 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "VSPDna9mI_-SCasruvrYFGFZk80",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vnm3y3HJ03H5exTARLfF8g-yZSc",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-12-16T23:27:14Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Guillermo Rauch: The Post Jamstack World & the Rise of Hybrid Frameworks",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nGuillermo Rauch is the founder of Vercel, co-creator of Now and Next.js, and former CTO and co-founder of LearnBoost and Cloudup, acquired by Wordpress.com in 2013. His background and expertise is in the realtime web. He's the creator of socket.io, one of the most popular JavaScript projects on GitHub, with implementations in many different programming languages and frameworks (currently running the realtime backend of high profile apps like Microsoft Office online). He created the first MongoDB ORM for Node.JS, MongooseJS. Before that he was a core developer of the MooTools JavaScript framework. He's the author of 'Smashing Node.JS' published by Wiley in 2012, best-selling book about Node.JS on Amazon in multiple programming categories. He's spoken at dozens of conferences all around the world about JavaScript and the realtime web, such as O'Reilly OSCON, QCon and NDC. Originally from Argentina, he dropped out of high school and moved to the US to pursue his passions in the San Francisco startup world. He's passionate about open source as an education medium. He's a former mentor of an Open Source Engineering class organized and pioneered by Stanford, with students from Harvard, MIT, Carnegie Mellon, UPenn, Columbia and others.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UAzHqbdxug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UAzHqbdxug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UAzHqbdxug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7UAzHqbdxug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7UAzHqbdxug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7UAzHqbdxug"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "7UAzHqbdxug",
+        "videoPublishedAt": "2020-12-16T23:27:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wcp6DS1US3580Y976_Ud5kpnCwg",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-12-17T00:23:29Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Swizec Teller   Add authentication to your React app in 5 minutes with useAuth",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nSwizec is a prolific engineer, instructor, blogger, streamer, conference speaker, and author. He's published many books and courses including React for DataViz, React + D3v4, Data Visualization with D3.js, the work-in-progress Serverless Handbook, and others. He maintains a Rails app pulling 20 requests per second, a serverless system doing a million requests per day, and wishes his side projects were just as popular.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eL-aSzd2jdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eL-aSzd2jdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eL-aSzd2jdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eL-aSzd2jdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eL-aSzd2jdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eL-aSzd2jdo"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "eL-aSzd2jdo",
+        "videoPublishedAt": "2020-12-17T00:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nYdhv7MTlrKtPxRYPxRimQBtaJE",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-12-17T20:05:00Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Lydia Hallie: JavaScript Visualized: A Script's Life",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nAbout Lydia\nLydia Hallie is a full-time software engineering consultant and educator that primarily works with JavaScript, React, Node, GraphQL, and serverless technologies. She also spends her time mentoring and doing in-person training sessions.Lydia Hallie is a full-time software engineering consultant and educator that primarily works with JavaScript, React, Node, GraphQL, and serverless technologies. She also spends her time mentoring and doing in-person training sessions.\n\nAbstract\nJavaScript is cool (don't @ me), but how can a machine actually understand the code you've written? As JavaScript devs, we usually don't have to deal with compilers ourselves. In this talk, I’ll use visualizations to show you how the JavaScript engine handles our human-friendly code, and compiles it to code that machines understand.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ynZURtf7kU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ynZURtf7kU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ynZURtf7kU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4ynZURtf7kU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4ynZURtf7kU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4ynZURtf7kU"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "4ynZURtf7kU",
+        "videoPublishedAt": "2020-12-17T20:18:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBCfUgRtmcyBijdZpHbqSfvs9A0",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-12-18T16:06:06Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Bryan Manuele: Quantifying the Health of a React Codebase",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nAbout Bryan\nBryan is a Software Engineer at Flexport in San Francisco. An open source aficionado, Bryan has contributed to open source projects ranging from React to Lodash, and is a maintainer of Latitude -- the open source design system at Flexport.\n\nAbstract\nLearn how to leverage metrics to gain insight into the health of your React code base. This talk will cover how Flexport uses static analysis to gain insight on how internal components and APIs are being used, the decisions and insights these metrics can drive, and how you can implement these metrics on your own React code base. By the end of this talk, you will learn how you can write your own custom abstract syntax tree (AST) parsers to gain insight into your own React codebase, and learn about the successes we've had at Flexport using this system.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIg67JOR1fU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIg67JOR1fU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIg67JOR1fU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BIg67JOR1fU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BIg67JOR1fU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BIg67JOR1fU"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "BIg67JOR1fU",
+        "videoPublishedAt": "2020-12-18T16:14:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PSn8fanzZ4U_Eff62EOdelF9zPs",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-12-18T16:54:26Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Alex Krolick: Testing Async Components",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nAbout Alex\nAlex is a React Testing Library maintainer and software engineer at Box, Inc.\n\nAbstract\nLearn how to test async code in React applications using React Testing Library! This talk will show you how to test async code such as networks calls, timers, and Promises in React components, and will show you how to use the new 'act' function from React DOM test-utils to be sure your tests (and app!) work with the new React features like Suspense and Concurrent Mode. Bonus: you'll learn when and why to write higher-level end-to-end tests with tools like Cypress.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b8SOFNc_X_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b8SOFNc_X_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b8SOFNc_X_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b8SOFNc_X_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b8SOFNc_X_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b8SOFNc_X_A"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "b8SOFNc_X_A",
+        "videoPublishedAt": "2020-12-18T17:01:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TUSTCLj__uG8x_OajzRsSqcVZ4A",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-12-20T04:17:07Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Syntax.fm Live! with Wes Bos and Scott Tolinski",
+        "description": "Recorded live at Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com\n\nGet Ready for a jam packed hour of tasty web development treats. Wes Bos and Scott Tolinski will record a live version of their popular weekly podcast that will include audience participation, web development trivia, & terrible jokes! \n\nWes & Scott are prolific educators, conference speakers, workshop instructors, and co-hosts of the popular Syntax.fm podcast. Wes' courses can be found on WesBos.com, and Scott's courses can be found on leveluptutorials.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8xJpxj6T1BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8xJpxj6T1BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8xJpxj6T1BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8xJpxj6T1BQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8xJpxj6T1BQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8xJpxj6T1BQ"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "8xJpxj6T1BQ",
+        "videoPublishedAt": "2020-12-20T04:46:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R9DDHjjdK8tTP1Tt8RQ_GRqaqng",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-12-29T21:30:03Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Sophia Liu and Karan Sekhri: Recipe for an Accessible Component",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 9, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com\n\nSophia Liu is a Frontend engineer at Course Hero who got her first accessibility-related challenge as a Teach for America corps member designing lesson materials for a diverse group of students.\n\nKaran Sekhri is a Senior Frontend Engineer at Course Hero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wuIw6Ru9ZUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wuIw6Ru9ZUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wuIw6Ru9ZUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wuIw6Ru9ZUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wuIw6Ru9ZUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wuIw6Ru9ZUo"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "wuIw6Ru9ZUo",
+        "videoPublishedAt": "2020-12-29T21:30:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5KOoAufE0e3IBttKyYB_3HEkUDA",
+      "id": "UExSdkt2dzQyUmM3TkV1bDlHdmlHaWpkem5HYmg4eWw0Wi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-12-30T16:11:52Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Matt Biilmann: React on the Jamstack",
+        "description": "Recorded for Reactathon Online & Worldwide, Dec 7, 2020. Learn more & stay informed about upcoming in-person & online conferences at https://reactathon.com, and our worldwide React meetup at https://realworldreact.com \n\nAbout Matt\nMatt Biilmann has been building developer tools, content management systems and web infrastructure for more than a decade. He is co-founder and CEO of Netlify, the modern platform for high performance websites and apps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s8gvYLckIKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s8gvYLckIKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s8gvYLckIKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s8gvYLckIKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s8gvYLckIKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7NEul9GviGijdznGbh8yl4Z",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s8gvYLckIKk"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "s8gvYLckIKk",
+        "videoPublishedAt": "2020-12-30T16:15:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 8,
+    "resultsPerPage": 50
+  }
+}

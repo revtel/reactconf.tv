@@ -8,7 +8,7 @@ function SeminarItem(props) {
   const height = width * (10 / 16);
 
   return (
-    <Wrapper onClick={() => onInfoClick(item)} style={{width, height}}>
+    <Wrapper onClick={onInfoClick} style={{width, height}}>
       <img src={item.thumbnail} alt="conference snapshot" />
       <div className="info">
         <div className="title">{item.title}</div>
@@ -64,12 +64,6 @@ const Wrapper = styled.div`
       font-family: Roboto;
       letter-spacing: 1px;
     }
-  }
-
-  &:hover {
-    z-index: 2;
-    transform: scale(1.2);
-    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.22);
   }
 `;
 

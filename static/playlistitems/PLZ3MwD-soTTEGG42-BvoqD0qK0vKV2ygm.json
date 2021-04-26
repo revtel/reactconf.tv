@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hlwUuUIwksj34lZAu92fYfFcqzU",
+  "etag": "V2u-D1g9CMpQeObjTHY0LuVG9EU",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "lGjEoVw4GdTANVwf2hQRBUauTTU",
+      "etag": "0ZaGtXccWuisvsSytjKcFfgfVMk",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-10-07T07:06:34Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QwoQgzBgJu8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "QwoQgzBgJu8",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RXepT6RytVprR3LzJuiRNOiFL0w",
+      "etag": "hWtzPI_W5bt2xtBD2OJ5BoZwTGQ",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-10-21T10:47:11Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gWOrCedNR9M"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "gWOrCedNR9M",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rsWd-B4T__J5L7lA22H23-bSQsg",
+      "etag": "U7zQK31gLCThA2SGVQim_REnmVw",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-10-21T11:03:55Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZmlvhEJu1L8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "ZmlvhEJu1L8",
@@ -160,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yELzGAf_C24WuYNXk0JFb7BX9GE",
+      "etag": "XTgzuXd8LphQ1Lvr98UR4KnCSQw",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-10-21T14:34:38Z",
@@ -200,7 +206,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0ncfszyfmyQ"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "0ncfszyfmyQ",
@@ -212,12 +220,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JhYpatXda6iBtrYD3kmMEt6b3eE",
+      "etag": "Zb9U_ThbsulzNZrFeb_7gp4W5oU",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-10-21T14:44:41Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "React Native EU 2020: Ram N - React Native Performance - Take 2",
+        "title": "React Native EU 2020: Parashuram N - React Native Performance - Take 2",
         "description": "Abstract:\nAs React Native is being used to build many large scale mobile apps. It is important to profile performance to ensure a smooth user experience. Previously, Ram had written and spoken about adding instrumentation to understand the performance characteristics of the app.\nAs the next step, he will explore the various optimizations that can be done in this talk. He will focus on the Javascript section, something where there are many more low hanging fruits to optimizie.\nStarting from React Dev Tools, he will look at how developers can leverage their existing knowledge of web performance to attack mobile perf. He will talk about understanding SysTrace and Sampling Profilers. He will also debunk common myths like the problems with measuring app performance using Chrome JS profiler, debug versions of the app, etc. \nIn this talk, he will plan to outline a holistic approach that can be used to dive deeper into React Native performance.",
         "thumbnails": {
           "default": {
@@ -252,7 +260,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_5Oo51viLw0"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "_5Oo51viLw0",
@@ -264,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "torCzqgBc-NnaGApD0L2F5NPhd4",
+      "etag": "H1ExA7vlS8irdqe8p8pqYzAeFuE",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2020-10-21T14:59:08Z",
@@ -304,7 +314,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "C99wvXpeNXs"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "C99wvXpeNXs",
@@ -316,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "g0545NPlWeej_Pzw_uzMeixfMaA",
+      "etag": "VRfXWyCQw728k15qyjSxkqReSkE",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2020-10-21T15:14:53Z",
@@ -356,7 +368,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q9hY3v-hmhg"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "q9hY3v-hmhg",
@@ -368,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EJ1YUFCYEP9L-FPSPR9VAMnc2q8",
+      "etag": "RM31maMY_1uyzCztJsU0y_bDlxk",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2020-10-21T15:26:03Z",
@@ -403,7 +417,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qJpesy9VRRg"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "qJpesy9VRRg",
@@ -415,7 +431,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fFYjMKbzdHIxNUMfX2i9mfTrUNY",
+      "etag": "stc_rtpH_HqmB-q4AeHUsSZHtxk",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2020-10-21T15:31:56Z",
@@ -455,7 +471,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "b84pGTdBih8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "b84pGTdBih8",
@@ -467,7 +485,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nDnWpmlBDpC1a9CY5kugycLWkgA",
+      "etag": "wa9TbCufJOcIkZ1Zk2UpWtAndOs",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2020-10-21T15:45:41Z",
@@ -507,7 +525,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fBv0fN5_4SM"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "fBv0fN5_4SM",
@@ -519,7 +539,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vl3AWok5uac70cnffH7ZELpHsT0",
+      "etag": "zNJkB4_LzfEUumgBoBGITg8kDxU",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2020-10-21T15:48:09Z",
@@ -559,7 +579,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kDE8E_uu19Y"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "kDE8E_uu19Y",
@@ -571,7 +593,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eEOMU7oCPcWBx5bivWZEkRHPS6c",
+      "etag": "Uc-XToV6BBysq9zWk5YKiy6PUq8",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2020-10-22T08:21:54Z",
@@ -611,7 +633,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9RQ2GiApkzU"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "9RQ2GiApkzU",
@@ -623,7 +647,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IqpsVVYboOrlh6CoiTGKF5nZ6Ts",
+      "etag": "OnCdcSpH_ixlTmGpSVV-sp5wXf8",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2020-10-22T11:11:36Z",
@@ -663,7 +687,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "19y4UBV8irI"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "19y4UBV8irI",
@@ -675,7 +701,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "I0-QRxFNM1LQqKAbM0WmUUOqMuA",
+      "etag": "SOgMJs3T8ZlY9zNqXPg1-l33BWg",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2020-10-22T11:16:05Z",
@@ -715,7 +741,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DJxMl-lV2W8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "DJxMl-lV2W8",
@@ -727,7 +755,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5EGoOj-0PRWTNbXDatN-hOt_fls",
+      "etag": "IIIPzwtR80JcyLyRBLKb54HJLNs",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2020-10-22T11:17:56Z",
@@ -767,7 +795,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XKS72PYFleY"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "XKS72PYFleY",
@@ -779,7 +809,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sHicCgKNhujN_pWKfuLcvwwPAbw",
+      "etag": "HFIGrZd-jZoEe-_AmXkgvS9G1jE",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2020-10-22T11:46:34Z",
@@ -819,7 +849,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1lCmSaWwa8U"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "1lCmSaWwa8U",
@@ -831,7 +863,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_nqozunsWN6aAPNrurQ-E5wkYsQ",
+      "etag": "dMPHSmns_ZUSCz6GeeqLP3jCzpI",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2020-10-22T11:56:10Z",
@@ -871,7 +903,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "d7-RNEIVkqQ"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "d7-RNEIVkqQ",
@@ -883,7 +917,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8ObERJFjte0mrABnl8C9ouaTSHw",
+      "etag": "9FzVAPR-ecSYs6yW1jskp9v6LW8",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2020-10-22T14:15:04Z",
@@ -923,7 +957,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "6J9kD0bCXRw"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "6J9kD0bCXRw",
@@ -935,7 +971,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WZIZohQUeeA-1bzvInPKFf6GgWc",
+      "etag": "ehCVKELN2MJxj-K-XFMTZF8gLrQ",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2020-10-22T14:23:19Z",
@@ -975,7 +1011,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4YLBKcYmqV4"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "4YLBKcYmqV4",
@@ -987,7 +1025,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tQleXUh2gZzdECQE7TzYP6nOBhc",
+      "etag": "zAbuOheUXEY_caaQzSCCmDFlR9c",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2020-10-22T14:33:09Z",
@@ -1027,7 +1065,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2l2p1KR11JA"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "2l2p1KR11JA",
@@ -1039,7 +1079,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_Vnhr1WixXOFcOc7xyWNJZlvayw",
+      "etag": "Pe1i4Cd88pePt10SuCkM1P8dX6k",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2020-10-22T14:43:26Z",
@@ -1079,7 +1119,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2G5Q5n3BABY"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "2G5Q5n3BABY",
@@ -1091,7 +1133,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kZdPCJQ7f7yTGEIaM0VqqGq2zuM",
+      "etag": "44he72b5qW5Y9KlC2XMii5KFhS4",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2020-10-22T15:22:24Z",
@@ -1131,7 +1173,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ScgFQojbAAc"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "ScgFQojbAAc",
@@ -1143,7 +1187,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DkG7p8Ei96xvyKhD-eVSLHWbTi8",
+      "etag": "xrS_4WsqtSPGhFwdwy0xC8MHRi8",
       "id": "UExaM013RC1zb1RURUdHNDItQnZvcUQwcUswdktWMnlnbS4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2020-10-22T15:24:09Z",
@@ -1183,7 +1227,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "vQGcYHvYRRQ"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "vQGcYHvYRRQ",

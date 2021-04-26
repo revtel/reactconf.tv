@@ -1,23 +1,19 @@
 import latest from '../../static/snapshots/latest.json';
 import previous from '../../static/snapshots/previous.json';
-import {filterOutUnexpectedData, restructureToSeminars} from './getTrendingNow';
 import * as R from 'ramda';
 
-const getNewReleases = (channels) => {
+const getNewReleaseVideos = () => {
   return R.pipe(
     R.map((key) => {
       if (!(key in previous)) {
+        console.log(key);
         return key;
       }
       return null;
     }),
     R.filter((key) => !!key),
-    R.map((key) => latest[key].playlistId),
-    R.uniq,
-    R.map((key) => ({playlistId: key})),
-    restructureToSeminars(channels),
-    filterOutUnexpectedData(),
+    R.map((key) => latest[key]),
   )(Object.keys(latest));
 };
 
-export default getNewReleases;
+export default getNewReleaseVideos;

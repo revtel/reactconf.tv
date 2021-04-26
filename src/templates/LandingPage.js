@@ -1,4 +1,4 @@
-import React, {useMemo} from 'react';
+import React from 'react';
 import styled from 'styled-components';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
@@ -8,17 +8,16 @@ import BannerImage from '../components/BannerImage';
 import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import VideoItemList from '../components/VideoItemList';
-import TalkListPanel from '../components/TalkListPanel';
+import {getTop10Videos} from '../utils/getTrendingNow';
+import getNewReleases from '../utils/getNewReleaseVideos';
+import getMostViewed from '../utils/getMostViewed';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
-import getTop10Seminars from '../utils/getTrendingNow';
-import getNewReleases from '../utils/getNewReleases';
-import getMostViewed from '../utils/getMostViewed';
+import SeminarDetail from '../components/SeminarDetail';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
-  const bottomPanelRef = React.useRef();
 
   const channels = app.actions.getAllChannelsData(props.pageContext);
   const seminarById = React.useMemo(() => {
@@ -50,11 +49,9 @@ function LandingPage(props) {
 
   const classicVideos = getMostViewed();
 
-  const top10Seminars = useMemo(() => getTop10Seminars(channels), [channels]);
+  const top10Videos = getTop10Videos();
 
-  const newReleasesSeminars = useMemo(() => getNewReleases(channels), [
-    channels,
-  ]);
+  const newReleaseVideos = getNewReleases();
 
   return (
     <>
@@ -77,51 +74,12 @@ function LandingPage(props) {
                   KEEP WATCHING
                 </Label>
               </Widgets.FlexRow>
-              <HistoryItemList
-                items={recentWatchedSeminars}
-                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-              />
-            </div>
-          )}
-
-          {newReleasesSeminars.length > 0 && !selectedChannel && (
-            <div className="new-releases">
-              <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>
-                  New Releases
-                </Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  {newReleasesSeminars.length}
-                </Widgets.Badge>
-              </Widgets.FlexRow>
-
-              <SeminarItemList
-                items={newReleasesSeminars}
-                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-              />
-            </div>
-          )}
-
-          {top10Seminars.length > 0 && !selectedChannel && (
-            <div className="trending-now">
-              <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>
-                  Trending Now
-                </Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  {top10Seminars.length}
-                </Widgets.Badge>
-              </Widgets.FlexRow>
-
-              <SeminarItemList
-                items={top10Seminars}
-                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-              />
+              <HistoryItemList items={recentWatchedSeminars} />
             </div>
           )}
 
           {classicVideos.length > 0 && !selectedChannel && (
-            <div className="trending-now">
+            <div className="classic">
               <Widgets.FlexRow>
                 <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
                 <Widgets.Badge style={{marginLeft: 8}}>
@@ -130,6 +88,36 @@ function LandingPage(props) {
               </Widgets.FlexRow>
 
               <VideoItemList items={classicVideos} />
+            </div>
+          )}
+
+          {top10Videos.length > 0 && !selectedChannel && (
+            <div className="trending-now">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  Trending Now
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  Most Populars Videos
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={top10Videos} />
+            </div>
+          )}
+
+          {newReleaseVideos.length > 0 && !selectedChannel && (
+            <div className="new-release">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  New Releases
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  New Releases Videos
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={newReleaseVideos} />
             </div>
           )}
 
@@ -148,23 +136,14 @@ function LandingPage(props) {
                     {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
-                <SeminarItemList
-                  items={seminarByYear.items}
-                  onItemClick={(seminar) =>
-                    bottomPanelRef.current.open(seminar)
-                  }
-                />
+                <SeminarItemList items={seminarByYear.items} />
               </div>
             );
           })}
         </div>
-      </Wrapper>
 
-      <TalkListPanel
-        getInstance={(inst) => {
-          bottomPanelRef.current = inst;
-        }}
-      />
+        <SeminarDetail />
+      </Wrapper>
 
       <SelectChannelBtn
         channels={channels}
@@ -184,7 +163,7 @@ const Label = styled.div`
 
 const Wrapper = styled.div`
   min-height: 100vh;
-  background-color: #181818;
+  background-color: #383838;
 
   & > .navbar {
     position: fixed;

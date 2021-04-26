@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Lk3PMoQI1e9ixVixTD1CHBDAjbM",
+  "etag": "A4KsQvnIN3AmHwXgoT-fhNuF9T8",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "i86g6dv1Focuwz1pCpq7Mre7l9A",
+      "etag": "YlWILHHgTeYk2Oq1lDRL2E4HMSU",
       "id": "UExGSHZMMjFnOWJrMkprUFd5QVdpUFhFSmNqeldLTjgxay41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2017-09-06T17:17:55Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FskuV7ojN5w"
-        }
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
       },
       "contentDetails": {
         "videoId": "FskuV7ojN5w",
