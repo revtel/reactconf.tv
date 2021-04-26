@@ -42,7 +42,7 @@ const Wrapper = styled.div`
       transform: rotate(0deg) scale(1);
     }
     50% {
-      transform: rotate(180deg) scale(1.33);
+      transform: rotate(180deg) scale(1);
     }
     100% {
       transform: rotate(360deg) scale(1);

@@ -41,7 +41,7 @@ function SeminarDetail(props) {
         };
 
         setData({
-          imgSrc: item.thumbnail,
+          imgSrc: item.thumbnailStd,
           srcData: rect,
           destData,
         });

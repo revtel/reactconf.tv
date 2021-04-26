@@ -7,7 +7,8 @@ function transformAllChannelsData(channels) {
         return {
           id: confEvent.id,
           title: confEvent.snippet.title,
-          thumbnail: confEvent.snippet.thumbnails.medium.url,
+          thumbnail: confEvent.snippet.thumbnails.medium?.url,
+          thumbnailStd: confEvent.snippet.thumbnails.standard?.url,
           totalCount: confEvent.contentDetails.itemCount,
         };
       }),
