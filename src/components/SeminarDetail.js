@@ -97,7 +97,7 @@ function SeminarDetail(props) {
       <img src={data.imgSrc} alt="conference" />
       <section>
         {conf && (
-          <div className="conf-detail">
+          <>
             <h2>{conf.title}</h2>
             {(confDetail?.items || []).map((talk, idx) => (
               <TalkItem
@@ -108,7 +108,7 @@ function SeminarDetail(props) {
                 showThumbnail={false}
               />
             ))}
-          </div>
+          </>
         )}
       </section>
     </Wrapper>
@@ -147,21 +147,18 @@ const Wrapper = styled.div`
     top: ${(props) => props.displayInfo.top + props.displayInfo.height}px;
     left: ${(props) => props.displayInfo.left}px;
     width: ${(props) => props.displayInfo.width}px;
+    visibility: ${(props) => (props.showDetail ? 'visible' : 'none')};
+    max-height: ${(props) => (props.showDetail ? '10000px' : '0px')};
+    opacity: ${(props) => (props.showDetail ? 1 : 0)};
+    transition: 500ms;
+    overflow: hidden;
+    background-color: #888;
+    color: white;
+    padding: 0 20px;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.75), 0 15px 12px rgba(0, 0, 0, 0.6);
 
-    & > .conf-detail {
-      background-color: #888;
-      color: white;
-      padding: 0 20px;
-      visibility: ${(props) => (props.showDetail ? 'visible' : 'none')};
-      max-height: ${(props) => (props.showDetail ? '10000px' : '0px')};
-      opacity: ${(props) => (props.showDetail ? 1 : 0)};
-      transition: 500ms;
-      overflow: hidden;
-
-      & > .talk-item {
-        margin-bottom: 20px;
-      }
+    & > .talk-item {
+      margin-bottom: 20px;
     }
   }
 `;
