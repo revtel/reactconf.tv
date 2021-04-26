@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "lI1L-P4Tf1XomxjPxth_JWLROTM",
+  "etag": "3cotlp5zeXfJam-1zyrai-ca0sw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "pS50oaStVVc4YX4AdPG-wFG6C_o",
+      "etag": "s2Jqo_RnBzee6s996GtqoOnkYmg",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -34,7 +34,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "r_4v5qaRPPw"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "r_4v5qaRPPw",
@@ -46,7 +48,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zC8thBo5tQQJy4GD257b28mNYpw",
+      "etag": "iu5vP7i6jtIwoeLgMW_5J1LVk18",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -76,7 +78,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "i2OyqP1kzfQ"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "i2OyqP1kzfQ",
@@ -88,7 +92,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "P3npFLwbeY2EjMFABo7cd1BreOI",
+      "etag": "732lHvuDlUOuSGFjU4bai_wJW2g",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -118,7 +122,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "rhv6kOVoBRI"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "rhv6kOVoBRI",
@@ -130,7 +136,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6cDl31g9W2itBwAFy91dCZJ5zCE",
+      "etag": "U9ZZ7oO_RSSrMhdkhItlO5UnOeM",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -160,7 +166,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lKoLoNOZquo"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "lKoLoNOZquo",
@@ -172,7 +180,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UGQc38lcp9a3CUaRg8Nyz-7XQpc",
+      "etag": "Mvb1IyEEiMkqnDp-XWVBc6Ia9S8",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -202,7 +210,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Di0-3GEOvtg"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "Di0-3GEOvtg",
@@ -214,7 +224,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PFza9dKkoU1lea8gNd-GG4l5EcU",
+      "etag": "9Dy7pjO-HNHJKDU-jzqUhPm4Zg0",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -244,7 +254,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "T8GND8Wx5sE"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "T8GND8Wx5sE",
@@ -256,7 +268,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "A2AUtstEyJMrxNdElehg7_mGklo",
+      "etag": "oTrqCZ6QnjoAgqwfv3FWOKWXuyk",
       "id": "UExVRDRrRC13TF96WWFKZENQcDhFNlZtRWlQdXg5bXNnXy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2016-08-22T18:16:57Z",
@@ -286,7 +298,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "C2881n2B5pA"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
       },
       "contentDetails": {
         "videoId": "C2881n2B5pA",

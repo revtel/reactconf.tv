@@ -14,6 +14,7 @@ describe('transformData', () => {
             id: 'PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh',
             title: 'React Conf 2019',
             thumbnail: 'https://i.ytimg.com/vi/QnZHO7QvjaM/mqdefault.jpg',
+            thumbnailStd: 'https://i.ytimg.com/vi/QnZHO7QvjaM/sddefault.jpg',
             totalCount: 27,
           },
         ],

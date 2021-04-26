@@ -1,4 +1,4 @@
-import React, {useMemo} from 'react';
+import React from 'react';
 import styled from 'styled-components';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
@@ -8,17 +8,16 @@ import BannerImage from '../components/BannerImage';
 import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import VideoItemList from '../components/VideoItemList';
-import TalkListPanel from '../components/TalkListPanel';
-import SelectChannelBtn from '../components/SelectChannelBtn';
-import groupConfByYear from '../utils/groupConfByYear';
-import getTop10Seminars, {getTop10Videos} from '../utils/getTrendingNow';
+import {getTop10Videos} from '../utils/getTrendingNow';
 import getNewReleases from '../utils/getNewReleaseVideos';
 import getMostViewed from '../utils/getMostViewed';
+import SelectChannelBtn from '../components/SelectChannelBtn';
+import groupConfByYear from '../utils/groupConfByYear';
+import SeminarDetail from '../components/SeminarDetail';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
-  const bottomPanelRef = React.useRef();
 
   const channels = app.actions.getAllChannelsData(props.pageContext);
   const seminarById = React.useMemo(() => {
@@ -75,10 +74,7 @@ function LandingPage(props) {
                   KEEP WATCHING
                 </Label>
               </Widgets.FlexRow>
-              <HistoryItemList
-                items={recentWatchedSeminars}
-                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-              />
+              <HistoryItemList items={recentWatchedSeminars} />
             </div>
           )}
 
@@ -140,23 +136,14 @@ function LandingPage(props) {
                     {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
-                <SeminarItemList
-                  items={seminarByYear.items}
-                  onItemClick={(seminar) =>
-                    bottomPanelRef.current.open(seminar)
-                  }
-                />
+                <SeminarItemList items={seminarByYear.items} />
               </div>
             );
           })}
         </div>
-      </Wrapper>
 
-      <TalkListPanel
-        getInstance={(inst) => {
-          bottomPanelRef.current = inst;
-        }}
-      />
+        <SeminarDetail />
+      </Wrapper>
 
       <SelectChannelBtn
         channels={channels}
@@ -176,7 +163,7 @@ const Label = styled.div`
 
 const Wrapper = styled.div`
   min-height: 100vh;
-  background-color: #181818;
+  background-color: #383838;
 
   & > .navbar {
     position: fixed;

@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "G-ydxEPoJBVg6fm6xONbvwmX8XU",
+  "etag": "msdm4zj4wa_6ldHP4DZOJrb2lkk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "mcWTIdYiYQG60iLLTWMUrRKpn14",
+      "etag": "w1x84zLn8yDiWshux7rTL_VVIiI",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-08-11T15:03:56Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
         "title": "The React Native Show Podcast Ep 1: \"Look into the future of React Native Testing Library\"",
-        "description": "Episode 1 - Look into the future of React Native Testing Library with Michał Pierzchała\n\nIn the first episode of our podcast, Mike \"grabbou\" Grabowski(the host) is talking about React Native Testing Library with his guest - Mike Pierzchała (thymikee) who is the owner of the library.\n\nDuring the conversation, they cover such topics as:\n\n* Introduction to the React Native Testing Library\nhttps://callstack.github.io/react-native-testing-library/\n* What is it? What is the case for it? A bit of history?\n* A quick glimpse at the “Testing Library” concept itself\n* Why it has been created? What is this all about?\n* “React Native Testing Library” is under Callstack and separate from the ecosystem – what is the story behind that?\n* What kind of technical differences is between RNTL and the ecosystem? And why so many?\n* The current state of the library\n* What is the future of the React Native Testing Library?\n\n#reactnative #callstack\n\nLearn more about React Native testing from our blog:\n1. React Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\n2. Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n3. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n4. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/",
+        "description": "Episode 1 - Look into the future of React Native Testing Library with Michał Pierzchała\n\nIn the first episode of our podcast, Mike \"grabbou\" Grabowski(the host) is talking about React Native Testing Library with his guest - Michał Pierzchała (@thymikee) who is the owner of the library.\n\nDuring the conversation, they cover such topics as:\n\n* Introduction to the React Native Testing Library\nhttps://callstack.github.io/react-native-testing-library/\n* What is it? What is the case for it? A bit of history?\n* A quick glimpse at the “Testing Library” concept itself\n* Why it has been created? What is this all about?\n* “React Native Testing Library” is under Callstack and separate from the ecosystem – what is the story behind that?\n* What kind of technical differences is between RNTL and the ecosystem? And why so many?\n* The current state of the library\n* What is the future of the React Native Testing Library?\n\n#reactnative #callstack\n\nLearn more about React Native testing from our blog:\n1. React Native Testing Library 2.0 – What’s New?\nhttps://callstack.com/blog/react-native-testing-library-2-0/\n\n2. Merge of React Native Testing Libraries\nhttps://callstack.com/blog/merge-of-react-native-testing-libraries/\n\n3. React Native Testing Library with Redux\nhttps://callstack.com/blog/react-native-testing-library-with-redux/\n\n4. From Enzyme to React Native Testing Library: How I Changed My Way of Unit Testing\nhttps://callstack.com/blog/unit-testing-from-enzyme-to-react-native-testing-library/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/4qU2KtZTho8/default.jpg",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4qU2KtZTho8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "4qU2KtZTho8",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "f3PBXdBLbiZ_9LK-Nff69cJWOFc",
+      "etag": "LS2WhyKbSQYc5OE_FhmGRJG4cMA",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-08-18T13:23:21Z",
@@ -91,7 +93,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KnD_v4gAWZU"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "KnD_v4gAWZU",
@@ -103,7 +107,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VdWRM3XqY-WsXDi8dX3m-XOsk1M",
+      "etag": "fiQPY558E-dJV4FPr4IFnLP3Bx8",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-08-18T13:59:58Z",
@@ -138,7 +142,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Gws05zqQwIw"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "Gws05zqQwIw",
@@ -150,7 +156,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6GOn2pePYgHXV48meea8_VpgUMo",
+      "etag": "pyRZQX39l7cUA43FZflcw3yT5S4",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-08-18T14:16:04Z",
@@ -185,7 +191,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0rvB5dI43lQ"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "0rvB5dI43lQ",
@@ -197,13 +205,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5ezgvFuqSHXCjZ1C3C_ov7rVMMA",
+      "etag": "oMXcEyWOv2qN4DgNyNYXD5kjvmU",
       "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-10-28T13:26:49Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
         "title": "The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\"",
-        "description": "Episode 2: RNEU 2020 Conference Q&A Panel\n\nIn episode 2 of The React Native Show podcast Mike Grabowski host a Q&A panel answering questions from React Native EU 2020 conference.\n\nThe guests include:\n- Monica Restrepo - Software Engineer at Major League Soccer\n- Kudo Chien - Software Engineer at CloudMosa\n- Eloy Duran - Principal Software Engineer at Microsoft\n- Ram N - an Engineering Manager at Oculus\n\nSome of the questions from the conversation:\n- What is the status of the React Native re-architecture?\n- What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where one can track updates on the re-architecture?\n- Can we expect a smooth transition path between current and “new” React Native ?\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- What is the feature that you’re most excited about that’s coming up?",
+        "description": "Episode 2: RNEU 2020 Conference Q&A Panel\n\n00:00 Introduction\n11:48 New Architecture\n23:37 Multiplatform\n44:40 General Development\n\nIn episode 2 of The React Native Show podcast Mike Grabowski host a Q&A panel answering questions from React Native EU 2020 conference.\n\nThe guests include:\n- Monica Restrepo - Software Engineer at Major League Soccer\n- Kudo Chien - Software Engineer at CloudMosa\n- Eloy Duran - Principal Software Engineer at Microsoft\n- Ram N - an Engineering Manager at Oculus\n\nSome of the questions from the conversation:\n- What is the status of the React Native re-architecture?\n- What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where one can track updates on the re-architecture?\n- Can we expect a smooth transition path between current and “new” React Native ?\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- What is the feature that you’re most excited about that’s coming up?",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/OHSe66Dhs7M/default.jpg",
@@ -237,7 +245,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OHSe66Dhs7M"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
         "videoId": "OHSe66Dhs7M",
@@ -246,10 +256,766 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6eSp941KML2kCXHc3L73WjpU7fQ",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-12-15T12:04:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast - Episode 3: \"Dive Into React Native Paper UI Kit\"",
+        "description": "Is UI kit good for your next mobile app? Well, React Native Paper definitely is!\n\nThis time, our host Mike Grabowski and his guest, Dawid Urbaniak, the lead engineer on React Native Paper, are talking about this popular UI library. \n\nHere is the agenda for this episode:\nIntroduction part:\n- introduction to React Native Paper\n- key features of React Native Paper \n- how is React Native Paper different from the other libraries such as Native Base or React Native Elements \n\nA dive into React Native Paper:\n- How did the React Native Paper team approach animations to make them truly native-looking?\n- What opportunities do you think Turbo Modules and Fabric will bring in terms of performance? Are they likely to make animations even smoother?\n- What are the details of the major upgrade to the library that include support for Material Design 2.0?\n- Designers often make their slight adjustments and create whole new components when working with Material Design. Is Paper an “all or nothing” UI library or can you easily adjust it and extend it to your own designs?\n- Can designers use some parts of Paper to create their own UI library?\n- What makes the React Native Paper so unique and popular?\n- Plans for the future of React Native Paper. \n\nSit back, relax and enjoy The React Native Show!\n\nDon’t forget to push the Subscribe button and share this video on your social media. More episodes are coming soon!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YmwW9khdocM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YmwW9khdocM"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "YmwW9khdocM",
+        "videoPublishedAt": "2020-12-15T12:12:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EjJkIpUlP6r1OuCSVXCrf1WrhfA",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-02-26T13:47:56Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What Is React Native Paper?",
+        "description": "What is React Native Paper and what makes this UI library so unique. In this short video from The React Native Show podcast, Dawid Urbaniak (@trensik), the lead engineer in the React Native Paper team explains some basic queries about this UI library. If you haven't heard about this library before, it's definitely worth watching!\n\nCheck more info about the full episode about React Native Paper:\nhttps://callstack.com/blog/the-react-native-show-podcast-episode-3-react-native-paper-ui-kit/\n\n#ReactNativePaper #ReactNative #ReactJS #JS​ #JavaScript​ #MobileDevelopment​ #Programming​ #SoftwareDevelopment #Developer #CodingLife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ex5TVcRxYGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ex5TVcRxYGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ex5TVcRxYGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ex5TVcRxYGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ex5TVcRxYGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ex5TVcRxYGU"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Ex5TVcRxYGU",
+        "videoPublishedAt": "2021-02-26T14:02:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mFY_loDzQ3uPSuy3qgReP7fpF48",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-02-26T14:41:34Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native Paper With Truly Native-looking Animations",
+        "description": "How did React Native Paper team approached animations and gestures to make them truly native-like? Check out this short video from The React Native Show podcast in which Dawid Urbaniak (@trensik), lead engineer in React Native Paper library, explains it. Enjoy!\n\n\n\nCheck more info about the full episode about React Native Paper:\nhttps://callstack.com/blog/the-react-native-show-podcast-episode-3-react-native-paper-ui-kit/\n\n\n#ReactNativePaper​ #ReactNative​ #ReactJS​ #JS​​ #JavaScript​​ #MobileDevelopment​​ #Programming​​ #SoftwareDevelopment​ #Developer​ #CodingLife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0bqpdaEsPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0bqpdaEsPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0bqpdaEsPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v0bqpdaEsPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v0bqpdaEsPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v0bqpdaEsPc"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "v0bqpdaEsPc",
+        "videoPublishedAt": "2021-02-26T14:43:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fZOAkX6iM5ixvpXMCqrbUTbKTWI",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-02-26T14:48:03Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Re-architecture of ReactNative In Terms Of Performance",
+        "description": "What are the opportunities of the upcoming re-architecture of React Native form the performance point of view? How Turbomodules and Fabric can make the developers' work more efficient? Check out what Dawid Urbaniak (@trensik), the lead engineer in the React Native Paper team, has to say about the upcoming re-architecture of React Native!\n\nCheck more info about the full episode about React Native Paper:\nhttps://callstack.com/blog/the-react-native-show-podcast-episode-3-react-native-paper-ui-kit/\n\n#ReactNativePaper​ #ReactNative​ #ReactJS​ #JS​​ #JavaScript​​ #MobileDevelopment​​ #Programming​​ #SoftwareDevelopment​ #Developer​ #CodingLife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wS8_pv9W4X0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wS8_pv9W4X0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wS8_pv9W4X0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wS8_pv9W4X0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wS8_pv9W4X0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wS8_pv9W4X0"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "wS8_pv9W4X0",
+        "videoPublishedAt": "2021-02-26T14:48:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CmjhpBGVntu9SdjbVbvgp2JPeJM",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-02-26T14:56:39Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native Paper Supports Material Design 2.0",
+        "description": "For React Native Paper to support Material Design 2.0, serious adjustments had to be made. We managed to migrate all React Native Paper components to comply with Material Design 2.0, which means that now you can build apps following its standards.\n\nIn this extract of The React Native Show, our expert, Dawid Urbaniak (@trensik), is sharing some details about the major changes that needed to be introduced as well as challenges that he faced in the process. \n\nCheck more info about the full episode about React Native Paper:\nhttps://callstack.com/blog/the-react-native-show-podcast-episode-3-react-native-paper-ui-kit/\n\n#ReactNativePaper​ #ReactNative​ #ReactJS​ #JS​​ #JavaScript​​ #MobileDevelopment​​ #Programming​​ #SoftwareDevelopment​ #Developer​ #CodingLife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VkyXmJTw8p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VkyXmJTw8p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VkyXmJTw8p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VkyXmJTw8p4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VkyXmJTw8p4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VkyXmJTw8p4"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "VkyXmJTw8p4",
+        "videoPublishedAt": "2021-02-26T14:56:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "deN-6KtfKC0--OMvoSD4CfP1VGE",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-03-12T14:28:43Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "New Architecture of React Native | React Native EU 2020 Conference Q&A Panel",
+        "description": "The React Native team announced a lot of changes to the core of React Native that address a lot of challenges that developers were facing when building apps. The changes include:\n\n- Turbo Modules - the new implementation of native modules created for better performance and synchronous access,\n- CodeGen - to ease the creation of native modules by synchronizing the typed definitions,\n- JSI - JavaScript Interface,\n- Fabric - UI re-architecture.\n\nIn this part of The React Native Show podcast, our host, Mike Grabowski, and his guests:\n\nMonica Restrepo – Software Engineer at Major League Soccer\nKudo Chien – Software Engineer at CloudMosa\nEloy Duran – Principal Software Engineer at Microsoft\nRam N – an Engineering Manager at Oculus\n\ndiscuss the details of the upcoming re-architecture of React Native.\n\nIn this video you’ll hear about:\n- What is the status of the re-architecture? What changes are already shipped and when do we expect to have an update on the rest of them?\n- Where can we track the updates on the re-architecture?\n- Can we expect a smooth transition path between the current and, let’s say, the “new” React Native?\n- One of the latest and greatest features that are currently running on Android in production is Hermes – a JS engine. What are the biggest differences from the V8 JavaScript engine and why was there a decision to essentially write something from the ground up?\n\nThis video is a part of The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\" \nWatch the full episode here: https://www.youtube.com/watch?v=OHSe66Dhs7M",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9GRfAAwFt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9GRfAAwFt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9GRfAAwFt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P9GRfAAwFt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P9GRfAAwFt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P9GRfAAwFt8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "P9GRfAAwFt8",
+        "videoPublishedAt": "2021-03-12T14:32:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ApLRypJ3kZqTzd7caMW51LYnZh8",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-03-12T14:33:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Multiplatform Aspect of React Native | React Native EU 2020 Conference Q&A Panel",
+        "description": "In this part of The React Native Show podcast dedicated to the multiplatform aspect of React Native, our host, Mike Grabowski, and his guests:\n\nMonica Restrepo – Software Engineer at Major League Soccer\nKudo Chien – Software Engineer at CloudMosa\nEloy Duran – Principal Software Engineer at Microsoft\nRam N – an Engineering Manager at Oculus\n\nare talking about the future of React Native and its general direction.\n\nYou’ll hear about:\n\n- What opportunities do our guests envision when it comes to sharing code between mobile & web (traditional React and React Native targets) and desktop environments?\n- What I really like about React Native is the separation of concerns and that there’s a clear concept of a renderer that one can use to take React to a whole new platform. Do you think it could – potentially – be an interesting achievement for the Flutter community that would make React Native a viable choice for them?\n- How does Microsoft plan to implement the features from the re-architecture, such as CodeGen, when they land? Is this something you’re already thinking about?\n\nThis video is a part of The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\" \nWatch the full episode here: https://www.youtube.com/watch?v=OHSe66Dhs7M",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vbKIc6j_58U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vbKIc6j_58U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vbKIc6j_58U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vbKIc6j_58U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vbKIc6j_58U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vbKIc6j_58U"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "vbKIc6j_58U",
+        "videoPublishedAt": "2021-03-12T14:37:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "poC-jcICH0wvChgfPg1OP3UjmbQ",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-03-12T14:37:23Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native - Best Practices | React Native EU 2020 Conference Q&A Panel",
+        "description": "In this part of The react Native Show podcast dedicated to the general development of React Native, our host, Mike Grabowski, and his guests:\n\nMonica Restrepo – Software Engineer at Major League Soccer\nKudo Chien – Software Engineer at CloudMosa\nEloy Duran – Principal Software Engineer at Microsoft\nRam N – an Engineering Manager at Oculus\n\nare answering questions related to the best practices and challenges that developers are facing in their daily work.\n\nQuestions list:\n- What was the biggest (and latest) performance challenge that you have faced at your job and how did you solve it? What were the takeaways from the solution?\n- React Native is being widely used by companies that already have a native mobile application to share certain pieces of the UI across platforms or to eventually migrate to it, by replacing screen after screen on a production application. What kind of challenges do you see in that area these days and what would you advise someone who is looking into migrating a native application?\n- What is your typical workflow when working on a new app? Do you rather build something your own using low-level primitives or you pull in community libraries, such as react-native-paper?\n\nThis video is a part of The React Native Show Podcast Ep 2: \"React Native EU 2020 Conference Q&A Panel\" \nWatch the full episode here: https://www.youtube.com/watch?v=OHSe66Dhs7M",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uP5fscYyKAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uP5fscYyKAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uP5fscYyKAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uP5fscYyKAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uP5fscYyKAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uP5fscYyKAE"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "uP5fscYyKAE",
+        "videoPublishedAt": "2021-03-12T14:40:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kj9blQEWBs-W6mhlsgNsLfB89p4",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-03-31T10:12:07Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"",
+        "description": "In this episode of The React Native Show podcast our host, Mike Grabowski, and his guests:\nSatya Sahoo and Mateusz Kosoń, software engineers at Callstack, are talking about the React Navigation library. \n\nDuring the conversation, they cover a wide range of topics related to the React Navigation library, including:\n\n- What is React Navigation library and what’s its biggest selling point?\n- What was the idea behind creating the React Navigation library? \n- How did it happen that React Navigation became a “recommended” library in the community?\n- What’s coming up with the React Navigation v5?\n- What issues does React Navigation v5 solve?\n- What do our guests appreciate most about React Navigation v5?\n\nAlso, our guests gave us some sneak peaks at what’s coming up with the upcoming React Navigation v6.0!\n\nSit back, relax and enjoy The React Native Show!\n\nDon’t forget to push the Subscribe button and share this video on your social media. More episodes are coming soon!\n\n00:00 Introduction\n1:50 Intro to React Navigation\n12:43 Changes in React Navigation v5\n18:30 Issues solved by React Navigation v5\n27:17 Practicalities of React Navigation v5\n34:34 React Navigation v6 sneak peak\n\n#ReactNavigation #ReactNative #ReactJS #JavaScript #softwaredevelopment #programming #Callstack #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2uZe6AkZOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2uZe6AkZOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2uZe6AkZOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2uZe6AkZOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2uZe6AkZOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S2uZe6AkZOM"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "S2uZe6AkZOM",
+        "videoPublishedAt": "2021-03-31T10:21:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BVBrl6yA_FjH_CU66wwuX-HIP_w",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-04-09T15:05:00Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What is React Navigation library?",
+        "description": "In this video Mike Grabowski (@grabbou), Satya Sahoo (@satya164), and Mateusz Kosoń (@_matkoson) are explaining what is React Navigation library, what is the main selling point of the library and what was the idea behind creating it. \nhttps://github.com/react-navigation\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"\nhttps://www.youtube.com/watch?v=S2uZe6AkZOM&list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg&index=15\n\nLearn more about react Navigation on our blog:\n1. Custom screen transitions in React Navigation\nhttps://callstack.com/blog/custom-screen-transitions-in-react-navigation/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n2. Challenges and opportunities of Building React and React Native Apps – Discussion with Wix.com\nhttps://callstack.com/blog/challenges-and-opportunities-of-building-react-and-react-native-apps/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n#ReactNavigation​ #ReactNative​ #ReactJS​ #JavaScript​ #softwaredevelopment​ #programming​ #Callstack​ #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lpe2TRQoAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lpe2TRQoAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lpe2TRQoAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1lpe2TRQoAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1lpe2TRQoAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1lpe2TRQoAw"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "1lpe2TRQoAw",
+        "videoPublishedAt": "2021-04-09T15:07:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cx-5TNzElBWUwKTgl9879dRWgdA",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-04-09T15:11:19Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Changes in React Navigation 5",
+        "description": "In this video Mike Grabowski (@grabbou), Satya Sahoo (@satya164), and Mateusz Kosoń (@_matkoson) are discussing what has been changed in React Navigation 5 compared to React Navigation 4. \nhttps://github.com/react-navigation\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"\nhttps://www.youtube.com/watch?v=S2uZe6AkZOM&list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg&index=15\n\nLearn more about react Navigation on our blog:\n\n1. Custom screen transitions in React Navigation\nhttps://callstack.com/blog/custom-screen-transitions-in-react-navigation/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n2. Challenges and opportunities of Building React and React Native Apps – Discussion with Wix.com\nhttps://callstack.com/blog/challenges-and-opportunities-of-building-react-and-react-native-apps/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n#ReactNavigation​ #ReactNative​ #ReactJS​ #JavaScript​ #softwaredevelopment​ #programming​ #Callstack​ #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7WAnw3ptfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7WAnw3ptfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7WAnw3ptfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7WAnw3ptfk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h7WAnw3ptfk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h7WAnw3ptfk"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "h7WAnw3ptfk",
+        "videoPublishedAt": "2021-04-09T15:15:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oDmx1pyGvorBJJEa6nHjXvVBNaE",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-04-09T15:25:43Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What issues can React Navigation 5 solve?",
+        "description": "In this video Mike Grabowski (@grabbou), Satya Sahoo (@satya164), and Mateusz Kosoń (@_matkoson) are giving details about what issues has been solved by React Navigation 5 compared to the previous versions of the library. \nhttps://github.com/react-navigation\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"\nhttps://www.youtube.com/watch?v=S2uZe6AkZOM&list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg&index=15\n\nLearn more about react Navigation on our blog:\n\n1. Custom screen transitions in React Navigation\nhttps://callstack.com/blog/custom-screen-transitions-in-react-navigation/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n2. Challenges and opportunities of Building React and React Native Apps – Discussion with Wix.com\nhttps://callstack.com/blog/challenges-and-opportunities-of-building-react-and-react-native-apps/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n#ReactNavigation​ #ReactNative​ #ReactJS​ #JavaScript​ #softwaredevelopment​ #programming​ #Callstack​ #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzCbwD11P0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzCbwD11P0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzCbwD11P0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qzCbwD11P0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qzCbwD11P0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qzCbwD11P0Y"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "qzCbwD11P0Y",
+        "videoPublishedAt": "2021-04-09T15:30:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5uunUDFrCGRwYI1uUAvTS_5MAmI",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:00:05Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Practicalities of React Navigation 5",
+        "description": "In this video Mike Grabowski (@grabbou), Satya Sahoo (@satya164), and Mateusz Kosoń (@_matkoson) are talking about the practicalities of React Navigation 5 and benefits of using the 5th version of the library. \nhttps://github.com/react-navigation\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"\nhttps://www.youtube.com/watch?v=S2uZe6AkZOM&list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg&index=15\n\nLearn more about react Navigation on our blog:\n\n1. Custom screen transitions in React Navigation\nhttps://callstack.com/blog/custom-screen-transitions-in-react-navigation/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n2. Challenges and opportunities of Building React and React Native Apps – Discussion with Wix.com\nhttps://callstack.com/blog/challenges-and-opportunities-of-building-react-and-react-native-apps/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n#ReactNavigation​ #ReactNative​ #ReactJS​ #JavaScript​ #softwaredevelopment​ #programming​ #Callstack​ #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tt-SovW3oDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tt-SovW3oDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tt-SovW3oDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tt-SovW3oDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tt-SovW3oDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tt-SovW3oDA"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Tt-SovW3oDA",
+        "videoPublishedAt": "2021-04-09T16:00:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "65HCclmB8hyvt7O9n_zqhb55I3Y",
+      "id": "UExaM013RC1zb1RUSExVb25zZklPVWJtQWwzQjczRUdYZy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:06:13Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What’s coming up with React Navigation 6?",
+        "description": "In this video Mike Grabowski (@grabbou), Satya Sahoo (@satya164), and Mateusz Kosoń (@_matkoson) are giving some interesting sneak peeks at what’s coming up with the upcoming React Navigation v6.0.\nhttps://github.com/react-navigation\n\nThis video snippet is taken from The React Native Show Podcast. You can watch the whole episode here:\nThe React Native Show Podcast - Episode 4: \"Expert Guide to React Navigation\"\nhttps://www.youtube.com/watch?v=S2uZe6AkZOM&list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg&index=15\n\nLearn more about React Navigation on our blog:\n\n1. Custom screen transitions in React Navigation\nhttps://callstack.com/blog/custom-screen-transitions-in-react-navigation/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n2. Challenges and opportunities of Building React and React Native Apps – Discussion with Wix.com\nhttps://callstack.com/blog/challenges-and-opportunities-of-building-react-and-react-native-apps/?utm_campaign=React_Navigation&utm_source=youtube&utm_medium=social&utm_content=navigation_podcast_short\n\n#ReactNavigation​ #ReactNative​ #JavaScript​ #ReactJS​ #softwaredevelopment​ #programming​ #Callstack​ #TheReactNativeShow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ei3HGLQB6y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ei3HGLQB6y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ei3HGLQB6y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ei3HGLQB6y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ei3HGLQB6y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ei3HGLQB6y8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "ei3HGLQB6y8",
+        "videoPublishedAt": "2021-04-09T16:06:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 5,
+    "totalResults": 19,
     "resultsPerPage": 50
   }
 }

@@ -1,18 +1,18 @@
 import React from 'react';
 import styled from 'styled-components';
-import * as AppContext from '../AppContext';
-import {LoaderAlt} from '@styled-icons/boxicons-regular';
+import {useRevent} from 'revent-lib';
 
 function ActivityIndicator(props) {
-  const app = React.useContext(AppContext.Context);
-  const visible = app.state.loading;
+  const [visible] = useRevent('spinner');
 
   return (
     <>
       <Wrapper visible={visible}>
-        <div className="spinner">
-          <LoaderAlt size={32} color="#4f77e2" />
-        </div>
+        <img
+          className="spinner"
+          src="/images/react-icon.png"
+          alt="react-icon"
+        />
       </Wrapper>
 
       <Backdrop visible={visible} />
@@ -59,6 +59,7 @@ const Wrapper = styled(CoverAll)`
     transition: 200ms;
     opacity: ${(props) => (props.visible ? 1 : 0)};
     animation: infinite-spinning 1.2s infinite;
+    object-fit: contain;
   }
 `;
 

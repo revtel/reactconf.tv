@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "zRzoja0_s5AUeoNjjr0tp9v0jJc",
+  "etag": "LEES7eEry762iG2YxeYw76un1TI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "coWI5ayStBymmvat61HmyvqSYVQ",
+      "etag": "RUS1TsaFMjm_RhX4UfSZZIymuyg",
       "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-03-23T11:12:36Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nkJbGgieALI"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "nkJbGgieALI",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NVdS7Mly6fy_5qxK4zkjmhYL4pI",
+      "etag": "rudjtKdGf-rA2tUijVHUw8AgNEc",
       "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-03-23T11:12:22Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UwCLmHQOWoY"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "UwCLmHQOWoY",
@@ -108,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FVvefIuZDl1Oy90e6fVxYzWpwpI",
+      "etag": "omRj1NmpkpKUVINEUggd8OpA2dE",
       "id": "UExOQk5TN05SR0tNRlJCNW83bm9kOXIxSUs4LUI1WWhNYy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-03-23T11:12:48Z",
@@ -148,7 +152,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zQfD4ZxxyKA"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "zQfD4ZxxyKA",

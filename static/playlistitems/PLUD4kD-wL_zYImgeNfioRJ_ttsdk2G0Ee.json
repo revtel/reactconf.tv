@@ -1,0 +1,353 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "kNzkRvDWWFdXihKM2VKsG3krIZc",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SUm4FWiAoTHySIR53B0h0E7mhqM",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Maggie Appleton - The Cultural Anthropology of React",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8snrXgzM1bM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8snrXgzM1bM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8snrXgzM1bM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8snrXgzM1bM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8snrXgzM1bM"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "8snrXgzM1bM",
+        "videoPublishedAt": "2021-03-31T18:28:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vvLlVmG22kHK1wWGh7FXyhNNjcI",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Shawn Wang - Growing a Meta-Language",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dz4q_bNDqfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dz4q_bNDqfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dz4q_bNDqfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dz4q_bNDqfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dz4q_bNDqfo"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "Dz4q_bNDqfo",
+        "videoPublishedAt": "2021-03-31T18:41:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rqUt9Y3mwYl3rlIsIrAh00NBB2c",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Monica Powell - Keeping Static Site Rendering Cool with React Hydration",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jsKQvmuOoZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jsKQvmuOoZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jsKQvmuOoZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jsKQvmuOoZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jsKQvmuOoZg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "jsKQvmuOoZg",
+        "videoPublishedAt": "2021-03-31T18:27:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RcRDwLObufDmWumHQRhWtL-VeTY",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Angie Jones - Your Tests Lack Vision: Adding Eyes to Your Automation Framework",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VBIPas-LyCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VBIPas-LyCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VBIPas-LyCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VBIPas-LyCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VBIPas-LyCo"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "VBIPas-LyCo",
+        "videoPublishedAt": "2021-03-31T18:26:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kVPC_mKWdX4Yj10-TwAKNvVnX3M",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Kent Dodds - Managing State Management",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZguCD2Flx14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZguCD2Flx14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZguCD2Flx14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZguCD2Flx14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZguCD2Flx14"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "ZguCD2Flx14",
+        "videoPublishedAt": "2021-03-31T18:26:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_rIUap94H2LPqLYj9rXK0aW58qA",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Jem Young - Why Interviewing is Terrible",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/28JJYVNzlP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/28JJYVNzlP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/28JJYVNzlP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/28JJYVNzlP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "28JJYVNzlP4"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "28JJYVNzlP4",
+        "videoPublishedAt": "2021-03-31T18:25:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v5LUDHejYnTYMZjsq73ROEnf8oo",
+      "id": "UExVRDRrRC13TF96WUltZ2VOZmlvUkpfdHRzZGsyRzBFZS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-03-31T18:41:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Justin Samuels - Rebuild Black Business - Why we can’t wait",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dwPT84JOiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dwPT84JOiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dwPT84JOiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0dwPT84JOiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zYImgeNfioRJ_ttsdk2G0Ee",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0dwPT84JOiM"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "0dwPT84JOiM",
+        "videoPublishedAt": "2021-03-31T18:25:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  }
+}

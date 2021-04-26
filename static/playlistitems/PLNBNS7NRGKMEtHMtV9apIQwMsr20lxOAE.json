@@ -1,0 +1,766 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tllzOP-RPU3fVe88VQXX3c092K0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UDOkDUueYf_cZW_hPcPNMglQg8Q",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-04-15T09:01:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel Discussion: Get to Know: Web Performance and Core Web Vitals, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nPanel Discussion: Get to Know: Web Performance and Core Web Vitals\n\nModerator - Tamas Piros, Developer Evangelist, Cloudinary\nPanelists:\nEric Portis, Web Platform Advocate, Cloudinary\nCassidy Williams, Principal Developer Experience Engineer, Netlify",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kj4hJ4382u0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kj4hJ4382u0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Kj4hJ4382u0",
+        "videoPublishedAt": "2021-04-15T09:01:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OoidqCi4DLOY28KJsBL7hN86Zww",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-04-15T09:02:47Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel Discussion: The Modern Way of Making Websites in React – React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nTalk: Panel Discussion: The Modern Way of Making Websites in React\n\nModerator - Alex Trost \nPanelists: \nSadek Drobi\nErin Fox\nJames Q Quick\nNader Dabit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iL_KjnHIc0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iL_KjnHIc0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iL_KjnHIc0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iL_KjnHIc0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iL_KjnHIc0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iL_KjnHIc0o"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "iL_KjnHIc0o",
+        "videoPublishedAt": "2021-04-15T09:02:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fj5uPQirPqZkwE7OENB-IkP3H3M",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-04-17T18:17:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Panel Discussion: The Leland Prediction – React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nTalk: Panel Discussion: The Leland Prediction\n\nModerator - Andrei Calazans\nPanelists: \nTejas Kumar\nAriene Maiara\nAnurag Hazra",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TsAJfiuVvu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TsAJfiuVvu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsAJfiuVvu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TsAJfiuVvu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TsAJfiuVvu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TsAJfiuVvu8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "TsAJfiuVvu8",
+        "videoPublishedAt": "2021-04-17T18:18:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oy_XgO_M9qUh4d2HZkcChYs6bzk",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-04-19T07:51:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Streamlining the Component Creation Process– Alex Trost, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Streamlining the Component Creation Process\n\nReact helped popularize the use of components to develop websites and apps. It’s a fantastic philosophy, but while components have made our websites better, the workflow for creating components hasn’t improved much. Let’s get rid of the tedious parts like wiring your components to your CMS, and let developers focus on the important parts. With Prismic Slice Machine, we’re giving developers the best workflow for creating components. In only a few minutes we’ll create a React component, wire it to our CMS, add it to Storybook, and push the component live on our site!\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SydkgJVC0lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SydkgJVC0lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SydkgJVC0lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SydkgJVC0lE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SydkgJVC0lE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SydkgJVC0lE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "SydkgJVC0lE",
+        "videoPublishedAt": "2021-04-19T07:51:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S2aF-t_oc-_D_Qb_j5kvxn_OvHE",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-04-19T07:56:05Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Remember CSS Sprites? Let's Do That with Video! – Matt McClure, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Remember CSS Sprites? Let's Do That with Video!\n\nSynchronizing multiple streams, particularly multiple live streams, and especially when the audio is critical too, can be incredibly difficult. How, then, could you build an experience where you have a few camera angles and you want a viewer to be able to seamlessly pick one? We'll walk through a hack technique that allows you to do just that without ever having to worry about synchronization.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JgnUTQ76Mq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JgnUTQ76Mq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JgnUTQ76Mq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JgnUTQ76Mq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JgnUTQ76Mq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JgnUTQ76Mq8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "JgnUTQ76Mq8",
+        "videoPublishedAt": "2021-04-19T12:00:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5DXfCszQJHQ4BOn9NOGKxRn32sQ",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:01:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "By the Power of Headless! – Samuel Snopko, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: By the Power of Headless!\n\nFabulous secret powers were revealed to me the day I discovered Jamstack and said \"By the power of Headless, I have the power!\"\nFind out the key features of any CMS and why the headless is the new buzzword, which everybody wants to use. I will take you on the journey through the land of headless CMS and show you why you should consider headless CMS for your next project.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXpqFjXOuno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXpqFjXOuno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXpqFjXOuno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXpqFjXOuno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXpqFjXOuno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yXpqFjXOuno"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "yXpqFjXOuno",
+        "videoPublishedAt": "2021-04-20T07:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MSEHqo7dgAg_dYxvxC6Gy5Y8cuM",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:09:17Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Keeping It Simple – Mathias Biilman, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Keeping It Simple\n\nNetlify CEO and co-founder Matt Biilmann reflects on the history of React, the promises of the Jamstack, and the complexity that can creep into developer workflows if we don't continue to defend simplicity over time. In this lightning talk, Matt describes the trade-offs developers face to deliver large sites and introduces a new idea for a more scalable future solution.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-ZWytPX1fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-ZWytPX1fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-ZWytPX1fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p-ZWytPX1fo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p-ZWytPX1fo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p-ZWytPX1fo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "p-ZWytPX1fo",
+        "videoPublishedAt": "2021-04-20T12:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "79KnHKZmViPP5BgGXj62rS0ryrA",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:20:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Scaling React Development with Nx – Juri Strumpflohner, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Scaling React Development with Nx\n\nWe often talk and hear about scaling in production, but we rarely talk about scaling development. Aspects like structuring and organizing your codebase, code sharing across teams, speeding up build and test runs can play a huge role in terms of productivity for a developer team. Those aspects impact small teams but get even more evident as your team grows and especially for large enterprises. \nIn this talk, I will show you how to avoid a monolithic codebase, how to modularize your React app and how that might even help you speed up your CI builds: thus help you scale development as your team grows. We'll be doing this in a very concrete and practical way, using Nx as our toolkit.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pER_Ak1yUaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pER_Ak1yUaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pER_Ak1yUaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pER_Ak1yUaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pER_Ak1yUaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pER_Ak1yUaA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "pER_Ak1yUaA",
+        "videoPublishedAt": "2021-04-21T07:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3MpYwqHfdNAn5J8lNtf4Rw0hPDU",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:26:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Remote Rendering with Web Workers – Trish Ta, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk:  Remote Rendering with Web Workers\n\nLearn how we built Argo, a powerful extensibility framework that allows developers to seamlessly extend Shopify's apps on every platform. Argo provides developers with APIs to execute behaviour on the main app and a component library that renders native UI identical to Shopify's own component whether it's on iOS, Android or Web. Behind the scenes, Argo uses web workers and an open sourced library called remote-ui to create a sandboxed execution environment for external scripts.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I4ftfY7x3EQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I4ftfY7x3EQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4ftfY7x3EQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I4ftfY7x3EQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I4ftfY7x3EQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I4ftfY7x3EQ"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "I4ftfY7x3EQ",
+        "videoPublishedAt": "2021-04-21T12:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OM4WCuB9VsxvX6Y3SvrZRNWD13M",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:32:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "API-first Development with Headless WordPress – Matt Landers, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: API-first Development with Headless WordPress\n\nWhen the burden of rendering is removed from WordPress, it becomes an open source API platform. With a few plugins like WPGraphQL, you can create an extensible backend for your React apps to consume which enables modern architectures and development practices in WordPress.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zYRyEI0t5SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zYRyEI0t5SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zYRyEI0t5SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zYRyEI0t5SI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zYRyEI0t5SI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zYRyEI0t5SI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "zYRyEI0t5SI",
+        "videoPublishedAt": "2021-04-22T07:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h3-DJonvMgYzzUwKcYbZ9yNJZR4",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:39:52Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Complex React Migration – Jason Santos, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Complex React Migration: New Solutions to Old Codebase Problems\n\nIn 2020, Rangle partnered with the Survey Monkey team to migrate a legacy codebase to React. Survey Monkey’s best-in-class digital products were being held back by fragmentation and complexity, which created a lot of rework and wasted effort for their engineering teams. Working together, we implemented a number of process and architecture changes that cut the complexity and improved workflows, letting our blended team deliver results with speed and consistently, even early in the engagement. These were not one-size-fits-all solutions, but solves that were unique and fitted to the needs of the engineering and product teams. The success of the project was due to Survey Monkey’s motivated teams that were: 1) Ready to embrace change; 2) Able to keep a firm focus on the outcomes; and 3) Readily understood the complexity of the project.\nThis allowed us to co-create some non-intuitive solutions that engineers at similar enterprise-level companies should know about.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bkMQrl4T5P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bkMQrl4T5P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bkMQrl4T5P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bkMQrl4T5P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bkMQrl4T5P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bkMQrl4T5P4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "bkMQrl4T5P4",
+        "videoPublishedAt": "2021-04-20T13:06:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oiX0JnPfxdzGuv-IOx3l-1v5MvY",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:48:27Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using Rollbar in React - Jeff Hoffer, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zEMJ0PqgAbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zEMJ0PqgAbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zEMJ0PqgAbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zEMJ0PqgAbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zEMJ0PqgAbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zEMJ0PqgAbM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "zEMJ0PqgAbM",
+        "videoPublishedAt": "2021-04-23T07:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tkBOEnPoFm15G0dq6YibCx2RUZA",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:51:48Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Understand your Data with InfluxDB Cloud – Kristina J. Robinson, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Understand and Visualize your Data with InfluxDB Cloud\n\nLearn how you as a developer can use our InfluxDB Cloud web interface to ingest, explore, analyze, and understand your data. We'll highlight new capabilities and show you some tips and tricks to get the most out of the InfluxDB Cloud Platform.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PTARA103bxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PTARA103bxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PTARA103bxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PTARA103bxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PTARA103bxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PTARA103bxY"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "PTARA103bxY",
+        "videoPublishedAt": "2021-04-23T12:00:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E4dl4KBnYas1FTxJcGpdX7IvlJ4",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-04-19T08:55:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Sharing a Codebase with React & React Native – Oli Bates, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: Sharing a Codebase with React & React Native: The Holy Grail?\n\nWhen we started building the Cleo app, we noticed that a lot of functionality, design, and types were shared between web (React) & mobile (React Native). We investigated whether these could be shared within the codebase too… join me to find out what we discovered.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mDKF9C3vFiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mDKF9C3vFiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDKF9C3vFiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mDKF9C3vFiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mDKF9C3vFiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mDKF9C3vFiw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "mDKF9C3vFiw",
+        "videoPublishedAt": "2021-04-26T07:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 14,
+    "resultsPerPage": 50
+  }
+}

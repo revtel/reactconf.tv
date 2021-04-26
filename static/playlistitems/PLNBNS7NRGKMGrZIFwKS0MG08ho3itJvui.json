@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "4fX5fob6abijchQut_7aTgaHmSE",
+  "etag": "HjSJVRJJoSTljbsa_6WReCs9J5Y",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "8olIvmQoXVKOapj8vk9EsdQgGWQ",
+      "etag": "hIVhAqdQTBY2saODB-AxORrGuBc",
       "id": "UExOQk5TN05SR0tNR3JaSUZ3S1MwTUcwOGhvM2l0SnZ1aS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-03-01T07:46:34Z",
@@ -44,7 +44,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eTcyOCd6v1c"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "eTcyOCd6v1c",
@@ -56,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OsAS3UEoSESlC4q47x_xlGNIGqI",
+      "etag": "i_zCqhO8YYeaKJp0aKUIrYHuR4E",
       "id": "UExOQk5TN05SR0tNR3JaSUZ3S1MwTUcwOGhvM2l0SnZ1aS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-03-23T14:04:58Z",
@@ -96,7 +98,9 @@
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8uNxPZgYPGA"
-        }
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
         "videoId": "8uNxPZgYPGA",

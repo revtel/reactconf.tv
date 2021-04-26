@@ -17,7 +17,7 @@ const ProgressWrapper = styled.div`
   height: 3px;
   display: flex;
   align-items: stretch;
-  background-color: #4f77e2;
+  background-color: red;
 
   & > .watched {
     flex: ${(props) => props.percentage};
