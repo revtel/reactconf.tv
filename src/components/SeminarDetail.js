@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import {navigate} from 'gatsby';
 import {useRevent} from 'revent-lib';
 import * as AppContext from '../AppContext';
+import TalkItem from '../components/TalkItem';
 
 const TranState = {
   NONE: 0,
@@ -24,7 +24,6 @@ function SeminarDetail(props) {
     async function animIn() {
       if (src) {
         const {rect, item} = src;
-        console.log('debug', item);
         const padding = 20;
         const destWidth =
           (window.innerWidth > window.innerHeight
@@ -61,9 +60,9 @@ function SeminarDetail(props) {
 
   async function animOut() {
     setShowDetail(false);
-    await delay(300);
+    await delay(500);
     setTranState(TranState.SRC);
-    await delay(100);
+    await delay(300);
     setTranState(TranState.NONE);
     setConfDetail(null);
   }
@@ -96,14 +95,13 @@ function SeminarDetail(props) {
           <div className="conf-detail">
             <h2>{conf.title}</h2>
             {(confDetail?.items || []).map((talk, idx) => (
-              <div
+              <TalkItem
                 key={idx}
-                style={{marginBottom: 20}}
-                onClick={() => {
-                  navigate(`/player?conf=${conf.id}&idx=${idx}`);
-                }}>
-                {JSON.stringify(talk)}
-              </div>
+                confId={conf.id}
+                idx={idx}
+                talk={talk}
+                showThumbnail={false}
+              />
             ))}
           </div>
         )}
@@ -145,7 +143,7 @@ const Wrapper = styled.div`
     width: ${(props) => props.displayInfo.width}px;
 
     & > .conf-detail {
-      background-color: #666;
+      background-color: #888;
       color: white;
       padding: 0 20px;
       visibility: ${(props) => (props.showDetail ? 'visible' : 'none')};
@@ -153,6 +151,10 @@ const Wrapper = styled.div`
       opacity: ${(props) => (props.showDetail ? 1 : 0)};
       transition: 500ms;
       overflow: hidden;
+
+      & > .talk-item {
+        margin-bottom: 20px;
+      }
     }
   }
 `;

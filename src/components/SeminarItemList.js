@@ -7,7 +7,7 @@ import {ScrollBarCss} from './Widgets';
 import {useRevent} from 'revent-lib';
 
 function SeminarItemList(props) {
-  const {items, onItemClick} = props;
+  const {items} = props;
   const {dimension} = useDimension();
   const [showScrollBar, setShowScrollBar] = React.useState(false);
   const [_, setSrc] = useRevent('src');

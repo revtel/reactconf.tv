@@ -1,5 +1,4 @@
 import React from 'react';
-import {navigate} from 'gatsby';
 import styled from 'styled-components';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
@@ -8,7 +7,6 @@ import NavBar from '../components/NavBar';
 import BannerImage from '../components/BannerImage';
 import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
-import TalkListPanel from '../components/TalkListPanel';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import SeminarDetail from '../components/SeminarDetail';
@@ -16,7 +14,6 @@ import SeminarDetail from '../components/SeminarDetail';
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
-  const bottomPanelRef = React.useRef();
   const channels = app.actions.getAllChannelsData(props.pageContext);
   const seminarById = React.useMemo(() => {
     const resultMap = {};
@@ -65,10 +62,7 @@ function LandingPage(props) {
                   KEEP WATCHING
                 </YearLabel>
               </Widgets.FlexRow>
-              <HistoryItemList
-                items={recentWatchedSeminars}
-                onItemClick={(seminar) => bottomPanelRef.current.open(seminar)}
-              />
+              <HistoryItemList items={recentWatchedSeminars} />
             </div>
           )}
 
@@ -87,15 +81,7 @@ function LandingPage(props) {
                     {seminarByYear.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
-                <SeminarItemList
-                  items={seminarByYear.items}
-                  onItemClick={(seminar) =>
-                    bottomPanelRef.current.open(seminar)
-                  }
-                  onWatchClick={(seminar) => {
-                    navigate(`/player?conf=${seminar.id}`);
-                  }}
-                />
+                <SeminarItemList items={seminarByYear.items} />
               </div>
             );
           })}
@@ -103,12 +89,6 @@ function LandingPage(props) {
 
         <SeminarDetail />
       </Wrapper>
-
-      <TalkListPanel
-        getInstance={(inst) => {
-          bottomPanelRef.current = inst;
-        }}
-      />
 
       <SelectChannelBtn
         channels={channels}

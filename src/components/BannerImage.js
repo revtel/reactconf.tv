@@ -1,13 +1,14 @@
 import React from 'react';
 import {useStaticQuery, graphql} from 'gatsby';
+import styled from 'styled-components';
 import Img from 'gatsby-image';
 
 function BannerImage(props) {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: {eq: "banner.png"}) {
+      placeholderImage: file(relativePath: {eq: "react-icon.png"}) {
         childImageSharp {
-          fluid(maxWidth: 1600) {
+          fluid(maxWidth: 668) {
             ...GatsbyImageSharpFluid
           }
         }
@@ -20,11 +21,33 @@ function BannerImage(props) {
   }
 
   return (
-    <Img
-      fluid={data.placeholderImage.childImageSharp.fluid}
-      style={{objectFit: 'cover', width: '100%', maxHeight: 668}}
-    />
+    <Wrapper>
+      <Img
+        fluid={data.placeholderImage.childImageSharp.fluid}
+        imgStyle={{
+          objectFit: 'contain',
+          width: '100%',
+          maxHeight: 668,
+          animation: 'infinite-spinning 7.2s infinite',
+        }}
+        style={{maxHeight: 668}}
+      />
+    </Wrapper>
   );
 }
+
+const Wrapper = styled.div`
+  @keyframes infinite-spinning {
+    0% {
+      transform: rotate(0deg) scale(1);
+    }
+    50% {
+      transform: rotate(180deg) scale(1.33);
+    }
+    100% {
+      transform: rotate(360deg) scale(1);
+    }
+  }
+`;
 
 export default BannerImage;
