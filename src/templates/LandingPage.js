@@ -7,6 +7,10 @@ import NavBar from '../components/NavBar';
 import BannerImage from '../components/BannerImage';
 import SeminarItemList from '../components/SeminarItemList';
 import HistoryItemList from '../components/HistoryItemList';
+import VideoItemList from '../components/VideoItemList';
+import {getTop10Videos} from '../utils/getTrendingNow';
+import getNewReleases from '../utils/getNewReleaseVideos';
+import getMostViewed from '../utils/getMostViewed';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import SeminarDetail from '../components/SeminarDetail';
@@ -14,6 +18,7 @@ import SeminarDetail from '../components/SeminarDetail';
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
+
   const channels = app.actions.getAllChannelsData(props.pageContext);
   const seminarById = React.useMemo(() => {
     const resultMap = {};
@@ -30,6 +35,7 @@ function LandingPage(props) {
   }, [selectedChannel, app.actions]);
 
   const historyCache = app.watchHistoryCache || {};
+
   const recentWatchedSeminars = Object.keys(historyCache)
     .map((k) => ({
       seminar: seminarById[k],
@@ -40,6 +46,12 @@ function LandingPage(props) {
   const seminarListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : channels,
   );
+
+  const classicVideos = getMostViewed();
+
+  const top10Videos = getTop10Videos();
+
+  const newReleaseVideos = getNewReleases();
 
   return (
     <>
@@ -58,11 +70,54 @@ function LandingPage(props) {
           {recentWatchedSeminars.length > 0 && !selectedChannel && (
             <div className="recent-watched">
               <Widgets.FlexRow>
-                <YearLabel style={{marginLeft: 30, marginRight: 10}}>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
                   KEEP WATCHING
-                </YearLabel>
+                </Label>
               </Widgets.FlexRow>
               <HistoryItemList items={recentWatchedSeminars} />
+            </div>
+          )}
+
+          {classicVideos.length > 0 && !selectedChannel && (
+            <div className="classic">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  Most Cumulative Views
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={classicVideos} />
+            </div>
+          )}
+
+          {top10Videos.length > 0 && !selectedChannel && (
+            <div className="trending-now">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  Trending Now
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  Most Populars Videos
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={top10Videos} />
+            </div>
+          )}
+
+          {newReleaseVideos.length > 0 && !selectedChannel && (
+            <div className="new-release">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>
+                  New Releases
+                </Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  New Releases Videos
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={newReleaseVideos} />
             </div>
           )}
 
@@ -74,9 +129,9 @@ function LandingPage(props) {
             return (
               <div key={idx}>
                 <Widgets.FlexRow>
-                  <YearLabel style={{marginLeft: 30, marginRight: 4}}>
+                  <Label style={{marginLeft: 30, marginRight: 4}}>
                     {seminarByYear.year}
-                  </YearLabel>
+                  </Label>
                   <Widgets.Badge style={{marginLeft: 8}}>
                     {seminarByYear.items.length}
                   </Widgets.Badge>
@@ -99,7 +154,7 @@ function LandingPage(props) {
   );
 }
 
-const YearLabel = styled.div`
+const Label = styled.div`
   color: white;
   font-size: 18px;
   font-family: Roboto;

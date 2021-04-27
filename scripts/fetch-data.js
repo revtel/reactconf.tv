@@ -57,4 +57,4 @@ async function fetchAll() {
   }
 }
 
-fetchAll();
+module.exports = {fetchAll};
