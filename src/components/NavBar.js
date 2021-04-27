@@ -1,10 +1,13 @@
-import React from 'react';
+import React, {useContext, useRef} from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
 import * as Widgets from '../components/Widgets';
 import {ArrowBack} from '@styled-icons/material';
 import {LogoGithub} from '@styled-icons/ionicons-solid';
 import {BookHeart} from '@styled-icons/boxicons-regular';
+import {Context} from '../AppContext';
+import Search from '../components/Search';
+import {RiSearchEyeLine} from 'react-icons/ri';
 
 function NavBar(props) {
   const {
@@ -15,6 +18,37 @@ function NavBar(props) {
   } = props;
   const [title, setTitle] = React.useState('untitled');
   const [transparent, setTransparent] = React.useState(true);
+  const keys = useRef({}).current;
+  const app = useContext(Context);
+
+  React.useEffect(() => {
+    const listener = (e) => {
+      keys[e.code] = true;
+      if ((keys['MetaLeft'] || keys['MetaRight']) && e.code === 'KeyK') {
+        app.actions.setModal(<Search />);
+      }
+    };
+
+    if (typeof window) {
+      window.addEventListener('keydown', listener);
+    }
+
+    return window.addEventListener('keydown', listener);
+  }, [app.actions, keys]);
+
+  React.useEffect(() => {
+    const listener = (e) => {
+      if (e.code === 'Escape') {
+        app.actions.setModal(null);
+      }
+      delete keys[e.code];
+    };
+    if (typeof window) {
+      window.addEventListener('keyup', listener);
+    }
+
+    return window.addEventListener('keyup', listener);
+  }, [app.actions, keys]);
 
   React.useEffect(() => {
     function onScroll() {
@@ -68,6 +102,14 @@ function NavBar(props) {
         </BackButton>
 
         <RightActions hide={showCenterTitle}>
+          <RiSearchEyeLine
+            className="btn"
+            fill="#fff"
+            style={{fontSize: 33, marginRight: 10}}
+            onClick={() => {
+              app.actions.setModal(<Search />);
+            }}
+          />
           <BookHeart
             className="btn"
             color="white"
