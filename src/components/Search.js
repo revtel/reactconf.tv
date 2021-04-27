@@ -1,9 +1,14 @@
 import styled from 'styled-components';
-import React, {useState} from 'react';
+import React, {useContext, useEffect, useRef, useState} from 'react';
 import latest from '../../static/snapshots/latest.json';
 import {MdVideoLibrary} from 'react-icons/md';
 import {RiDeleteBin5Fill} from 'react-icons/ri';
-import {AiOutlineHeart, AiFillHeart} from 'react-icons/ai';
+import {AiFillHeart, AiOutlineHeart} from 'react-icons/ai';
+import Fuse from 'fuse.js';
+import {navigate} from 'gatsby';
+import {Context} from '../AppContext';
+import * as PropTypes from 'prop-types';
+import useFavoriteState from '../hooks/useFavoriteState';
 
 const Wrapper = styled.div`
   display: flex;
@@ -27,6 +32,7 @@ const Wrapper = styled.div`
       height: 240px;
       padding: 10px 0;
       & > .item {
+        cursor: pointer;
         height: 50px;
         background-color: gray;
         margin: 8px 0;
@@ -40,9 +46,6 @@ const Wrapper = styled.div`
         }
         & > .video-icon {
           margin-right: 8px;
-        }
-        & > .delete-icon {
-          margin-left: 8px;
         }
         & > .love-icon {
         }
@@ -87,21 +90,74 @@ const Wrapper = styled.div`
   }
 `;
 
+const SearchItem = (props) => {
+  const {video} = props;
+  const app = useContext(Context);
+  const {isInFavorite, toggleFavoriteState} = useFavoriteState({
+    confId: video.playlistId,
+    talkIdx: video.idx,
+  });
+
+  return (
+    <div
+      onClick={async () => {
+        app.actions.setModal(null);
+        await navigate(`/player?conf=${video.playlistId}&idx=${video.idx}`);
+      }}
+      className="item">
+      <MdVideoLibrary fill="#fff" className="video-icon icon" />
+      <div className="title">{video.title}</div>
+      <div style={{flex: 1}} />
+      {isInFavorite ? (
+        <AiFillHeart
+          onClick={(e) => {
+            e.stopPropagation();
+            toggleFavoriteState({
+              title: video.title,
+              thumbnail: video.thumbnail,
+            });
+          }}
+          fill="#fff"
+          className="love-icon icon"
+        />
+      ) : (
+        <AiOutlineHeart
+          onClick={(e) => {
+            e.stopPropagation();
+            toggleFavoriteState({
+              title: video.title,
+              thumbnail: video.thumbnail,
+            });
+          }}
+          fill="#fff"
+          className="love-icon icon"
+        />
+      )}
+    </div>
+  );
+};
 const Search = () => {
   const [keyword, setKeyword] = useState('');
   const [result, setResult] = useState([]);
+  const fuse = useRef(null);
+
+  useEffect(() => {
+    fuse.current = new Fuse(Object.values(latest), {
+      findAllMatches: true,
+      isCaseSensitive: false,
+      keys: ['title'],
+    });
+  }, []);
 
   const _onValueChange = (e) => {
     const {value} = e.target;
     setKeyword(value);
     setResult(
-      Object.values(latest)
-        .reduce((acc, cur) => {
-          if (cur.title.toLowerCase().includes(keyword.toLowerCase())) {
-            acc.push(cur);
-          }
-          return acc;
-        }, [])
+      fuse.current
+        .search(value)
+        .map((r) => ({
+          ...r.item,
+        }))
         .splice(0, 4),
     );
   };
@@ -117,27 +173,21 @@ const Search = () => {
         />
         <div className="list">
           {result.map((v, idx) => (
-            <div key={idx} className="item">
-              <MdVideoLibrary fill="#fff" className="video-icon icon" />
-              <div className="title">{v.title}</div>
-              <div style={{flex: 1}} />
-              <AiFillHeart fill="#fff" className="love-icon icon" />
-              <RiDeleteBin5Fill fill="#fff" className="delete-icon icon" />
-            </div>
+            <SearchItem key={idx} video={v} />
           ))}
         </div>
       </section>
       <section className="bottom">
         <div className="control">
-          <div className="hint">
-            <div className="key">↵</div>
-            <label>SELECT</label>
-          </div>
-          <div className="hint">
-            <div className="key">↑</div>
-            <div className="key">↓</div>
-            <label>NAVIGATE</label>
-          </div>
+          {/*<div className="hint">*/}
+          {/*  <div className="key">↵</div>*/}
+          {/*  <label>SELECT</label>*/}
+          {/*</div>*/}
+          {/*<div className="hint">*/}
+          {/*  <div className="key">↑</div>*/}
+          {/*  <div className="key">↓</div>*/}
+          {/*  <label>NAVIGATE</label>*/}
+          {/*</div>*/}
           <div className="hint">
             <div className="key">ESC</div>
             <label>CLOSE</label>

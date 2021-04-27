@@ -18,7 +18,12 @@ function Modal(props) {
 
   return (
     <Wrapper visible={visible}>
-      <div className="backdrop" />
+      <div
+        className="backdrop"
+        onClick={() => {
+          setVisible(false);
+        }}
+      />
       <div className="content">{content}</div>
     </Wrapper>
   );
@@ -31,9 +36,10 @@ const Wrapper = styled.div`
   bottom: 0;
   position: fixed;
   z-index: 1;
-  display: flex;
   align-items: center;
   justify-content: center;
+  display: flex;
+  visibility: ${(props) => (props.visible ? 'visible' : 'collapse')};
   & > .backdrop {
     position: absolute;
     top: 0;
@@ -43,6 +49,7 @@ const Wrapper = styled.div`
     transition: opacity 1s ease;
     opacity: ${(props) => (props.visible ? 1 : 0)};
     background-color: rgba(0, 0, 0, 0.7);
+    visibility: ${(props) => (props.visible ? 'visible' : 'collapse')};
   }
   & > .content {
     display: flex;
@@ -50,13 +57,9 @@ const Wrapper = styled.div`
     justify-content: center;
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 2;
-    transition: all 1s ease;
+    transition: all 300ms ease;
     transform: ${(props) =>
-      props.visible ? 'translateY(-20%)' : 'translateY(-100%)'};
+      props.visible ? 'translateY(20%)' : 'translateY(-100%)'};
   }
 `;
 
