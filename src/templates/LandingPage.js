@@ -78,19 +78,6 @@ function LandingPage(props) {
             </div>
           )}
 
-          {classicVideos.length > 0 && !selectedChannel && (
-            <div className="classic">
-              <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  Most Cumulative Views
-                </Widgets.Badge>
-              </Widgets.FlexRow>
-
-              <VideoItemList items={classicVideos} />
-            </div>
-          )}
-
           {top10Videos.length > 0 && !selectedChannel && (
             <div className="trending-now">
               <Widgets.FlexRow>
@@ -140,6 +127,19 @@ function LandingPage(props) {
               </div>
             );
           })}
+
+          {classicVideos.length > 0 && !selectedChannel && (
+            <div className="classic">
+              <Widgets.FlexRow>
+                <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
+                <Widgets.Badge style={{marginLeft: 8}}>
+                  Most Cumulative Views
+                </Widgets.Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={classicVideos} />
+            </div>
+          )}
         </div>
 
         <SeminarDetail />
