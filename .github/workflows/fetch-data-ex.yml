@@ -2,7 +2,7 @@ name: fetch-data-ex
 
 on: 
   schedule:
-    - cron:  '0 12 * * 3'
+    - cron:  '0 12 * * 3,4,5'
 
 jobs:
   fetch-data:
