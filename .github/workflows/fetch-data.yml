@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v2 
         ref: ${{ env.DATA_BRANCH }}
       - uses: actions/setup-node@v2
-          with:
-            node-version: '14'
+        with:
+          node-version: '14'
       - name: npm-script 
         run: |
           npm i
