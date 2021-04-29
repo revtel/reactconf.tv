@@ -1,0 +1,29 @@
+name: fetch-data
+
+on: 
+  schedule:
+    - cron:  '0 12 * * 3'
+
+jobs:
+  fetch-data:
+    env: 
+      DATA_BRANCH: ci-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2 
+        ref: ${{ env.DATA_BRANCH }}
+      - uses: actions/setup-node@v2
+          with:
+            node-version: '14'
+      - name: npm-script 
+        run: |
+          npm i
+          npm run fetch
+          npm run snapshot
+      - name: git-push
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ env.DATA_BRANCH }}
+          commit-message: 'chore: fetch data and make snapshot'
+  
