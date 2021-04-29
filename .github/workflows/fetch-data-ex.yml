@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2 
-        ref: ${{ env.DATA_BRANCH }}
+        with:
+          ref: ${{ env.DATA_BRANCH }}
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
