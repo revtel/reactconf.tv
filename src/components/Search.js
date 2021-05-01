@@ -98,7 +98,6 @@ const Wrapper = styled.div`
       }
     }
   }
-
   @media screen and (max-width: 996px) {
     width: 80vw;
   }
