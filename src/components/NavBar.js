@@ -7,7 +7,6 @@ import {LogoGithub} from '@styled-icons/ionicons-solid';
 import {BookHeart} from '@styled-icons/boxicons-regular';
 import {Context} from '../AppContext';
 import Search from '../components/Search';
-import useDimension from '../hooks/use-dimension';
 
 function NavBar(props) {
   const {

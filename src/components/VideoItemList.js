@@ -20,14 +20,18 @@ function VideoItemList(props) {
       <div className="items-wrapper">
         {items.map((item, idx) => {
           return (
-            <VideoItem
-              key={idx}
-              item={item}
-              width={itemWidth}
-              onWatchClick={() => {
-                navigate(`/player?conf=${item.playlistId}&idx=${item.idx}`);
-              }}
-            />
+            <div className="item" key={idx}>
+              <VideoItem
+                key={idx}
+                item={item}
+                width={itemWidth}
+                onWatchClick={() => {
+                  navigate(`/player?conf=${item.playlistId}&idx=${item.idx}`);
+                }}
+              />
+
+              <div className="rank">{idx + 1}</div>
+            </div>
           );
         })}
       </div>
@@ -44,6 +48,19 @@ const VideoItemListWrapper = styled.div`
     padding: 20px 0px 36px 30px;
     width: ${(props) => props.innerWidth}px;
     display: flex;
+
+    & > .item {
+      position: relative;
+      & > .rank {
+        position: absolute;
+        bottom: -25px;
+        right: 15px;
+        color: white;
+        font-size: 72px;
+        font-style: italic;
+        text-shadow: 3px 3px 5px #000;
+      }
+    }
   }
 
   ${ScrollBarCss};
