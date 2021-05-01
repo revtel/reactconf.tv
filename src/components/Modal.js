@@ -56,10 +56,10 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 0;
+    top: ${(props) => (props.visible ? '100px' : '0')};
     transition: all 300ms ease;
     transform: ${(props) =>
-      props.visible ? 'translateY(20%)' : 'translateY(-100%)'};
+      props.visible ? 'translateY(0)' : 'translateY(-100%)'};
   }
 `;
 

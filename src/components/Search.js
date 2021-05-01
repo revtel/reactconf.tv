@@ -2,12 +2,10 @@ import styled from 'styled-components';
 import React, {useContext, useEffect, useRef, useState} from 'react';
 import latest from '../../static/snapshots/latest.json';
 import {MdVideoLibrary} from 'react-icons/md';
-import {RiDeleteBin5Fill} from 'react-icons/ri';
 import {AiFillHeart, AiOutlineHeart} from 'react-icons/ai';
 import Fuse from 'fuse.js';
 import {navigate} from 'gatsby';
 import {Context} from '../AppContext';
-import * as PropTypes from 'prop-types';
 import useFavoriteState from '../hooks/useFavoriteState';
 
 const Wrapper = styled.div`
@@ -15,39 +13,44 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   background-color: rgba(56, 56, 56, 1);
-  position: relative;
-  width: 560px;
-  height: 356px;
+  width: 50vw;
+  max-width: 560px;
+  aspect-ratio: calc(560 / 356);
   border-radius: 10px;
   padding: 12px;
   & > section.top {
     display: flex;
+    flex: 1;
     flex-direction: column;
     margin-bottom: 8px;
+    transition: all 300ms ease;
     & > input {
+      border-radius: 5px;
       font-size: 1.5rem;
       height: 56px;
+      padding: 0 10px;
     }
     & > .list {
-      height: 240px;
+      flex: 1;
+      height: auto;
+      overflow-y: auto;
       padding: 10px 0;
       & > .item {
         cursor: pointer;
         height: 50px;
         background-color: gray;
-        margin: 8px 0;
-        padding: 4px 10px;
+        padding: 0 10px;
         display: flex;
         align-items: center;
         border-radius: 5px;
+        margin: 8px 0;
         & > .icon {
-          font-size: 1.5rem;
           cursor: pointer;
+          font-size: 1.5rem;
+          min-width: 32px;
         }
         & > .video-icon {
           margin-right: 8px;
-        }
-        & > .love-icon {
         }
         & > .title {
           color: white;
@@ -56,6 +59,13 @@ const Wrapper = styled.div`
           overflow: hidden;
           text-overflow: ellipsis;
         }
+        :hover {
+          border: 1px solid cornflowerblue;
+          box-shadow: 0 0 10px cornflowerblue;
+        }
+      }
+      & > .item:last-child {
+        margin-bottom: 0;
       }
     }
   }
@@ -87,6 +97,10 @@ const Wrapper = styled.div`
         }
       }
     }
+  }
+
+  @media screen and (max-width: 996px) {
+    width: 80vw;
   }
 `;
 
@@ -136,6 +150,7 @@ const SearchItem = (props) => {
     </div>
   );
 };
+
 const Search = () => {
   const [keyword, setKeyword] = useState('');
   const [result, setResult] = useState([]);
@@ -158,7 +173,7 @@ const Search = () => {
         .map((r) => ({
           ...r.item,
         }))
-        .splice(0, 4),
+        .splice(0, 5),
     );
   };
 

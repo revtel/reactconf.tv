@@ -14,6 +14,7 @@ import getMostViewed from '../utils/getMostViewed';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import SeminarDetail from '../components/SeminarDetail';
+import WidgetWithCollapse from '../components/WidgetWithCollapse';
 
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
@@ -150,6 +151,8 @@ function LandingPage(props) {
         selectedChannel={selectedChannel}
         setSelectedChannel={setSelectedChannel}
       />
+
+      <WidgetWithCollapse />
     </>
   );
 }
