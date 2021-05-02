@@ -7,6 +7,8 @@ import Fuse from 'fuse.js';
 import {navigate} from 'gatsby';
 import {Context} from '../AppContext';
 import useFavoriteState from '../hooks/useFavoriteState';
+import {SearchAlt} from '@styled-icons/boxicons-regular';
+import {SquaredCross} from '@styled-icons/entypo';
 
 const Wrapper = styled.div`
   display: flex;
@@ -24,11 +26,32 @@ const Wrapper = styled.div`
     flex-direction: column;
     margin-bottom: 8px;
     transition: all 300ms ease;
-    & > input {
-      border-radius: 5px;
-      font-size: 1.5rem;
+    & > .input-area {
+      display: flex;
       height: 56px;
-      padding: 0 10px;
+      align-items: center;
+      border-radius: 5px;
+      border: 3px double #4f77e2;
+      padding: 0 12px;
+      & > .icon {
+        cursor: pointer;
+      }
+      & > .search {
+        margin-right: 8px;
+        min-width: 20px;
+      }
+      & > .cancel {
+        margin-left: 8px;
+        min-width: 20px;
+      }
+      & > input {
+        flex: 1;
+        font-size: 14px;
+        border: none;
+        outline: none;
+        background-color: transparent;
+        color: white;
+      }
     }
     & > .list {
       flex: 1;
@@ -60,8 +83,8 @@ const Wrapper = styled.div`
           text-overflow: ellipsis;
         }
         :hover {
-          border: 1px solid cornflowerblue;
-          box-shadow: 0 0 10px cornflowerblue;
+          border: 1px solid #4f77e2;
+          box-shadow: 0 0 10px #4f77e2;
         }
       }
       & > .item:last-child {
@@ -86,6 +109,7 @@ const Wrapper = styled.div`
         margin: 0 8px;
         & > label {
           margin-left: 4px;
+          font-size: 14px;
         }
         & > .key {
           font-size: 12px;
@@ -179,12 +203,25 @@ const Search = () => {
   return (
     <Wrapper>
       <section className="top">
-        <input
-          type="text"
-          name="keyword"
-          value={keyword}
-          onChange={_onValueChange}
-        />
+        <div className="input-area">
+          <SearchAlt className="search icon" size={32} color="white" />
+          <input
+            autoComplete="off"
+            type="text"
+            name="keyword"
+            value={keyword}
+            onChange={_onValueChange}
+          />
+          <SquaredCross
+            onClick={() => {
+              setKeyword('');
+              setResult([]);
+            }}
+            className="cancel icon"
+            size={32}
+            color="white"
+          />
+        </div>
         <div className="list">
           {result.map((v, idx) => (
             <SearchItem key={idx} video={v} />
@@ -204,7 +241,7 @@ const Search = () => {
           {/*</div>*/}
           <div className="hint">
             <div className="key">ESC</div>
-            <label>CLOSE</label>
+            <label>Close</label>
           </div>
         </div>
       </section>
