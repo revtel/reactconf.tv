@@ -2,7 +2,7 @@ name: fetch-data-ex
 
 on: 
   schedule:
-    - cron:  '0 12 * * 3,4,5'
+    - cron:  '0 12 * * *'
 
 jobs:
   fetch-data:
@@ -22,9 +22,8 @@ jobs:
           npm run fetch
           npm run snapshot
       - name: git-push
-        uses: github-actions-x/commit@v2.8
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: ${{ env.DATA_BRANCH }}
-          commit-message: 'chore: fetch data and make snapshot'
-  
+        run: |
+          git config --global user.name 'Richie Hsieh'
+          git config --global user.email 'whitedogg13@users.noreply.github.com'
+          git commit -am "chore: fetch data periodicaly"
+          git push
