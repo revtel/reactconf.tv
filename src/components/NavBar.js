@@ -7,7 +7,6 @@ import {LogoGithub} from '@styled-icons/ionicons-solid';
 import {BookHeart} from '@styled-icons/boxicons-regular';
 import {Context} from '../AppContext';
 import Search from '../components/Search';
-import {RiSearchEyeLine} from 'react-icons/ri';
 
 function NavBar(props) {
   const {
@@ -102,14 +101,6 @@ function NavBar(props) {
         </BackButton>
 
         <RightActions hide={showCenterTitle}>
-          <RiSearchEyeLine
-            className="btn"
-            fill="#fff"
-            style={{fontSize: 33, marginRight: 10}}
-            onClick={() => {
-              app.actions.setModal(<Search />);
-            }}
-          />
           <BookHeart
             className="btn"
             color="white"

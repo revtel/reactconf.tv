@@ -59,6 +59,7 @@ const CircleBtn = styled.button`
   cursor: pointer;
   border: none;
   outline: none;
+  transition: all 300ms ease;
   &:active {
     transform: scale(1.05);
   }
