@@ -44,7 +44,6 @@ const VideoItemListWrapper = styled.div`
   width: 100%;
 
   & > .items-wrapper {
-    overflow: auto;
     padding: 20px 0px 36px 30px;
     width: ${(props) => props.innerWidth}px;
     display: flex;
@@ -54,7 +53,7 @@ const VideoItemListWrapper = styled.div`
       & > .rank {
         position: absolute;
         bottom: -25px;
-        right: 15px;
+        right: 10px;
         color: white;
         font-size: 72px;
         font-style: italic;
