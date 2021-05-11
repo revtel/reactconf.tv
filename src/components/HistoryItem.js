@@ -8,12 +8,13 @@ import {useRevent} from 'revent-lib';
 function HistoryItem(props) {
   const {item, width} = props;
   const imgRef = React.useRef();
+  // eslint-disable-next-line no-unused-vars
   const [_, setSelectedConf] = useRevent('selectedConf');
 
   function onInfoClick() {
     const rect = imgRef.current.getBoundingClientRect();
     setSelectedConf({
-      item: item.seminar,
+      item: item.conf,
       rect: {
         top: rect.top,
         left: rect.left,
@@ -24,7 +25,7 @@ function HistoryItem(props) {
   }
 
   function onWatchClick() {
-    navigate(`/player?conf=${item.seminar.id}&idx=${item.talkIdx}`);
+    navigate(`/player?conf=${item.conf.id}&idx=${item.talkIdx}`);
   }
 
   return (
@@ -32,7 +33,7 @@ function HistoryItem(props) {
       <div className="img-wrapper">
         <img
           ref={imgRef}
-          src={item.talkThumbnail ? item.talkThumbnail : item.seminar.thumbnail}
+          src={item.talkThumbnail ? item.talkThumbnail : item.conf.thumbnail}
           alt="conference snapshot"
         />
         <div className="gradient" />
@@ -44,17 +45,17 @@ function HistoryItem(props) {
 
       <div className="content">
         <div className="title">
-          <div>{item.seminar.title}</div>
+          <div>{item.conf.title}</div>
           <div>
             <span style={{fontSize: 20, fontWeight: 'bold'}}>
               {item.talkIdx + 1}
             </span>
-            <span>{` / ${item.seminar.totalCount}`}</span>
+            <span>{` / ${item.conf.totalCount}`}</span>
           </div>
         </div>
 
         <Widgets.Button onClick={onInfoClick} style={{width: '100%'}}>
-          {`SEE ALL ${item.seminar.totalCount} TALKS`}
+          {`SEE ALL ${item.conf.totalCount} TALKS`}
         </Widgets.Button>
       </div>
     </Wrapper>

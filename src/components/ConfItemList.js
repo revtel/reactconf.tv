@@ -1,15 +1,16 @@
 import React from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
-import SeminarItem from './SeminarItem';
+import ConfItem from './ConfItem';
 import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
 import {useRevent} from 'revent-lib';
 
-function SeminarItemList(props) {
+function ConfItemList(props) {
   const {items} = props;
   const {dimension} = useDimension();
   const [showScrollBar, setShowScrollBar] = React.useState(false);
+  // eslint-disable-next-line no-unused-vars
   const [_, setSelectedConf] = useRevent('selectedConf');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
@@ -21,7 +22,7 @@ function SeminarItemList(props) {
       onMouseLeave={() => setShowScrollBar(false)}>
       <div className="items-wrapper">
         {items.map((item, idx) => (
-          <SeminarItem
+          <ConfItem
             key={idx}
             item={item}
             width={itemWidth}
@@ -61,4 +62,4 @@ const ListWrapper = styled.div`
   ${ScrollBarCss}
 `;
 
-export default SeminarItemList;
+export default ConfItemList;

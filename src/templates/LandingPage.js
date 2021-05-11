@@ -5,7 +5,7 @@ import * as Widgets from '../components/Widgets';
 import SEO from '../components/seo';
 import NavBar from '../components/NavBar';
 import BannerImage from '../components/BannerImage';
-import SeminarItemList from '../components/SeminarItemList';
+import ConfItemList from '../components/ConfItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import VideoItemList from '../components/VideoItemList';
 import {getTop10Videos} from '../utils/getTrendingNow';
@@ -13,7 +13,7 @@ import getNewReleases from '../utils/getNewReleaseVideos';
 import getMostViewed from '../utils/getMostViewed';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
-import SeminarDetail from '../components/SeminarDetail';
+import ConfDetail from '../components/ConfDetail';
 import WidgetWithCollapse from '../components/WidgetWithCollapse';
 
 function LandingPage(props) {
@@ -21,11 +21,11 @@ function LandingPage(props) {
   const [selectedChannel, setSelectedChannel] = React.useState(null);
 
   const channels = app.actions.getAllChannelsData(props.pageContext);
-  const seminarById = React.useMemo(() => {
+  const confById = React.useMemo(() => {
     const resultMap = {};
     for (const channel of channels) {
-      for (const seminar of channel.items) {
-        resultMap[seminar.id] = seminar;
+      for (const conf of channel.items) {
+        resultMap[conf.id] = conf;
       }
     }
     return resultMap;
@@ -37,14 +37,14 @@ function LandingPage(props) {
 
   const historyCache = app.watchHistoryCache || {};
 
-  const recentWatchedSeminars = Object.keys(historyCache)
+  const recentWatchedConfs = Object.keys(historyCache)
     .map((k) => ({
-      seminar: seminarById[k],
+      conf: confById[k],
       ...historyCache[k],
     }))
     .sort((a, b) => b.timestamp - a.timestamp);
 
-  const seminarListByYear = groupConfByYear(
+  const confListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : channels,
   );
 
@@ -68,14 +68,14 @@ function LandingPage(props) {
         </div>
 
         <div className="content">
-          {recentWatchedSeminars.length > 0 && !selectedChannel && (
+          {recentWatchedConfs.length > 0 && !selectedChannel && (
             <div className="recent-watched">
               <Widgets.FlexRow>
                 <Label style={{marginLeft: 30, marginRight: 10}}>
                   KEEP WATCHING
                 </Label>
               </Widgets.FlexRow>
-              <HistoryItemList items={recentWatchedSeminars} />
+              <HistoryItemList items={recentWatchedConfs} />
             </div>
           )}
 
@@ -109,8 +109,8 @@ function LandingPage(props) {
             </div>
           )}
 
-          {seminarListByYear.map((seminarByYear, idx) => {
-            if (!seminarByYear.items?.length) {
+          {confListByYear.map((confList, idx) => {
+            if (!confList.items?.length) {
               return null;
             }
 
@@ -118,13 +118,13 @@ function LandingPage(props) {
               <div key={idx}>
                 <Widgets.FlexRow>
                   <Label style={{marginLeft: 30, marginRight: 4}}>
-                    {seminarByYear.year}
+                    {confList.year}
                   </Label>
                   <Widgets.Badge style={{marginLeft: 8}}>
-                    {seminarByYear.items.length}
+                    {confList.items.length}
                   </Widgets.Badge>
                 </Widgets.FlexRow>
-                <SeminarItemList items={seminarByYear.items} />
+                <ConfItemList items={confList.items} />
               </div>
             );
           })}
@@ -143,7 +143,7 @@ function LandingPage(props) {
           )}
         </div>
 
-        <SeminarDetail />
+        <ConfDetail />
       </Wrapper>
 
       <SelectChannelBtn

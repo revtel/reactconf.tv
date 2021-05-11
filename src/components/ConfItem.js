@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
 
-function SeminarItem(props) {
+function ConfItem(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
   const height = width * (10 / 16);
 
@@ -67,4 +67,4 @@ const Wrapper = styled.div`
   }
 `;
 
-export default SeminarItem;
+export default ConfItem;

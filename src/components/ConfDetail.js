@@ -12,7 +12,7 @@ const TranState = {
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-function SeminarDetail(props) {
+function ConfDetail(props) {
   const [selectedConf] = useRevent('selectedConf');
   const [data, setData] = React.useState({});
   const [tranState, setTranState] = React.useState(TranState.NONE);
@@ -163,4 +163,4 @@ const Wrapper = styled.div`
   }
 `;
 
-export default SeminarDetail;
+export default ConfDetail;
