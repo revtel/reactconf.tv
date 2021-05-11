@@ -56,6 +56,7 @@ const WidgetWithCollapse = (props) => {
     <Wrapper isOpen={isOpen}>
       {options.map((opt, idx) => (
         <div
+          key={idx}
           className="option"
           onClick={opt.onClick}
           style={{bottom: idx * 60}}>
