@@ -3,6 +3,7 @@ const util = require('util');
 const path = require('path');
 const fetch = require('node-fetch');
 const dataSource = require('../data/data.json');
+const {matchConferenceByTitle} = require('../src/utils/matchConferenceByTitle');
 
 async function fetchChannelData(channel) {
   const writeFile = util.promisify(fs.writeFile);
@@ -27,7 +28,18 @@ async function fetchChannelData(channel) {
     JSON.stringify(json, null, 2),
   );
 
+  let cnt = 0;
+
   for (const item of json.items) {
+    const conf = matchConferenceByTitle({
+      title: item.snippet.title,
+      conferences: channel.conferences,
+    });
+
+    if (!conf) {
+      continue;
+    }
+
     const playlistId = item.id;
     let itemsJson = null;
 
@@ -45,9 +57,11 @@ async function fetchChannelData(channel) {
       path.join(playlistItemsPath, `${playlistId}.json`),
       JSON.stringify(itemsJson, null, 2),
     );
+
+    cnt++;
   }
 
-  return json.items.length;
+  return cnt;
 }
 
 async function fetchAll() {

@@ -7,6 +7,7 @@ const templates = {
   player: path.resolve(`src/templates/PlayerPage.js`),
   favorites: path.resolve(`src/templates/FavoritePage.js`),
 };
+const {matchConferenceByTitle} = require('./src/utils/matchConferenceByTitle');
 
 exports.createPages = async ({graphql, actions}) => {
   const {createPage} = actions;
@@ -38,19 +39,10 @@ exports.createPages = async ({graphql, actions}) => {
     );
 
     for (const confEvent of ytChannelPlaylist.items) {
-      let matched = null;
-
-      for (const conf of ytChannel.conferences) {
-        for (const filter of conf.filters) {
-          if (confEvent.snippet.title.indexOf(filter) > -1) {
-            matched = conf;
-            break;
-          }
-        }
-        if (matched) {
-          break;
-        }
-      }
+      const matched = matchConferenceByTitle({
+        title: confEvent.snippet.title,
+        conferences: ytChannel.conferences,
+      });
 
       if (matched) {
         if (!confChannelMap[matched.name]) {
