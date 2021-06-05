@@ -2,37 +2,50 @@ const fs = require('fs');
 const util = require('util');
 const path = require('path');
 const fetch = require('node-fetch');
-const dataSource = require('../data/data.json');
+const ytChannels = require('../data/ytChannels.json');
 const {matchConferenceByTitle} = require('../src/utils/matchConferenceByTitle');
 
-async function fetchChannelData(channel) {
-  const writeFile = util.promisify(fs.writeFile);
+async function fetchAllChannels() {
   const apiKey = 'AIzaSyBJLChpvbusFt4k8b4SHRShSHTrZNUA9Q8';
   const maxResults = 100;
+  let totalCnt = 0;
+  for (const ch of ytChannels) {
+    const cnt = await fetchOneChannel(ch, {apiKey, maxResults});
+    console.log(ch.name, cnt);
+    totalCnt += cnt;
+  }
+  console.log(`\nTotal: ${totalCnt}`);
+}
+
+async function fetchOneChannel(channel, {apiKey, maxResults}) {
+  const writeFile = util.promisify(fs.writeFile);
   const playlistPath = 'data/playlist';
   const playlistItemsPath = 'static/playlistitems';
 
-  let url, resp, json;
+  async function fetchToJson(url) {
+    return (
+      await fetch(url, {
+        headers: {
+          Accept: 'application/json',
+        },
+      })
+    ).json();
+  }
 
-  url = `https://www.googleapis.com/youtube/v3/playlists?part=id%2CcontentDetails%2Cplayer%2Csnippet%2Cstatus&channelId=${channel.channelId}&maxResults=${maxResults}&key=${apiKey}`;
-  resp = await fetch(url, {
-    headers: {
-      Accept: 'application/json',
-    },
-  });
-
-  json = await resp.json();
+  const playlists = await fetchToJson(
+    `https://www.googleapis.com/youtube/v3/playlists?part=id%2CcontentDetails%2Cplayer%2Csnippet%2Cstatus&channelId=${channel.channelId}&maxResults=${maxResults}&key=${apiKey}`,
+  );
 
   await writeFile(
     path.join(playlistPath, `${channel.name}.json`),
-    JSON.stringify(json, null, 2),
+    JSON.stringify(playlists, null, 2),
   );
 
   let cnt = 0;
 
-  for (const item of json.items) {
+  for (const playlist of playlists.items) {
     const conf = matchConferenceByTitle({
-      title: item.snippet.title,
+      title: playlist.snippet.title,
       conferences: channel.conferences,
     });
 
@@ -40,21 +53,12 @@ async function fetchChannelData(channel) {
       continue;
     }
 
-    const playlistId = item.id;
-    let itemsJson = null;
-
-    url = `https://www.googleapis.com/youtube/v3/playlistItems?part=id%2CcontentDetails%2Csnippet%2Cstatus&maxResults=${maxResults}&playlistId=${playlistId}&key=${apiKey}`;
-
-    resp = await fetch(url, {
-      headers: {
-        Accept: 'application/json',
-      },
-    });
-
-    itemsJson = await resp.json();
+    const itemsJson = await fetchToJson(
+      `https://www.googleapis.com/youtube/v3/playlistItems?part=id%2CcontentDetails%2Csnippet%2Cstatus&maxResults=${maxResults}&playlistId=${playlist.id}&key=${apiKey}`,
+    );
 
     await writeFile(
-      path.join(playlistItemsPath, `${playlistId}.json`),
+      path.join(playlistItemsPath, `${playlist.id}.json`),
       JSON.stringify(itemsJson, null, 2),
     );
 
@@ -64,11 +68,4 @@ async function fetchChannelData(channel) {
   return cnt;
 }
 
-async function fetchAll() {
-  for (const ch of dataSource.ytChannels) {
-    const totalItems = await fetchChannelData(ch);
-    console.log(ch.name, totalItems);
-  }
-}
-
-module.exports = {fetchAll};
+module.exports = {fetchAllChannels};

@@ -3,7 +3,7 @@ const chalk = require('chalk');
 const log = console.log;
 const fs = require('fs');
 const {snapshot} = require('./snapshot');
-const {fetchAll} = require('./fetch-data');
+const {fetchAllChannels} = require('./fetch-data');
 
 program.version('0.0.1');
 
@@ -20,7 +20,7 @@ program
   .description('fetch data from youtube')
   .action(async () => {
     log(chalk.green('CLI command: fetch') + `\n`);
-    await fetchAll();
+    await fetchAllChannels();
   });
 
 program.parse(process.argv);

@@ -22,7 +22,7 @@
 
 - [Contributors](#contributors)<br/>
 
-## Data Source
+## Data Sourcing
 
 The data for `ReactConf.TV` mainly comes from two `YouTube Data API`:
 
@@ -34,9 +34,9 @@ The data for `ReactConf.TV` mainly comes from two `YouTube Data API`:
 
 The high-level data sourcing logic looks like this:
 
-1. Maintain a manual file `data/data.json`, which as a property called `ytChannels` to collect thoses YouTube Channels contain React Conference playlist. The ultimate source comes from [ReactJS's community conference](https://reactjs.org/community/conferences.html)
-2. For all `channels` in `ytChannels`, fetch their `playlists` and save to `data/playlist/<channel-name>.json`
-3. For all `playlist` in one particular `channel`, fetch the video list save to `static/playlistitems/<playlist-id>.json`
+1. Maintain a manual file `data/ytChannels.json`, to collect the YouTube Channels contain React Conference playlist. The ultimate source comes from [ReactJS's community conference](https://reactjs.org/community/conferences.html)
+2. For every `channel` in `ytChannels`, fetch their `playlists` and save to `data/playlist/<channel-name>.json`
+3. For every `playlist` in one particular `channel`, fetch the video list save to `static/playlistitems/<playlist-id>.json`
 4. During build-time, the `data/playlist` will be used, so ReactConf.TV knows all conference events.
 5. During runtime, when user navigate to a particular conference event, we can then fire a request to `/static/playlistitems/<playlist-id>.json` using its id, since we deploy those data as static content.
 

@@ -2,42 +2,42 @@ const fs = require('fs');
 const path = require('path');
 const util = require('util');
 const readFile = util.promisify(fs.readFile);
-const templates = {
-  landing: path.resolve(`src/templates/LandingPage.js`),
-  player: path.resolve(`src/templates/PlayerPage.js`),
-  favorites: path.resolve(`src/templates/FavoritePage.js`),
-};
 const {matchConferenceByTitle} = require('./src/utils/matchConferenceByTitle');
 
 exports.createPages = async ({graphql, actions}) => {
   const {createPage} = actions;
-  const resp = await graphql(
-    `
-      query MyQuery {
-        allFile(filter: {name: {eq: "data"}}) {
-          edges {
-            node {
-              name
-              dir
-              relativePath
+  const ytChannelsNode = (
+    await graphql(
+      `
+        query MyQuery {
+          allFile(filter: {name: {eq: "ytChannels"}}) {
+            edges {
+              node {
+                name
+                dir
+                relativePath
+              }
             }
           }
         }
-      }
-    `,
-  );
+      `,
+    )
+  ).data.allFile.edges[0].node;
 
-  const node = resp.data.allFile.edges[0].node;
-  const rootConfig = JSON.parse(
-    (await readFile(path.join(node.dir, node.relativePath))).toString(),
+  const ytChannels = JSON.parse(
+    (
+      await readFile(path.join(ytChannelsNode.dir, ytChannelsNode.relativePath))
+    ).toString(),
   );
   const confChannelMap = {};
 
-  for (const ytChannel of rootConfig.ytChannels) {
+  for (const ytChannel of ytChannels) {
     const ytChannelPlaylist = JSON.parse(
       await readFile(path.join('data/playlist', ytChannel.name + '.json')),
     );
 
+    // every ytChannelPlaylist is a conference at a particular time, ex: "React Europe 2019",
+    // try to find out which "conference channel" (ex: "React Europ") it belongs to
     for (const confEvent of ytChannelPlaylist.items) {
       const matched = matchConferenceByTitle({
         title: confEvent.snippet.title,
@@ -64,26 +64,26 @@ exports.createPages = async ({graphql, actions}) => {
 
   createPage({
     path: `/`,
-    component: templates.landing,
+    component: path.resolve(`src/templates/LandingPage.js`),
     context: {
-      rootConfig,
+      ytChannels,
       confChannels,
     },
   });
 
   createPage({
     path: `/player`,
-    component: templates.player,
+    component: path.resolve(`src/templates/PlayerPage.js`),
     context: {
-      rootConfig,
+      ytChannels,
     },
   });
 
   createPage({
     path: `/favorites`,
-    component: templates.favorites,
+    component: path.resolve(`src/templates/FavoritePage.js`),
     context: {
-      rootConfig,
+      ytChannels,
     },
   });
 };
