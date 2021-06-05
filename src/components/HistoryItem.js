@@ -3,13 +3,12 @@ import {navigate} from 'gatsby';
 import styled from 'styled-components';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
-import {useRevent} from 'revent-lib';
+import {useOutletSetter} from 'reconnect.js';
 
 function HistoryItem(props) {
   const {item, width} = props;
   const imgRef = React.useRef();
-  // eslint-disable-next-line no-unused-vars
-  const [_, setSelectedConf] = useRevent('selectedConf');
+  const setSelectedConf = useOutletSetter('selectedConf');
 
   function onInfoClick() {
     const rect = imgRef.current.getBoundingClientRect();

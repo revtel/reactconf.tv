@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
 import styled from 'styled-components';
-import {useRevent} from 'revent-lib';
+import {useOutlet} from 'reconnect.js';
 
 function Modal(props) {
-  const [modalContent] = useRevent('modal');
+  const [modalContent] = useOutlet('modal');
   const [content, setContent] = useState(modalContent);
   const [visible, setVisible] = useState(false);
 

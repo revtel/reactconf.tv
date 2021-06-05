@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
-import {useRevent} from 'revent-lib';
+import {useOutlet} from 'reconnect.js';
 
 function Toast(props) {
-  const [toastContent, setToastContent] = useRevent('toast');
+  const [toastContent, setToastContent] = useOutlet('toast');
 
   React.useEffect(() => {
     if (toastContent) {

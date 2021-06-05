@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {useRevent} from 'revent-lib';
+import {useOutlet} from 'reconnect.js';
 import * as AppContext from '../AppContext';
 import TalkItem from '../components/TalkItem';
 
@@ -13,7 +13,7 @@ const TranState = {
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function ConfDetail(props) {
-  const [selectedConf] = useRevent('selectedConf');
+  const [selectedConf] = useOutlet('selectedConf');
   const [data, setData] = React.useState({});
   const [tranState, setTranState] = React.useState(TranState.NONE);
   const [showDetail, setShowDetail] = React.useState(false);

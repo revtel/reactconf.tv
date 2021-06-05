@@ -4,14 +4,13 @@ import {navigate} from 'gatsby';
 import ConfItem from './ConfItem';
 import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
-import {useRevent} from 'revent-lib';
+import {useOutletSetter} from 'reconnect.js';
 
 function ConfItemList(props) {
   const {items} = props;
   const {dimension} = useDimension();
   const [showScrollBar, setShowScrollBar] = React.useState(false);
-  // eslint-disable-next-line no-unused-vars
-  const [_, setSelectedConf] = useRevent('selectedConf');
+  const setSelectedConf = useOutletSetter('selectedConf');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (

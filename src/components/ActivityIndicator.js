@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
-import {useRevent} from 'revent-lib';
+import {useOutlet} from 'reconnect.js';
 
 function ActivityIndicator(props) {
-  const [visible] = useRevent('spinner');
+  const [visible] = useOutlet('spinner');
 
   return (
     <>

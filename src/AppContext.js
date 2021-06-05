@@ -1,15 +1,16 @@
 import React from 'react';
 import * as idbKeyval from 'idb-keyval';
-import * as Revent from 'revent-lib';
 import {
   transformAllChannelsData,
   transformConfEventData,
 } from './utils/transformData';
+import {getNewOutlet} from 'reconnect.js';
 
 const Context = React.createContext();
-const ShowSpinnerProxy = Revent.getProxy('spinner');
-const ShowToastProxy = Revent.getProxy('toast');
-const showModalProxy = Revent.getProxy('modal');
+const SpinnerOutlet = getNewOutlet('spinner', false, {autoDelete: false});
+const ModalOutlet = getNewOutlet('modal', null, {autoDelete: false});
+const ToastOutlet = getNewOutlet('toast', false, {autoDelete: false});
+getNewOutlet('selectedConf', null, {autoDelete: false});
 
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
@@ -23,14 +24,14 @@ class Provider extends React.Component {
 
     this.actions = {
       setLoading: (loading) => {
-        ShowSpinnerProxy.update(loading);
+        SpinnerOutlet.update(loading);
       },
 
       showGlobalSpinner: async ({ms = 1000, scrollToTop = true} = {}) => {
         await delay(20);
-        ShowSpinnerProxy.update(true);
+        SpinnerOutlet.update(true);
         await delay(ms);
-        ShowSpinnerProxy.update(false);
+        SpinnerOutlet.update(false);
         if (scrollToTop) {
           if (typeof window !== 'undefined') {
             window.scrollTo({top: 0, behavior: 'smooth'});
@@ -38,9 +39,9 @@ class Provider extends React.Component {
         }
       },
 
-      setToast: (toastContent) => ShowToastProxy.update(toastContent),
+      setToast: (toastContent) => ToastOutlet.update(toastContent),
 
-      setModal: (modalContent) => showModalProxy.update(modalContent),
+      setModal: (modalContent) => ModalOutlet.update(modalContent),
 
       getAllChannelsData: (pageContext) => {
         if (!this._confChannels) {
