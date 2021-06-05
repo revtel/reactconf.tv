@@ -12,7 +12,7 @@ function Layout({children, location}) {
 
   React.useEffect(() => {
     async function onPageMounted() {
-      if (['/', '/favorites'].indexOf(location.pathname) > -1) {
+      if (['/', '/favorites'].indexOf(location?.pathname) > -1) {
         showSpinner(true);
         await delay(600);
         showSpinner(false);
@@ -23,7 +23,7 @@ function Layout({children, location}) {
     }
 
     onPageMounted();
-  }, [showSpinner, location.pathname]);
+  }, [showSpinner, location?.pathname]);
 
   return (
     <main>
