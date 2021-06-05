@@ -1,14 +1,34 @@
 import React from 'react';
 import styled from 'styled-components';
+import {useOutletSetter} from 'reconnect.js';
 import {PlayArrow} from '@styled-icons/material';
+import * as Widgets from './Widgets';
 
 function VideoItem(props) {
   const {item, width, onWatchClick} = props;
+  const setSelectedConf = useOutletSetter('selectedConf');
+  const imgRef = React.useRef();
+
+  function onInfoClick() {
+    const rect = imgRef.current.getBoundingClientRect();
+    setSelectedConf({
+      item: {
+        id: item.playlistId,
+        thumbnailStd: item.thumbnail,
+      },
+      rect: {
+        top: rect.top,
+        left: rect.left,
+        width: rect.width,
+        height: rect.height,
+      },
+    });
+  }
 
   return (
     <Wrapper style={{width}}>
       <div className="img-wrapper">
-        <img src={item.thumbnail} alt="conference snapshot" />
+        <img src={item.thumbnail} alt="conference snapshot" ref={imgRef} />
         <div className="gradient" />
 
         <button className="play" onClick={onWatchClick}>
@@ -20,6 +40,9 @@ function VideoItem(props) {
         <div className="title">
           <div>{item.title}</div>
         </div>
+        <Widgets.Button style={{width: '100%'}} onClick={onInfoClick}>
+          {`ALL CONFERENCE TALKS`}
+        </Widgets.Button>
       </div>
     </Wrapper>
   );

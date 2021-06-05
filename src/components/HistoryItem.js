@@ -13,7 +13,12 @@ function HistoryItem(props) {
   function onInfoClick() {
     const rect = imgRef.current.getBoundingClientRect();
     setSelectedConf({
-      item: item.conf,
+      item: {
+        ...item.conf,
+        thumbnailStd: item.talkThumbnail
+          ? item.talkThumbnail
+          : item.conf.thumbnail,
+      },
       rect: {
         top: rect.top,
         left: rect.left,

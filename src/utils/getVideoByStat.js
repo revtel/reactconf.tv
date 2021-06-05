@@ -1,12 +1,12 @@
-import latest from '../../static/snapshots/latest.json';
-import previous from '../../static/snapshots/previous.json';
+const latest = require('../../static/snapshots/latest.json');
+const previous = require('../../static/snapshots/previous.json');
 
 const getMostViewed = (limit) => {
   return Object.values(latest)
     .sort(
       (a, b) =>
-        parseInt(b.stats?.viewCount || 0, 10) -
-        parseInt(a.stats?.viewCount || 0, 10),
+        parseInt((b.stats && b.stats.viewCount) || 0, 10) -
+        parseInt((a.stats && a.stats.viewCount) || 0, 10),
     )
     .slice(0, limit);
 };
@@ -20,11 +20,11 @@ const getNewReleased = (limit) => {
 const getRecentViewed = (limit) => {
   const latestVideoList = Object.values(latest).map((video) => ({
     id: video.videoId,
-    viewed: parseInt(video.stats?.viewCount),
+    viewed: parseInt((video.stats && video.stats.viewCount) || 0, 10),
   }));
   const previousVideoList = Object.values(previous).map((video) => ({
     id: video.videoId,
-    viewed: parseInt(video.stats?.viewCount),
+    viewed: parseInt((video.stats && video.stats.viewCount) || 0, 10),
   }));
 
   let diffVideoViewedList = [];
@@ -42,4 +42,4 @@ const getRecentViewed = (limit) => {
     .map((video) => ({...latest[video.id], viewCnt: video.viewed}));
 };
 
-export {getMostViewed, getRecentViewed, getNewReleased};
+module.exports = {getMostViewed, getRecentViewed, getNewReleased};

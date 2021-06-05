@@ -4,6 +4,11 @@ const util = require('util');
 const readFile = util.promisify(fs.readFile);
 const {matchConferenceByTitle} = require('./src/utils/matchConferenceByTitle');
 const {transformAllChannelsData} = require('./src/utils/transformData');
+const {
+  getMostViewed,
+  getNewReleased,
+  getRecentViewed,
+} = require('./src/utils/getVideoByStat');
 
 exports.createPages = async ({graphql, actions}) => {
   const {createPage} = actions;
@@ -69,7 +74,12 @@ exports.createPages = async ({graphql, actions}) => {
   createPage({
     path: `/`,
     component: path.resolve(`src/templates/LandingPage.js`),
-    context: baseContext,
+    context: {
+      ...baseContext,
+      classicVideos: getMostViewed(10),
+      trendingNowVideos: getRecentViewed(10),
+      newReleasedVideos: getNewReleased(10),
+    },
   });
 
   createPage({

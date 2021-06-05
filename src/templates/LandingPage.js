@@ -8,11 +8,6 @@ import BannerImage from '../components/BannerImage';
 import ConfItemList from '../components/ConfItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import VideoItemList from '../components/VideoItemList';
-import {
-  getMostViewed,
-  getNewReleased,
-  getRecentViewed,
-} from '../utils/getVideoByStat';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import ConfDetail from '../components/ConfDetail';
@@ -21,7 +16,12 @@ import WidgetWithCollapse from '../components/WidgetWithCollapse';
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
-  const {channels} = props.pageContext;
+  const {
+    channels,
+    classicVideos,
+    trendingNowVideos,
+    newReleasedVideos,
+  } = props.pageContext;
   const confById = React.useMemo(
     () =>
       channels.reduce((acc, channel) => {
@@ -37,9 +37,6 @@ function LandingPage(props) {
     selectedChannel ? [selectedChannel] : channels,
   );
 
-  const classicVideos = getMostViewed(10);
-  const trendingNowVideos = getRecentViewed(10);
-  const newReleaseVideos = getNewReleased(10);
   const recentWatchedConfs = Object.keys(app.watchHistoryCache)
     .map((k) => ({
       conf: confById[k],
@@ -61,14 +58,13 @@ function LandingPage(props) {
         </div>
 
         <div className="content">
-          {newReleaseVideos.length > 0 && !selectedChannel && (
+          {newReleasedVideos.length > 0 && !selectedChannel && (
             <div className="new-release">
               <Widgets.FlexRow>
                 <Label>New Releases</Label>
                 <Badge>New Releases Videos</Badge>
               </Widgets.FlexRow>
-
-              <VideoItemList items={newReleaseVideos} />
+              <VideoItemList items={newReleasedVideos} />
             </div>
           )}
 
@@ -78,7 +74,6 @@ function LandingPage(props) {
                 <Label>Trending Now</Label>
                 <Badge>Most Populars Videos</Badge>
               </Widgets.FlexRow>
-
               <VideoItemList items={trendingNowVideos} />
             </div>
           )}
@@ -116,7 +111,6 @@ function LandingPage(props) {
                 <Label>Classic</Label>
                 <Badge>Most Cumulative Views</Badge>
               </Widgets.FlexRow>
-
               <VideoItemList items={classicVideos} />
             </div>
           )}
