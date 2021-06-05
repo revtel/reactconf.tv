@@ -2,12 +2,12 @@ name: fetch-data-ex
 
 on: 
   schedule:
-    - cron:  '0 12 * * *'
+    - cron:  '0 12 * * 3,6'
 
 jobs:
   fetch-data:
     env: 
-      DATA_BRANCH: ci-test
+      DATA_BRANCH: master
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2 
