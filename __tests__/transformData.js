@@ -29,6 +29,7 @@ describe('transformData', () => {
   test('transformConfEventData', () => {
     expect(transformConfEventData(testConfEventData).items).toEqual([
       {
+        idx: 0,
         videoId: 'WjJdaDXN5Vs',
         title:
           'Jonas Gebhardt - Evolving the Visual Programming Environment with React at react-europe 2016',
@@ -38,6 +39,7 @@ describe('transformData', () => {
         publishedAt: '2016-06-05T09:44:59Z',
         channelId: 'UCorlLn2oZfgOJ-FUcF2eZ1A',
         channelTitle: 'ReactEurope',
+        playlistId: 'PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof',
       },
     ]);
   });

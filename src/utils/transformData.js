@@ -30,23 +30,27 @@ function transformAllChannelsData(channels) {
 function transformConfEventData(confEvent) {
   return {
     ...confEvent,
-    items: confEvent.items.map((talk) => {
-      return {
-        videoId: talk.snippet.resourceId.videoId,
-        title: talk.snippet.title,
-        thumbnail:
-          talk.snippet.thumbnails.standard &&
-          talk.snippet.thumbnails.standard.url,
-        description: talk.snippet.description,
-        publishedAt: talk.snippet.publishedAt,
-        channelId: talk.snippet.channelId,
-        channelTitle: talk.snippet.channelTitle,
-      };
-    }),
+    items: confEvent.items.map(transformConfTalkData),
+  };
+}
+
+function transformConfTalkData(talk, idx) {
+  return {
+    idx,
+    videoId: talk.snippet.resourceId.videoId,
+    title: talk.snippet.title,
+    thumbnail:
+      talk.snippet.thumbnails.standard && talk.snippet.thumbnails.standard.url,
+    description: talk.snippet.description,
+    publishedAt: talk.snippet.publishedAt,
+    channelId: talk.snippet.channelId,
+    channelTitle: talk.snippet.channelTitle,
+    playlistId: talk.snippet.playlistId,
   };
 }
 
 module.exports = {
   transformAllChannelsData,
   transformConfEventData,
+  transformConfTalkData,
 };

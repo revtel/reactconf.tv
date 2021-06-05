@@ -8,9 +8,11 @@ import BannerImage from '../components/BannerImage';
 import ConfItemList from '../components/ConfItemList';
 import HistoryItemList from '../components/HistoryItemList';
 import VideoItemList from '../components/VideoItemList';
-import {getTop10Videos} from '../utils/getTrendingNow';
-import getNewReleases from '../utils/getNewReleaseVideos';
-import getMostViewed from '../utils/getMostViewed';
+import {
+  getMostViewed,
+  getNewReleased,
+  getRecentViewed,
+} from '../utils/getVideoByStat';
 import SelectChannelBtn from '../components/SelectChannelBtn';
 import groupConfByYear from '../utils/groupConfByYear';
 import ConfDetail from '../components/ConfDetail';
@@ -35,9 +37,9 @@ function LandingPage(props) {
     selectedChannel ? [selectedChannel] : channels,
   );
 
-  const classicVideos = getMostViewed();
-  const top10Videos = getTop10Videos();
-  const newReleaseVideos = getNewReleases();
+  const classicVideos = getMostViewed(10);
+  const trendingNowVideos = getRecentViewed(10);
+  const newReleaseVideos = getNewReleased(10);
   const recentWatchedConfs = Object.keys(app.watchHistoryCache)
     .map((k) => ({
       conf: confById[k],
@@ -59,44 +61,36 @@ function LandingPage(props) {
         </div>
 
         <div className="content">
-          {recentWatchedConfs.length > 0 && !selectedChannel && (
-            <div className="recent-watched">
-              <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>
-                  KEEP WATCHING
-                </Label>
-              </Widgets.FlexRow>
-              <HistoryItemList items={recentWatchedConfs} />
-            </div>
-          )}
-
-          {top10Videos.length > 0 && !selectedChannel && (
-            <div className="trending-now">
-              <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>
-                  Trending Now
-                </Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  Most Populars Videos
-                </Widgets.Badge>
-              </Widgets.FlexRow>
-
-              <VideoItemList items={top10Videos} />
-            </div>
-          )}
-
           {newReleaseVideos.length > 0 && !selectedChannel && (
             <div className="new-release">
               <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>
-                  New Releases
-                </Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  New Releases Videos
-                </Widgets.Badge>
+                <Label>New Releases</Label>
+                <Badge>New Releases Videos</Badge>
               </Widgets.FlexRow>
 
               <VideoItemList items={newReleaseVideos} />
+            </div>
+          )}
+
+          {trendingNowVideos.length > 0 && !selectedChannel && (
+            <div className="trending-now">
+              <Widgets.FlexRow>
+                <Label>Trending Now</Label>
+                <Badge>Most Populars Videos</Badge>
+              </Widgets.FlexRow>
+
+              <VideoItemList items={trendingNowVideos} />
+            </div>
+          )}
+
+          {recentWatchedConfs.length > 0 && !selectedChannel && (
+            <div
+              className="recent-watched"
+              style={{backgroundColor: '#2e2e2e'}}>
+              <Widgets.FlexRow>
+                <Label>Keep Watching</Label>
+              </Widgets.FlexRow>
+              <HistoryItemList items={recentWatchedConfs} />
             </div>
           )}
 
@@ -106,14 +100,10 @@ function LandingPage(props) {
             }
 
             return (
-              <div key={idx}>
+              <div key={idx} style={{backgroundColor: '#212121'}}>
                 <Widgets.FlexRow>
-                  <Label style={{marginLeft: 30, marginRight: 4}}>
-                    {confList.year}
-                  </Label>
-                  <Widgets.Badge style={{marginLeft: 8}}>
-                    {confList.items.length}
-                  </Widgets.Badge>
+                  <Label>{confList.year}</Label>
+                  <Badge>{confList.items.length}</Badge>
                 </Widgets.FlexRow>
                 <ConfItemList items={confList.items} />
               </div>
@@ -123,10 +113,8 @@ function LandingPage(props) {
           {classicVideos.length > 0 && !selectedChannel && (
             <div className="classic">
               <Widgets.FlexRow>
-                <Label style={{marginLeft: 30, marginRight: 10}}>Classic</Label>
-                <Widgets.Badge style={{marginLeft: 8}}>
-                  Most Cumulative Views
-                </Widgets.Badge>
+                <Label>Classic</Label>
+                <Badge>Most Cumulative Views</Badge>
               </Widgets.FlexRow>
 
               <VideoItemList items={classicVideos} />
@@ -150,9 +138,15 @@ function LandingPage(props) {
 
 const Label = styled.div`
   color: white;
-  font-size: 18px;
+  font-size: 22px;
   font-family: Roboto;
+  font-style: italic;
   letter-spacing: 1px;
+  margin: 16px 10px 0px 30px;
+`;
+
+const Badge = styled(Widgets.Badge)`
+  margin-top: 8px;
 `;
 
 const Wrapper = styled.div`

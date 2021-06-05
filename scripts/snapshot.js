@@ -3,6 +3,7 @@ const path = require('path');
 const chalk = require('chalk');
 const fetch = require('node-fetch');
 const execa = require('execa');
+const {transformConfTalkData} = require('../src/utils/transformData');
 const log = console.log;
 const playlistPath = 'static/playlistitems';
 const snapshotPath = 'static/snapshots';
@@ -80,21 +81,11 @@ async function snapshot() {
     const {items} = readJsonFile(filepath);
     const videoIdList = [];
 
-    for (let idx = 0; idx < items.length; idx++) {
-      const video = items[idx];
-      const {title, playlistId, publishedAt, thumbnails} = video.snippet;
-      const {videoId} = video.contentDetails;
-      const thumbnail = (thumbnails.high && thumbnails.high.url) || null;
-      snapshotJson[videoId] = {
-        playlistId,
-        idx,
-        title,
-        publishedAt,
-        thumbnail,
-        videoId,
-      };
+    items.forEach((talk, idx) => {
+      const {videoId} = talk.contentDetails;
+      snapshotJson[videoId] = transformConfTalkData(talk, idx);
       videoIdList.push(videoId);
-    }
+    });
 
     const statsRespJson = await fetchViewStats(videoIdList);
 
