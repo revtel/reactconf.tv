@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
+import {useOutlet} from 'reconnect.js';
 import HistoryItem from './HistoryItem';
-import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
 
 function HistoryItemList(props) {
   const {items} = props;
   const [showScrollBar, setShowScrollBar] = React.useState(false);
-  const {dimension} = useDimension();
+  const [dimension] = useOutlet('dimension');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (

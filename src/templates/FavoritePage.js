@@ -1,15 +1,15 @@
 import React from 'react';
 import {navigate} from 'gatsby';
 import styled from 'styled-components';
+import {useOutlet} from 'reconnect.js';
 import * as AppContext from '../AppContext';
-import useDimension from '../hooks/use-dimension';
 import NavBar from '../components/NavBar';
 import FavoriteItem from '../components/FavoriteItem';
 
 function FavoritePage(props) {
   const app = React.useContext(AppContext.Context);
   const favorites = app.favoriteCache || [];
-  const {dimension} = useDimension();
+  const [dimension] = useOutlet('dimension');
 
   function calcGridLayout() {
     if (!dimension) {

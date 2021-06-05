@@ -7,9 +7,9 @@ import {
   CheckBoxOutlineBlank,
 } from '@styled-icons/material';
 import {Heart, HeartFill} from '@styled-icons/octicons';
+import {useOutlet} from 'reconnect.js';
 import TalkList from './TalkList';
 import SlideInPanel from './SlideInPanel';
-import useDimension from '../hooks/use-dimension';
 import useFavoriteState from '../hooks/useFavoriteState';
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -26,7 +26,7 @@ function TvControlEx(props) {
   } = props;
   const [expand, _setExpand] = React.useState(false);
   const leftDrawer = React.useRef();
-  const {dimension} = useDimension();
+  const [dimension] = useOutlet('dimension');
   const {isInFavorite, toggleFavoriteState} = useFavoriteState({
     confId,
     talkIdx: currIdx,

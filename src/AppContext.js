@@ -7,7 +7,7 @@ const Context = React.createContext();
 const SpinnerOutlet = getNewOutlet('spinner', false, {autoDelete: false});
 const ModalOutlet = getNewOutlet('modal', null, {autoDelete: false});
 const ToastOutlet = getNewOutlet('toast', false, {autoDelete: false});
-getNewOutlet('selectedConf', null, {autoDelete: false});
+const DimensionOutlet = getNewOutlet('dimension', {}, {autoDelete: false});
 
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
@@ -140,6 +140,23 @@ class Provider extends React.Component {
     this.actions.invalidateVideoProgressCache();
     this.actions.invalidateVideoFinishedCache();
     this.actions.invalidateFavoriteCache();
+
+    this._detectDimension = () => {
+      const nextDimension = {};
+      nextDimension.innerWidth = window.innerWidth;
+      nextDimension.innerHeight = window.innerHeight;
+      DimensionOutlet.update(nextDimension);
+    };
+
+    window.addEventListener('resize', this._detectDimension);
+
+    setTimeout(() => {
+      this._detectDimension();
+    }, 0);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this._detectDimension);
   }
 
   render() {

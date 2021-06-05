@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import {useNewOutlet} from 'reconnect.js';
 import * as AppContext from '../AppContext';
 import * as Widgets from '../components/Widgets';
 import SEO from '../components/seo';
@@ -22,6 +23,7 @@ function LandingPage(props) {
     trendingNowVideos,
     newReleasedVideos,
   } = props.pageContext;
+
   const confById = React.useMemo(
     () =>
       channels.reduce((acc, channel) => {
@@ -43,6 +45,8 @@ function LandingPage(props) {
       ...app.watchHistoryCache[k],
     }))
     .sort((a, b) => b.timestamp - a.timestamp);
+
+  useNewOutlet('selectedConf', null);
 
   return (
     <>

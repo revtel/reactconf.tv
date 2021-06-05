@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
+import {useOutlet} from 'reconnect.js';
 import ReactPlayer from 'react-player/youtube';
 import {SkipNext, SkipPrevious, Home} from '@styled-icons/material';
 import SEO from '../components/seo';
 import * as Widgets from '../components/Widgets';
 import * as AppContext from '../AppContext';
 import TvControl from '../components/TvControl';
-import useDimension from '../hooks/use-dimension';
 const qs = require('query-string');
 
 function PlayerPage(props) {
@@ -19,7 +19,7 @@ function PlayerPage(props) {
   const [showNavbar, setShowNavbar] = React.useState(false);
   const [firstProgressLoaded, setFirstProgressLoaded] = React.useState(false);
   const [playing, setPlaying] = React.useState(false);
-  const {dimension} = useDimension();
+  const [dimension] = useOutlet('dimension');
   const confId = qs.parse(location.search).conf;
   const currIdx = parseInt(qs.parse(location.search).idx || 0);
   const videoId = confData?.items[currIdx].videoId;

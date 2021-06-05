@@ -1,14 +1,14 @@
 import React from 'react';
 import styled from 'styled-components';
 import {navigate} from 'gatsby';
+import {useOutlet} from 'reconnect.js';
 import VideoItem from './VideoItem';
-import useDimension from '../hooks/use-dimension';
 import {ScrollBarCss} from './Widgets';
 
 function VideoItemList(props) {
   const {items} = props;
   const [showScrollBar, setShowScrollBar] = React.useState(false);
-  const {dimension} = useDimension();
+  const [dimension] = useOutlet('dimension');
   const itemWidth = dimension?.innerWidth > 600 ? 300 : 210;
 
   return (
