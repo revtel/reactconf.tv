@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "tllzOP-RPU3fVe88VQXX3c092K0",
+  "etag": "7iUPGsLZv6PyaJh-_C-XiMsYYMw",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -757,10 +757,118 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "57iY5-Om-pBs3b2MCRDQz_GPsnc",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-05-26T09:13:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Doing the Least Amount of Work: An Intro to Runtime – Ken Wheeler, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: How to Make Your Apps Fast and Keep Your Boss Happy\n\nIn this talk I’ll explore a variety of techniques one can employ to ensure that their apps are running at peak performance. With a couple of small tweaks, you can make perf a built in.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPjD8qPuKJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPjD8qPuKJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPjD8qPuKJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YPjD8qPuKJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YPjD8qPuKJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YPjD8qPuKJw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "YPjD8qPuKJw",
+        "videoPublishedAt": "2021-05-26T09:15:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yqznhRKv0luxwDrQaM-1yv9KsnA",
+      "id": "UExOQk5TN05SR0tNRXRITXRWOWFwSVF3TXNyMjBseE9BRS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-05-26T09:14:02Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "RedwoodJS: The Full-Stack React App Framework – Tom Preston-Werner, React Summit Remote Edition 2021",
+        "description": "React Summit Remote Edition 2021 #ReactSummit\nWebsite – https://remote.reactsummit.com/\n\nWatch the full version of all the conference talks including QnA sessions on GitNation Video platform, follow the link → http://bit.ly/rsre2021-yt-talks-qna\n\nTalk: RedwoodJS: The Full-Stack React App Framework of Your Dreams\n\nTired of rebuilding your React-based web framework from scratch for every new project? You're in luck! RedwoodJS is a full-stack web application framework (think Rails but for JS/TS devs) based on React, Apollo GraphQL, and Prisma 2. We do the heavy integration work so you don't have to. We also beautifully integrate Jest and Storybook, and offer built-in solutions for declarative data fetching, authentication, pre-rendering, logging, a11y, and tons more. Deploy to Netlify, Vercel, or go oldschool on AWS or bare metal. In this talk you'll learn about the RedwoodJS architecture, see core features in action, and walk away with a sense of wonder and awe in your heart.\n\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\n\nFocus Reactive → https://focusreactive.com/\nNx → https://nx.dev/\nAWS Amplify  → https://docs.amplify.aws/\nWP Engine → https://wpengine.com/\nShopify → https://shopify.engineering/\nRangle → https://rangle.io/\n\n🥇 Gold Sponsors\nRollbar → https://rollbar.com/product/\nMUX → https://mux.com/\nJetBrains → https://www.jetbrains.com/\nMicrosoft → https://aka.ms/devopsjsfm\nStoryblok → https://www.storyblok.com/\nCloudinary → https://cloudinary.com/ \nCleo → https://www.meetcleo.com/ \nPrismic → https://prismic.io/  \nG2i  → https://www.g2i.co/\nNetlify → https://www.netlify.com/\nDataDog → https://www.datadoghq.com/\n\n🥈 Silver Sponsors\nStackHawk → https://www.stackhawk.com/\nKontent → https://kontent.ai/\nMagic → https://magic.link/\nAldeia → https://aldeia.world/\nNacelle → https://nacelle.com/\nInfluxdata → https://www.influxdata.com/\nProgress KendoReact → https://www.telerik.com/\nNeo4j→https://neo4j.com/\nTara → https://tara.ai/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J21zOUhHjl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J21zOUhHjl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J21zOUhHjl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J21zOUhHjl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J21zOUhHjl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMEtHMtV9apIQwMsr20lxOAE",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J21zOUhHjl4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "J21zOUhHjl4",
+        "videoPublishedAt": "2021-05-26T09:15:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 16,
     "resultsPerPage": 50
   }
 }
