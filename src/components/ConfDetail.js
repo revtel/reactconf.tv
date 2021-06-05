@@ -18,6 +18,7 @@ function ConfDetail(props) {
   const [tranState, setTranState] = React.useState(TranState.NONE);
   const [showDetail, setShowDetail] = React.useState(false);
   const [confDetail, setConfDetail] = React.useState(null);
+  const [loadingProgress, setLoadingProgress] = React.useState(false);
   const app = React.useContext(AppContext.Context);
 
   React.useEffect(() => {
@@ -50,12 +51,15 @@ function ConfDetail(props) {
         await delay(50);
         setTranState(TranState.DEST);
 
-        const results = await Promise.all([
-          delay(300),
+        setLoadingProgress(true);
+        // eslint-disable-next-line no-unused-vars
+        const [_, resp] = await Promise.all([
+          delay(600),
           app.actions.fetchPlaylistItems(selectedConf.item.id),
         ]);
+        setLoadingProgress(false);
 
-        setConfDetail(results[1]);
+        setConfDetail(resp);
         setShowDetail(true);
       }
     }
@@ -65,6 +69,7 @@ function ConfDetail(props) {
 
   async function animOut() {
     setShowDetail(false);
+    setLoadingProgress(false);
     await delay(500);
     setTranState(TranState.SRC);
     await delay(300);
@@ -93,8 +98,12 @@ function ConfDetail(props) {
     <Wrapper
       displayInfo={displayData}
       showDetail={showDetail}
+      loadingProgress={loadingProgress}
       onClick={animOut}>
-      <img src={data.imgSrc} alt="conference" />
+      <figure>
+        <img src={data.imgSrc} alt="conference" />
+        <div className="spinner" />
+      </figure>
       <section>
         {conf && (
           <>
@@ -130,16 +139,46 @@ const Wrapper = styled.div`
   opacity: ${(props) => (props.displayInfo.visible ? 1 : 0)};
   transition: 200ms;
 
-  & > img {
+  @keyframes conf-loading {
+    0% {
+      width: 0%;
+      opacity: 0;
+    }
+    100% {
+      width: 100%;
+      opacity: 1;
+    }
+  }
+
+  & > figure {
     position: absolute;
     top: ${(props) => props.displayInfo.top}px;
     left: ${(props) => props.displayInfo.left}px;
     width: ${(props) => props.displayInfo.width}px;
     height: ${(props) => props.displayInfo.height}px;
     opacity: ${(props) => (props.displayInfo.visible ? 1 : 0)};
-    object-fit: cover;
     transition: 200ms;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.75), 0 15px 12px rgba(0, 0, 0, 0.6);
+    margin: 0;
+    padding: 0;
+
+    & > img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    & > .spinner {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 4px;
+      background-color: red;
+
+      ${(props) =>
+        props.loadingProgress &&
+        `animation: conf-loading 600ms infinite backwards;`};
+    }
   }
 
   & > section {
