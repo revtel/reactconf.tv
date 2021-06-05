@@ -1,6 +1,8 @@
 import React from 'react';
 import styled, {css} from 'styled-components';
 
+const ThemeColor = '#61DAFB';
+
 export const AbsCoverAll = styled.div`
   position: absolute;
   top: 0;
@@ -65,15 +67,15 @@ const ButtonBase = styled.button`
 `;
 
 const ButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#4f77e2'};
-  background-color: ${(props) => props.color || '#4f77e2'};
-  color: white;
+  border: 1px solid ${(props) => props.color || ThemeColor};
+  background-color: ${(props) => props.color || ThemeColor};
+  color: black;
 `;
 
 const OutlineButtonWrapper = styled(ButtonBase)`
-  border: 1px solid ${(props) => props.color || '#4f77e2'};
+  border: 1px solid ${(props) => props.color || 'black'};
   background-color: white;
-  color: ${(props) => props.color || '#4f77e2'};
+  color: ${(props) => props.color || 'black'};
 `;
 
 const TextButtonWrapper = styled(ButtonBase)`
@@ -85,9 +87,9 @@ export const Badge = styled.div`
   font-weight: bold;
   height: 24px;
   min-width: 24px;
-  color: #4f77e2;
+  color: ${ThemeColor};
   border-radius: 5px;
-  border: 2px solid #4f77e2;
+  border: 2px solid ${ThemeColor};
   font-size: 12px;
   display: flex;
   align-items: center;

@@ -8,6 +8,8 @@ import {BookHeart} from '@styled-icons/boxicons-regular';
 import {Context} from '../AppContext';
 import Search from '../components/Search';
 
+const iconSize = 32;
+
 function NavBar(props) {
   const {
     selectedChannel,
@@ -77,16 +79,38 @@ function NavBar(props) {
     <NavBarWrapper transparent={transparent}>
       <Widgets.MaxWidthCenter
         maxWidth={1180}
-        style={{padding: 12, position: 'relative'}}>
+        style={{
+          padding: 12,
+          position: 'relative',
+        }}>
+        <SiteTitle hide={showCenterTitle}>
+          <img src={ReactLogo} alt="logo" />
+          <div>ReactConf.TV</div>
+        </SiteTitle>
+
         <CenterTitle
           hide={!showCenterTitle}
           style={{textAlign: 'center', flex: 1}}>
           {explicitTitle || title}
         </CenterTitle>
 
-        <SiteTitle hide={showCenterTitle}>
-          <img src={'../images/logo-dark-2.png'} alt="logo" width="180" />
-        </SiteTitle>
+        <RightActions hide={showCenterTitle}>
+          <BookHeart
+            className="btn"
+            color="white"
+            size={iconSize}
+            style={{marginRight: 10}}
+            onClick={() => navigate('/favorites')}
+          />
+          <LogoGithub
+            className="btn"
+            color="white"
+            size={iconSize}
+            onClick={() => {
+              window.open('https://github.com/revtel/reactconf-tv');
+            }}
+          />
+        </RightActions>
 
         <BackButton
           hide={!showCenterTitle}
@@ -97,26 +121,8 @@ function NavBar(props) {
             }
             setSelectedChannel(null);
           }}>
-          <ArrowBack color="white" size={24} />
+          <ArrowBack color="white" size={iconSize} />
         </BackButton>
-
-        <RightActions hide={showCenterTitle}>
-          <BookHeart
-            className="btn"
-            color="white"
-            size={33}
-            style={{marginRight: 10}}
-            onClick={() => navigate('/favorites')}
-          />
-          <LogoGithub
-            className="btn"
-            color="white"
-            size={33}
-            onClick={() => {
-              window.open('https://github.com/revtel/reactconf-tv');
-            }}
-          />
-        </RightActions>
       </Widgets.MaxWidthCenter>
     </NavBarWrapper>
   );
@@ -149,34 +155,45 @@ const SiteTitle = styled(TitleText)`
   position: absolute;
   top: 12px;
   left: 20px;
+  display: flex;
+  align-items: center;
+
+  & > img {
+    width: ${iconSize}px;
+    height: ${iconSize}px;
+    object-fit: contain;
+    margin-right: 10px;
+  }
 `;
 
 const CenterTitle = styled(TitleText)`
   transform: translateY(${(props) => (props.hide ? '-80px' : '0px')});
 `;
 
-const BackButton = styled.div`
+const CornerActions = styled.div`
   position: absolute;
-  top: 18px;
-  left: 20px;
+  top: 12px;
   opacity: ${(props) => (props.hide ? 0 : 1)};
   transition: 300ms;
+`;
+
+const BackButton = styled(CornerActions)`
+  left: 20px;
   pointer-events: ${(props) => (props.hide ? 'none' : 'auto')};
   cursor: pointer;
 `;
 
-const RightActions = styled.div`
-  position: absolute;
-  top: 12px;
+const RightActions = styled(CornerActions)`
   right: 20px;
   display: flex;
   align-items: center;
-  opacity: ${(props) => (props.hide ? 0 : 1)};
-  transition: 300ms;
 
   & > .btn {
     cursor: pointer;
   }
 `;
+
+const ReactLogo =
+  'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K';
 
 export default NavBar;

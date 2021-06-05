@@ -21,11 +21,8 @@ function ConfItem(props) {
           onWatchClick(item);
         }}>
         <div style={{display: 'flex', alignItems: 'center'}}>
-          <PlayArrow size={18} color={'#4f77e2'} />
-          <div
-            style={{
-              color: '#4f77e2',
-            }}>{`${item.totalCount} Talks`}</div>
+          <PlayArrow size={18} color={'red'} />
+          <div style={{color: 'black'}}>{`${item.totalCount} Talks`}</div>
         </div>
       </Widgets.Button>
     </Wrapper>

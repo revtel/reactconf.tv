@@ -25,7 +25,7 @@ const ProgressWrapper = styled.div`
 
   & > .not-watched {
     flex: ${(props) => 100 - props.percentage};
-    background-color: grey;
+    background-color: black;
   }
 `;
 

@@ -41,7 +41,7 @@ function SelectChannelBtn(props) {
             </div>,
           );
         }}>
-        <List color="white" size={26} />
+        <List color="black" size={26} />
       </CircleBtn>
     </>
   );
@@ -54,7 +54,7 @@ const CircleBtn = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #4f77e2;
+  background-color: #61dafb;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   cursor: pointer;
   border: none;

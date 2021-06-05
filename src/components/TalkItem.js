@@ -5,7 +5,6 @@ import * as Widgets from './Widgets';
 import * as AppContext from '../AppContext';
 import ProgressBar from './ProgressBar';
 import {
-  CheckCircle,
   CheckBox,
   CheckBoxOutlineBlank,
   PlayCircleOutline,
@@ -15,176 +14,154 @@ import useFavoriteState from '../hooks/useFavoriteState';
 
 function TalkItem(props) {
   const {confId, talk, idx, currIdx, onItemClick, showThumbnail = true} = props;
+  const largeThumbnail = showThumbnail;
   const app = React.useContext(AppContext.Context);
   const videoId = talk.videoId;
-  const progress = (app.videoProgressCache || {})[videoId];
-  const duration = (app.videoDurationCache || {})[videoId];
-  const finished = (app.videoFinishedCache || {})[videoId];
+  const progress = app.videoProgressCache[videoId];
+  const duration = app.videoDurationCache[videoId];
+  const finished = app.videoFinishedCache[videoId];
   const {isInFavorite, toggleFavoriteState} = useFavoriteState({
     confId,
     talkIdx: idx,
   });
 
   const isPlaying = idx !== undefined && idx === currIdx;
+  const percentage = (duration && 100 * (progress / duration)) || 0;
 
   return (
-    <TalkItemWrapper>
-      {showThumbnail && (
-        <div className="talk-thumb">
+    <TalkItemWrapper largeThumbnail={largeThumbnail}>
+      {largeThumbnail && (
+        <Figure style={{width: '100%'}}>
           <img src={talk.thumbnail} alt="snapshot for the talk" />
-          {idx !== undefined && <div className="idx">{idx + 1}</div>}
-        </div>
+        </Figure>
       )}
 
-      <div className={'talk-title'}>
-        <Progress progress={progress} duration={duration} finished={finished} />
+      <div className={'description'}>
+        {!largeThumbnail && (
+          <Figure
+            style={{
+              width: 112,
+              height: 70,
+              margin: '10px 0 10px 10px',
+              paddingBottom: 0,
+            }}>
+            <img src={talk.thumbnail} alt="snapshot for the talk" />
+          </Figure>
+        )}
 
-        <div style={{padding: '0px 10px 10px 10px'}}>
-          <div style={{marginBottom: 10}}>{talk.title}</div>
+        <div style={{padding: 10, flex: 1}}>
+          <div style={{display: 'flex', alignItems: 'center'}}>
+            {isPlaying && (
+              <Label style={{background: 'green'}}>Now Playing</Label>
+            )}
+            {finished && <Label style={{background: 'grey'}}>Finished</Label>}
+          </div>
 
-          <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
-            <Widgets.Button
-              type="text"
-              onClick={(evt) => {
-                evt.stopPropagation();
-                if (onItemClick) {
-                  onItemClick({talk, idx});
-                } else {
-                  navigate(`/player?conf=${confId}&idx=${idx}`);
-                }
-              }}>
-              <PlayCircleOutline size={28} color={'red'} />
-            </Widgets.Button>
-
-            <Widgets.Button
-              type="text"
-              onClick={(evt) => {
-                evt.stopPropagation();
-                toggleFavoriteState({
-                  title: talk.title,
-                  thumbnail: talk.thumbnail,
-                });
-              }}>
-              {isInFavorite ? (
-                <HeartFill size={24} color={'red'} />
-              ) : (
-                <Heart size={24} color={'red'} />
-              )}
-            </Widgets.Button>
-
-            <Widgets.Button
-              type="text"
-              onClick={(evt) => {
-                evt.stopPropagation();
-                app.actions.setVideoFinished(videoId, finished ? false : true);
-              }}>
-              {finished ? (
-                <CheckBox size={26} color={'red'} />
-              ) : (
-                <CheckBoxOutlineBlank size={26} color={'red'} />
-              )}
-            </Widgets.Button>
-          </Widgets.FlexRow>
+          <div style={{fontSize: 16}}>{talk.title}</div>
         </div>
       </div>
 
-      {isPlaying && <div className="now-playing">Now Playing</div>}
+      <Widgets.FlexRow style={{justifyContent: 'flex-end'}}>
+        <Widgets.Button
+          type="text"
+          onClick={(evt) => {
+            evt.stopPropagation();
+            if (onItemClick) {
+              onItemClick({talk, idx});
+            } else {
+              navigate(`/player?conf=${confId}&idx=${idx}`);
+            }
+          }}>
+          <PlayCircleOutline size={28} color={'red'} />
+        </Widgets.Button>
+
+        <Widgets.Button
+          type="text"
+          onClick={(evt) => {
+            evt.stopPropagation();
+            toggleFavoriteState({
+              title: talk.title,
+              thumbnail: talk.thumbnail,
+            });
+          }}>
+          {isInFavorite ? (
+            <HeartFill size={24} color={'red'} />
+          ) : (
+            <Heart size={24} color={'red'} />
+          )}
+        </Widgets.Button>
+
+        <Widgets.Button
+          type="text"
+          onClick={(evt) => {
+            evt.stopPropagation();
+            app.actions.setVideoFinished(videoId, finished ? false : true);
+          }}>
+          {finished ? (
+            <CheckBox size={26} color={'red'} />
+          ) : (
+            <CheckBoxOutlineBlank size={26} color={'red'} />
+          )}
+        </Widgets.Button>
+      </Widgets.FlexRow>
+
+      {idx !== undefined && <Idx>{idx + 1}</Idx>}
+      <ProgressBar percentage={finished ? 100 : percentage} />
     </TalkItemWrapper>
   );
 }
 
 const TalkItemWrapper = styled.div`
   margin-bottom: 10px;
-  padding-bottom: 5px;
   position: relative;
   overflow: visible;
+  background-color: white;
 
-  & .talk-thumb {
+  & > .description {
     width: 100%;
-    padding-bottom: 56.25%;
-    position: relative;
-    background-color: #ccc;
-
-    & > img {
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    & > .idx {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 30px;
-      height: 30px;
-      line-height: 30px;
-      text-align: center;
-      background-color: #4f77e2;
-      color: white;
-    }
-  }
-
-  & .talk-title {
-    width: 100%;
-    color: gray;
     font-size: 14px;
     font-family: Roboto;
-    letter-spacing: 1px;
-    background-color: white;
-    margin-bottom: 5px;
-  }
-
-  & .now-playing {
-    position: absolute;
-    top: -10px;
-    right: -10px;
-    padding: 10px;
-    background-color: #4f77e2;
-    color: white;
-    z-index: 12;
+    display: flex;
+    color: black;
   }
 `;
 
-function Progress(props) {
-  const {progress, duration, finished} = props;
+const Label = styled.label`
+  font-size: 11px;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+  margin: 0 6px 8px 0;
+`;
 
-  if (finished || progress === undefined || duration === undefined) {
-    return (
-      <>
-        <ProgressBar percentage={finished ? 100 : 0} />
-        <Widgets.FlexRow style={{justifyContent: 'flex-end', padding: 5}}>
-          {finished && (
-            <CheckCircle size={20} color="#46cb18" style={{margin: 3}} />
-          )}
-          <div
-            style={{
-              color: finished ? '#46cb18' : 'black',
-              fontWeight: finished ? 'bold' : 'normal',
-            }}>
-            {finished ? 'FINISHED' : 'NOT STARTED'}
-          </div>
-        </Widgets.FlexRow>
-      </>
-    );
+const Figure = styled.figure`
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: #ccc;
+  width: 100%;
+  padding-bottom: 56.25%;
+
+  & > img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
+`;
 
-  const percentage = 100 * (progress / duration);
-  const currMin = ('00' + Math.floor(progress / 60).toString()).slice(-2);
-  const currSec = ('00' + Math.floor(progress - currMin * 60).toString()).slice(
-    -2,
-  );
-
-  return (
-    <>
-      <ProgressBar percentage={percentage} />
-      <Widgets.FlexRow style={{justifyContent: 'flex-end', padding: 5}}>
-        {`Currently in ${currMin}:${currSec}`}
-      </Widgets.FlexRow>
-    </>
-  );
-}
+const Idx = styled.div`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #4f77e2;
+  color: white;
+`;
 
 export default TalkItem;
