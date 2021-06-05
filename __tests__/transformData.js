@@ -16,6 +16,10 @@ describe('transformData', () => {
             thumbnail: 'https://i.ytimg.com/vi/QnZHO7QvjaM/mqdefault.jpg',
             thumbnailStd: 'https://i.ytimg.com/vi/QnZHO7QvjaM/sddefault.jpg',
             totalCount: 27,
+            description: '',
+            publishedAt: '2019-10-31T01:42:43Z',
+            channelId: 'UCz5vTaEhvh7dOHEyd1efcaQ',
+            channelTitle: 'React Conf',
           },
         ],
       },
@@ -29,6 +33,11 @@ describe('transformData', () => {
         title:
           'Jonas Gebhardt - Evolving the Visual Programming Environment with React at react-europe 2016',
         thumbnail: 'https://i.ytimg.com/vi/WjJdaDXN5Vs/sddefault.jpg',
+        description:
+          'Tools shape our thinking. The "React Way" of thinking has already found many applications beyond building user interfaces. Particularly, React\'s functional, component-based design makes it an ideal candidate for building a better Visual Programming Environment. We\'ll examine how to overcome challenges such as lack of standardized APIs and limits of composition, and show how we can drastically improve the way humans create digital artifacts today.',
+        publishedAt: '2016-06-05T09:44:59Z',
+        channelId: 'UCorlLn2oZfgOJ-FUcF2eZ1A',
+        channelTitle: 'ReactEurope',
       },
     ]);
   });

@@ -10,6 +10,10 @@ function transformAllChannelsData(channels) {
           thumbnail: confEvent.snippet.thumbnails.medium?.url,
           thumbnailStd: confEvent.snippet.thumbnails.standard?.url,
           totalCount: confEvent.contentDetails.itemCount,
+          description: confEvent.snippet.description,
+          publishedAt: confEvent.snippet.publishedAt,
+          channelId: confEvent.snippet.channelId,
+          channelTitle: confEvent.snippet.channelTitle,
         };
       }),
     };
@@ -24,6 +28,10 @@ function transformConfEventData(confEvent) {
         videoId: talk.snippet.resourceId.videoId,
         title: talk.snippet.title,
         thumbnail: talk.snippet.thumbnails.standard?.url,
+        description: talk.snippet.description,
+        publishedAt: talk.snippet.publishedAt,
+        channelId: talk.snippet.channelId,
+        channelTitle: talk.snippet.channelTitle,
       };
     }),
   };
