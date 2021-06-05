@@ -19,40 +19,31 @@ import WidgetWithCollapse from '../components/WidgetWithCollapse';
 function LandingPage(props) {
   const app = React.useContext(AppContext.Context);
   const [selectedChannel, setSelectedChannel] = React.useState(null);
-
-  const channels = app.actions.getAllChannelsData(props.pageContext);
-  const confById = React.useMemo(() => {
-    const resultMap = {};
-    for (const channel of channels) {
-      for (const conf of channel.items) {
-        resultMap[conf.id] = conf;
-      }
-    }
-    return resultMap;
-  }, [channels]);
-
-  React.useEffect(() => {
-    app.actions.showGlobalSpinner();
-  }, [selectedChannel, app.actions]);
-
-  const historyCache = app.watchHistoryCache || {};
-
-  const recentWatchedConfs = Object.keys(historyCache)
-    .map((k) => ({
-      conf: confById[k],
-      ...historyCache[k],
-    }))
-    .sort((a, b) => b.timestamp - a.timestamp);
+  const {channels} = props.pageContext;
+  const confById = React.useMemo(
+    () =>
+      channels.reduce((acc, channel) => {
+        for (const conf of channel.items) {
+          acc[conf.id] = conf;
+        }
+        return acc;
+      }, {}),
+    [channels],
+  );
 
   const confListByYear = groupConfByYear(
     selectedChannel ? [selectedChannel] : channels,
   );
 
   const classicVideos = getMostViewed();
-
   const top10Videos = getTop10Videos();
-
   const newReleaseVideos = getNewReleases();
+  const recentWatchedConfs = Object.keys(app.watchHistoryCache)
+    .map((k) => ({
+      conf: confById[k],
+      ...app.watchHistoryCache[k],
+    }))
+    .sort((a, b) => b.timestamp - a.timestamp);
 
   return (
     <>

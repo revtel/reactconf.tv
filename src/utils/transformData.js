@@ -1,3 +1,6 @@
+// This file has been included both in build time and runtime.
+// So we avoid using syntax such as optional channing, and export it with commonjs convention
+
 function transformAllChannelsData(channels) {
   return channels.map((ch) => {
     return {
@@ -7,8 +10,12 @@ function transformAllChannelsData(channels) {
         return {
           id: confEvent.id,
           title: confEvent.snippet.title,
-          thumbnail: confEvent.snippet.thumbnails.medium?.url,
-          thumbnailStd: confEvent.snippet.thumbnails.standard?.url,
+          thumbnail:
+            confEvent.snippet.thumbnails.medium &&
+            confEvent.snippet.thumbnails.medium.url,
+          thumbnailStd:
+            confEvent.snippet.thumbnails.standard &&
+            confEvent.snippet.thumbnails.standard.url,
           totalCount: confEvent.contentDetails.itemCount,
           description: confEvent.snippet.description,
           publishedAt: confEvent.snippet.publishedAt,
@@ -27,7 +34,9 @@ function transformConfEventData(confEvent) {
       return {
         videoId: talk.snippet.resourceId.videoId,
         title: talk.snippet.title,
-        thumbnail: talk.snippet.thumbnails.standard?.url,
+        thumbnail:
+          talk.snippet.thumbnails.standard &&
+          talk.snippet.thumbnails.standard.url,
         description: talk.snippet.description,
         publishedAt: talk.snippet.publishedAt,
         channelId: talk.snippet.channelId,
@@ -37,4 +46,7 @@ function transformConfEventData(confEvent) {
   };
 }
 
-export {transformAllChannelsData, transformConfEventData};
+module.exports = {
+  transformAllChannelsData,
+  transformConfEventData,
+};

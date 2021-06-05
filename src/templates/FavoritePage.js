@@ -11,10 +11,6 @@ function FavoritePage(props) {
   const favorites = app.favoriteCache || [];
   const {dimension} = useDimension();
 
-  React.useEffect(() => {
-    app.actions.showGlobalSpinner();
-  }, [app.actions]);
-
   function calcGridLayout() {
     if (!dimension) {
       return null;

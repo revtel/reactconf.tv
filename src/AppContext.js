@@ -1,9 +1,6 @@
 import React from 'react';
 import * as idbKeyval from 'idb-keyval';
-import {
-  transformAllChannelsData,
-  transformConfEventData,
-} from './utils/transformData';
+import {transformConfEventData} from './utils/transformData';
 import {getNewOutlet} from 'reconnect.js';
 
 const Context = React.createContext();
@@ -15,42 +12,24 @@ getNewOutlet('selectedConf', null, {autoDelete: false});
 // this global is initialised when Provider mounted, so we won't run into build errors
 let VideoStore = null;
 
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 class Provider extends React.Component {
   constructor(props) {
     super(props);
     console.log('App initialization');
+
+    this.watchHistoryCache = {};
+    this.videoProgessCache = {};
+    this.videoDurationCache = {};
+    this.videoFinishedCache = {};
 
     this.actions = {
       setLoading: (loading) => {
         SpinnerOutlet.update(loading);
       },
 
-      showGlobalSpinner: async ({ms = 1000, scrollToTop = true} = {}) => {
-        await delay(20);
-        SpinnerOutlet.update(true);
-        await delay(ms);
-        SpinnerOutlet.update(false);
-        if (scrollToTop) {
-          if (typeof window !== 'undefined') {
-            window.scrollTo({top: 0, behavior: 'smooth'});
-          }
-        }
-      },
-
       setToast: (toastContent) => ToastOutlet.update(toastContent),
 
       setModal: (modalContent) => ModalOutlet.update(modalContent),
-
-      getAllChannelsData: (pageContext) => {
-        if (!this._confChannels) {
-          this._confChannels = transformAllChannelsData(
-            pageContext.confChannels,
-          );
-        }
-        return this._confChannels;
-      },
 
       fetchPlaylistItems: async (playlistId) => {
         const resp = await fetch(`/playlistitems/${playlistId}.json`);

@@ -3,6 +3,7 @@ const path = require('path');
 const util = require('util');
 const readFile = util.promisify(fs.readFile);
 const {matchConferenceByTitle} = require('./src/utils/matchConferenceByTitle');
+const {transformAllChannelsData} = require('./src/utils/transformData');
 
 exports.createPages = async ({graphql, actions}) => {
   const {createPage} = actions;
@@ -58,32 +59,28 @@ exports.createPages = async ({graphql, actions}) => {
     }
   }
 
-  const confChannels = Object.keys(confChannelMap).map(
-    (key) => confChannelMap[key],
-  );
+  const baseContext = {
+    ytChannels,
+    channels: transformAllChannelsData(
+      Object.keys(confChannelMap).map((key) => confChannelMap[key]),
+    ),
+  };
 
   createPage({
     path: `/`,
     component: path.resolve(`src/templates/LandingPage.js`),
-    context: {
-      ytChannels,
-      confChannels,
-    },
+    context: baseContext,
   });
 
   createPage({
     path: `/player`,
     component: path.resolve(`src/templates/PlayerPage.js`),
-    context: {
-      ytChannels,
-    },
+    context: baseContext,
   });
 
   createPage({
     path: `/favorites`,
     component: path.resolve(`src/templates/FavoritePage.js`),
-    context: {
-      ytChannels,
-    },
+    context: baseContext,
   });
 };
