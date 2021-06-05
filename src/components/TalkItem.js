@@ -160,8 +160,8 @@ const Idx = styled.div`
   height: 30px;
   line-height: 30px;
   text-align: center;
-  background-color: #4f77e2;
-  color: white;
+  background-color: #61dafb;
+  color: black;
 `;
 
 export default TalkItem;
