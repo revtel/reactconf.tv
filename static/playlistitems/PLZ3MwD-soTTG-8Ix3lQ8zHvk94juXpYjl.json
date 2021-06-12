@@ -1,0 +1,54 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "OJI_vkQK7K3T2LFce9bJjF9tnfg",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y3G6nUUG10ZU8oPjG2gebYo8jGs",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-06-09T16:05:10Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Grabbou invites you to React Native EU call for papers!",
+        "description": "Fast & (non)furious announcement from our favorite Mike Grabowski aka @grabbou!\nCheck this out... and submit your talk now!\nhttps://hubs.li/H0PX1sl0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N0xAr9TFF44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N0xAr9TFF44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N0xAr9TFF44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N0xAr9TFF44"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "N0xAr9TFF44",
+        "videoPublishedAt": "2021-06-09T16:09:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
