@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "uMCcVrvsfGbwGpsOxB06zCxOarI",
+  "etag": "FlgiR4Xs5IXydjMria4LgJpmquM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Fao3DLYE-BO0TqGTS9gmOxOSHk4",
+      "etag": "k-wmQqXPD96VfEAfgDxPbJBxKfg",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DQ0MyQ0Y4Mzg0M0VGOEYw",
       "snippet": {
         "publishedAt": "2020-03-25T10:25:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Mocking is hard. No it’s not! – Mattia Assogna",
-        "description": "Video recording from February 2019 meetup https://www.meetup.com/React-Amsterdam/events/257858463/\n\nTesting is considered as standard practice in our industry. We use libraries to mock dependencies to test our code in isolation (e.g. services used in our React components). We take them for granted, assuming that they function correctly, probably by magic! Are mocking libraries “magic”?\n\nJoin Mattia to find out what libraries, such as Jest, are doing under the hood as you write your own mock testing library.\n\nAbout Mattia\nHe loves shell scripting; he literally lives in the terminal (that’s probably why he uses VIM). Other than getting his hands dirty with React, RxJS and Mobx, he is also passionate about cyber security and Motorbikes.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Video recording from February 2019 meetup https://www.meetup.com/React-Amsterdam/events/257858463/\n\nTesting is considered as standard practice in our industry. We use libraries to mock dependencies to test our code in isolation (e.g. services used in our React components). We take them for granted, assuming that they function correctly, probably by magic! Are mocking libraries “magic”?\n\nJoin Mattia to find out what libraries, such as Jest, are doing under the hood as you write your own mock testing library.\n\nAbout Mattia\nHe loves shell scripting; he literally lives in the terminal (that’s probably why he uses VIM). Other than getting his hands dirty with React, RxJS and Mobx, he is also passionate about cyber security and Motorbikes.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/BEKervhdVPI/default.jpg",
@@ -58,13 +58,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "klS_EtoCWu9g2PYFBi-6qLSJkyw",
+      "etag": "e9NbQnxTDWJg8ShhVepAqOjPoao",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
         "publishedAt": "2018-10-28T15:16:11Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Using ReasonML in your next React project - Roy Derks",
-        "description": "Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nReasonML is based on the OCaml programming language and was created at Facebook, by the same creator as React! It shares a lot of features, but with the benefits of a statically typed functional programming language. ReasonML compiles to JavaScript and can therefore be used to create strongly typed React applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nReasonML is based on the OCaml programming language and was created at Facebook, by the same creator as React! It shares a lot of features, but with the benefits of a statically typed functional programming language. ReasonML compiles to JavaScript and can therefore be used to create strongly typed React applications.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/x1UO-_a8GL0/default.jpg",
@@ -112,13 +112,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GNjYkXjJ616bblPne5tjC_dnXX4",
+      "etag": "vys42oqZzHRYGhGeXm_uVuwfCQw",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
         "publishedAt": "2018-10-28T15:16:03Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Framer X: React meets design - Eelco Lempsink",
-        "description": "Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nFramer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Video recording from October 2018 meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\nFramer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/kBFpY31RooI/default.jpg",
@@ -166,13 +166,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pqjNUfj8DYUSLWp0PjxwQFmX0QI",
+      "etag": "NpFQl8emm4AVojSnKxR_QzWv6hE",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2018-10-28T15:15:41Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam Meetup - Oct 2018: Framer X, ReasonML & Auto component conversion",
-        "description": "Live stream of our Oct meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Live stream of our Oct meetup https://www.meetup.com/React-Amsterdam/events/254740642/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/default.jpg",
@@ -210,13 +210,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EFWDMpGea8IpVVBNP9YkzKHp5ZU",
+      "etag": "xMlTSPX9O_JIFEf7orvzy8HG_SM",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2018-03-04T14:58:39Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Breaking The Silence: Screen Readers and React Apps - Almero Steyn",
-        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Breaking The Silence: Screen Readers and React Apps\n\nWhen you rely on screen reader software to browse the internet, every important app update should be read out to you. However, this is often not the case in React applications, preventing many people from enjoying the awesome apps we make. Almero Steyn will put you in their shoes and then show you how to solve these issues easily and dependably. Many will thank you for it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Breaking The Silence: Screen Readers and React Apps\n\nWhen you rely on screen reader software to browse the internet, every important app update should be read out to you. However, this is often not the case in React applications, preventing many people from enjoying the awesome apps we make. Almero Steyn will put you in their shoes and then show you how to solve these issues easily and dependably. Many will thank you for it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/tjk3sGKqv4k/default.jpg",
@@ -264,13 +264,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VFbKveXE0JwmQHk4a1t81B1KTGE",
+      "etag": "jGt5vN-YPVtPTVB4zV3OCv9Q-zM",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2018-03-04T14:57:40Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Sending Email With React and AWS Lambda - David Baumgold",
-        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Sending Email With React and AWS Lambda\n\nRendering templates is slow, and sending transactional email means rendering a LOT of templates. At Impraise, we built a system to handle rendering and sending email templates using AWS Lambda and server-side React. Now, our backend can simply call an API, and let Lambda handle the complicated part, and we'll gladly share details with you!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Sending Email With React and AWS Lambda\n\nRendering templates is slow, and sending transactional email means rendering a LOT of templates. At Impraise, we built a system to handle rendering and sending email templates using AWS Lambda and server-side React. Now, our backend can simply call an API, and let Lambda handle the complicated part, and we'll gladly share details with you!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/KN7VDUuhnkk/default.jpg",
@@ -318,13 +318,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1gBXWyiKEPh8w0rp7DdsnLHlZKo",
+      "etag": "UeWjdbs-NEgQXGssaUC-h-OJhkI",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2018-03-04T14:56:12Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Avoiding D3 Spaghetti With React - Finn Fitzsimons",
-        "description": "Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Avoiding D3 Spaghetti With React\n\nA fresh look at how React can be used to make reusable, animated visualization components. Finn Fitzsimons will break down the challenges involved and by using the animation performance of D3 combined with declarative nature of React you can create any visualization imaginable in a fraction of the time.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Feb Meetup - https://www.meetup.com/React-Amsterdam/events/247081274/\n\n# Avoiding D3 Spaghetti With React\n\nA fresh look at how React can be used to make reusable, animated visualization components. Finn Fitzsimons will break down the challenges involved and by using the animation performance of D3 combined with declarative nature of React you can create any visualization imaginable in a fraction of the time.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/NKm3UDUNOME/default.jpg",
@@ -372,13 +372,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CwR0qIem13xengHKbh_KTss7CSc",
+      "etag": "SnTawTeCSEAKbML9CmiyZIuKf_k",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2018-02-21T09:46:42Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam Meetup - Feb 2018: Declarative D3, Serverless React, A11y + React",
-        "description": "Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Live stream of our Feb meetup https://www.meetup.com/React-Amsterdam/events/247081274/\n\n4:50 \"Avoiding D3 Spaghetti With React\" by Finn Fitzsimons\n29:15 \"Sending Email With React and AWS Lambda\" by David Baumgold\n1:07:35 \"Breaking The Silence: Screen Readers and React Apps\" by Almero Steyn\n\n* Sorry for sound issues during the first talk, fixed for the second two.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/default.jpg",
@@ -416,13 +416,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "--wii9ES2BKMopklYfob-Lf9i5k",
+      "etag": "5-5bsDytHsUJVA6dICaGx34mxxc",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2017-11-22T14:24:49Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Shared Element Transition with React Native - Narendra N Shetty",
-        "description": "Talk recording from React Native Amsterdam Meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Native Amsterdam Meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/8O5zOSEemUM/default.jpg",
@@ -470,13 +470,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6KqJ_QQiKVKwFAnj1vk3GGZcoiI",
+      "etag": "J26878oGFWwGYoL769GabRab17A",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2017-11-16T12:08:13Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Native Amsterdam Meetup - November 2017: Navigating To Success",
-        "description": "13:50 \"Making sense of ReactNative Navigator\" by Léon Smit\n37:00 \"Shared Element Transition with React Native\" by Narendra N Shetty\n\nLive stream of our Autumn meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 13:50 \"Making sense of ReactNative Navigator\" by Léon Smit\n37:00 \"Shared Element Transition with React Native\" by Narendra N Shetty\n\nLive stream of our Autumn meetup https://www.meetup.com/React-Native-Amsterdam/events/242948412/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/6vgTgxkGVC0/default.jpg",
@@ -514,13 +514,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9eCZH5pYOB0Vwjs4k8H1Mj0N4dE",
+      "etag": "vHuWpIx0dSXEUa55bGL05RlqZ8A",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2017-10-21T15:57:39Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React and the Three Layers of Testing - Bart Waardenburg",
-        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nI will discuss our Three Layers of Testing (tm) we use when developing new features for one of our high traffic web applications at the ANWB. (1) Unit testing React & Redux Components, (2) Behavioural testing our interactive React Components and (3) Integration testing our entire application.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nI will discuss our Three Layers of Testing (tm) we use when developing new features for one of our high traffic web applications at the ANWB. (1) Unit testing React & Redux Components, (2) Behavioural testing our interactive React Components and (3) Integration testing our entire application.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/L2yOoxzXmw8/default.jpg",
@@ -568,13 +568,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T01qOzBeDMRqqWDaG5ILwfrxpNw",
+      "etag": "n6qLw_3-jxK_Q2LzP3C9XSrE1X4",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2017-10-21T15:27:09Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Simplify React Redux with render props - Ludovico Fischer",
-        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nThe React Redux API confuses beginners even more than React Redux. Can we make it more accessible by replacing higher-order components with render props?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nThe React Redux API confuses beginners even more than React Redux. Can we make it more accessible by replacing higher-order components with render props?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/X17QE2cb9vQ/default.jpg",
@@ -622,13 +622,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G7jY6CDEvluF3r4Egb1kTRUR5_4",
+      "etag": "1lC0vTMIPRI6ir9mH5O0368sKxE",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2017-10-21T15:08:25Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Hot Reloading In React: What They Didn't Tell You - Dario Gieselaar",
-        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nA short talk on how hot reloading works, when you should use it, and when you shouldn't use it, and how you can fix it in some cases.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nA short talk on how hot reloading works, when you should use it, and when you shouldn't use it, and how you can fix it in some cases.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/cK_X1qLsHTQ/default.jpg",
@@ -676,13 +676,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bH2IAjys7Si7-52oWn0a2dANX1Y",
+      "etag": "lwFwKyXctQ7_tJy5nGk2PsRO17s",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2017-10-21T14:57:16Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Using Logux in Production - Andrey Sitnik",
-        "description": "Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nLogux is a new project which replaces AJAX by synchronizing Redux actions in real-time between client and server. It is based on the ideas of CRDT and brings plug&play support for live updates and offline editing. Andrey Sitnik, the creator of PostCSS and Autoprefixer, will explain how his team, Evil Martians, uses Logux with Amplifr, its difficulties, and the resulting productivity boost.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam Meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\nLogux is a new project which replaces AJAX by synchronizing Redux actions in real-time between client and server. It is based on the ideas of CRDT and brings plug&play support for live updates and offline editing. Andrey Sitnik, the creator of PostCSS and Autoprefixer, will explain how his team, Evil Martians, uses Logux with Amplifr, its difficulties, and the resulting productivity boost.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/le6FeAJ30Zw/default.jpg",
@@ -730,13 +730,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5JvkHLrsxD5cqbQZmUk5XhXDsx4",
+      "etag": "_eIS_rzHmw3sFITP--Sh3FFTgPM",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2017-10-16T21:02:11Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam Meetup - October 2017: Cross-env Redux Actions and Webpack HMR Tricks",
-        "description": "Live stream of our Autumn meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Live stream of our Autumn meetup https://www.meetup.com/preview/React-Amsterdam/events/242627200\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/LPiXFRKu4mc/default.jpg",
@@ -774,13 +774,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Wyr8jsOwuuvZLbvNKP-o19xLY-c",
+      "etag": "NcZs_kyUidu4FfeLCCTCTLeG31Y",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2017-03-29T20:06:25Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Florentijn Hogerwerf and Dirk-Jan Rutten: Lessons learned from implementing a GraphQL API",
-        "description": "GraphQL is a query language for APIs that was released by Facebook back in 2015 and has since started to gain traction with both large and small companies using it for their APIs, most recently Github. \nAs described on graphql.org:“GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.” \nWe got introduced to GraphQL over a year ago and were impressed by its promise. Since then we have discovered patterns on how to best structure and implement a GraphQL API. In this talk we will share some of these patterns and provide examples on how to implement them.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 GraphQL is a query language for APIs that was released by Facebook back in 2015 and has since started to gain traction with both large and small companies using it for their APIs, most recently Github. \nAs described on graphql.org:“GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.” \nWe got introduced to GraphQL over a year ago and were impressed by its promise. Since then we have discovered patterns on how to best structure and implement a GraphQL API. In this talk we will share some of these patterns and provide examples on how to implement them.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/-oa0kvBXz8E/default.jpg",
@@ -828,13 +828,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HIYX4co22fWQ5ggxNdb_PivHsnk",
+      "etag": "JTorK5PEQjlh4Bh-RJzCwy5fLYU",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2017-03-29T20:01:19Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Narendra N Shetty: Practical Performance Tips Building Progressive Web Apps",
-        "description": "In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits. \nThis is for all the devs who care about performance and who think twice before adding any external library.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits. \nThis is for all the devs who care about performance and who think twice before adding any external library.\n\nLink to event page https://www.meetup.com/React-Amsterdam/events/237423993/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Dw3B1Ppi--c/default.jpg",
@@ -882,13 +882,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "H3hvMQlTwjlhYt6PXN2eBhaAYas",
+      "etag": "i1J5TiLZqE2508nWaRZTkvwY1IA",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2016-11-07T14:28:03Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Michel Weststrate: MobX: The Quest For Immer Mutable State Management",
-        "description": "New Balance, MIT, GE Money Bank – all these brands are clients of Mendix, a company that drives digital innovation in large enterprises. At React Amsterdam, you can meet its full-stack lead developer Michel who strongly believes in pragmatic, agile and the-simplest-thing-that-could-possibly-work programming.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 New Balance, MIT, GE Money Bank – all these brands are clients of Mendix, a company that drives digital innovation in large enterprises. At React Amsterdam, you can meet its full-stack lead developer Michel who strongly believes in pragmatic, agile and the-simplest-thing-that-could-possibly-work programming.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ta8QKmNRXZM/default.jpg",
@@ -936,13 +936,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8uHzZnwQew2PyJT4rekkHIehElA",
+      "etag": "Wv5OhyR3z-L5XlB9R4lgJSp-NVs",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2016-11-07T14:27:13Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Maurice de Beijer: Supporting large scale React apps",
-        "description": "Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, AngularJS and ASP.NET MVC. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, Angular JS and ASP.NET MVC courses.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Maurice de Beijer is an independent software consultant and trainer. He specializes in JavaScript, React, AngularJS and ASP.NET MVC. His work includes a large, global, safety application for the oil and gas industry. Maurice is also active in the open source community. He teaches ECMAScript, TypeScript, React, Angular JS and ASP.NET MVC courses.\n\nLink to event page: https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/_4xTt9oUwvQ/default.jpg",
@@ -990,13 +990,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V7O3yITJOiv3VGy7j3JZP-Q2bMY",
+      "etag": "vpbD2S2s4n7of4HIbifuetgdlOY",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2016-11-07T09:31:23Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam Autumn Meetup: MobX and Large Scale React Applications 🍂",
-        "description": "Our first test live stream of our Autumn meetup event at TQ https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Our first test live stream of our Autumn meetup event at TQ https://www.meetup.com/React-Amsterdam/events/233390941/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/etnPDw5PKqg/default.jpg",
@@ -1044,13 +1044,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nJPsyvxDuQmDjG2O264iGKOGh14",
+      "etag": "Dv6UlHrXsSWhm3ZEwIlcStwUztA",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2016-11-01T15:02:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Farid Safi: Build a React Native chat app in 30 minutes",
-        "description": "Farid is the creator of Gifted Chat and a React Native instructor at LeReacteur.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Farid is the creator of Gifted Chat and a React Native instructor at LeReacteur.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/VTnFDc3IFag/default.jpg",
@@ -1098,13 +1098,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WjcptT7Nl_1dhjGbqfgB827pPL0",
+      "etag": "lnnjsj4a5XsI18b-3j3ejM30Cl4",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2016-11-01T15:02:12Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Bas de Vries: iOS vs React Native: insights from an iOS developer",
-        "description": "Bas is the co-founder of Florin: an (Dutch) app that allows you to split bills and share experiences with friends and strangers, on a mission to make value transfer more personal and efficient.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Bas is the co-founder of Florin: an (Dutch) app that allows you to split bills and share experiences with friends and strangers, on a mission to make value transfer more personal and efficient.\n\nhttps://www.meetup.com/React-Native-Amsterdam/events/233645265/\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/j9xX0lWBYEQ/default.jpg",
@@ -1152,13 +1152,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "to8ifywOMUmt4iG5sPkP-4Yt6YQ",
+      "etag": "t3TLNwzLSZj0JKWlVEs2wd5P1xo",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2016-07-06T13:14:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Denis Izmaylov: Isomorphic React Applications: Performance and Scalability",
-        "description": "Let’s have a look at Isomorphic React Applications. At first sight everything is great - clear project structure, efficient reuse of codebase, less bugs and less response time which give us amazing UX. But what is actually happening when we deploy our application on the server? Why our application is running slower on high load? How to scale and how to get high availability? Just to order more servers? There is few betters solutions.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Let’s have a look at Isomorphic React Applications. At first sight everything is great - clear project structure, efficient reuse of codebase, less bugs and less response time which give us amazing UX. But what is actually happening when we deploy our application on the server? Why our application is running slower on high load? How to scale and how to get high availability? Just to order more servers? There is few betters solutions.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/kI19MCP-wIE/default.jpg",
@@ -1206,13 +1206,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KAXIy4oybOvJj-6sK_7xRxFnLJE",
+      "etag": "DGp9rGxdkr4XgZrq_gZvexhz2i4",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2016-07-06T13:14:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Robert Haritonov and Alexey Kureev: React Europe Conference Recap",
-        "description": "Robert and Alexey just returned from React Europe Conference in Paris, one of the biggest React focused events worldwide. In this recap, guys will provide you all the latest and greatest insights happening to React community including React Native, GraphQL and latest tools/project announcements.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Robert and Alexey just returned from React Europe Conference in Paris, one of the biggest React focused events worldwide. In this recap, guys will provide you all the latest and greatest insights happening to React community including React Native, GraphQL and latest tools/project announcements.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/3CMnK9eZzmo/default.jpg",
@@ -1260,13 +1260,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hnmG49E2p6K680jcrdf8hY081W0",
+      "etag": "tjoHHfATQr0CtBsg01terZ8j084",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2016-06-02T05:02:16Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Maarten Verbaarschot: Routing for problem solvers",
-        "description": "Maarten Verbaarschot, Frontend consultant @ Bluefront\n\nRouting gets complicated quickly, conceptually and technically. My team learned several lessons when a seemingly tiny user story sent us right back to the drawing board, because our router couldn’t handle the scenario. Based on this experience, I will address several patterns that are available in modern routing frameworks. How to creatively leverage the router to solve problems? How to keep things simple? And seeing the router as the main player in wiring all components together: what can we do to make it a truly strong foundation?\n\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Maarten Verbaarschot, Frontend consultant @ Bluefront\n\nRouting gets complicated quickly, conceptually and technically. My team learned several lessons when a seemingly tiny user story sent us right back to the drawing board, because our router couldn’t handle the scenario. Based on this experience, I will address several patterns that are available in modern routing frameworks. How to creatively leverage the router to solve problems? How to keep things simple? And seeing the router as the main player in wiring all components together: what can we do to make it a truly strong foundation?\n\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/xu2SJLidGCY/default.jpg",
@@ -1314,13 +1314,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YrNNYmg6LYeAtJnXowVx_MTYh6c",
+      "etag": "_5cQmMk7c9eq0flT3ZUtq43Rmxk",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2016-06-02T04:59:29Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Ramon Victor: What if we tried to implement Redux in vanilla javascript?",
-        "description": "Ramon Victor is a Front-End Engineer @ Booking.com\n\nIn this presentation I wanna share the things I've learned while building a Tic-Tac-Toe game using Redux principles in plain javascript. How store, actions and reducers can be implemented from scratch and how each of these concepts connect together in order achieve the unidirectional data flow approach.\n\nSlides: https://speakerdeck.com/ramonvictor/redux-principles-in-plain-javascript\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Ramon Victor is a Front-End Engineer @ Booking.com\n\nIn this presentation I wanna share the things I've learned while building a Tic-Tac-Toe game using Redux principles in plain javascript. How store, actions and reducers can be implemented from scratch and how each of these concepts connect together in order achieve the unidirectional data flow approach.\n\nSlides: https://speakerdeck.com/ramonvictor/redux-principles-in-plain-javascript\nReact Amsterdam May Meetup http://www.meetup.com/React-Amsterdam/events/230900476.\n\nIf you tweet, don't forget to #reactamsterdam tag it!\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/35kUY7J7EEc/default.jpg",
