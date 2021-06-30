@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "EwAfrndTVM6DihOeKKgBT2YLNdI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cHaVZ7SRmNhkjA--WQWXUn8HNto",
+      "id": "UExHeUFPdzhZVzdyZmpLblpYRmZLVHA5S3B5VkFxbThzSy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-06-30T11:08:50Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Announcing React India Remote - 2021 Edition",
+        "description": "The Remote Edition of React India will take place on November 12–13, 2021\n\nVisit our website - \nRead our blog to know more - https://blog.reactindia.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Geekabyte",
+        "playlistId": "PLGyAOw8YW7rfjKnZXFfKTp9KpyVAqm8sK",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wwbZD4E4K2k"
+        },
+        "videoOwnerChannelTitle": "Geekabyte",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "wwbZD4E4K2k",
+        "videoPublishedAt": "2021-06-30T10:56:57Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
