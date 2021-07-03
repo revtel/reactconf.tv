@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "EwAfrndTVM6DihOeKKgBT2YLNdI",
+  "etag": "sMuSaUewRJHbCSNEg6ScejIWSlU",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "cHaVZ7SRmNhkjA--WQWXUn8HNto",
+      "etag": "EYYDRL3i9dw4Qbb1cGfsKeyBo10",
       "id": "UExHeUFPdzhZVzdyZmpLblpYRmZLVHA5S3B5VkFxbThzSy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2021-06-30T11:08:50Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Announcing React India Remote - 2021 Edition",
-        "description": "The Remote Edition of React India will take place on November 12–13, 2021\n\nVisit our website - \nRead our blog to know more - https://blog.reactindia.io/",
+        "title": "Announcing React India Remote - 2021 Edition Feat Tejas Kumar",
+        "description": "The Remote Edition of React India will take place on November 12–13, 2021\n\nSuper thanks Tejas Kumar for collaborating with us and huge thanks to all the speakers for taking out time.\n\nVisit our website - \nRead our blog to know more - https://blog.reactindia.io/\n\n#Shorts",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/wwbZD4E4K2k/default.jpg",
@@ -50,10 +50,10 @@
       },
       "contentDetails": {
         "videoId": "wwbZD4E4K2k",
-        "videoPublishedAt": "2021-06-30T10:56:57Z"
+        "videoPublishedAt": "2021-06-30T12:50:18Z"
       },
       "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
       }
     }
   ],
