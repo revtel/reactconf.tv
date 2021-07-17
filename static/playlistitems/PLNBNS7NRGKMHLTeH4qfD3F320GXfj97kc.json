@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "seTDf6N36OEqytCZxN4HW8rMmIY",
+  "etag": "rbL48l9z-8H9C4rXuglrw9nGPDk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JnPmzzsJA0m-GBX2BSErKnmVK54",
+      "etag": "rytkFIsp4grR4Vayrd1_uDzKuKA",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2019-04-25T06:36:33Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Requisite React\n# General Track\n\nReact is a brilliant JavaScript library for building simple and complex user interfaces. In our eagerness to apply React to our most complex of problems and ship solutions today, we can get lost in the 🌲🌲🌲 forest of abstractions 🌲🌲🌲. When it comes to leveling up our skills in anything, Kent finds the most effective method is to take a step back and understand the foundational fundamentals. To strip away all abstraction until what we're left with is the bare bones. The better you understand an abstraction, the more effective you will be at using it. This talk will help you get more effective at using React Hooks, React Suspense, and JSX.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Requisite React\n# General Track\n\nReact is a brilliant JavaScript library for building simple and complex user interfaces. In our eagerness to apply React to our most complex of problems and ship solutions today, we can get lost in the 🌲🌲🌲 forest of abstractions 🌲🌲🌲. When it comes to leveling up our skills in anything, Kent finds the most effective method is to take a step back and understand the foundational fundamentals. To strip away all abstraction until what we're left with is the bare bones. The better you understand an abstraction, the more effective you will be at using it. This talk will help you get more effective at using React Hooks, React Suspense, and JSX.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/tO8qHlr6Wqg/default.jpg",
@@ -58,13 +58,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XMP3QhaWpU16c-UVDEOt_mEys-g",
+      "etag": "qJ0WxxFKCzjziled66a-C9yYVJA",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2019-04-25T06:50:23Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Building React Native: Take a look at the internals - Parashuram N",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Building React Native\n# React Native Track\n\nReact Native is a great way to build native apps for iOS, Android and other mobile platforms. Take a look at the internals of React Native, and how code written in JavaScript can power a fully native mobile application. See the various parts of the current system like the bridge, the UI manager and the plugins. The talks also touches upon the rendering process and compare it to React’s rendering on the web.\n\nSee some of the new and exciting improvements (like Fabric, TurboModules and JSI) and how they significantly improve React Native. This talk stems from Parashuram's experiences as a web-developer newbie on the React Native team, and is an attempt to document his journey in comprehending the code base. At the end of the talk, the attendees will not only be able to build React Native apps, but also understands how it all works together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Building React Native\n# React Native Track\n\nReact Native is a great way to build native apps for iOS, Android and other mobile platforms. Take a look at the internals of React Native, and how code written in JavaScript can power a fully native mobile application. See the various parts of the current system like the bridge, the UI manager and the plugins. The talks also touches upon the rendering process and compare it to React’s rendering on the web.\n\nSee some of the new and exciting improvements (like Fabric, TurboModules and JSI) and how they significantly improve React Native. This talk stems from Parashuram's experiences as a web-developer newbie on the React Native team, and is an attempt to document his journey in comprehending the code base. At the end of the talk, the attendees will not only be able to build React Native apps, but also understands how it all works together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/5sQw8C36Xa4/default.jpg",
@@ -112,13 +112,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GI6IJSSI5lQMPkZ2s4dcdJBThPY",
+      "etag": "opUVlwmYJNz40YdudVNEmyxX7M4",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2019-04-25T06:43:36Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Refactoring React: Which component pattern can improve your codebase? - Siddharth Kshetrapal",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Refactoring React\n# General Track\n\nReact on its own has a very small API surface. Most of the magic happens in user-land.\n\nBut, there's a lot out there: Higher-order components, Render props, Compound components? Provider methods? Learn which component pattern will make your codebase better in which use case.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Refactoring React\n# General Track\n\nReact on its own has a very small API surface. Most of the magic happens in user-land.\n\nBut, there's a lot out there: Higher-order components, Render props, Compound components? Provider methods? Learn which component pattern will make your codebase better in which use case.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/2Dw8gA60d_k/default.jpg",
@@ -166,13 +166,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lULSrF5OOUPEtAYHy0VZ7sAqFKw",
+      "etag": "2u3siGHnntT3gZzpKdAEWNjekQs",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2019-04-25T06:49:42Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Practical Performance for React (Native): How common patterns slow down your app - Anna Doubková",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Practical Performance for React (Native)\n# React Native Track\n\nThere are quite a few theoretical concepts of writing good a React application, including popular functional programming approaches. However, few take into consideration the impacts these will have on performance of the application. In this talk you’ll find out how some commonly used patterns have an adverse effect on the speed of your app, and how to avoid using them. The talk explorse UI and state management but also dives into some native-specific issues and look at how to prevent them.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Practical Performance for React (Native)\n# React Native Track\n\nThere are quite a few theoretical concepts of writing good a React application, including popular functional programming approaches. However, few take into consideration the impacts these will have on performance of the application. In this talk you’ll find out how some commonly used patterns have an adverse effect on the speed of your app, and how to avoid using them. The talk explorse UI and state management but also dives into some native-specific issues and look at how to prevent them.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/jTdi9oTM22c/default.jpg",
@@ -220,13 +220,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Sf7IEPbCQOIVgaCr7BI_CxLJLkU",
+      "etag": "4byvjpzvHHa22r30m9dxkUy6Ks4",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2019-04-25T06:44:29Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Designing with React.js: How should our design processes change? - Mark Dalgleish",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Designing with React\n# General Track\n\nThanks to React's component-oriented architecture, the React community has been naturally gravitating towards design systems as a way of standardising our respective design languages into reusable components. When done successfully, it suddenly becomes trivial to translate standard designs into code. In fact, we may even find that this translation step starts to feel somewhat redundant. In a world of components, how should our design processes change? How should our tooling change? How should we, as React developers, better enable this change? In this talk, you'll see the current state of design and development, and where we could go—if we're willing to push for it.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Designing with React\n# General Track\n\nThanks to React's component-oriented architecture, the React community has been naturally gravitating towards design systems as a way of standardising our respective design languages into reusable components. When done successfully, it suddenly becomes trivial to translate standard designs into code. In fact, we may even find that this translation step starts to feel somewhat redundant. In a world of components, how should our design processes change? How should our tooling change? How should we, as React developers, better enable this change? In this talk, you'll see the current state of design and development, and where we could go—if we're willing to push for it.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/orPcyJMJh7Y/default.jpg",
@@ -274,13 +274,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3MjOMk35d9ymsARasnZKpBlzZfE",
+      "etag": "zxGSopXgmI4Op6T8SlJoO8TY8t0",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Sharing Code Between React and React Native: What Not to Share - Ben Ellerby",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Sharing Code Between React and React-Native: What Not to Share\n# React Native Track\n\nReact and React Native allow a \"learn once, write anywhere\" paradigm. This is great because one tech team can build both your web app and native mobile experience. The problem is developers hate writing things twice. There have been a couple of efforts to build a unifying technology to write an application once and have it work on both web and native. Yet this is not always the best approach. There is value in only sharing your business and state logic; keeping your render code separate.\n\nIn this talk, Ben Elerby gives real examples from his work with MADE.COM, migrating their web and mobile application to React and React-Native with code sharing as a primary objective.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Sharing Code Between React and React-Native: What Not to Share\n# React Native Track\n\nReact and React Native allow a \"learn once, write anywhere\" paradigm. This is great because one tech team can build both your web app and native mobile experience. The problem is developers hate writing things twice. There have been a couple of efforts to build a unifying technology to write an application once and have it work on both web and native. Yet this is not always the best approach. There is value in only sharing your business and state logic; keeping your render code separate.\n\nIn this talk, Ben Elerby gives real examples from his work with MADE.COM, migrating their web and mobile application to React and React-Native with code sharing as a primary objective.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/QO7SkFqRd7s/default.jpg",
@@ -328,13 +328,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yuvmz-N1DHdM9LpaZBqWRFnj-Wc",
+      "etag": "nIKqLIbAa4oT5L3y16Q9Bt5j3jE",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2019-04-25T06:45:21Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "A Common Design Language: Let designers and developers talk to each other - Andrey Okonetchnikov",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# A Common Design Language. Let Designers and Developers talk to each other\n# General Track\n\n“Should designers code?” or “Should coders design?”—these two eternal questions are being asked for years with no particular answer given.\n\n- How to let developers know what typography style or button variance they should be using on this particular screen?\n- How to ensure that the whole UI is consistent?\n- How to let designers know that some screen design doesn’t fit the requirements and needs to be updated?\n\nIn order to answer those questions designers and developers have to speak the same language. But what language should it be? UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# A Common Design Language. Let Designers and Developers talk to each other\n# General Track\n\n“Should designers code?” or “Should coders design?”—these two eternal questions are being asked for years with no particular answer given.\n\n- How to let developers know what typography style or button variance they should be using on this particular screen?\n- How to ensure that the whole UI is consistent?\n- How to let designers know that some screen design doesn’t fit the requirements and needs to be updated?\n\nIn order to answer those questions designers and developers have to speak the same language. But what language should it be? UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/3ggoo6AH8Uo/default.jpg",
@@ -382,13 +382,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KrXD5x51WeyGW4Waza75igGpMu4",
+      "etag": "_JmloIpfnXuHwMp-GfH0-hzG2VU",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2019-05-03T09:15:29Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Building for a Bigger World Than Mobile - Wouter van den Broek",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Building for a Bigger World Than Mobile\n# React Native Track\n\nReact Native is great for mobile applications on iOS and Android but there is more in the world of native app development. React Native can be used to get your app on the Windows and Mac OS X platform. And why not Elektron or even newer Marzipan to get your app to the other platforms or can you combine these technics to get a good app as result.\n\nIn this talk you wil see how to get React Native to the Windows and Mac OS X platform, what the advantages and disadvantages are with these setups and what you can do to get the best results for your App.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Building for a Bigger World Than Mobile\n# React Native Track\n\nReact Native is great for mobile applications on iOS and Android but there is more in the world of native app development. React Native can be used to get your app on the Windows and Mac OS X platform. And why not Elektron or even newer Marzipan to get your app to the other platforms or can you combine these technics to get a good app as result.\n\nIn this talk you wil see how to get React Native to the Windows and Mac OS X platform, what the advantages and disadvantages are with these setups and what you can do to get the best results for your App.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/qBANCoU6Cjs/default.jpg",
@@ -436,13 +436,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_iuNU43qawod6gyp9MqZyWNkLjw",
+      "etag": "MzzbIWtG0AQt56fY8VduCyoRFYc",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Tech Regrets at Spectrum: Learn from your bad tech choices - Max Stoiber",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Tech Regrets at Spectrum\n# General Track\n\nSpectrum is an open source chat app for large online communities and was recently acquired by GitHub. They are a team of three with a predominantly frontend and design background and have worked on it for close to two years. With the benefit of hindsight, let's talk about the technology choices Spectrum's Max Stoiber regrets and the lessons he has learned.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Tech Regrets at Spectrum\n# General Track\n\nSpectrum is an open source chat app for large online communities and was recently acquired by GitHub. They are a team of three with a predominantly frontend and design background and have worked on it for close to two years. With the benefit of hindsight, let's talk about the technology choices Spectrum's Max Stoiber regrets and the lessons he has learned.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/UC-bUkbuvZs/default.jpg",
@@ -490,13 +490,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9lNrxnMktw70gL1_-JtRPWBY2LM",
+      "etag": "N7PeYnjbwhD4vdpgDME96hrtRSw",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2019-04-25T06:51:05Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Make Your React Native Apps Accessible: Provide a great experience for every user - Ankita Kulkarni",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Make Your React Native Apps Accessible\n# React Native Track\n\nDid you know React Native has accessibility rules? In this talk, Ankita shows why accessibility matters, what those rules are, the accessibility standards your app falls into, common patterns to follow and how to get over your fear of voice-over.\n\nBy making our apps accessible, we provide a great experience for all our users. This talk is sure to leave you with actionable ways of making your apps accessible. Let’s make this native world a better and inclusive place for everyone.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Make Your React Native Apps Accessible\n# React Native Track\n\nDid you know React Native has accessibility rules? In this talk, Ankita shows why accessibility matters, what those rules are, the accessibility standards your app falls into, common patterns to follow and how to get over your fear of voice-over.\n\nBy making our apps accessible, we provide a great experience for all our users. This talk is sure to leave you with actionable ways of making your apps accessible. Let’s make this native world a better and inclusive place for everyone.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/FqKlsmoaxs0/default.jpg",
@@ -544,13 +544,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "njaLRQ4I-_JKW18jjONchi06E5I",
+      "etag": "aLrdBPdupyTA75nGpGSmxN_IBuA",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Scaling Applications with Microfrontends: Leverage features & reduce dependencies - Max Gallo",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Scaling Applications with Microfrontends\n# General Track\n\nOnce upon a time, you had one Single Page Application using a Monolith Backend that relies on a Database. Then you started getting some users and suddenly you needed multiple instances of your Monolith Backend and more replicas of your Database. Your user base kept growing and also your development team was growing, so you split your Monolith backend into Microservices with their own Databases.\n\nYou’re very happy about the situation until you realize that the same problem you had on the backend it’s now on the frontend. Multiple teams are working on the same codebase, it’s hard to do frequent releases and there’re a lot of cross-team communications that slow things down.\n\nDAZN battle-tested the Microfrontends architecture leveraging feature like blue-green deployments in the frontend, framework agnostic teams and drastically reduced cross-team dependencies.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Scaling Applications with Microfrontends\n# General Track\n\nOnce upon a time, you had one Single Page Application using a Monolith Backend that relies on a Database. Then you started getting some users and suddenly you needed multiple instances of your Monolith Backend and more replicas of your Database. Your user base kept growing and also your development team was growing, so you split your Monolith backend into Microservices with their own Databases.\n\nYou’re very happy about the situation until you realize that the same problem you had on the backend it’s now on the frontend. Multiple teams are working on the same codebase, it’s hard to do frequent releases and there’re a lot of cross-team communications that slow things down.\n\nDAZN battle-tested the Microfrontends architecture leveraging feature like blue-green deployments in the frontend, framework agnostic teams and drastically reduced cross-team dependencies.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/XErB9twlRow/default.jpg",
@@ -598,13 +598,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MKB_OMOYLn31GJWvrsC7dO92uqM",
+      "etag": "ki8ko5-E3Cv6ud77iIHeOuGkiOA",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2019-04-25T07:01:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Native Web Apps: Use React and WebAssembly to Rewrite Native Apps - Florian Rival",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Native Web Apps: React and WebAssembly to Rewrite Native Apps\n# React Native Track\n\nCan React and web technologies compete with native toolkits when it comes to making super complex, rich desktop apps? Can we go further and create better-than-native applications? 🤔 Sounds like a good challenge!\n\nThis talk introduces how React, JavaScript and WebAssembly can be used to write new ambitious apps, or port existing ones - with real world examples! Florian shows how to leverage the React ecosystem to create performant applications: architecture, patterns, typing, useful open-source modules and tooling... and how to go one step further and provide a better user experience as well as a better developer experience.\n\nThese apps are not web apps, they are not native apps, they are hybrid 'Native Web Apps' and can provide the best of both worlds.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Native Web Apps: React and WebAssembly to Rewrite Native Apps\n# React Native Track\n\nCan React and web technologies compete with native toolkits when it comes to making super complex, rich desktop apps? Can we go further and create better-than-native applications? 🤔 Sounds like a good challenge!\n\nThis talk introduces how React, JavaScript and WebAssembly can be used to write new ambitious apps, or port existing ones - with real world examples! Florian shows how to leverage the React ecosystem to create performant applications: architecture, patterns, typing, useful open-source modules and tooling... and how to go one step further and provide a better user experience as well as a better developer experience.\n\nThese apps are not web apps, they are not native apps, they are hybrid 'Native Web Apps' and can provide the best of both worlds.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/G_cTW7zQtCc/default.jpg",
@@ -652,13 +652,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "v_76-ZH6WnFLJDeJcgzjbdkF1kI",
+      "etag": "Cc1FjQ8KKPanx0ZzXjiPmeh9580",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "An SVG’s Tale: See the superpowers of React and SVG - Elizabet Oliveira",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# An SVG’s Tale\n# General Track\n\nDevelopers and designers don’t often use all SVG superpowers in their React applications.\n\nThis way, to drive your inspiration, Elizabeth tells you the story of an SVG image that one day made a very special friend - ReactJS. Alone and despised by its family, SVG yelled: Enough! Now you’ll see what I’m all about! And with this epic scream, little SVG unveiled all its superpowers. She took her friend React and they showed the world how to come up with creative solutions together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# An SVG’s Tale\n# General Track\n\nDevelopers and designers don’t often use all SVG superpowers in their React applications.\n\nThis way, to drive your inspiration, Elizabeth tells you the story of an SVG image that one day made a very special friend - ReactJS. Alone and despised by its family, SVG yelled: Enough! Now you’ll see what I’m all about! And with this epic scream, little SVG unveiled all its superpowers. She took her friend React and they showed the world how to come up with creative solutions together.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/BISiYX5s_Qw/default.jpg",
@@ -706,13 +706,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0kOPl4uOsOs9iqWl9QcGgCsyz2M",
+      "etag": "zohYj5YoO351wc1XO3iNs4h3s44",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Build Lightning Fast SSR React Apps with Top Perceived Performance - Håkon Gullord Krogh",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript\n# General Track\n# Lightning Talks\n\nNetflix changed their frontpage a while back to only serve HTML, CSS and a small amount of JS. Let’s have a look on how you can do the same with Next.js, and if the principles still apply today. Is the user getting a better perceived experience when we turn off the client side JavaScript?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript\n# General Track\n# Lightning Talks\n\nNetflix changed their frontpage a while back to only serve HTML, CSS and a small amount of JS. Let’s have a look on how you can do the same with Next.js, and if the principles still apply today. Is the user getting a better perceived experience when we turn off the client side JavaScript?\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/cSaFLPciWP8/default.jpg",
@@ -760,13 +760,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T84pp6V_nVqcbyJDqITC8ERGunc",
+      "etag": "z8lO9u2Qhm94Tr1at1nvHoytamk",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Demystifying server-rendered React apps: Performance & Security - Fernando Porazzi",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying server-rendered React apps: Performance & Security\n# General Track\n# Lightning Talks\n\nDuring this lightning talk, let's walk through the pros and cons of server-rendered applications, when you want to have it and what you can expect.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying server-rendered React apps: Performance & Security\n# General Track\n# Lightning Talks\n\nDuring this lightning talk, let's walk through the pros and cons of server-rendered applications, when you want to have it and what you can expect.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/g0dqt64-OO4/default.jpg",
@@ -814,13 +814,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DAiNXMqfA9Kzt3NgfkfAaZn0W1Q",
+      "etag": "K_wepxM2vVeeh-k3aGskzMWpRKw",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Next for Next.js: See the powerful new features - Tim Neutkens",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Next for Next.js\n# General Track\n# Lightning Talks\n\nNext.js is one of the most convenient and powerful ways of developing React apps on the web. With powerful features out of the box such as code-splitting, server-side rendering and powerful optimizations, this talk discusses the exciting next steps for Next.js.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Next for Next.js\n# General Track\n# Lightning Talks\n\nNext.js is one of the most convenient and powerful ways of developing React apps on the web. With powerful features out of the box such as code-splitting, server-side rendering and powerful optimizations, this talk discusses the exciting next steps for Next.js.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/j1JsLmfdrgk/default.jpg",
@@ -868,13 +868,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_-UFEKw3ezAGuTilaYBf1Gjy8n0",
+      "etag": "1ZlXxezhyju--kfKCxw_5SPIW-I",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
         "publishedAt": "2019-05-03T09:16:36Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Speeding up React SSR: How to remove performance bottlenecks - David Mark Clements",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Speeding up React SSR\n# General Track\n# Lightning Talks\n\nReact is a hugely popular frontend framework that revolutionized the frontend development world. React is built primarily for the browser, while Node has fundamentally different operational constraints to the browser. While working as a Principal Architect and Consultant, it has become painfully clear to David that React’s Server Side Rendering (SSR) is a performance bottleneck for web backends around the world. This talk demonstrates a very simple solution that can be dropped into pre-existing React applications to vastly improve the throughput of an SSR Node server (around 20-40x+).\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Speeding up React SSR\n# General Track\n# Lightning Talks\n\nReact is a hugely popular frontend framework that revolutionized the frontend development world. React is built primarily for the browser, while Node has fundamentally different operational constraints to the browser. While working as a Principal Architect and Consultant, it has become painfully clear to David that React’s Server Side Rendering (SSR) is a performance bottleneck for web backends around the world. This talk demonstrates a very simple solution that can be dropped into pre-existing React applications to vastly improve the throughput of an SSR Node server (around 20-40x+).\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/FaJosYCMnRA/default.jpg",
@@ -922,13 +922,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CwpwLANPEYW2YL5ppxcK6FUJ9eo",
+      "etag": "KTdWZrjL_-0lR6IklihXTR6pM_I",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Panel discussion with Advice Lounge members",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Panel discussion with Advice Lounge members\n# React Native Track\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Panel discussion with Advice Lounge members\n# React Native Track\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/-gg8tjJ0qfA/default.jpg",
@@ -976,13 +976,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7dTVTc8mLXVBS6T5M0FOdaKOPgc",
+      "etag": "s5Cpvnmo5Hn-cpHk138ejCWbdfc",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Full-stack React Native in the Era of Serverless Computing: Build an app in minutes - Nader Dabit",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Full-stack React Native in the Era of Serverless Computing\n# React Native Track\n\nWith the emergence of more & more powerful & sophisticated managed services like Algolia, AWS AppSync, Cloudinary, Auth0, Amazon Rekognition & Firebase it's now completely possible for front-end engineers to build full-stack web & mobile applications while with almost no back-end code, relying on these services to do the heavy lifting for features like data layers, search, authentication, & authorization & using serverless glue functions to handle what’s left.\n\nIn this talk, Nader discusses this philosophy in depth, the options available from different service providers, & then showa how (live-code) to build a full-stack React Native application in just a few minutes by using React & AWS Amplify React Native to quickly build a real-world app complete with a GraphQL API, analytics, search, authentication & authorization.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Full-stack React Native in the Era of Serverless Computing\n# React Native Track\n\nWith the emergence of more & more powerful & sophisticated managed services like Algolia, AWS AppSync, Cloudinary, Auth0, Amazon Rekognition & Firebase it's now completely possible for front-end engineers to build full-stack web & mobile applications while with almost no back-end code, relying on these services to do the heavy lifting for features like data layers, search, authentication, & authorization & using serverless glue functions to handle what’s left.\n\nIn this talk, Nader discusses this philosophy in depth, the options available from different service providers, & then showa how (live-code) to build a full-stack React Native application in just a few minutes by using React & AWS Amplify React Native to quickly build a real-world app complete with a GraphQL API, analytics, search, authentication & authorization.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/VQ-umMTEQq4/default.jpg",
@@ -1030,13 +1030,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FoPV1g03r-xg_XyYB8uvLidIgus",
+      "etag": "UCXYdcyowrVpKenJ2KuUpgR9K7M",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2019-04-25T06:47:54Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "The GraphQL Developer Experience: Achieve friction-free state management - Peggy Rayzis",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# The GraphQL developer experience\n\nData fetching makes up a large part of our React apps, yet it's also some of the most complex code we write. GraphQL can help us reduce this complexity, especially when it's combined with intelligent tooling. Explore how to achieve a friction-free state management experience with GraphQL and Apollo right inside your editor.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# The GraphQL developer experience\n\nData fetching makes up a large part of our React apps, yet it's also some of the most complex code we write. GraphQL can help us reduce this complexity, especially when it's combined with intelligent tooling. Explore how to achieve a friction-free state management experience with GraphQL and Apollo right inside your editor.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/qBla-jgNKZc/default.jpg",
@@ -1084,13 +1084,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cYcvPYGQFDFl7Kv9qQJHcnytBmE",
+      "etag": "f9YVAjH6yIDdZ3J5_nJYQKwGmrM",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2019-05-03T08:53:27Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Demystifying Complex Animations Creation Process in React Native - Vladimir Novick",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying Complex Animations Creation Process in React Native\n# React Native Track\n\nWhile Animations can be created in React Native pretty easily, real world mobile apps require a combination of several layers of animations, gestures and micro interaction animations to make user experience stand out. Walk through the process from defining complex animation, to implementing it by going through all stages of animation creation process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Demystifying Complex Animations Creation Process in React Native\n# React Native Track\n\nWhile Animations can be created in React Native pretty easily, real world mobile apps require a combination of several layers of animations, gestures and micro interaction animations to make user experience stand out. Walk through the process from defining complex animation, to implementing it by going through all stages of animation creation process.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/aOiq-xNSqRo/default.jpg",
@@ -1138,13 +1138,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NjGp1EUTe5i_Ad_CQG4Ph3T_K6o",
+      "etag": "nVOQ8tAo2_fXUv3FgmJ290qWsoU",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2019-04-25T06:47:03Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Painting Pixels with WebGL & React Hooks: Powerful GPU-driven visuals in React apps - Ashi Krishnan",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Painting Pixels with WebGL with React Hooks\n\nWebGL lets you unlock the power of your GPU. In principle, you can paint almost anything you can dream of. In practice, WebGL is hard, and though projects like three.js make it easier, there are still a lot of hurdles to integrating it into your site in a practical way.\n\nLet's explore how Hooks can make it easier to integrate powerful GPU-driven visuals into our React apps, giving us the best of both worlds: the power of WebGL with the ease and expressiveness of a React component tree.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Painting Pixels with WebGL with React Hooks\n\nWebGL lets you unlock the power of your GPU. In principle, you can paint almost anything you can dream of. In practice, WebGL is hard, and though projects like three.js make it easier, there are still a lot of hurdles to integrating it into your site in a practical way.\n\nLet's explore how Hooks can make it easier to integrate powerful GPU-driven visuals into our React apps, giving us the best of both worlds: the power of WebGL with the ease and expressiveness of a React component tree.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/1NZvwicGK4U/default.jpg",
@@ -1192,13 +1192,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cQWhW9BRcbG55uivJUoGrfqmzrs",
+      "etag": "YfYrlZJLrECgWihckC5enhxXX5M",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2019-04-25T06:51:02Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Strangling Legacy with React Native: See its building & testing advantages - Adam Terlson",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Strangling Legacy with React Native\n\nBuilding an app destined for production is a daunting task, especially to replace existing legacy apps available for download in the App and Play Store. Adam's team could have pursued a typical release strategy—instead, they got creative with React Native.\n\nThey built a strangler-style architecture, a technique commonly reserved for web services, to release our greenfield React Native product user-by-user. The effect was some pretty unique and awesome advantages to how we built and tested our new app—but software is never perfect.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 \n\n Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# Strangling Legacy with React Native\n\nBuilding an app destined for production is a daunting task, especially to replace existing legacy apps available for download in the App and Play Store. Adam's team could have pursued a typical release strategy—instead, they got creative with React Native.\n\nThey built a strangler-style architecture, a technique commonly reserved for web services, to release our greenfield React Native product user-by-user. The effect was some pretty unique and awesome advantages to how we built and tested our new app—but software is never perfect.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/sBbRQK58Fg8/default.jpg",
@@ -1246,13 +1246,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CYK0UugoEWm9sAhJ7DCiJRwC_bM",
+      "etag": "LF6Z9Nup76J54_QPiXStQeHAe-Q",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2019-04-16T13:16:18Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam 2019 - General Track",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Live stream of React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nLink to React Native track https://www.youtube.com/watch?v=NCLkLCvpwm4\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Live stream of React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nLink to React Native track https://www.youtube.com/watch?v=NCLkLCvpwm4\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/4KfAS3zrvX8/default.jpg",
@@ -1290,13 +1290,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3kJAq1ISA5VYaDjvDFWYuS-K_Qs",
+      "etag": "a6ZsdBRKNOa6JiqWfllUbEWHwIg",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2019-04-16T13:16:13Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam 2019 - React Native Track",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Live stream of React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nLink to General Track https://www.youtube.com/watch?v=4KfAS3zrvX8\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Live stream of React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nLink to General Track https://www.youtube.com/watch?v=4KfAS3zrvX8\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/NCLkLCvpwm4/default.jpg",
@@ -1334,13 +1334,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2vmZ1t0fOUhXC8C6Kojc-BdW7hY",
+      "etag": "GOCpVWoH-bRWDY2AlVL4YrW9DHo",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
         "publishedAt": "2019-05-16T10:33:39Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Open Source Awards 2019 Ceremony",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 The biggest React conference worldwide hosted the second annual edition of React Open Source awards, gathering community leaders and top contributors from around the world.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 The biggest React conference worldwide hosted the second annual edition of React Open Source awards, gathering community leaders and top contributors from around the world.\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/K5FucWxBokY/default.jpg",
@@ -1388,13 +1388,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JLEEPdtWzodfyuRvrB6KZediz0U",
+      "etag": "Co7ed8JjdNI1FBSRKlVVNh2YB_8",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy5DQ0MyQ0Y4Mzg0M0VGOEYw",
       "snippet": {
         "publishedAt": "2019-05-16T10:34:07Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "GitNation Open Source Stage",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# GitNation Open Source Stage\n# General Track\n\n04:54 Gert Hengeveld - Fetch Like a Boss with React Async\n10:54 Vicenzo Ferrari - Microjob\n15:36 Andy Richardson - URQL: Powerful and Simple GraphQL\n20:57 Rodrigo Pombo - Git History\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Amsterdam 2019 Conference  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\n# GitNation Open Source Stage\n# General Track\n\n04:54 Gert Hengeveld - Fetch Like a Boss with React Async\n10:54 Vicenzo Ferrari - Microjob\n15:36 Andy Richardson - URQL: Powerful and Simple GraphQL\n20:57 Rodrigo Pombo - Git History\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Hax7TRy-l4g/default.jpg",
@@ -1442,13 +1442,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "I2Cl1-4m1lGfSQIh6GWyoiM81wg",
+      "etag": "0ih5fIrrnxg8GhWj_AYa25ghxHk",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
         "publishedAt": "2019-08-12T21:07:02Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Amsterdam 2019 Official Aftermovie",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Official aftermovie from React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nThe biggest conference of all things React! Subscribe for the news about our next editions http://eepurl.com/co_RsH\n\nFollow us on twitter - https://twitter.com/reactamsterdam\nAnd Facebook - http://facebook.com/reactamsterdam\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Official aftermovie from React Amsterdam Conference 2019  \n\nCheck out the latest React Summit Amsterdam news – https://reactsummit.com\n\nSee other React conferences by GitNation\nReact Day Berlin – https://reactday.berlin\nReact Advanced London – https://reactadvanced.com\n\nThe biggest conference of all things React! Subscribe for the news about our next editions http://eepurl.com/co_RsH\n\nFollow us on twitter - https://twitter.com/reactamsterdam\nAnd Facebook - http://facebook.com/reactamsterdam\n\n \nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/K_JIIF5xYS4/default.jpg",

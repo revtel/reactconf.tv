@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "2viViaI0JG1afOTmLVkLsFlvoLU",
+  "etag": "YkYpzIv7TAEYUHvHvuKEELYRZqo",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "sWnx3vv2pWJayEDtRhBGh_td29Q",
+      "etag": "A93QSTiPfOwJuI-GOvkeKveJkdk",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Controlling Apps with Your Mind and AI – Vladimir Novick",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Controlling Apps with Your Mind and AI\nWhat is the future of user interactions? Will we continue using web and mobile or will we switch into VR and AR completely? What is our UX today on web and mobile and how it will change when the digital world will bridge into new dimensions. Would we still use keyboard and mouse or gestures or will we use something else? In this talk we will get a glimpse into the future where we will control apps with our thoughts. Literally. It’s not a thought experiment, but a journey into our brainwaves with consumer EEG headset. We will explore how we can use them and AI to create futuristic experiences, which will lay a foundation stone to our future interactions with the digital world.\n\nVladimir Novick\nIndependent Consultant, engineer and trainer, Google Developer Expert, worldwide speaker and published author. Vladimir works mostly in Web and Mobile fields advocating usage of React, React Native, GraphQL as well serverless architectures and functional languages such as ReasonML.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Controlling Apps with Your Mind and AI\nWhat is the future of user interactions? Will we continue using web and mobile or will we switch into VR and AR completely? What is our UX today on web and mobile and how it will change when the digital world will bridge into new dimensions. Would we still use keyboard and mouse or gestures or will we use something else? In this talk we will get a glimpse into the future where we will control apps with our thoughts. Literally. It’s not a thought experiment, but a journey into our brainwaves with consumer EEG headset. We will explore how we can use them and AI to create futuristic experiences, which will lay a foundation stone to our future interactions with the digital world.\n\nVladimir Novick\nIndependent Consultant, engineer and trainer, Google Developer Expert, worldwide speaker and published author. Vladimir works mostly in Web and Mobile fields advocating usage of React, React Native, GraphQL as well serverless architectures and functional languages such as ReasonML.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/diVrOpbG93Y/default.jpg",
@@ -58,13 +58,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "e8z5uFr4CUWMlbYLsA3Q0csyE-w",
+      "etag": "d-mTzecauDOU-AQHhG-GKbWgorg",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "AHA Programming – Kent C.  Dodds",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#AHA Programming\nAre you the kind of programmer who prefers to never see the same code in two places, or do you make liberal use of copy/paste? Many developers swear by the Don't Repeat Yourself (DRY) philosophy while others prefer to Write Everything Twice (WET). But which of these produces more maintainable codebases? I've seen both of these approaches lay waste to codebases and I have a new ideology I would like to propose to you: Avoid Hasty Abstractions (AHA). In this keynote, we'll talk about abstraction and how you can improve a codebase by applying and creating abstractions more thoughtfully as well as how to get yourself out of a mess of over or under-abstraction.\n\nKent C. Dodds\nKent is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. Kent is the creator of TestingJavaScript.com and he's an instructor on egghead.io and Frontend Masters. He's also a Google Developer Expert. Kent is happily married and the father of four kids. He likes his family, code, JavaScript, and React.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#AHA Programming\nAre you the kind of programmer who prefers to never see the same code in two places, or do you make liberal use of copy/paste? Many developers swear by the Don't Repeat Yourself (DRY) philosophy while others prefer to Write Everything Twice (WET). But which of these produces more maintainable codebases? I've seen both of these approaches lay waste to codebases and I have a new ideology I would like to propose to you: Avoid Hasty Abstractions (AHA). In this keynote, we'll talk about abstraction and how you can improve a codebase by applying and creating abstractions more thoughtfully as well as how to get yourself out of a mess of over or under-abstraction.\n\nKent C. Dodds\nKent is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. Kent is the creator of TestingJavaScript.com and he's an instructor on egghead.io and Frontend Masters. He's also a Google Developer Expert. Kent is happily married and the father of four kids. He likes his family, code, JavaScript, and React.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/wuVy7rwkCfc/default.jpg",
@@ -112,13 +112,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dZTVRUKUMdkCJH7oMP0jxczpeDI",
+      "etag": "DDFr4xo5ldBRRZA0QiHWAi_Q8UQ",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Scalable React Development for Large Projects - Jason Jean",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Scalable React Development for Large Projects\nScaling React development across multiple teams can be incredibly difficult. Teams need to share core functionality while staying autonomous. Changes need to propagate through many projects while being tested. [Nx](https://nx.dev/) is an open-source toolkit that allows organizations to scale development more easily than before! Nx makes setting up Cypress, Prettier, Storybook, Next.js, and Gatsby faster than ever. You can also develop full-stack by using Node frameworks like Apollo and Nest.js and share code between frontend and backend. In this talk you’ll learn how large organizations like Facebook, Microsoft, and Google are able to successfully scale across multiple teams, business units, and products.\n\nJason Jean\nJason is an Architect at Nrwl on the Nx Core Team. He works with Fortune 500 companies across different industries to enable them to develop like Facebook, Microsoft, and Google. Along with development, Jason is also an enthusiast of board games and mechanical keyboards.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Scalable React Development for Large Projects\nScaling React development across multiple teams can be incredibly difficult. Teams need to share core functionality while staying autonomous. Changes need to propagate through many projects while being tested. [Nx](https://nx.dev/) is an open-source toolkit that allows organizations to scale development more easily than before! Nx makes setting up Cypress, Prettier, Storybook, Next.js, and Gatsby faster than ever. You can also develop full-stack by using Node frameworks like Apollo and Nest.js and share code between frontend and backend. In this talk you’ll learn how large organizations like Facebook, Microsoft, and Google are able to successfully scale across multiple teams, business units, and products.\n\nJason Jean\nJason is an Architect at Nrwl on the Nx Core Team. He works with Fortune 500 companies across different industries to enable them to develop like Facebook, Microsoft, and Google. Along with development, Jason is also an enthusiast of board games and mechanical keyboards.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Lr-u2ALSEQg/default.jpg",
@@ -166,13 +166,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WyoGScgqIVq-GJ7ZnOhmcSD-ah0",
+      "etag": "wVx7Hnz9skL9Pq9vHc0Asx-WqmM",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Designing with Code in Mind – Elizabet Oliveira",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Designing with Code in Mind\nFor years I've been a designer who codes and I believe that designing with code or with a coding mindset can help your team to be more productive. In this talk, I'm exploring this concept and showing my daily workflow that can probably help to bridge the gap between devs and designers.\n\nElizabet Oliveira\nElizabet is a designer who likes to code. As a ReactJS enthusiast, she built and maintains React-Kawaii. A React library of fun kawaii characters that won \"Fun Side Project of the Year\" in React Amsterdam Open Source Awards 2018. Besides that, her passion for music and past experience as the first female rapper in Portugal under a major deal, led her to start Cassette Tape. The HTML5 based looper and recorder has granted her a spot in Google I/0 Dublin, in 2016. Also, a big fan of open-source, she has recently released a song for the designer/dev community called \"Fork This\" (2020).\nElizabet currently works as Senior Product Designer for Elastic. Her mission is to bridge the gap between front-end and design.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/#",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Designing with Code in Mind\nFor years I've been a designer who codes and I believe that designing with code or with a coding mindset can help your team to be more productive. In this talk, I'm exploring this concept and showing my daily workflow that can probably help to bridge the gap between devs and designers.\n\nElizabet Oliveira\nElizabet is a designer who likes to code. As a ReactJS enthusiast, she built and maintains React-Kawaii. A React library of fun kawaii characters that won \"Fun Side Project of the Year\" in React Amsterdam Open Source Awards 2018. Besides that, her passion for music and past experience as the first female rapper in Portugal under a major deal, led her to start Cassette Tape. The HTML5 based looper and recorder has granted her a spot in Google I/0 Dublin, in 2016. Also, a big fan of open-source, she has recently released a song for the designer/dev community called \"Fork This\" (2020).\nElizabet currently works as Senior Product Designer for Elastic. Her mission is to bridge the gap between front-end and design.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/#",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/fYQoeaJMLjw/default.jpg",
@@ -220,13 +220,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4dcYCKBI1rw4o_nXzhvYlWZmXjo",
+      "etag": "AxKTrjX7Pq_0b9mIpfCoj5Eyuf0",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "React Query: It’s Time to Break up with your \"Global State”! –Tanner Linsley",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#React Query: It’s Time to Break up with your \"Global State”!\nAn increasing amount of data in our React applications is coming from remote and asynchronous sources and, even worse, continues to masquerade as “global state”. In this talk, you’ll get the lowdown on why most of your “global state” isn’t really state at all and how React Query can help you fetch, cache and manage your asynchronous data with a fraction of the effort and code that you’re used to.\n\n\nTanner Linsley\nTanner is an open source creator who loves React and JavaScript. He has built and still maintain several well-known open source libraries like React Table, React Query, React Form, React Charts, React Static, and even Chart.js\nHe co-founded Nozzle.io 6 years ago and currently holds down the front-end fort there as VP of UI and UX.\nWhen not programming, Tanner spends his free time traveling, recording music, film-making, and vacationing with his wife and children.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#React Query: It’s Time to Break up with your \"Global State”!\nAn increasing amount of data in our React applications is coming from remote and asynchronous sources and, even worse, continues to masquerade as “global state”. In this talk, you’ll get the lowdown on why most of your “global state” isn’t really state at all and how React Query can help you fetch, cache and manage your asynchronous data with a fraction of the effort and code that you’re used to.\n\n\nTanner Linsley\nTanner is an open source creator who loves React and JavaScript. He has built and still maintain several well-known open source libraries like React Table, React Query, React Form, React Charts, React Static, and even Chart.js\nHe co-founded Nozzle.io 6 years ago and currently holds down the front-end fort there as VP of UI and UX.\nWhen not programming, Tanner spends his free time traveling, recording music, film-making, and vacationing with his wife and children.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/seU46c6Jz7E/default.jpg",
@@ -274,13 +274,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kGFqtGZCa-n_bU2iVlo0XlduIDM",
+      "etag": "Hahu6Ps2MJijF7bOGwJDdYwIx-0",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Keynote on Next.js and Serverless future – Guillermo Rauch",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Keynote Talk \n\nGuillermo Rauch \nGuillermo is the co-creator Next.js, former CTO and co-founder of LearnBoost and Cloudup, acquired by Wordpress.com in 2013. His background and expertise are in the realtime web. He's the creator of socket.io, one of the most popular JavaScript projects on GitHub, with implementations in many different programming languages and frameworks (currently running the realtime backend of high profile apps like Microsoft Office online). He created the first MongoDB ORM for Node.JS, MongooseJS. Before that he was a core developer of the MooTools JavaScript framework. He's the author of \"Smashing Node.JS\" published by Wiley in 2012, best-selling book about Node.JS on Amazon in multiple programming categories.\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Keynote Talk \n\nGuillermo Rauch \nGuillermo is the co-creator Next.js, former CTO and co-founder of LearnBoost and Cloudup, acquired by Wordpress.com in 2013. His background and expertise are in the realtime web. He's the creator of socket.io, one of the most popular JavaScript projects on GitHub, with implementations in many different programming languages and frameworks (currently running the realtime backend of high profile apps like Microsoft Office online). He created the first MongoDB ORM for Node.JS, MongooseJS. Before that he was a core developer of the MooTools JavaScript framework. He's the author of \"Smashing Node.JS\" published by Wiley in 2012, best-selling book about Node.JS on Amazon in multiple programming categories.\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/2porsQ1gLvA/default.jpg",
@@ -328,13 +328,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iKAMiqmfd3-mKSPbWAQhxvtZmDk",
+      "etag": "wdAGh4mqKzmAN4bw_V3kQg8vNXA",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "The 1.0 is a lie: The complexities of releasing React Native – Lorenzo Sciandra",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#The 1.0 is a Lie\nWhenever there's a conversation about working on React Native, versioning and release cycle usually arise as one of the pain points. But why is that the case? How complicated is it to create a new release of React Native? Surely it looks similar to the release process you are using... or not!\nDuring this talk I'll walk you through the many steps and complexities involved in publishing a new version or React Native, and I'll challenge one fundamental idea – that 1.0 is the solution to all problems.\nI hope you're ready, it's going to be wild!\n\nLorenzo Sciandra\nLorenzo is a Software Engineer at Formidable UK — a few years ago he decided to use React Native for a project. He hasn’t stopped since: he became an Open Source maintainer for the core project, helping the Facebook team. He also cares a lot about mental health, so he decided to help his local OSS community with a dedicated meetup, ProvidedAsIs.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#The 1.0 is a Lie\nWhenever there's a conversation about working on React Native, versioning and release cycle usually arise as one of the pain points. But why is that the case? How complicated is it to create a new release of React Native? Surely it looks similar to the release process you are using... or not!\nDuring this talk I'll walk you through the many steps and complexities involved in publishing a new version or React Native, and I'll challenge one fundamental idea – that 1.0 is the solution to all problems.\nI hope you're ready, it's going to be wild!\n\nLorenzo Sciandra\nLorenzo is a Software Engineer at Formidable UK — a few years ago he decided to use React Native for a project. He hasn’t stopped since: he became an Open Source maintainer for the core project, helping the Facebook team. He also cares a lot about mental health, so he decided to help his local OSS community with a dedicated meetup, ProvidedAsIs.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/2WsBtNwO6Ng/default.jpg",
@@ -382,13 +382,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ICx1skElrycTCnrGC4ZAajLCJ7E",
+      "etag": "9A1w_XcTp62KPJu1pJedRq0sOKs",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Machine Learning on the Edge - Sangeetha KP",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#ML on the Edge\nThe world is filled with billions of small, connected, intelligent and compute-efficient smart-phones. What if we can tap into this power and do more on the edge? It turns out, ML fits perfectly here. Let us explore the MLKit library to bake in intelligence into react-native applications.\n\nSangeetha KP\nSangeetha is a Software Developer Engineer with 4 years of experience working with Alexa Companion App and the Amazon Shopping App at Amazon HQ. She is a Tech enthusiast and can be seen giving talks / workshops in universities/meetups in the United States\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#ML on the Edge\nThe world is filled with billions of small, connected, intelligent and compute-efficient smart-phones. What if we can tap into this power and do more on the edge? It turns out, ML fits perfectly here. Let us explore the MLKit library to bake in intelligence into react-native applications.\n\nSangeetha KP\nSangeetha is a Software Developer Engineer with 4 years of experience working with Alexa Companion App and the Amazon Shopping App at Amazon HQ. She is a Tech enthusiast and can be seen giving talks / workshops in universities/meetups in the United States\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/hvJgrgK1A9A/default.jpg",
@@ -436,13 +436,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Oq8bZtAAwRMtTvp9UxfHEjkPWxc",
+      "etag": "jKwhZYHkQ_x1biJTow3v0lwI1Ug",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Styles and Theming with Restyle in React Native – Haris Mahmood",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Styles and Theming with Restyle in React Native\nHaris is talking about the newly open-sourced library Restyle (https://github.com/Shopify/restyle); how it addresses many problems and pain points developers experience when managing evolving styles and theme support (gotta have dark mode!) in a React Native app.\n\nHaris Mahmood\nAs a Senior React Native Engineer at Shopify, Haris is helping create a better world of commerce. He runs a developer focused online store (repitsupply.com), has a weird obsession with dinosaurs, and is still emotionally recovering from the terrible GoT finale.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Styles and Theming with Restyle in React Native\nHaris is talking about the newly open-sourced library Restyle (https://github.com/Shopify/restyle); how it addresses many problems and pain points developers experience when managing evolving styles and theme support (gotta have dark mode!) in a React Native app.\n\nHaris Mahmood\nAs a Senior React Native Engineer at Shopify, Haris is helping create a better world of commerce. He runs a developer focused online store (repitsupply.com), has a weird obsession with dinosaurs, and is still emotionally recovering from the terrible GoT finale.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/uOHIVyLoo94/default.jpg",
@@ -490,13 +490,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "W8hWV8ZyFcrjGtZ9OFagybhn5Rs",
+      "etag": "Iyj26w1v3jSdZo0eNkyUEhxKKGM",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Building apps for both Windows and Mac – Eloy Durán and Kiki Saintonge",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Building apps for both Windows and Mac\nSee how Microsoft is using React Native to solve some of their cross-platform problems, how they're working with Facebook to help make React Native for Windows and Mac great experiences, and learn how to get started building a Windows and Mac app.\n\nEloy Durán\nEloy is a serial open-sourcerer, author of CocoaPods, and engineer at Microsoft working on their React Native efforts. Previously at Artsy.net he oversaw the adaptation of React Native in Artsy’s flagship iOS app.\n\nKiki Saintonge\nKiki is a Program Manager on the Windows UI Platform team and comes from a game design and development background.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Building apps for both Windows and Mac\nSee how Microsoft is using React Native to solve some of their cross-platform problems, how they're working with Facebook to help make React Native for Windows and Mac great experiences, and learn how to get started building a Windows and Mac app.\n\nEloy Durán\nEloy is a serial open-sourcerer, author of CocoaPods, and engineer at Microsoft working on their React Native efforts. Previously at Artsy.net he oversaw the adaptation of React Native in Artsy’s flagship iOS app.\n\nKiki Saintonge\nKiki is a Program Manager on the Windows UI Platform team and comes from a game design and development background.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/hl4-m0bk2qc/default.jpg",
@@ -544,13 +544,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LbrQSf3qLAyachDCoUpJlM8eMBM",
+      "etag": "ydAvmTgdSt4ax8VxLZb84okQTSk",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "End Your Development Nightmares with envinfo and Solidarity – Trevor Brindle",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#End Your Development Nightmares with envinfo and Solidarity\nIn a world where perpetually confused developers can't quite get their React Native development environments working, new libraries emerge from the ashes of lost productivity: envinfo and Solidarity. Escape the complexity and be part of the wave of teams embracing change to save their projects from themselves.\n\nTrevor Brindle\nThe web, mobile, JavaScript, React/Native, CI/CD, process improvement, leading teams, remote work, and interviewing.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#End Your Development Nightmares with envinfo and Solidarity\nIn a world where perpetually confused developers can't quite get their React Native development environments working, new libraries emerge from the ashes of lost productivity: envinfo and Solidarity. Escape the complexity and be part of the wave of teams embracing change to save their projects from themselves.\n\nTrevor Brindle\nThe web, mobile, JavaScript, React/Native, CI/CD, process improvement, leading teams, remote work, and interviewing.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/S8n2CoG5D6Y/default.jpg",
@@ -598,13 +598,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WihG-UH947yIlGBAdBxn_yNdRIw",
+      "etag": "o2WPhQULczGhebdqtyvOtPRT-mY",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Build Virtual Reality with React – Haoui Hamza",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/gx4UY5OJITM/default.jpg",
@@ -652,13 +652,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-wO2QgF101d-JwMc1RlrQZjU3WU",
+      "etag": "L8pzkq9KjWsbf2YxSyDqExpHdDc",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Exploring React My Own Way – Tathagat Thapliyal",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/54cXyppjQ-o/default.jpg",
@@ -706,13 +706,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "SLs9z2P3MLYNcLlDRilCpcOvnVs",
+      "etag": "QJK4_YDMLab9CpHUtMHVJd6qHXY",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Designing Boardgames and How Tech (and React) Can Help – Johannes Goslar",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/hpqhg57UqFw/default.jpg",
@@ -760,13 +760,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a9jKQAUYnFL05SGrE0a1puNZl_k",
+      "etag": "6se-rI_o2zXWkKvI9L2UDJ74FcA",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2020-05-08T09:40:00Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Go from being skeptical about Relay to falling in love with it – Tanmai Gopal",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#How I Went from Being Skeptical about Relay to Falling in Love with it\nGraphQL integration (and API/data fetching in general) becomes quite repetitive and complex as our app scales. New features need to be built that are sort of similar to features that already existed, but what bits they can reuse is not clear (eg: pagination). New members join the team and we’d like them to work on their UI components without worrying about the data fetching logic of the rest of the component tree. Relay takes an opinionated stance to solve some of these problems that are worth understanding and learning from.\nIn this talk, I'm going to motivate the core features in Relay from the ground-up. I'll do hands-on demos to explain the common challenges GraphQL clients run into, how one would fix them without Relay and then fix them with Relay. I'll also touch upon how Relay works and its design briefly and how Relay’s design goal is not just being a high-performance GraphQL client, but also increasing developer productivity and happiness.\n\nTanmai Gopal\nTanmai Gopal is the CEO, co-founder of Hasura. He is a StackOverflow powered fullstack developer whose areas of interest and work span React, GraphQL, Nodejs, Haskell, Docker, Postgres & Kubernetes. He is passionate about making it easy to build complex things and is the instructor of India's largest MOOC imad.tech with over 250,000 students.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#How I Went from Being Skeptical about Relay to Falling in Love with it\nGraphQL integration (and API/data fetching in general) becomes quite repetitive and complex as our app scales. New features need to be built that are sort of similar to features that already existed, but what bits they can reuse is not clear (eg: pagination). New members join the team and we’d like them to work on their UI components without worrying about the data fetching logic of the rest of the component tree. Relay takes an opinionated stance to solve some of these problems that are worth understanding and learning from.\nIn this talk, I'm going to motivate the core features in Relay from the ground-up. I'll do hands-on demos to explain the common challenges GraphQL clients run into, how one would fix them without Relay and then fix them with Relay. I'll also touch upon how Relay works and its design briefly and how Relay’s design goal is not just being a high-performance GraphQL client, but also increasing developer productivity and happiness.\n\nTanmai Gopal\nTanmai Gopal is the CEO, co-founder of Hasura. He is a StackOverflow powered fullstack developer whose areas of interest and work span React, GraphQL, Nodejs, Haskell, Docker, Postgres & Kubernetes. He is passionate about making it easy to build complex things and is the instructor of India's largest MOOC imad.tech with over 250,000 students.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ZRnrt-Vqyo4/default.jpg",
@@ -804,13 +804,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "epFpqoiqf4gpjDYhV-MMIvafzqg",
+      "etag": "yCKXf90DKW3EEI-v5p4DcIeto3Y",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2020-05-18T18:48:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Going Live from your Browser without WebRTC – Matt McClure",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Going Live from your Browser without WebRTC\nWhen developers think about broadcasting live from the browser, the immediate assumption is to use WebRTC. While WebRTC is amazing technology, server-side implementations are...lacking right now. We'll talk about a (totally hacky) way to get video from the browser via technology you're using today.\n\nMatt McClure\nMatthew is an internet video nerd. He's the co-founder and Head of Technology & Community at Mux, a startup building online video infrastructure for developers, a core-contributor to Video.js, the biggest HTML5 video framework, and the organizer of Demuxed, the largest video-focused dev conference/community in the world.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Going Live from your Browser without WebRTC\nWhen developers think about broadcasting live from the browser, the immediate assumption is to use WebRTC. While WebRTC is amazing technology, server-side implementations are...lacking right now. We'll talk about a (totally hacky) way to get video from the browser via technology you're using today.\n\nMatt McClure\nMatthew is an internet video nerd. He's the co-founder and Head of Technology & Community at Mux, a startup building online video infrastructure for developers, a core-contributor to Video.js, the biggest HTML5 video framework, and the organizer of Demuxed, the largest video-focused dev conference/community in the world.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/hgpK5WpqP1E/default.jpg",
@@ -858,13 +858,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7oAtgrSIWkOufaw_JhKH8nLC81g",
+      "etag": "BkUb1oQYxun7nODJ_m7CfyfdwSA",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2020-05-18T18:48:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Bringing Ionic (and Web Components) to React – Mike Hartington",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Bringing Ionic (and Web Components) to React\nIonic is a framework for building fast and powerful mobile, desktop, and web apps with web technology. Traditionally, Ionic has been built on top of one framework: Angular. But recently, Ionic added support for React, and aims to bring the same great development experience to the React ecosystem. In this talk, we’ll look at how an Ionic React app works and how this changes the React ecosystem (surprise, it's because of Web Components).\n\n\nMike Hartington\nMike is a developer, Google Developer Expert, and Ionic Developer Advocate who’s been working in the mobile landscape for most of his professional career. When he’s not working Ionic itself, Mike speaks frequently about mobile development and Progressive Web Apps. In his spare time, he’s an aspiring woodworker, occasional musician, and craft beer lover.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#Bringing Ionic (and Web Components) to React\nIonic is a framework for building fast and powerful mobile, desktop, and web apps with web technology. Traditionally, Ionic has been built on top of one framework: Angular. But recently, Ionic added support for React, and aims to bring the same great development experience to the React ecosystem. In this talk, we’ll look at how an Ionic React app works and how this changes the React ecosystem (surprise, it's because of Web Components).\n\n\nMike Hartington\nMike is a developer, Google Developer Expert, and Ionic Developer Advocate who’s been working in the mobile landscape for most of his professional career. When he’s not working Ionic itself, Mike speaks frequently about mobile development and Progressive Web Apps. In his spare time, he’s an aspiring woodworker, occasional musician, and craft beer lover.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/KHPbUh2Ps4c/default.jpg",
@@ -912,13 +912,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2j4YBeSaZ6AZmdndTi3coCs-kqQ",
+      "etag": "5r3x6pQIOKIXINaNhN9Td9j3Zc4",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2020-05-18T18:48:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "GraphQL Mesh – Query Anything, Run Anywhere - Uri Goldshtein",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#GraphQL Mesh – Query Anything, Run Anywhere\nIn this talk I will demonstrate the new GraphQL Mesh library (https://twitter.com/UriGoldshtein/status/1242118500795236353?s=20) that was recently announced.\nGraphQL Mesh changes a lot of the traditional ideas about GraphQL and its relationship with other API protocols.\nIt can automatically generate a GraphQL API from openapi/Swagger, gRPC, SOAP, oData and others without changing the source and merge them all schemas into a single schema - Schema Stitching for any source!\nIn this talk I will share some of the original ideas behind it and my opinions on how the future looks for API consumption and exposure.\n\n\nUri Goldshtein\nUri is the founder of The Guild, a group of open source developers working around the world to help create important open source libraries, mostly around GraphQL. They support large companies to go through successful technological transformations.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n\n#GraphQL Mesh – Query Anything, Run Anywhere\nIn this talk I will demonstrate the new GraphQL Mesh library (https://twitter.com/UriGoldshtein/status/1242118500795236353?s=20) that was recently announced.\nGraphQL Mesh changes a lot of the traditional ideas about GraphQL and its relationship with other API protocols.\nIt can automatically generate a GraphQL API from openapi/Swagger, gRPC, SOAP, oData and others without changing the source and merge them all schemas into a single schema - Schema Stitching for any source!\nIn this talk I will share some of the original ideas behind it and my opinions on how the future looks for API consumption and exposure.\n\n\nUri Goldshtein\nUri is the founder of The Guild, a group of open source developers working around the world to help create important open source libraries, mostly around GraphQL. They support large companies to go through successful technological transformations.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/BUzISj87ovc/default.jpg",
@@ -966,13 +966,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G2CFudTQAOimmsO7Fc7p8kGqVig",
+      "etag": "ra_xTh2adw-g88xa_BbrXUkORmk",
       "id": "UExOQk5TN05SR0tNR0NCTmVidzh4a3BrcV9saGdQb0l6Ui5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2020-05-18T18:48:52Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Button vs Div: What's the Big Deal Anyway? - Jen Luker",
-        "description": "Get a GitNation Multipass, attend 8+ remote JavaScript conferences & watch tens of pro talks and workshops from our past events: https://portal.gitnation.org/multipass\n\n🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Button vs Div: What's the Big Deal Anyway? \nAccessibility advocates often say \"use the platform,\" but why? In this lightning talk, I'll be showing you implementation differences between the behavior of native HTML elements and their DIV counterparts.\n\nJen Luker \nJen is a Sr. Frontend Engineer, conference speaker, and BookBytes podcast co-host. She has spent the majority of her career as a full-stack developer using PHP, Javascript, and CSS, but has a particular fondness for frontend technologies. She is an advocate for both accessibility, and processes that make doing the right thing easy and the wrong thing hard. When she's not exploring solutions, learning new technologies, or reading, Jen's spare time is spent spinning yarn from raw wool and knitting; she's even been known to 3D print her own tools for the job. She is also fascinated by all things space, antique cars, and IoT.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
+        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit Remote Edition 2020\n\nWebsite - https://remote.reactsummit.com/\n\n\nSee other React conferences by GitNation\nReact Summit – https://reactsummit.com\nReact Advanced London – https://reactadvanced.com\nReact Day Berlin – https://reactday.berlin/\n\n#Button vs Div: What's the Big Deal Anyway? \nAccessibility advocates often say \"use the platform,\" but why? In this lightning talk, I'll be showing you implementation differences between the behavior of native HTML elements and their DIV counterparts.\n\nJen Luker \nJen is a Sr. Frontend Engineer, conference speaker, and BookBytes podcast co-host. She has spent the majority of her career as a full-stack developer using PHP, Javascript, and CSS, but has a particular fondness for frontend technologies. She is an advocate for both accessibility, and processes that make doing the right thing easy and the wrong thing hard. When she's not exploring solutions, learning new technologies, or reading, Jen's spare time is spent spinning yarn from raw wool and knitting; she's even been known to 3D print her own tools for the job. She is also fascinated by all things space, antique cars, and IoT.\n\n\nSubscribe to our channel to see more React (Native) talks: https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/wDa-0tp4_t8/default.jpg",
