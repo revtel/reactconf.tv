@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "clAbcodxXLbkPsH88fCBCQ5VYOs",
+  "etag": "S39L5yOSkh191GM80x8VevkkY8I",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -256,10 +256,89 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qM6u7F3A0pQJTqy6xjyJit4MShw",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-30T12:28:28Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1AATZKrCyUA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1AATZKrCyUA"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mbIusWYr1rolm0iCcZeJopqECEo",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-30T12:35:45Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Mike's announcement - 2 days left! Register now! 💙",
+        "description": "Listen what Mike Grabbou Grabowski has to say just 2 days before #ReactNativeEU 2021! \nYou can still join - register now for free!\n\nLink to the Registration: https://ti.to/react-native-eu/2021/\n\nLink to the Agenda: https://www.react-native.eu/2021-agenda?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social&utm_content=video_agenda",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oTxM3pcz5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oTxM3pcz5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oTxM3pcz5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8oTxM3pcz5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8oTxM3pcz5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8oTxM3pcz5k"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "8oTxM3pcz5k",
+        "videoPublishedAt": "2021-08-30T12:38:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 5,
+    "totalResults": 7,
     "resultsPerPage": 50
   }
 }
