@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "e_EoD6GybSUSPa1jxYY0nrRq7gY",
+  "etag": "AUlXdyto4_sX1iW3DIQGIbJcgCo",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -335,10 +335,108 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fjqehMowN7-4K7ePWriA6snXBpk",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-09-20T08:41:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021 - Virtual Conference: Day I",
+        "description": "Welcome everyone to React Native EU 2021 live-stream! We’re excited to see you all!\n\nJoin our official Discord channel: https://discord.gg/u5Kqf2G3\nFeel free to say “hi!” and ask questions regarding the talks!\n\nCheck conference website: https://hubs.li/H0Wdy9R0\nAnd the full agenda on: https://hubs.li/H0WdydL0\n\nAgenda for September 1st:\n\n00:00 Intro\n29:50 Opening\n33:25 Marc Rousavy: How JSI powers the most advanced Camera library (VisionCamera Frame Processing)\n1:06:25 - Joshua Gross: The New React Native: Bringing the Fabric renderer to the “Facebook” app\n1:46:28 - Khalef Hosany: Unlocking the next generation of desktop apps with React Native\n2:15:42 - Break\n2:31:02 - Aleksandra Desmurs-Linczewska: What if I want to be a game dev?\n2:50:10 - Satyajit Sahoo: React Navigation 6.x, fresh from the oven\n3:23:39 - Truls Skeie: React Native going Native\n3:45:04 - Sanket Sahu: Building Accessibility Hooks for React Native & Web\n4:15:55 - Break\n4:46:13 - Milica Aleksic: React developers in a wild world of native apps\n5:06:35 - Jon Samp: How to iterate on your app faster with Expo\n5:28:43 - Shivay Lamba: Machine Learning with React Native using MediaPipe and TFLite \n6:05:48 - Arnaud Bezançon: React Query with GraphQL code gen and Typescript\n7:04:58 - Helena Ford: Local Notifications in React Native\n\nFollow us on Twitter: \nhttps://twitter.com/react_native_eu\n\nMeet Callstack - the team of React and React Native development experts:\nhttps://hubs.li/H0WdLrR0\n\nAll the details regarding The React Native Show podcast can be found here: https://hubs.li/H0WdBlm0\n\nCallstack is hiring! Check for more info: \nhttps://hubs.li/H0WdLSs0\nWe’re looking for Senior React Native developers to join our team! Read more about the role and apply here:\nhttps://hubs.li/H0WfK8v0\n\nSubscribe to Callstack newsletter to be always up to date with the latest articles, podcast episodes, job positions and news that happen at our company:\nhttps://hubs.li/H0WdMFC0\n\nFollow Callstack on Twitter:\nhttps://twitter.com/callstackio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xKOkILSLs0Q"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "xKOkILSLs0Q",
+        "videoPublishedAt": "2021-09-20T08:48:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y9ki1orqOD_FOnTaMRZHchFsh5g",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-09-20T08:51:08Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021 - Virtual Conference: Day II",
+        "description": "Welcome everyone to the second day of React Native EU 2021 Virtual Conference! We’re excited to see you all!\n\nJoin our official Discord channel: https://discord.gg/u5Kqf2G3\nFeel free to say “hi!” and ask questions regarding the talks!\n\nCheck conference website: https://hubs.li/H0Wdy9R0\nAnd the full agenda on: https://hubs.li/H0Wdyk-0\n\nAgenda for September 2nd:\n\n00:00 Intro\n31:18 Lorenzo Sciandra, Tommy Nguyen: Improve all the repos - exploring Microsoft’s DevExp\n1:01:21 - Paweł Trysła: Code Splitting in React Native\n1:24:32 - Monica Restrepo: What went wrong?! Deep dive into debugging React Native applications\n1:41:15 - Break\n41:56:39 - Grant Sander: Modern Animating in React Native - an Introduction to Reanimated V2\n2:26:58 - Alexander Kuttig: Animate everything - How to use Animations with 60 fps\n3:10:04 - Mateo Silguero: H*ck yourself\n3:33:10 - Thor Schaeff: “Show me the money” - securely accepting payments in React Native apps\n3:59:13 - Break\n4:29:39 - Louis Zawadzki: Going 100% TDD with React Native Testing Library\n4:56:15 - Lars Thorup: Sub-second integration tests for your React Native app and Bluetooth device\n5:18:32 - Akshat Paul: Real Time video communication made easy with React Native (and WebRTC) \n5:42:00 - Wojciech Kwiatek: Creating a VoIP app in React Native - the beginner's guide\n\nFollow us on Twitter: \nhttps://twitter.com/react_native_eu\n\nMeet Callstack - the team of React and React Native development experts:\nhttps://hubs.li/H0WdLF60\n\nAll the details regarding The React Native Show podcast can be found here: https://hubs.li/H0WdBvd0\n\nCallstack is hiring! You will find more info here: \nhttps://hubs.li/H0WdLZn0\nWe’re looking for Senior React Native developers to join our team! Read more about the role and apply here:\nhttps://hubs.ly/H0WfKCc0\n\nSubscribe to Callstack newsletter to be always up to date with the latest articles, podcast episodes, job positions and news that happen at our company:\nhttps://hubs.li/H0WdMLd0\n\nFollow Callstack on Twitter:\nhttps://twitter.com/callstackio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_18-Y4RyNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_18-Y4RyNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_18-Y4RyNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q_18-Y4RyNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q_18-Y4RyNw"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Q_18-Y4RyNw",
+        "videoPublishedAt": "2021-09-20T10:31:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }
