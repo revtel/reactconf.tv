@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hBGqMr3Wr8eEA3jaJISOUSogr9w",
+  "etag": "T57ON9UBL8Sbj1UMxbZWsXJqW88",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -259,32 +259,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qM6u7F3A0pQJTqy6xjyJit4MShw",
-      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2021-08-30T12:28:28Z",
-        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "Callstack Engineers",
-        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "1AATZKrCyUA"
-        }
-      },
-      "contentDetails": {
-        "videoId": "1AATZKrCyUA"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "HXDpEGFBdjOULtGIs3PYg8E_E-8",
+      "etag": "GwjIkq7bekUCAIKzNxHDHDwSnv4",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2021-08-30T12:35:45Z",
@@ -320,7 +295,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
-        "position": 6,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8oTxM3pcz5k"
@@ -338,7 +313,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ia01nvtskGg81E0j9pZDo8MKSG4",
+      "etag": "jwkir1Yta38GCOOT6GVWqJGWmRQ",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2021-09-20T08:41:53Z",
@@ -369,7 +344,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xKOkILSLs0Q"
@@ -387,7 +362,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qYY8ag6-YryWgIPP86pUSSZJpJg",
+      "etag": "GBkK8vfmOWKOpE0vQwnWnOFA20c",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2021-09-20T08:51:08Z",
@@ -418,7 +393,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q_18-Y4RyNw"
@@ -436,7 +411,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 9,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
