@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "T57ON9UBL8Sbj1UMxbZWsXJqW88",
+  "etag": "i-4o_IhIYT1Ox3gzTad28fGQavQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -205,7 +205,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cdoWSQRrYAU3Py-FdbGvGrEX5-E",
+      "etag": "8Fyb-UkKIMqvlbl0OZ8C85HXzuA",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2021-08-24T12:45:00Z",
@@ -408,10 +408,168 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5g_IxQ8dwmGLiL-HSwlEmS9l1Xo",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-10-12T08:36:43Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W2JDyp9yY-g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "W2JDyp9yY-g"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wnSK-vkBH-_uJ_aJkLyycUqvJ6o",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-10-13T09:11:27Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Paweł Trysła - Code Splitting in React Native",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nWhile developing mobile applications we usually have a mental model of a single runnable piece of software that includes all features and there’s a good reason for that - it’s difficult to split functionality in native mobile applications. However, with React Native most of our logic lives as a JavaScript, which can be splitted. The web development community has been doing that for years. So what if we could split our React Native code using the power of Webpack?\n\nPaweł Trysła aka. Zamotany is a software engineer at Callstack and the lead engineer at Re.Pack. Paweł calls himself “the tooling guy” with extensive knowledge of Webpack and Babel. He is also a huge fan of Electron, functional programming and RxJS.\n\nTwitter: https://twitter.com/_zamotany \n\nGithub: https://github.com/zamotany",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fz-aXLU6HuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fz-aXLU6HuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fz-aXLU6HuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fz-aXLU6HuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fz-aXLU6HuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fz-aXLU6HuA"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Fz-aXLU6HuA",
+        "videoPublishedAt": "2021-10-13T09:24:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o3EZCnJZzIx8QZh5c-Xj3ih-THE",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-10-13T09:38:15Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Wojciech Kwiatek - Creating a VoIP app in React Native - the beginner's guide",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nHow to make your mobile... to call? Is it easy to create another Skype or Whatsapp? \nThis talk will walk you through the various aspects of creating \"the calling app\". Starting with what the VoIP actually is, going through some theory of WebRTC connections, and ending with the CallKit of iOS vs Android way of handling calls with the React Native. It will give you a sneak peek of what is required to make a production app that handles outgoing and incoming calls and what kind of infrastructure you need. The talk is based on the experience taken from the phone app made for sales and support teams around the world.\n\nWojciech is a JavaScript developer, trainer, and mentor. Started commercial programming with Node.js, then switched to front end world to work with mobile lastly. During the past few years went through many JS frameworks and companies building different pieces of software. For many years involved in JavaScript trainings by preparing materials and leading both open-source and commercial workshops. Now bridging the gap between tech and business.\n\nTwitter: https://twitter.com/WojciechKwiatek\nGithub: https://github.com/wkwiatek\n\nAdditional Links:\n\nLink to slides: https://www.slideshare.net/WojciechKwiatek3/react-native-eu-2021-creating-a-voip-app-in-react-native-the-beginners-guide\n\nLink to the main React Native packages mentioned in the talk:\n- React Native WebRTC: https://github.com/react-native-webrtc/react-native-webrtc\n- React Native CallKeep: https://github.com/react-native-webrtc/react-native-callkeep",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hyZWh7CA7Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hyZWh7CA7Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hyZWh7CA7Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hyZWh7CA7Sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hyZWh7CA7Sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hyZWh7CA7Sw"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "hyZWh7CA7Sw",
+        "videoPublishedAt": "2021-10-13T11:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9z1qn6i0QK_-SGe2S1YWdkUq7dQ",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-10-13T09:48:22Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LKj2CCfxX8A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LKj2CCfxX8A"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 12,
     "resultsPerPage": 50
   }
 }
