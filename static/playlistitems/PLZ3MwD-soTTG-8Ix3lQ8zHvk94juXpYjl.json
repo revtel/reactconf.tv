@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "i-4o_IhIYT1Ox3gzTad28fGQavQ",
+  "etag": "bi8Yr_pV0C2SJGH0SYJiXjJhLIU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -48,7 +48,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_BAdPtrJpkiVaRlFPb5KmP7_FvE",
+      "etag": "ZRHWn2MITIwmNVAtinYebhcvPAA",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2021-06-23T09:19:45Z",
@@ -436,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wnSK-vkBH-_uJ_aJkLyycUqvJ6o",
+      "etag": "EmOL0doD-AtEJYpsO6VqjPpFz14",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2021-10-13T09:11:27Z",
@@ -490,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o3EZCnJZzIx8QZh5c-Xj3ih-THE",
+      "etag": "v3ffaxnUQB5ZyJQUoncoglY1ysI",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2021-10-13T09:38:15Z",
@@ -544,32 +544,223 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9z1qn6i0QK_-SGe2S1YWdkUq7dQ",
+      "etag": "ApXYhlZG6a_SR3La8dmRiBZEXlo",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2021-10-13T09:48:22Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "React Native EU 2021: Lars Thorup - Sub-second integration tests for your RN app & Bluetooth device",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nThis talk is targeted developers creating apps for a Bluetooth device, such as a loudspeaker, a toothbrush or a dishwasher. I report on my experience using the technique of \"mock recording\" to get very fast and robust integration tests. \n\nIn collaboration with SOUNDBOKS, a Bluetooth speaker company, I have developed an open source tool for creating and using recordings of Bluetooth (BLE) traffic to test a React Native app using Jest. The tool makes it possible to run several integration tests per second as opposed to several minutes per end-to-end test. The tool is based on years of production experience using mock recording for web traffic. \n\nIn this talk I introduce the methodology, perform a live demonstration of the tool, and report on our experience using the tool during app development: how is the quality and speed of feedback from these tests, and how easy is the tool to use for developers? \n\nThe tool is available at https://www.npmjs.com/package/react-native-ble-plx-mock-recorder.\n\n\nLars is an experienced software developer, architect and coach. Lars is an expert in fast and robust test automation with a track record of successfully running 200+ integration tests per second. Currently Lars focuses on web and mobile development with React and React Native.\n\nTwitter: https://twitter.com/larsthorup\n\nGithub: https://github.com/larsthorup\n\nAdditional Links:\nLink to slides: https://www.fullstackagile.eu/2021/09/02/react-native-bluetooth-ble-mock-recording/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LKj2CCfxX8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LKj2CCfxX8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LKj2CCfxX8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LKj2CCfxX8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LKj2CCfxX8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LKj2CCfxX8A"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "LKj2CCfxX8A"
+        "videoId": "LKj2CCfxX8A",
+        "videoPublishedAt": "2021-10-13T12:30:09Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tmeAt45UAO0d0OrE-EY5fy46_T4",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-10-14T13:00:49Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Satyajit Sahoo - React Navigation 6.x, fresh from the oven",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nIt was not long ago when we released React Navigation 5, and announced it at RNEU. So I'm back again, this time with React Navigation 6. In this talk, I'll go through some highlights of React Navigation 6 and how it improves the DX, and discuss the reasons behind a major version bump.\n\nSatya is a maintainer of React Navigation who has been contributing to React Navigation from almost the beginning, and lead the work behind React Navigation 5. He also maintains many other Open Source libraries besides React Navigation. Besides buildings components with React & JavaScript, he also like to cook delicious food and play video games.\nTwitter: https://twitter.com/satya164 \nGithub: https://github.com/satya164",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d12Sb6LwdMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d12Sb6LwdMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d12Sb6LwdMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d12Sb6LwdMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d12Sb6LwdMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d12Sb6LwdMs"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "d12Sb6LwdMs",
+        "videoPublishedAt": "2021-10-14T13:12:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "preA6wzOnshjuCOfldMzOsfLOg0",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-10-14T13:23:35Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Mateo Silguero - H*ck yourself",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: \nMobile apps could be vulnerables. There is a lot of tools for penetration testing, disassembling and software forensics, and if we don't protect our apps, the source code, our secrets, or even users data, could be in danger.\nIn this talk, we gonna see some tools and technics to understand how to prevent the app from being hacked, and what things you should consider about store/handle user data.\n\nHi ! I'm Mateo Silguero, a mobile developer based on Argentina.\nI'm 25 years old, and a huge fan of React Native and web technologies. Lately im focusing on mobile security.\nI work at ank (https://www.ank.app/) a fintech startup from my country.\n\nTwitter: https://twitter.com/mateosilguero1\nGithub: https://github.com/mateosilguero \n\nAdditional Links: \nslides: https://drive.google.com/file/d/18_69vtdHZJzUWlh6n_TOOOL_Pk4dQdaJ/view?usp=sharing\n\ndemo code: https://github.com/mateosilguero/rn-eu-2021",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGS9SxksFBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGS9SxksFBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGS9SxksFBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KGS9SxksFBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KGS9SxksFBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KGS9SxksFBY"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "KGS9SxksFBY",
+        "videoPublishedAt": "2021-10-14T13:25:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NMZR9RKYzHdhkk1dYzuiDwJd32A",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-10-14T13:30:48Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Khalef Hosany - Unlocking the next generation of desktop app with React Native",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: Unlocking the next generation of desktop apps with React Native Microsoft is excited to share with you how React Native for desktops (Windows, macOS) has enabled key partners and our own teams to build highly performant and accessible experiences. We’ve doubled down and invested heavily in React Native – come learn what’s next for React Native for desktops. \n\nBio: I am a Principal Engineering Manager at Microsoft. My team works on the core runtime of React Native for Windows and contributes to React Native for Android.\n\nGithub: https://github.com/Khalef1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r7yKet5dga4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r7yKet5dga4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r7yKet5dga4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r7yKet5dga4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r7yKet5dga4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r7yKet5dga4"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "r7yKet5dga4",
+        "videoPublishedAt": "2021-10-14T14:30:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 12,
+    "totalResults": 15,
     "resultsPerPage": 50
   }
 }
