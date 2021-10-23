@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SEPhZhURITsnrz2XBITPVNvuTos",
+  "etag": "tE8ks1fjX2B2N-dNaaxZdtbkcNE",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -451,7 +451,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jhKeYBvd4WMKOOU99pdxoBMH940",
+      "etag": "t_DBMv6OO64kusBRJprQqwWEIQo",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2021-10-18T12:41:57Z",
@@ -505,7 +505,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5IXak47lh12gqwGGFZ1-8Lt6rKk",
+      "etag": "-hV67bV0vQWqqQMiXIywT-yqoTM",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2021-10-18T12:57:56Z",
@@ -613,7 +613,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wettO-iisormAOltvvZOur0NUAA",
+      "etag": "1-UToz-AGfeLniRNmITadtU63C4",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2021-10-18T13:45:54Z",
@@ -826,10 +826,324 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n8Py95uUREmL5aIpzF1SHDMmVPo",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-10-20T12:40:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Truls Skeie - React Native going Native",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: \nMost of the people watching this talk have some sort of connection to React-Native, either by playing around with it or by doing it professionally. This talk will show alternative approach on how to build React-Native apps which you might not have tried before or even though of.  My story started two years ago, together with a friend we made an app to scratch our own itch, we wanted to listen to more podcasts. One of the things we tried was to listen to podcast while working out, which works fine when you go slow or rest between sets, but when you're going at it, it's hard to focus on the podcast or if you focus on the podcast you can get injured (I once started laughing from podcast in the middle of a squat rep, I do not recommend that 😅). Our solution was to create an app that plays music when you go at it and plays podcast when you rest or go slow - combined with a workout timer.\n\nThe interesting part here is that both playing music and podcast is done using native iOS and Android code. Together with playing audio we also have to run the workout timer on the native thread so if the app is put to background the timer still runs. The way we started architecture this app was to have a control center on the javascript side that emits events to the native side when its time to play music and when its time to play podcast, as well as an event listing to the timer running on the native thread. \n\nEmitting events back and fourth over the bridge just to keep the native and the javascript in sync is not sufficient and error prone. So we did what any sane developer would do, we did a re-write! We moved all the logic from the control center to the native side and we also moved the counter UI to the native side.\n\nIn this talk I will go through how we did it from an Android perspective and I hope you might think of ways to optimise your app by levering the native side 🤞🏼\n\nSpeaker bio: \nBeen building software products for the last 10 years. I've been shipping more than five different apps using React-Native and I have been part of teams maintaining several React-Native apps for years. Currently building https://www.shiftfm.app/ and https://kron.no/\n\nTwitter: https://mobile.twitter.com/trulsskeie\nGithub: http://github.com/skeie\n\nAdditional links: Slides: https://docs.google.com/presentation/d/1n1MVU-8NGvfUBAyrhKTwFYENuUs6lQI1aBe_FLRDJsc/edit#slide=id.p\nShow case app: https://www.shiftfm.app/\n\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VSjisljZ1F4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VSjisljZ1F4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VSjisljZ1F4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VSjisljZ1F4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VSjisljZ1F4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VSjisljZ1F4"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "VSjisljZ1F4",
+        "videoPublishedAt": "2021-10-20T12:44:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EDmqGCf3Q7do1gB9MkhTw_vX15Y",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-10-20T13:11:17Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Milica Aleksic - React developers in a wild world of native apps",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: Going from web to mobile? Starting with React Native comes naturally for React developers, but there are some significant differences because mobile development is a totally different adventure. In this talk, I'd like to go over the challenges you'll experience in your journey from React to React Native apps. I'll offer my own experience as a React developer on how to get started building mobile apps and a new perspective showing that the mobile world is quite different from the web. I want to share all the differences, challenges, and advantages to keep in mind when diving into the native apps universe.\n\nSpeaker Bio:\nSoftware Engineer living and working in Serbia. Tech Lead in Badin Soft with experience working on React and React Native apps. Loves teaching and mentoring, and considers it a work of heart. Supporting women who code and inspiring girls in their path to become successful developers.\n\nI have been more active on Instagram where I share my knowledge in React, React Native, and JS generally so here is links for Instagram and Twitter to check it out:  \nInstagram: https://www.instagram.com/millicode_/ \nTwitter: https://twitter.com/millicode_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spz4BH2Yqqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spz4BH2Yqqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spz4BH2Yqqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/spz4BH2Yqqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/spz4BH2Yqqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "spz4BH2Yqqs"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "spz4BH2Yqqs",
+        "videoPublishedAt": "2021-10-20T13:29:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UtCi76c8bdet_ARdH65sb5u5pnM",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-10-20T13:37:47Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "RNEU2021 M. Rousavy: How JSI powers the most advanced Camera library (VisionCamera Frame Processing)",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: \nEveryone talks about JSI - it will be powering the upcoming React Native re-architecture, it is already used by some libraries (such as Reanimated), and a lot of people already explained how it works and what problem it solves. But what does this have to do with a Camera library?\n\nSpeaker Bio:\nIn this talk I will explain how JSI and Reanimated Worklets power VisionCamera's flexible and powerful plugin API for general purpose Camera frame processing (e.g. Object-detection, Image-labeling, Facial-recognition, Text-recognition, WebRTC, ...), why this is such a game-changer, and what this means for real world applications.\n\nVienna Legend | 30% of my time in VSCode, 70% sipping in irish pubs Twitter: https://twitter.com/mrousavy\nGithub: https://github.com/mrousavy\n\nAdditional links: \nVisionCamera: https://github.com/mrousavy/react-native-vision-camera\nreact-native-mmkv: https://github.com/mrousavy/react-native-mmkv\nColorwaver: https://github.com/mrousavy/Colorwaver (example for a Frame Processor Plugin)\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bT4VL8t2JBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bT4VL8t2JBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bT4VL8t2JBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bT4VL8t2JBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bT4VL8t2JBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bT4VL8t2JBM"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "bT4VL8t2JBM",
+        "videoPublishedAt": "2021-10-20T14:45:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u3IvGHi0ze44D3oQVYvjz5ph0Dg",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-10-21T12:09:57Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "RNEU 2021: Thor Schaeff - \"Show me the money\" - securely accepting payments in React Native apps",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nStripe enables developers to securely process payments online around the world. With cross platform frameworks such as Flutter and React Native, it can pose a challenge to provide a delightful developer experience while ensuring customer payment details are handled securely.\n\nIn this talk and demo we will explore several use cases for how to integrate payments with React Native and provide a great developer experience that’s secure and optimized for mobile purchases. In addition, we’ll cover how strong developer demand and open source contributions led to the launch of Stripe’s React Native library.\n\nAbout the speaker:\nThor (@thorwebdev) is a Developer Advocate at Stripe working to make processing payments seamless and help grow the GDP of the internet. In addition, Thor is an active contributor for several open source projects. Based in sunny Singapore, Thor serves as an active mentor and technical advisor to several developer-focused startups.\n\nTwitter: https://twitter.com/thorwebdev\nGitHub: https://github.com/thorsten-stripe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dafaQAeLIqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dafaQAeLIqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dafaQAeLIqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dafaQAeLIqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dafaQAeLIqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dafaQAeLIqM"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "dafaQAeLIqM",
+        "videoPublishedAt": "2021-10-21T13:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xu2iufbOq0JlB6hR-f7LwbdIzGg",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-10-21T14:15:46Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Arnaud Bezançon - React Query with GraphQL code gen and Typescript",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nReact Query is gaining attraction among React Native developers with its great DX and ecosystem. \n\nDuring this talk we will explore all the features, tools and use cases that have been implemented in our last React Native app version in production and how it compares to Apollo Client and other popular GraphQL libraries.\n\n- Stale-While-Revalidate concept\n- Using GraphQL code generator to generate the Typescript types and custom hooks for the React Query operations\n- Automatic re-fetch on screen focus, mutations and network status change\n- Flat list with infinite queries\n- React Suspense and Error boundaries support\n- Cache persistence in the Async storage\n\nWe'll conclude with the lessons we have learned and other React Query features we plan to use in the future.\n\nAbout the speaker:\nArnaud creates low code application development platforms to address business process complexity. These solutions are used worldwide to implement critical enterprise workflows as new product creation, directorship management, people mobility, artist contract management and global clinical survey.\n\nHe regularly organizes R&D sessions and company retreats in different countries (FR, ES, PT, UK, IT, DE, MO, IN). During these sessions they explore new technologies and architectures (front-end and back-end frameworks, Cloud and Edge ecosystems) and create prototypes and Proof Of Concepts.\n\nHe has been leading the development of React Native with GraphQL app since 2017. DX is his passion.\n\nTwitter: https://twitter.com/ArnBZN\nGitHub: https://github.com/arnaudbzn\n\nAdditional links:\nLink to the Github repo that contains the React Native Demo app source code:\nhttps://github.com/advantys/react-native-react-query-demo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPyp-ca0A5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPyp-ca0A5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPyp-ca0A5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPyp-ca0A5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPyp-ca0A5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZPyp-ca0A5M"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "ZPyp-ca0A5M",
+        "videoPublishedAt": "2021-10-21T14:21:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0nL8vi0CDo6eNyn30gchPu-2T0",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-10-21T14:43:25Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "RNEU 2021: Lorenzo Sciandra & Tommy Nguyen - Improve all the repos – exploring Microsoft’s DevExp",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nMicrosoft is big. Like, REALLY BIG. This means 100s of engineers working in their huge monorepos, and React Native experiences being thrown around across them... how can this even work? How do you improve, coordinate, remove frictions for so many codebases?\nIn this talk, we will dive a bit deeper on the technical side to present you some of the unique challenges we face at the MS scale, and introduce you to some of our custom tooling – who knows, maybe it will be helpful for you too?\n\nAbout Tommy:\nTommy is a Software Engineer at Microsoft who has shipped React Native based experiences within existing Microsoft apps and are now focussing on tooling and making the developer experience better for everyone.\n\nTwitter: https://twitter.com/lord_sherlock\nGitHub: https://github.com/tido64 \n\nAdditional links:\nYou can find react-native-test-app here: https://github.com/microsoft/react-native-test-app\nAnd RNX-KIT here: https://github.com/microsoft/rnx-kit (dep-check is in the /packages folder)\n\nIf you want to check out for yourself the slides material, the slides are here: https://speakerdeck.com/kelset/improve-all-the-repos-exploring-microsofts-devexp\nthe demos' steps are listed here, along with the demo monorepo used in the second one: https://github.com/tido64/rneu-demo\nthe PR to migrate RN-webview to RNTA here: https://github.com/react-native-webview/react-native-webview/pull/2148",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAEnPV78rQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAEnPV78rQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAEnPV78rQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DAEnPV78rQc"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "DAEnPV78rQc",
+        "videoPublishedAt": "2021-10-21T15:15:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 16,
+    "totalResults": 22,
     "resultsPerPage": 50
   }
 }
