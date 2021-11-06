@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "aKTwudPCtb_pIIGm1ojFy9_YCfQ",
+  "etag": "qjYiC9Vtl6kDUUNtMdyUIw-H4io",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1140,10 +1140,152 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fxDHEbtDeirBKbn-1ruEAdHOB9w",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-11-05T10:00:16Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Helena Ford - Local Notifications in React Native",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: Most apps on your phone send user notifications; they are straightforward to integrate and apply to the most basic of use cases. However, most of these apps aren’t exploiting their full power to increase user engagement and retention.\n\nThere are two types of notifications used to inform users, local and remote (aka push). For example, a messaging app might let the user know when a new message has arrived, or a calendar app might inform the user of a scheduled appointment. \n\nIn this talk, we’ll walk through how to integrate local notifications in a React Native app and demonstrate how they can be elevated beyond the basic title and body, to enhance the overall user experience.\n\n- Getting set up with Notifee\n- Media support\n- Quick Actions\n- Scheduling using Trigger Notifications\n\nBio: Helena is the CTO of StackTiger and has been building and shipping React Native apps since it was first released.  She is a maintainer of Notifee, a library for creating local notifications, and is somewhat of a Firebase Messaging expert. When she’s not killing her Macbook processor, she likes to read, binge YouTube, and cook up new plant-based recipes. \n\nTwitter: https://twitter.com/helenaellieford",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U0Xx8TfH1o8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "U0Xx8TfH1o8",
+        "videoPublishedAt": "2021-11-05T10:05:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hggVPojgpzaceKmX-ArqcThQNSs",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-11-05T10:26:41Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "RNEU 2021: Joshua Gross - The New React Native: Bringing the Fabric renderer to the “Facebook” app",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nFrom 2018 until mid-2021, the React Native core team at Facebook migrated the Facebook app to use the new Fabric renderer. I will be talking about the journey of shipping the new Fabric renderer fully in the Facebook app; challenges we faced along the way; and how we overcame them. This talk will be less about Fabric itself (the “what”) and more about our experiences of using it at scale and migrating a very large codebase to using exclusively Fabric (the “how”), and what we learned along the way.\n\nBio: Joshua Gross (he/him) is a software engineer on the React Native core team at Facebook. For the past few years, Josh has been focused on the new renderer (Fabric) rollout within Facebook. Outside of React Native, Josh enjoys being over-caffeinated, eating spicy food, and supporting the lavish lifestyles of two rescue dogs.\nTwitter: https://twitter.com/joshuaisgross\nGithub: https://github.com/JoshuaGross",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WwuiPLpcjac"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "WwuiPLpcjac",
+        "videoPublishedAt": "2021-11-05T12:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ieoya6ZR9kVFLFJj8ZJU9mLFEP8",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-11-05T10:32:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021: Jon Samp - How to iterate on your app faster with Expo",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:You've got an idea for an app and you've thought through how you'll build it. Now it's time to make your idea a reality. Along your development journey, you'll almost certainly run into complexities when configuring your project, sharing it with your team, submitting it to the app stores, and keeping it updated over time. In this talk, you'll learn how to take your idea from back-of-the-napkin notes to a full-fledged app store app using open source tools and services from Expo. \nBio:\nJon Samp is a software developer and designer at Expo. In 2019, Jon built a React Native app named Codecademy Go, which was featured as Apple's App Store App of the Day. Jon enjoys making pour-over coffee, distance running, and hanging out with his partner and their two pets.\n\nTwitter: https://twitter.com/jonsamp\nGithub: https://github.com/jonsamp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P7aQ4QlubzI"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "P7aQ4QlubzI",
+        "videoPublishedAt": "2021-11-05T10:35:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 22,
+    "totalResults": 25,
     "resultsPerPage": 50
   }
 }
