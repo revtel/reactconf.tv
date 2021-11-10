@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "qjYiC9Vtl6kDUUNtMdyUIw-H4io",
+  "etag": "gxwPo0qvAqkC5Ss_77hYuHS001U",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -667,7 +667,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fXGcfpZPN4OILDqrbPonaOt1SFc",
+      "etag": "CnfR62fB9eOHfIvTFYoCMJz7t5Y",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2021-10-19T10:39:21Z",
@@ -1143,7 +1143,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fxDHEbtDeirBKbn-1ruEAdHOB9w",
+      "etag": "we6LDv7zaHLY1sKj6XKKfjf1PLI",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC44Mjc5REFBRUE2MTdFRDU0",
       "snippet": {
         "publishedAt": "2021-11-05T10:00:16Z",
@@ -1187,61 +1187,32 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hggVPojgpzaceKmX-ArqcThQNSs",
+      "etag": "6xwndHsB7ta1SGY67-g7spGs0AI",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC43NDhFRTgwOTRERTU4Rjg3",
       "snippet": {
         "publishedAt": "2021-11-05T10:26:41Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "RNEU 2021: Joshua Gross - The New React Native: Bringing the Fabric renderer to the “Facebook” app",
-        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract:\nFrom 2018 until mid-2021, the React Native core team at Facebook migrated the Facebook app to use the new Fabric renderer. I will be talking about the journey of shipping the new Fabric renderer fully in the Facebook app; challenges we faced along the way; and how we overcame them. This talk will be less about Fabric itself (the “what”) and more about our experiences of using it at scale and migrating a very large codebase to using exclusively Fabric (the “how”), and what we learned along the way.\n\nBio: Joshua Gross (he/him) is a software engineer on the React Native core team at Facebook. For the past few years, Josh has been focused on the new renderer (Fabric) rollout within Facebook. Outside of React Native, Josh enjoys being over-caffeinated, eating spicy food, and supporting the lavish lifestyles of two rescue dogs.\nTwitter: https://twitter.com/joshuaisgross\nGithub: https://github.com/JoshuaGross",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WwuiPLpcjac/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
         "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WwuiPLpcjac"
-        },
-        "videoOwnerChannelTitle": "Callstack Engineers",
-        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+        }
       },
       "contentDetails": {
-        "videoId": "WwuiPLpcjac",
-        "videoPublishedAt": "2021-11-05T12:00:14Z"
+        "videoId": "WwuiPLpcjac"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "privacyStatusUnspecified"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ieoya6ZR9kVFLFJj8ZJU9mLFEP8",
+      "etag": "V6p-kGJ27bo8HQ2QAfa8_lZ8Y6g",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41QUZGQTY5OTE4QTREQUU4",
       "snippet": {
         "publishedAt": "2021-11-05T10:32:31Z",
@@ -1282,10 +1253,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1tB3CvmviIsReGZfzlqQQ2w2Qcw",
+      "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-11-08T09:28:21Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "RNEU 2021: Joshua Gross - The New React Native: Bringing the Fabric renderer to the “Facebook” app",
+        "description": "This talk was presented during the React Native EU 2021 - the largest community conference in the world focused exclusively on React Native.\n\nAbstract: From 2018 until mid-2021, the React Native core team at Facebook migrated the Facebook app to use the new Fabric renderer. I will be talking about the journey of shipping the new Fabric renderer fully in the Facebook app; challenges we faced along the way; and how we overcame them. This talk will be less about Fabric itself (the “what”) and more about our experiences of using it at scale and migrating a very large codebase to using exclusively Fabric (the “how”), and what we learned along the way.\n\nBio:Joshua Gross (he/him) is a software engineer on the React Native core team at Facebook. For the past few years, Josh has been focused on the new renderer (Fabric) rollout within Facebook. Outside of React Native, Josh enjoys being over-caffeinated, eating spicy food, and supporting the lavish lifestyles of two rescue dogs.\nTwitter: https://twitter.com/joshuaisgross",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-Fl6_vKcWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-Fl6_vKcWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-Fl6_vKcWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M-Fl6_vKcWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M-Fl6_vKcWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M-Fl6_vKcWw"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "M-Fl6_vKcWw",
+        "videoPublishedAt": "2021-11-08T09:35:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 25,
+    "totalResults": 26,
     "resultsPerPage": 50
   }
 }
