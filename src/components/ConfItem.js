@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
+import fallback from '../images/banner.png';
 
 function ConfItem(props) {
   const {item, width, onInfoClick, onWatchClick} = props;
@@ -9,7 +10,7 @@ function ConfItem(props) {
 
   return (
     <Wrapper onClick={onInfoClick} style={{width, height}}>
-      <img src={item.thumbnail} alt="conference snapshot" />
+      <img src={item.thumbnail || fallback} alt="conference snapshot" />
       <div className="info">
         <div className="title">{item.title}</div>
       </div>

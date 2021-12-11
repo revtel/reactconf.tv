@@ -1,11 +1,105 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "1IvjWGz8M8j7gKkpRrhWtrJbgjA",
+  "etag": "zicjYvgZ6uHO9MtwCp7ox1ce_Sk",
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 10,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "FTsArj6_WVcCCqeCsAFmYG91580",
+      "id": "PLZ3MwD-soTTGymNP6V2cYzJkOiOqktjCa",
+      "snippet": {
+        "publishedAt": "2021-10-18T13:36:14Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native: Tips, Tricks, and Techniques.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KnD_v4gAWZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native: Tips, Tricks, and Techniques.",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTGymNP6V2cYzJkOiOqktjCa\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "802H83GmF63b69NVWvqdX3Os-hI",
+      "id": "PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl",
+      "snippet": {
+        "publishedAt": "2021-06-09T16:04:59Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2021 - Virtual Edition",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKOkILSLs0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "localized": {
+          "title": "React Native EU 2021 - Virtual Edition",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTG-8Ix3lQ8zHvk94juXpYjl\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
     {
       "kind": "youtube#playlist",
       "etag": "eQTHq0CN0kgP9nJkVQu_RXNkxRs",
@@ -60,7 +154,7 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "NQN--WmGZPYlFhXlIeg-qY-jQZg",
+      "etag": "v9wXEwH2I5Pq5zAE1i0Xyxd-Abo",
       "id": "PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg",
       "snippet": {
         "publishedAt": "2020-08-11T15:03:45Z",
@@ -104,7 +198,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 20
+        "itemCount": 11
       },
       "player": {
         "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLZ3MwD-soTTHLUonsfIOUbmAl3B73EGXg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

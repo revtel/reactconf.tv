@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import {useOutletSetter} from 'reconnect.js';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
+import fallback from '../images/banner.png';
 
 function VideoItem(props) {
   const {item, width, onWatchClick} = props;
@@ -28,7 +29,11 @@ function VideoItem(props) {
   return (
     <Wrapper style={{width}}>
       <div className="img-wrapper">
-        <img src={item.thumbnail} alt="conference snapshot" ref={imgRef} />
+        <img
+          src={item.thumbnail || fallback}
+          alt="conference snapshot"
+          ref={imgRef}
+        />
         <div className="gradient" />
 
         <button className="play" onClick={onWatchClick}>

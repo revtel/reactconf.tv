@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import {PlayArrow} from '@styled-icons/material';
 import * as Widgets from './Widgets';
 import {useOutletSetter} from 'reconnect.js';
+import fallback from '../images/banner.png';
 
 function HistoryItem(props) {
   const {item, width} = props;
@@ -37,7 +38,10 @@ function HistoryItem(props) {
       <div className="img-wrapper">
         <img
           ref={imgRef}
-          src={item.talkThumbnail ? item.talkThumbnail : item.conf.thumbnail}
+          src={
+            (item.talkThumbnail ? item.talkThumbnail : item.conf.thumbnail) ||
+            fallback
+          }
           alt="conference snapshot"
         />
         <div className="gradient" />
