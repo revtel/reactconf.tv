@@ -1,0 +1,1090 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "L9a2_bp-3DRf0I87wRYBvJG5upM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HdSHlbddF-swtwsb6MAqInjqBz8",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-01-30T18:51:17Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adam Klein - Migrating from state management to react-query. I’m sorry, what?! | ReactNext 2021",
+        "description": "ReactNext\nwww.react-next.com\nIsrael's Annual React & React Native confernce\n@reactnext \n\nMigrating from state management to react-query. I’m sorry, what?!\n\nIt’s time to admit - we were wrong. State management solutions are great, but unfitting for server-side data. Server-side data needs special care, like async behaviour built-in, caching, deduping, refetching, loading states, error states, pagination, and more. And us - we kept struggling with state management solutions and re-invented the wheel.\n\nThe good news is that now we have react-query. And even better - we have hooks, so combining server and client state is easier than ever.\n\nLet’s explore this new architecture based on react-query, together, and learn how we can benefit from its flexibility and simplicity.\n\nAdam Klein\nCo-founder & CTO @ Covver\nAdam is the CTO of Covver, a web GDE, and author of open source libraries. He was one of the co-founders of 500Tech, a company that specializes in frontend technologies. He loves coding, and he loves speaking about code.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nJh1E0FBsus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nJh1E0FBsus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nJh1E0FBsus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nJh1E0FBsus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nJh1E0FBsus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nJh1E0FBsus"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "nJh1E0FBsus",
+        "videoPublishedAt": "2022-01-30T18:51:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p1JRWv-S8O35nb8KdUN138yuzgk",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:00:09Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Alon Valadji - Creating production-ready infrastructure for your React app in 30 minutes or less",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nCreating production-ready infrastructure for your React app in 30 minutes or less\n\nWith so many different technologies, we have a strong tendency to overcomplicate our development process. It’s natural - after all, it stems from our need to deliver quickly despite the pressure. Unfortunately, this misguided approach significantly slows down development instead of speeding it up, delays delivery and causes us to waste valuable resources on trial and error.\n\nIn this talk we’ll demonstrate an applicable, streamlined approach for creating production-ready infrastructure to help your developers focus on code and business logic rather than wasting their time.\n\nWe will start from scratch, and write and deploy an application to production. Using React and a monorepo approach, we will learn how to spin up everything a startup needs to launch a hyperscale product.\n\nThis talk is designed for attendees who are early in their cloud native journey - you will walk out with more knowledge of production ready clusters, and greater comfort in product deployment.\n\nAlon Valadji\nAlon is a leading software architect well-versed in Rozansky and Woods’ architectural methodologies. As a full-cycle JavaScript and web architecture torchbearer. Alon's main goal in life is to make developers happy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OVi6TkjuvKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OVi6TkjuvKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OVi6TkjuvKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OVi6TkjuvKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OVi6TkjuvKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OVi6TkjuvKc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "OVi6TkjuvKc",
+        "videoPublishedAt": "2022-01-30T19:00:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EcMAyjhpztI6fogwgtJx27-sWrA",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:09:19Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Craig Spence - Betterer: Incremental Improvement | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference\n @reactnext\n\nBetterer: Incremental Improvement\nIt's a pretty familiar story - you start out a shiny new project with all the best intentions ✨, all the strictest compiler options and lint rules. But over time the project grows and changes, and everything doesn't always stay up to date. Now you have a few cobwebs 🕸 on some parts of your codebase that you cringe 😅 at when you come across them!\n\nThis is a totally normal part of the natural growth of an application. But how can we tackle those smells and correct past mistakes without massively blowing out the scope 🤔?\n\nLet's discuss a generic approach to incrementally improve many aspects of our codebases! We will take some ideas from genetic algorithms and micro-service architectures, and combine them with code analysis and snapshot testing, and introduce a pragmatic, *evolutionary* approach to codebase health and maintenance.\n\nCraig Spence\nSenior Engineer @ Spotify \nCraig is a Software Engineer from New Zealand, working at Spotify in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OiR308SORws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OiR308SORws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OiR308SORws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OiR308SORws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OiR308SORws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OiR308SORws"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "OiR308SORws",
+        "videoPublishedAt": "2022-01-30T19:09:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tcbZafwOem4kDLUP5mKIvrHszpI",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:16:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Alina Boshkov - Concurrent mode in react behind the scenes and its power | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference\n @reactnext\n\nConcurrent mode in react behind the scenes and its power\n\nOne of the main updates of React 18 is the concurrent mode and all related features.\nIn this talk I plan to show how it was implemented behind the scenes, what are the steps that React team made to make it possible, and how we can improve the ux of our apps with the help of concurrent mode features.\n\nAlina Boshkov\nWeb developer @ 500Tech \nHi, I'm Alina, a web developer at 500tech, love to learn and share knowledge. In my free time I'm a co-founder of a start-up, a participant in Include-js a javascript study group and a volunteer at an animal shelter. I love animals and traveling and have 3 adorable cats 😻",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUNtA7V6srY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUNtA7V6srY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUNtA7V6srY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUNtA7V6srY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUNtA7V6srY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZUNtA7V6srY"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "ZUNtA7V6srY",
+        "videoPublishedAt": "2022-01-30T19:16:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n5Qhy2teW7mLIgOL7IK51rlcKSg",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:24:17Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gleb Bahmotov - How We Introduced Automated Web App Testing in A Large Organization | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nHow We Introduced Automated Web App Testing in A Large Organization\n\nMany organizations struggle with building a reliable set of automated tests for their React web applications. Yet a set of manual test plans is not an answer; testing without automation is slow, gives low confidence in the software, and the test results provide little actionable feedback to the developers. Should we just write unit and component tests using Jest? You must be joking - these tests are definitely not enough to ensure the app works. In this presentation, I describe how a large company has built a comprehensive automated set of end-to-end and component test suites after two previous unsuccessful attempts. I will show how to build trust between the QA engineers and front-end developers, how to convince other stake holders that investing time in testing is important, and how to balance the different types of tests: e2e, component, unit, and api to cover both the happy paths and the edge cases.\n\nGleb Bahmotov\nVP of Engineering at Mercari\nGleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. During the day Gleb is making the web a better place as VP of Engineering at Cypress.io. At night he is fighting software bugs and blogs about it at https://glebbahmutov.com/blog/. Microsoft MVP for Open Source Software.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VlmXhJIIOUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VlmXhJIIOUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VlmXhJIIOUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VlmXhJIIOUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VlmXhJIIOUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VlmXhJIIOUo"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "VlmXhJIIOUo",
+        "videoPublishedAt": "2022-01-30T19:24:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pOe6Dj3rfVFcR0czTJYeKwoAWfw",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:30:22Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "David Khorshid - What’s Next for XState? | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com\nIsrael's Annual React & React Native conference \n@reactnext\n\nWhat’s Next for XState?\n\nWith applications of ever-increasing complexity and features, the need for advanced state management and state orchestration tools has never been greater. In this talk, you will learn about the recent advances in XState, a popular state machine and statechart library, that can help improve the way you model complex application logic. We'll explore new visual tools and some of the big upcoming plans for XState and related libraries, and how you can easily start using these tools in your apps today.\n\nDavid Khorshid\nFounder @ Stately \nDavid is a software engineer who loves playing piano and is passionate about animations, state machines, cutting-edge user interfaces, and open-source. Previously at Microsoft, he is now the founder of Stately, a startup focused on building the best visual software modeling tools and services.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bP7PCo2DJ_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bP7PCo2DJ_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bP7PCo2DJ_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bP7PCo2DJ_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bP7PCo2DJ_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bP7PCo2DJ_M"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "bP7PCo2DJ_M",
+        "videoPublishedAt": "2022-01-30T19:30:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JMiiKl1UdtTBaAXcfMO1EiyK14g",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:35:59Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Keren Kenzi - Get your forms hooked with react-hook-form | ReactNext 2021",
+        "description": "ReactNext\n www.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nGet your forms hooked with react-hook-form\n\nAs Front-end developers, we all know that forms can get really messy, but what if I told you that there is a library out there that can make your life much easier. In this talk, I'll introduce react-hook-form, a library that started to gain more and more popularity. It is super light, intuitive, performant, and flexible with easy-to-use validation. We'll cover its basics through a live code example and learn about its benefits compared to other popular libraries.\n\nKeren Kenzi\nSenior Software Engineer at AppsFlyer\n\nKeren is a front-end developer at AppsFlyer, who has been working as a software engineer for more than a decade. She has a M.Sc. in Computer Science and loves React and learning new technologies. And in her not-so-spare time, she studies psychology. Her hobbies include drawing, photography, and singing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vSixynAXpoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vSixynAXpoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vSixynAXpoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vSixynAXpoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vSixynAXpoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vSixynAXpoU"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "vSixynAXpoU",
+        "videoPublishedAt": "2022-01-30T19:36:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e7869amQa_u1rqeoub1uGx6bycE",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-01-30T19:51:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hadas Shveky-Teman - DIY UI: We built our own UI library and survived to tell about it | ReactNext",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference\n @reactnext\n\nDIY UI: We built our own UI library and survived to tell about it\n\nWith so many UI libraries and frameworks out there, one of the FE developers toughest decisions when starting to work on a new project is which one to use. Our team at Kaltura solved this predicament by building our own UI library, one that can fit all our needs and requirements, and will be used by different teams across the company. In this presentation I will talk about motivation, the decisions we had to take, and some tips and tricks on how to do it the right way.\n\nHadas Shveky-Teman\nFrontend developer at Kaltura\n\nHadas is a Frontend Developer at Kaltura, having more than 13 years of experience in web development altogether. Her experience in the last few years focusing on Frontend development in the React ecosystem, made her even more excited to come to work every day, bringing her closer to the world of UI/UX and slick interfaces which she adores. In her free time, Hadas enjoys crafting DIYs, listening to good music, and would never miss a chance to solve a puzzle.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iAkIWz4C-2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iAkIWz4C-2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAkIWz4C-2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iAkIWz4C-2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iAkIWz4C-2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iAkIWz4C-2w"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "iAkIWz4C-2w",
+        "videoPublishedAt": "2022-01-30T19:51:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H0bORmWeg_WKEsZBm9Y-HzQij0Y",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:14:02Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yanai Edri - React Performance with React Dev Tools | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nReact Performance with React Dev Tools\n\nAll of us are familiar with the react dev tool - how to select a component and observe the state and the props - but this tool also has the profiler tab - so let's dig in\n\nYanai Edri\nSenior Web Developer at CyberArk\n\nYanai Edri, a web developer @Cyberark, founder of the Negev Web Developer community, writer from time to time, loves open source and with more than 16 years of experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sFvOMc7W7k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sFvOMc7W7k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sFvOMc7W7k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sFvOMc7W7k0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sFvOMc7W7k0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sFvOMc7W7k0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "sFvOMc7W7k0",
+        "videoPublishedAt": "2022-01-30T20:14:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3bcFT-pAn4kjz92NkI6kBjUQPzA",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:26:17Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Liad Yosef - Advanced Concepts, Everyday React | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nAdvanced Concepts, Everyday React\n\nBuilding a simple webapp in React is easier today than ever. There are tutorials everywhere to create almost every type of component, the dust has settled on the state management wars, and it finally looks like we can just focus on building our dashboards in peace.\nOr is it?\nThe world of React is actually changing completely. Components can run completely on the server, 3D React structures are fueling future VR/AR metaverses, Vite is pushing Webpack, modules are federated everywhere, and Remix is what happens when you’re busy writing useCounter hooks.\nIt's extremely exciting how diverse and multifaceted the current ecosystem is evolving, beyond just writing components. The importance of being “metastack” - understanding the larger picture - from accessibility, performance to module federation, SSR, and even web3 - is more critical than ever.\nIn this talk we’ll try to see a glimpse of these concepts. Let’s explore Postmodern React - the Essentials.\n\nLiad Yosef\nFrontend Architect at Duda\nLiad is the Lead Fronted Architect @ Duda. A web enthusiast for over a decade, he loves to code all things web, to build perfect user/developer experiences, and maybe even talk about it later if someone listens. Liad is also a poetry writer at nights - and an analog astronaut for the Israeli Space Agency at other nights.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gb67zFGXjz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gb67zFGXjz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gb67zFGXjz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gb67zFGXjz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gb67zFGXjz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gb67zFGXjz0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "Gb67zFGXjz0",
+        "videoPublishedAt": "2022-01-30T20:26:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aD4mGyUJYhp9C-00cxzAiD5dwf8",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:49:32Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Peled - Why do we need a good Design System and how to Implement one | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nWhy do we need a good Design System and how to Implement one\n\nDesign System is a great form of a contract between designers and developers. Not only will it boost your development speed but also avoid code duplication, improve UI consistency and UI/UX in general, allow UI testing, and much more.\n\nNir Peled\n\nNir Peled is a Principal Software Engineer @ Just Eat Takeaway.com. Nir has been building stuff since 2005. An early adopter of React (since 2015) and React Native (since 2017). A huge fan of the React eco-system in general.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FutFcT9nx1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FutFcT9nx1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FutFcT9nx1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FutFcT9nx1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FutFcT9nx1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FutFcT9nx1I"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "FutFcT9nx1I",
+        "videoPublishedAt": "2022-01-30T20:49:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kf7UdqR2gjSxs1oBx0A5Tes0dWA",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:51:44Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Noaa Barki - How Mobx (Almost) Destroyed My Relationship | ReactNext 2021",
+        "description": "ReactNext\n www.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nHow Mobx (Almost) Destroyed My Relationship\n\nImagine the perfect application... What comes to mind? Is it highly performant? Does it have a solid file structure and clean, predictable data-flows? Is it easy to maintain? If your answer is “Yes” to any of these questions, then you are in the right place! Here’s the story of how this question almost brought my romantic relationship to an end, as well as sparked my journey into \"The meaning of Mobx\".\nIn this session, we'll talk about the key concepts behind Mobx. Why does it have to be Reactive? How does it work under the hood? And, in particular, why is Mobx necessary when we already have React Hooks?\n\nNoaa Barki\nGitHub Community Leader, Software Developer at Datree.io\n\nI’m a full-stack developer, community manager, and tech writer who wish to encourage us developers to deepen the decisions we make during the development processes, research about the technologies we use and share our knowledge. I started my journey in 8200 unit of the Intelligence forces where I took my first steps in software development. In the last 4 years, my work mainly included Angular, .NET, VanillaJS, and Typescript. Currently, I develop in React, NodeJS and Golang.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2eJTFt5htS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2eJTFt5htS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2eJTFt5htS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2eJTFt5htS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2eJTFt5htS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2eJTFt5htS0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "2eJTFt5htS0",
+        "videoPublishedAt": "2022-01-30T20:51:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QDfNZ4cW-Dhz_3zxmJvZhsVraIo",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:54:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nader Dabit - React on Web3 | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nReact on Web3\n\nWeb3 and decentralized apps (dApps) are continuing to gain momentum in the industry. Developers in this space are also now some of the highest paid in the entire industry. Building decentralized apps is a paradigm shift that requires a different way of thinking than apps built with traditional centralized infrastructure, tooling, and services.\n\nAs a React developer, I initially had a hard time understanding this entirely new (to me) ecosystem, how everything fit together, and the mental model needed to understand and be a productive full stack developer in this space.\n\nIn this talk, I'll give a comprehensive overview of the space, how you can get started building these types of applications, and the entire tech stack broken apart then put back together to show how everything works.\n\n\nNader Dabit is an author and full stack developer currently exploring Web3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3cQNpxEOTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3cQNpxEOTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3cQNpxEOTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M3cQNpxEOTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M3cQNpxEOTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M3cQNpxEOTU"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "M3cQNpxEOTU",
+        "videoPublishedAt": "2022-01-30T20:54:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "As02ehigrsBlbnvKtbSVqX1YvJQ",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:55:56Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Netta Bondy - In a World of Observables… | ReactNext 2021",
+        "description": "In a World of Observables…\n\nImagine a world where React truly serves only as a UI layer, which changes every time our data changes. Imagine a world where changes to our data are handled asynchronously and emitted to the rest of the system as necessary. Imagine an app where data is ever-changing and UI is ever-reacting. It's easy if you try...\nActually achieving it is harder, maybe even impossible. But what might an app like this look like? Let's imagine it by building an app with React and RxJS.\n\nNetta Bondy\nSenior Frontend Engineer at Tikal\n\nNetta is a Senior Front-end developer at Tikal, the co-founder of Baot - Israel’s largest community of women in R&D, and a lover of all things JavaScript. She often codes useless things out of sheer curiosity and stubbornness.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OOtwk4x_w20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OOtwk4x_w20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OOtwk4x_w20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OOtwk4x_w20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OOtwk4x_w20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OOtwk4x_w20"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "OOtwk4x_w20",
+        "videoPublishedAt": "2022-01-30T20:55:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Nk-TxM1wl2n2edD7Sb0zMizpTw",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-01-30T20:57:48Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Liran Tal - You thought your React application is secure? Think again | ReactNext 2021",
+        "description": "ReactNext\n www.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nYou thought your React application is secure? Think again\n\nModern frontend frameworks like React are well thought-of in their application security design and that’s great. However, there is still plenty of room for developers to make mistakes and use insecure APIs, vulnerable components, or generally do the wrong thing that turns user input into a Cross-site Scripting vulnerability (XSS). Let me show you how React applications get hacked in the real-world.\n\nLiran Tal\nDeveloper Advocate at Snyk\n\nLiran Tal is a software developer, and a GitHub Star, world-recognized for his activism in open source communities and advancing web and Node.js security. He engages in security research through his work in the OpenJS Foundation and the Node.js ecosystem security working group, and further promotes open source supply chain security as an OWASP project lead. Liran is also a published author of Essential Node.js Security and O'Reilly's Serverless Security. At Snyk, he is leading the developer advocacy team and on a mission to empower developers with better dev-first security.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eOKJnjuDaqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eOKJnjuDaqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eOKJnjuDaqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eOKJnjuDaqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eOKJnjuDaqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eOKJnjuDaqg"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "eOKJnjuDaqg",
+        "videoPublishedAt": "2022-01-30T20:57:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mZlFwH7KsRJUj_cFXKvE6nGmDsU",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-01-30T21:02:38Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Kyle Mathews - Gatsby and the serverless revolution: how we’re creating the CMS of the future",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference\n @reactnext\n\nGatsby and the serverless revolution: how we’re creating the CMS of the future\n\nCloud and serverless are changing everything. Deploying monolithic stacks to a server has been replaced by coupling together cloud services with functions and a robust frontend stack. Learn about how Gatsby has built a high-performance developer and marketing platform that's native to this new world.\n\nKyle Mathews\n\nFounder of Gatsby and a big fan of the web.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oltf3I4HzH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oltf3I4HzH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oltf3I4HzH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oltf3I4HzH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oltf3I4HzH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oltf3I4HzH4"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "Oltf3I4HzH4",
+        "videoPublishedAt": "2022-01-30T21:02:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jVtOkFsZOvMeVf6eS_YsArg6f-s",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-01-30T21:06:17Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Maya Shavin - Performant serverless app with server component | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com \nIsrael's Annual React & React Native conference \n@reactnext\n\nPerformant serverless app with server component\n\nFetching data and rendering on client side can slow down your application performance. Same with bundle size. We can use SSR to pre-render, but it only works for the initial rendering. What if we can re-fetch the components multiple times for rendering the data, with zero impact on the client bundle size? And faster than the normal SSR? With React Server Components, it is possible. Join my talk and let's learn about how Server Components can change the way you develop React apps for the better.\n\nMaya Shavin\n\nMaya Shavin is Senior Software Engineer @Microsoft, MDE, GDE on Web performance, ounder of VueJS Israel, core maintainer of StorefrontUI and a writer on JavaScript good practices.\nShe loves to learn and experiment with new frameworks while believing that a strong Vanilla JavaScript knowledge is necessary for being a good web developer. When not coding, she enjoys traveling, reading manga, and sketching.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQELATQa6lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQELATQa6lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQELATQa6lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQELATQa6lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vQELATQa6lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vQELATQa6lo"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "vQELATQa6lo",
+        "videoPublishedAt": "2022-01-30T21:06:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bNZeYY0DaOdM28zi4hEadpEezwI",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-01-31T14:59:33Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Kaufman - The beauty and the beast: custom renderers in React | ReactNext2021",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nThe beauty and the beast: custom renderers in React\n\n\nNir Kaufman\nFront-end Guild Lead @NEXT Insurance \nIn a long-time relationship with React as a developer, author, consultant, and trainer. Google developer expert in Web technologies, Vegan (but nice), electronic music producer, and sound designer at night.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YkkEPyU7GMA"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "YkkEPyU7GMA",
+        "videoPublishedAt": "2022-01-31T14:59:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oUBYgYxSceAKP-t9FuTyKlqW8kM",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-01-31T15:06:22Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Tayar - Frontend Microservices: Unravelling Spaghetti Code | ReactNext 2021",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nFrontend Microservices: Unravelling Spaghetti Code\n\nBackend microservices have enabled large companies like Google, Facebook, and Wix to scale their development teams to thousands of developers, while still maintaining the agility of small startups. The secret? Modularity and code isolation that enable teams to develop and deploy microservices independently of one another.\n\nMicrofrontends are the realization of this in the frontend. While the backend has consensus on how to architect microservices, the frontend is still in the experimentation phase. In this talk, I will describe how Roundforest does microfrontends, in a way that translates microservices to a natural and logical frontend architecture that makes sense on the web.\n\nGil Tayar\nSenior Software Architect at Roundforest\n\n35 years of experience have not dulled the fascination Gil Tayar has with software development. His passion is distributed systems and figuring out how to scale development to big teams. Extreme modularity and testing are the main tools in his toolbelt, using them to combat the code spaghetti monster at companies like Wix, Applitools, and at his current job as software architect at Roundforest.\n\nIn his private life, he is a dad to two lovely kids (and a cat), an avid reader of Science Fiction, (he counts Samuel Delany, Robert Silverberg, and Robert Heinlein as favorites) and a passionate film buff. (Stanley Kubrick, Lars Von Trier, David Cronenberg, anybody?)\n\nUnfortunately for him, he hasn’t answered the big question of his life—what’s better, static or dynamic languages? But he’s working on it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kLfLoUqyVlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kLfLoUqyVlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLfLoUqyVlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kLfLoUqyVlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kLfLoUqyVlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kLfLoUqyVlM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "kLfLoUqyVlM",
+        "videoPublishedAt": "2022-01-31T15:06:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VNjx6XQ74Dg2qMKVXqYgBeaw4JY",
+      "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-01-31T15:11:34Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Amit Sheen - React problems, CSS solutions | ReactNext 2021",
+        "description": "ReactNext\n www.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nReact problems, CSS solutions\n\nReact is amazing, it allows us to do incredible things, and the possibilities are endless. But with so many options, a component that seems very simple, can have all sorts of weird states and bizarre conditioning, and we can sometimes find ourselves struggling with our own code and hacking our way to the desired result. As a React developer, I run into these problems on a regular basis, but as a CSS specialist, I know that many of these problems have much simpler solutions.\n\nIn this talk I'll try to bring my knowledge and expertise in combining JavaScript and CSS, present some real-life everyday cases that React developers encounter, and demonstrate how they can be solved in a simpler way, using CSS.\n\nAmit Sheen\nSenior Front-end Developer at Payoneer\n\nAmit is an experienced web developer, doing mainly front-end, specializing in CSS, animations, and creative coding. Amit have a pathological curiosity about new technologies, and a constant desire to learn new things.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GW8sAZOUntg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GW8sAZOUntg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GW8sAZOUntg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GW8sAZOUntg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GW8sAZOUntg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq8U5MBE5XE3pcBQt75bZXk",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GW8sAZOUntg"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "GW8sAZOUntg",
+        "videoPublishedAt": "2022-01-31T15:11:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  }
+}
