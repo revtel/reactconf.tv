@@ -1,0 +1,142 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Vo8Wtx9b4iArLdh_x94DwCKKEWM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sNsfJHccUNHpv436HZ83owZW_F8",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-05-22T21:13:47Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "State of React 2022: Lee Robinson",
+        "description": "Filmed live at Reactathon 2022. Learn more at https://reactathon.com \n\nKeynote part 1: State of React 2022\nReact has been evolving with the Web. Learn where React is at today, where it’s headed, and why you should be excited about how the future of React enables you to build better web experiences.\n\nAbout Lee Robinson\nLee Robinson is the Director of Developer Relations at Vercel, where he helps developers build a faster web and leads the Next.js community. Prior to that, Lee was a Senior Software Engineer focused on the frontend. An educator, writer, and speaker, Lee has also created extensive courses on React and Next.js.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XruemT74Nok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XruemT74Nok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XruemT74Nok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XruemT74Nok"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "XruemT74Nok",
+        "videoPublishedAt": "2022-05-22T21:49:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qE5ajBJyvrDT9PlvLENHNmNDVHc",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-05-23T16:43:33Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Shipping to the Edge: Kent C Dodds",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nShipping to the Edge\nThe landscape of the web has evolved drastically since the first website was published to the World Wide Web in 1991. Over the years, the pendulum has swung from servers rendering HTML to JavaScript-heavy clients and now it's swinging toward something more in the middle.What about the web today is enabling us to overcome the shortcomings of the web of the past? In this talk, we'll get a little peak into the history of each of these stages of the web and what that means for anyone building on the web platform in the future.\n\nAbout Kent C. Dodds\nKent C. Dodds is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. Kent is a Co-Founder and Director of Developer Experience at Remix. He is the creator of EpicReact.Dev and TestingJavaScript.com. He's an instructor on egghead.io and Frontend Masters. He's also a Google Developer Expert. Kent is happily married and the father of four kids. He likes his family, code, JavaScript, and React.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/osSaUWlgAyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/osSaUWlgAyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/osSaUWlgAyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "osSaUWlgAyo"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "osSaUWlgAyo",
+        "videoPublishedAt": "2022-05-23T18:22:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kIBlAkByn4ycdqD-99fexLFuK3A",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-05-24T13:59:30Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Advanced Rendering Patterns: Lydia Hallie",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nAdvanced Rendering Patterns\nAs modern applications are getting more and more complex, it's quite easy to end up with large bundle sizes and long loading times. Although there are many tools that can help with performance, there's still a lot you can do as a developer to load your code more efficiently. Fortunately, with the help of modern rendering patterns, we can reduce complexity, bundle sizes, and reduce loading times. In this talk, you'll learn about the implementation and use cases of modern rendering patterns including SSR, (on-demand) ISR, Streaming SSR, React Server Components, Progressive Rehydration, and Selective Rehydration.\n\nAbout Lydia Hallie\nLydia Hallie is a Staff Developer Advocate at Vercel primarily focusing on web performance, React, Node, GraphQL, and serverless technologies. She also spends her time mentoring and doing in-person training sessions.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PN1HgvAOmi8"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "PN1HgvAOmi8",
+        "videoPublishedAt": "2022-05-24T15:41:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 50
+  }
+}
