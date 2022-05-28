@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Vo8Wtx9b4iArLdh_x94DwCKKEWM",
+  "etag": "FAKECfP3w7dOetOYJrp_zInVIoU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -92,7 +92,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kIBlAkByn4ycdqD-99fexLFuK3A",
+      "etag": "URwZ4uCoPaYE4NQdA-i0MIvrNbA",
       "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2022-05-24T13:59:30Z",
@@ -114,6 +114,16 @@
             "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PN1HgvAOmi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Real World React",
@@ -133,10 +143,142 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iyszQ2nniv7CpezNCvWqLYMa9fM",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-05-25T14:35:41Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Everything you need to know about React 18: Shruti Kapoor",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nEverything you need to know about React 18\nReact 18 is in the Release Candidate stage and will be released soon. How does your codebase get affected by this release? Which features are most useful to you? In this talk, we will look at new features for client side developers, server side developers and library developers along with a demo of new React features such as automatic batching and concurrency. \n\nAbout Shruti Kapoor\nShruti is a Staff Engineer and is passionate about teaching and sharing knowledge on JavaScript, React, GraphQL and front-end technologies. She shares byte sized javascript tidbits through her newsletter - JSByte: http://tinyletter.com/shrutikapoor. She is also an ardent #DevJoke fan\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z-NCLePa2x8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z-NCLePa2x8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z-NCLePa2x8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z-NCLePa2x8"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "Z-NCLePa2x8",
+        "videoPublishedAt": "2022-05-25T14:35:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WhSankmgAweOiajWvt4wOORzUv4",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-05-26T21:15:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Serverless for frontend engineers, in 10 minutes: Swizec Teller",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nServerless for frontend engineers, in 10 minutes\nGet a quick overview of what serverless is and what it does for you. From why servers make fun ideas boring to how serverless makes the boring work somebody else’s problem. And a peek into the future with modern platform-integrated frameworks.\n\nAbout Swizec Teller\nSwizec is a software engineer, author, educator, and conference speaker. He's published books on modern web technologies, data visualization, and productivity, and has trained engineering teams at Fortune500 companies. Now he's distilling 20 years of tacit experience into actionable steps.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tQCBQY7ZMpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tQCBQY7ZMpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tQCBQY7ZMpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tQCBQY7ZMpA"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "tQCBQY7ZMpA",
+        "videoPublishedAt": "2022-05-26T21:15:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sAjljhssQxt3AhkAR5xytsYyG48",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-05-27T15:14:06Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Goodbye, useEffect: David Khourshid",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nGoodbye, useEffect\nFrom fetching data to fighting with imperative APIs, side effects are one of the biggest sources of frustration in web app development. And let’s be honest, putting everything in useEffect hooks doesn’t help much. Thankfully, there is a science (well, math) to side effects, formalized in state machines and statecharts, that can help us visually model and understand how to declaratively orchestrate effects, no matter how complex they get. In this talk, we’ll ditch the useEffect hook and discover how these computer science principles can be used to simplify effects in our React apps.\n\nAboud David Khourshid\nDavid is a software engineer who loves playing piano and is passionate about animations, state machines, cutting-edge user interfaces, and open-source. Previously at Microsoft, he is now the founder of Stately, a startup focused on making even the most complex application logic visual and accessible to developers and non-developers alike.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HPoC-k7Rxwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HPoC-k7Rxwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HPoC-k7Rxwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HPoC-k7Rxwo"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "HPoC-k7Rxwo",
+        "videoPublishedAt": "2022-05-27T15:26:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 3,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }
