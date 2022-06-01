@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "FAKECfP3w7dOetOYJrp_zInVIoU",
+  "etag": "YM882yMVpjJWd1kSwYJYszOnhrM",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -234,7 +234,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sAjljhssQxt3AhkAR5xytsYyG48",
+      "etag": "toSHmABdDkNj_qIBDU9FPkE5t7U",
       "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-05-27T15:14:06Z",
@@ -275,10 +275,142 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hhEzQnpslJ_mg6KYSTLVnsJ6ffA",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-05-29T15:20:11Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Now and .then: Debugging Async JavaScript - Jenn Creighton",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nNow and .then: Debugging Async JavaScript\nAsync JavaScript is mind-bending to write, even worse to debug. In this talk, we'll explore why async bugs are difficult, what common missteps create those bugs, and how to debug async code with the debugger.\n\nAbout Jenn Creighton\nJenn Creighton is a senior software engineer at Netflix on the NodeJS Platform Team. In her free time, she produces and hosts Single-Threaded, a podcast for software developers. She can be bribed with croissants. Find her online @gurlcode.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-lu0YjJYdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-lu0YjJYdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-lu0YjJYdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V-lu0YjJYdk"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "V-lu0YjJYdk",
+        "videoPublishedAt": "2022-05-28T18:21:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sTbBgBjuRlWPCxJdzr-GYXTrS3A",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-05-29T15:48:55Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "When To Fetch: Remixing React Router - Ryan Florence",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nWhen To Fetch: Remixing React Router \nWe've learned that fetching in components is the quickest way to the worst UX. But it's not just the UX that suffers, the developer experience of fetching in components creates a lot of incidental complexity too: data fetching, data mutations, busy spinners, optimistic UI, error handling, form state, network race conditions, user event interruptions, and all the code that holds it together gets pretty difficult! As we've built Remix, we've gotten a lot of practice leaning on React Router's nested route abstraction to solve all of these problems all at once. Now, millions of React Router apps in production can get the same benefits because we've moved the responsibility of knowing When To Fetch into React Router itself!\n\nAbout Ryan Florence\nRyan is the co-founder of Remix, co-creator of React Router, and co-founder of React Training.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/95B8mnhzoCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/95B8mnhzoCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/95B8mnhzoCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "95B8mnhzoCM"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "95B8mnhzoCM",
+        "videoPublishedAt": "2022-05-29T15:48:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZWdBqDM07i4ybibSo41MDkPi3Nk",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-05-31T16:59:19Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "React Native: 2022 & Beyond - Gant Laborde & Jamon Holmgren",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nReact Native: 2022 & Beyond \nFrom our perspective of shipping countless React Native apps over the last seven years, React Native has grown and continues to evolve. There are some major changes coming! Most people have heard of \"the React Native bridge\", but have you heard of TurboModules, Fabric, and codegen? This talk is a fast-pass to the front of the line in React Native’s upcoming new architecture and how it's going to recast cross-platform development. Let’s review what you need to know.\n\nAbout Gant Laborde \nGant Laborde is an owner of Infinite Red, mentor, adjunct professor, published author, and award-winning speaker. For 20 years, he has been involved in software development and continues strong today. He is recognized as a Google Developer Expert in Web and Machine Learning, but informally he is an “open sourcerer” and aspires to one day become a mad scientist. He blogs, videos, and maintains popular repositories for the community. \n\nAbout Jamon Holmgren\nJamon is a software developer, business owner, husband, and father of four, located near Portland, Oregon, in SW Washington state. He is one of the co-founders of Infinite Red, Inc., a fully remote React Native app development studio located across the USA and Canada. He learned to code at age twelve in order to make games (the game store was too far away from where he grew up) and that led to a lifelong obsession with coding. He is active in open source, plays ice hockey on a Finnish-American team, and takes any excuse to use his tractor that he can.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AY5OWFerN6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AY5OWFerN6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AY5OWFerN6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AY5OWFerN6g"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "AY5OWFerN6g",
+        "videoPublishedAt": "2022-05-31T20:46:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 6,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }
