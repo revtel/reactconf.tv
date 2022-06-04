@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "YM882yMVpjJWd1kSwYJYszOnhrM",
+  "etag": "ZWGDQYr_NOCrMUOaJy8z2Ufg3aU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -366,7 +366,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZWdBqDM07i4ybibSo41MDkPi3Nk",
+      "etag": "tUI9ErDMJgA2n5LzU0bBOZ2Kb-c",
       "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-05-31T16:59:19Z",
@@ -407,10 +407,108 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nyeG3lfGNo5Di5ufHY-napwo4no",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-06-01T22:13:27Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Tame the Component Multiverse: Michael Chan",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nTame the Component Multiverse\nError state, loading state, awkward breakpoint, bad data, poor formatting, browser support. Every component is a multitude of challenges. How do you actually manage it? Disable the network — temporarily. Insert bad code — just for a minute. Paw at the edge of your screen. Hack local database fixtures to bits. Frontend development is a multiverse where dimensions like time and variation result in an infinite number of UI possibilities. In this talk, we'll use Storybook to progressively develop, test, document our work and tame the multiverse of our components.\n\nAbout Michael Chan\nMichael Chan loves the web. He's the host of React Podcast. And he's building Lunch Dev, the friendliest coding community for creative, curious, and compassionate web developers.\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hpx3kOtPovk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hpx3kOtPovk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hpx3kOtPovk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hpx3kOtPovk"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "Hpx3kOtPovk",
+        "videoPublishedAt": "2022-06-01T22:36:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nj4vnJfZKkrZG1PEJ_VTL696ymw",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-06-02T19:11:17Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "The third age of JavaScript: Three years in - Swyx",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nThe third age of JavaScript: Three years in\nThe way we write JavaScript in 2030 will be completely different than in 2020. With IE11 finally ending this year, the adoption of ES Modules have birthed a new generation of JavaScript tooling. These tools are faster, typesafer, and polyglot, leading to both a better developer and user experience. This talk is an in depth look into what's changed and what we've learned, 3 years in to the Third Age.\n\nAbout Shawn \"Swyx\" Wang\nSwyx has worked on React and serverless JavaScript at Two Sigma, Netlify AWS, and Temporal. He has started and run communities for hundreds of thousands of developers, like Svelte Society, /r/reactjs, and the React TypeScript Cheatsheet. His nontechnical writing was recently published in the Coding Career Handbook for Junior to Senior\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGnlBU3K_eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGnlBU3K_eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGnlBU3K_eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CGnlBU3K_eM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CGnlBU3K_eM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CGnlBU3K_eM"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "CGnlBU3K_eM",
+        "videoPublishedAt": "2022-06-02T19:12:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 9,
+    "totalResults": 11,
     "resultsPerPage": 50
   }
 }
