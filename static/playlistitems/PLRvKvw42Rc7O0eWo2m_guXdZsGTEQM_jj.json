@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ZWGDQYr_NOCrMUOaJy8z2Ufg3aU",
+  "etag": "oQ0dyPwO1aJm9ycgUya5L5SmaRk",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -410,7 +410,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nyeG3lfGNo5Di5ufHY-napwo4no",
+      "etag": "bVfl4EGShwazThCZ_Suq4zaq1fM",
       "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-06-01T22:13:27Z",
@@ -505,10 +505,54 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "noXCaC1sTje-4Sp-_zT9dfRar_E",
+      "id": "UExSdkt2dzQyUmM3TzBlV28ybV9ndVhkWnNHVEVRTV9qai5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-06-08T05:29:44Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Syntax.fm Live at Reactathon 2022!",
+        "description": "Recorded live at Reactathon 2022. Learn more at https://reactathon.com\n\nSyntax.fm Live!\nGet Ready for a jam packed hour of tasty web development treats. Wes Bos and Scott Tolinski will record a live version of their popular weekly podcast that will include audience participation, web development trivia, terrible jokes and prizes to be won!\n\nAbout Wes Bos & Scott Tolinski\nWes & Scott are prolific educators, conference speakers, workshop instructors, and co-hosts of the popular Syntax.fm podcast (https://syntax.fm). Wes' courses can be found on https://WesBos.com, and Scott's courses can be found on https://leveluptutorials.com\n\nEvent production and post-production by EventLoop. Let's build your conference brand, or take it to the next level. info@eventloop.app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXO0iopa5QI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXO0iopa5QI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXO0iopa5QI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PXO0iopa5QI"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "PXO0iopa5QI",
+        "videoPublishedAt": "2022-06-08T05:29:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 12,
     "resultsPerPage": 50
   }
 }
