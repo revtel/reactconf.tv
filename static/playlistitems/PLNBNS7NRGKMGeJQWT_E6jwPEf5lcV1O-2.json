@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "82f1t4bN6dzOtOAluKf2GHNIsUE",
+  "etag": "iriR-6_Lkrqgwdf9_fDLV5feTvE",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "cL5SmOfmqY-nZRqL-scHA2DcCm0",
+      "etag": "YdV0UrMZqLF5hmUv15I9Goyrrn4",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-06-23T17:51:49Z",
@@ -43,12 +43,12 @@
         "videoPublishedAt": "2022-06-23T17:52:02Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8VRKVXj8AIH21_IBtQowBGafL0U",
+      "etag": "_I6lduaMizyj7zMrBIm8E4zPHbA",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-06-23T17:52:46Z",
@@ -87,12 +87,12 @@
         "videoPublishedAt": "2022-06-24T07:00:04Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "m9sb8vy8X1ZJ-cV1ScymIY0HE6k",
+      "etag": "sMMSLtTl8mjdwT1DOFytipYznEY",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2022-06-23T17:54:44Z",
@@ -141,12 +141,12 @@
         "videoPublishedAt": "2022-06-24T08:00:31Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KVS_mC4fr9OOueGRnvVsZE9gtwc",
+      "etag": "oufUKSuEU3SNC8PsVGXaejiYkSY",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2022-06-23T17:55:28Z",
@@ -195,12 +195,12 @@
         "videoPublishedAt": "2022-06-24T09:00:01Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "e6hBhtBzFTkwHvfy-9WI2IX2Fqo",
+      "etag": "cxoK7htJ8fbYnfX16H_N4a5JaCI",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2022-06-23T17:56:19Z",
@@ -239,12 +239,12 @@
         "videoPublishedAt": "2022-06-24T10:00:33Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fpGfqBo2bhWdlgDyTKU5XFCOWOU",
+      "etag": "G30l0fVyZrXOZEVUsr2b5jVJDWs",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-06-23T17:57:17Z",
@@ -293,12 +293,12 @@
         "videoPublishedAt": "2022-06-24T11:00:52Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lSjS8limgYI2GFMGtL0q90bftAg",
+      "etag": "LZbgwQGpTnso5DuSyvUlL51R7to",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2022-06-23T17:57:54Z",
@@ -347,12 +347,12 @@
         "videoPublishedAt": "2022-06-24T12:00:39Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j48LUUoqhufcknqmg9fvEYTd-dM",
+      "etag": "o7YZqmBkGxCh9gO0dSR9Nz2ZWQw",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2022-06-23T17:58:38Z",
@@ -391,12 +391,12 @@
         "videoPublishedAt": "2022-06-24T07:30:03Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mvGzDV0xdE059tya4YNYjrqgp1c",
+      "etag": "r1pPM_sxZSSuvt86JX-bsO19eYA",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-06-23T17:59:21Z",
@@ -445,12 +445,12 @@
         "videoPublishedAt": "2022-06-24T08:30:02Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZqGfobn7jOGdNqKYu4j5rGDRj88",
+      "etag": "gb1mCaTERCf3tcueBQ4N4VtbBo0",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-06-23T18:00:19Z",
@@ -499,12 +499,12 @@
         "videoPublishedAt": "2022-06-24T09:30:09Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pF2GPQQEqSEOdaKrPpE-K6Nite8",
+      "etag": "aeXwPIZFUR5ddHpb7b05IxBMzpY",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2022-06-23T18:01:07Z",
@@ -553,12 +553,12 @@
         "videoPublishedAt": "2022-06-24T11:30:08Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dPRxQPxvqCohpvEGKne9tWeKuSo",
+      "etag": "3iWBRL2cZ8fb6IY4UPsTLSFGtfg",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-06-23T18:08:36Z",
@@ -597,12 +597,12 @@
         "videoPublishedAt": "2022-06-24T07:45:00Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "msvOiKDZVCJabYHoyugNsU8S-G8",
+      "etag": "p9G93kMq7bCnz4EhBSAN9MXLf6I",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2022-06-23T18:09:14Z",
@@ -651,12 +651,12 @@
         "videoPublishedAt": "2022-06-24T09:15:03Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wyjoalAaVcxM_Rpv6Y0Syod1ijw",
+      "etag": "5t-TM8JDCUj_HS1_EpPi0urY2ZQ",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-06-27T15:08:40Z",
@@ -695,12 +695,12 @@
         "videoPublishedAt": "2022-06-27T15:08:41Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "f-UcACnHoE7cyzsZyrCPB94umKg",
+      "etag": "qgRtDAvrIq1U2tr3Xx_QGxoFc0o",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2022-06-27T15:09:40Z",
@@ -749,12 +749,12 @@
         "videoPublishedAt": "2022-06-27T15:30:12Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oxiizO1S4nekofgZdxrZO4-RO8c",
+      "etag": "lJKr963oICQ5dmEPaPrcoSl_eqI",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2022-06-27T15:17:21Z",
@@ -793,7 +793,7 @@
         "videoPublishedAt": "2022-06-28T07:30:02Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
@@ -852,53 +852,726 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1ws_aKzGb_HK3C8NlhhTSwEy-Hk",
+      "etag": "mx8cXe6JDPSytlb9hl6PXdQmpkI",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2022-06-27T15:21:13Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "React Summit 2022 - React Open Source Awards Ceremony",
-        "description": "React Summit 2022 #ReactSummit #GitNation #OSAwards \nWebsites: \nhttps://reactsummit.com/\nhttps://osawards.com/react/\n\nFollow the link to watch the the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gv1gBlEXG6o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gv1gBlEXG6o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gv1gBlEXG6o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gv1gBlEXG6o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gv1gBlEXG6o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gv1gBlEXG6o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gv1gBlEXG6o"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DS1mLW_8os2hyea24CMWOuZ4bi4",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:01:17Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit 2022 - React Open Source Awards Ceremony",
+        "description": "React Summit 2022 #ReactSummit #GitNation #OSAwards\nWebsites: \nhttps://reactsummit.com/\nhttps://osawards.com/react/\n\nWinners:\nBreakthrough of the Year – Remix (https://github.com/remix-run/remix)\nThe Most Exciting Use of Technology – Remotion (https://github.com/remotion-dev/remotion)\nFun Side Project of the Year – Cuberun (https://github.com/akarlsten/cuberun)\nThe Most Impactful Contribution to the Community – ReactJSGirls (https://twitter.com/reactjsgirls)\nProductivity Booster – React Use (https://github.com/streamich/react-use)\n\nFollow the link for all the conference talks, QnA’s with speakers and hands-on workshop recordings → \nhttps://portal.gitnation.org/events/reactsummit-2022\n\nThis event would not take place without the support of sponsors: \n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KwEdQqsFxPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KwEdQqsFxPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KwEdQqsFxPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KwEdQqsFxPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KwEdQqsFxPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KwEdQqsFxPE"
         },
         "videoOwnerChannelTitle": "React Conferences by GitNation",
         "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
       },
       "contentDetails": {
-        "videoId": "gv1gBlEXG6o",
-        "videoPublishedAt": "2022-06-27T15:23:36Z"
+        "videoId": "KwEdQqsFxPE",
+        "videoPublishedAt": "2022-07-01T12:01:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-03P8NdaaDAdFVrJDySDwJnvVTQ",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:44:50Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Find Out If Your Design System Is Better Than Nothing – Arseny Smoogly, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Find Out If Your Design System Is Better Than Nothing\nBuilding a design system is not enough. Your dev team has to prefer it over one-off components and third-party libraries. Otherwise, the whole effort is a waste of time. Learn how to use static code analysis to measure if your design system wins over the internal competition and data-driven ways to improve your position.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZhwrgZu3VIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZhwrgZu3VIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZhwrgZu3VIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZhwrgZu3VIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZhwrgZu3VIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZhwrgZu3VIY"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "ZhwrgZu3VIY",
+        "videoPublishedAt": "2022-07-01T12:44:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0SmBxzco91cGvFOmK21e35nvxrk",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:46:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Building a Headless Site with Remix, WPGraphQL & Web Fundamentals – Jeff Everhart React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Remixing WordPress: Building a Headless Site with Remix, WPGraphQL, and Web Fundamentals\nOne of the largest draws of headless or decoupled WordPress architecture is that we can endlessly remix the WordPress CMS that content creators love with the latest and greatest of web technology. This presentation will demonstrate how quickly a developer can get up and running with headless WordPress development using the Remix full stack framework. Using open source tools like WPGraphQL and Atlas Content Modeler, you can transform your WordPress site into a powerful headless CMS that serves data via GraphQL. We’ll see how we can query for and use that data in a Remix app, and also discuss how the framework’s focus on web fundamentals can benefit both the developer and the visitors who use our sites.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d1EOpE4ZWdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d1EOpE4ZWdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d1EOpE4ZWdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d1EOpE4ZWdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d1EOpE4ZWdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d1EOpE4ZWdc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "d1EOpE4ZWdc",
+        "videoPublishedAt": "2022-07-01T12:46:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kVm6kXqfUKevLwfzKy9mWjQKlHU",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:47:13Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Automated Application Security Testing – Scott Gerlach, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Automated Application Security Testing\nTraditional security testing for JS apps has focused on the front-end, but actual security issues most often lie in the backing REST API. Join StackHawk co-founder Scott Gerlach for a quick overview of why you need to rethink how you test your JS apps and how StackHawk can help you find and fix security bugs fast.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DakhZQusCKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DakhZQusCKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DakhZQusCKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DakhZQusCKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DakhZQusCKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DakhZQusCKs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "DakhZQusCKs",
+        "videoPublishedAt": "2022-07-01T12:47:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TbWzxr5YeMEXBCnT96UQ-G8FlYM",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:48:28Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Using React Hooks + Capacitor to Access Native Mobile APIs – Thomas Vidas, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Using React Hooks + Capacitor to Access Native Mobile APIs\nUsing Capacitor, you can easily create native mobile iOS and Android applications using all of the React web tools you know and love. But how do we access the native APIs? With the @capacitor-community/react-hooks package, we can quickly and easily access native device APIs, like Camera, Filesystem, and Geolocation, using React Hooks!\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgMN0bhN4nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgMN0bhN4nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgMN0bhN4nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QgMN0bhN4nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QgMN0bhN4nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QgMN0bhN4nc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "QgMN0bhN4nc",
+        "videoPublishedAt": "2022-07-01T12:48:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eieFDxDs6V7zvwBnnPDkeyKrX3Y",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:50:03Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "What are Docker Extensions – Amy Bass, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: What are Docker Extensions\nDocker Extensions are a way to power up your development experience by adding in tools to help with debugging, testing, networking, security, and more. Developers can get started in Docker Desktop with partner-built extensions or use their creativity with the Docker Extensions SDK. This session will cover Docker Extensions and the Docker Extensions SDK — including a demonstration of Docker Extensions within Docker Desktop. You’ll also learn how to get started and what’s next for extensions.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LEYZ_UroGww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LEYZ_UroGww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LEYZ_UroGww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LEYZ_UroGww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LEYZ_UroGww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LEYZ_UroGww"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "LEYZ_UroGww",
+        "videoPublishedAt": "2022-07-01T12:50:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O2rSJW5G7d-PD5TsEzuWxVFk0Jc",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:51:50Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Large scale projects challenges (NextJS - Contentful) – Leonidas Mamais, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Large scale projects challenges (NextJS - Contentful)\nNextJS is an excellent full stack framework. Contentful is a well-known flexible headless CMS. Together are a great match, but when we talk large scale projects the challenges are completely different than the ones you may face in a small to medium scale project. Leonidas will try to raise your awareness on such challenges based on Greece's experience on redesigning Vodafone's site to create beautiful self-serve and guided journeys for Vodafone customers.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Ffn8t2RkvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Ffn8t2RkvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Ffn8t2RkvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Ffn8t2RkvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Ffn8t2RkvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Ffn8t2RkvU"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "4Ffn8t2RkvU",
+        "videoPublishedAt": "2022-07-01T12:51:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CtWGbCihKqKjWjxDQ_32AhdB8II",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:54:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Code Splitting With Server Side Rendering  – Lena Zhukova, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: The Only Way to Eat an Elephant - Code Splitting With Server Side Rendering\nCode splitting is a way to optimize the performance of our app by shipping less code to the end users. The most common form of code splitting is to use dynamic imports after a user interaction. In our case, we’re going to talk about conditionally loading only the parts of the application that we need during server side rendering. We’re going to discuss the problems and the solutions, so you could try it out in your own project.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IAzZJIPXFE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IAzZJIPXFE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IAzZJIPXFE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IAzZJIPXFE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IAzZJIPXFE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IAzZJIPXFE8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "IAzZJIPXFE8",
+        "videoPublishedAt": "2022-07-01T12:54:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ThsrTnTiBi6-ipZgoUMu6FDK000",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:55:21Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "AG Grid's New React Rendering Engine – Niall Crosby, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: AG Grid's New React Rendering Engine \nAG Grid is the industry standard JavaScript datagrid for building data centric Business Applications. Recently the AG Grid team redesigned the grid to implement the React Rendering Engine in 100% React code. Given the complexity of a datagrid, this was a very challenging task. Hear from Niall, the founder of AG Grid, about the journey of this migration including how this was achieved, lessons learned along the way, and how it will impact your React applications using AG Grid.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3sHUL0iz7k8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3sHUL0iz7k8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3sHUL0iz7k8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3sHUL0iz7k8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3sHUL0iz7k8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3sHUL0iz7k8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "3sHUL0iz7k8",
+        "videoPublishedAt": "2022-07-01T12:55:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TZMNuuwMgN53R-3oeHkAbtnSOeA",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-07-01T12:56:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Reacting to Web3 – Jonathan Sheely, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Reacting to Web3\nWhat are the opportunities available to web devs in web3? What problems are they likely to face transitioning to web3? How the Decentology's Hyperverse solves these problems and can help them avail of these opportunities.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMKgVCQxu0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMKgVCQxu0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMKgVCQxu0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XMKgVCQxu0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XMKgVCQxu0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XMKgVCQxu0E"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "XMKgVCQxu0E",
+        "videoPublishedAt": "2022-07-01T12:56:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Q7_IzkEe30UgFrn_X47HYP6zl0",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2022-07-01T13:05:13Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Content Modeling for React Developers – Harshil Agrawal, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Content Modeling for React Developers\nIn today's world, it's no surprise that \"\"Content is King\"\". It helps in telling a story and helping you reach out to more people. Most of the time, developers aren't the ones managing this content. Hence, modeling content efficiently becomes crucial. Doing it well makes the content delivery process smooth for the team. But how does one go on with modeling content? What are the things that one should take care of? I'll answer such questions in this talk, and share my approach to content modeling as a React developer.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0KVll7nS1KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0KVll7nS1KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0KVll7nS1KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0KVll7nS1KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0KVll7nS1KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0KVll7nS1KY"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "0KVll7nS1KY",
+        "videoPublishedAt": "2022-07-01T13:05:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "shFDVWdx4Im5pFCnKLX7bzk4kK8",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2022-07-01T13:06:06Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Localization for Real-World Use-Cases: Key Learnings from Onboarding Global Brands – Simeon Griggs",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Localization for Real-World Use-Cases: Key Learnings from Onboarding Global Brands\ni18n isn't easy, but with careful planning of your content model I'll show you how to structure the setup, authoring, and querying of localized content. Covering whole-or-part translated documents, the difference between market and language-specific content, ways to author that in a CMS like Sanity, and ways to query for it on frontends like Next.js and Remix.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bOcsmb-ovsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bOcsmb-ovsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bOcsmb-ovsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bOcsmb-ovsA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bOcsmb-ovsA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bOcsmb-ovsA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "bOcsmb-ovsA",
+        "videoPublishedAt": "2022-07-01T13:06:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XW_iHjaNITLNVTIoqvo_K7MOBDk",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2022-07-01T13:07:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Exploring AR Try-On with React Native – Kadi Kraman, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/reactsummit-2022\n\nTalk: Exploring AR Try-On with React Native\nReact Native can be much more than a toolkit for building mobile UIs in JavaScript. We’ll explore how to use features beyond the core library, and use the built-in native module system to integrate AR capabilities into your mobile app.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6KeTqVWduRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6KeTqVWduRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6KeTqVWduRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6KeTqVWduRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6KeTqVWduRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6KeTqVWduRI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "6KeTqVWduRI",
+        "videoPublishedAt": "2022-07-01T13:07:20Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -906,7 +1579,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 18,
+    "totalResults": 31,
     "resultsPerPage": 50
   }
 }
