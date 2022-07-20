@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "QdRjcA-Tdl6QT9qQJPHKwJ4v4VM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VJUOvTPDfSVD0VFVN-z_Qdbaat8",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-07-19T10:59:00Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Join Abi at the React Native EU 2022 conference!",
+        "description": "Join Abi at the React Native EU 2022 conference and get a chance to meet and learn from the React Native trendsetters, superstars by listening to their talks!\nBook your free spot in the link below:\nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social&utm_content=abi_reel_registration",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iocx16HD9FA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iocx16HD9FA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iocx16HD9FA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iocx16HD9FA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iocx16HD9FA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iocx16HD9FA"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "iocx16HD9FA",
+        "videoPublishedAt": "2022-07-19T11:14:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
