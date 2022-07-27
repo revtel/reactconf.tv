@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "31cc8qdYrSLqC8I_2BeM9JRz7uU",
+  "etag": "q1kEGwAFmqXm1Eu50Zj9QraXXZA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1576,10 +1576,226 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D3s6m5sP747Ysex1UOzAShuk-ds",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2022-07-25T12:47:32Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Tanner Linsley – React Summit 2022",
+        "description": "Take a look at this interview from the latest edition of React Summit.\n\nReact Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.\nOriginally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.\n\nLearn more: https://reactsummit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEUSlbY-vFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEUSlbY-vFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEUSlbY-vFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xEUSlbY-vFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xEUSlbY-vFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xEUSlbY-vFs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "xEUSlbY-vFs",
+        "videoPublishedAt": "2022-07-25T12:48:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vDR3O-RCqWvTyzVkbYH1kNmZpq8",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2022-07-25T12:49:15Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Iris Schaffer – React Summit 2022",
+        "description": "Take a look at this interview from the latest edition of React Summit.\n\nReact Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.\nOriginally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.\n\nLearn more: https://reactsummit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Kr0IU8duYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Kr0IU8duYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Kr0IU8duYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Kr0IU8duYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Kr0IU8duYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6Kr0IU8duYQ"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "6Kr0IU8duYQ",
+        "videoPublishedAt": "2022-07-25T12:49:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1zYe7HHegSIqA6dE0u450m-Pd-M",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2022-07-25T12:51:21Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Kadi Kraman – React Summit 2022",
+        "description": "Take a look at this interview from the latest edition of React Summit.\n\nReact Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.\nOriginally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.\n\nLearn more: https://reactsummit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wroM44XAJew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wroM44XAJew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wroM44XAJew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wroM44XAJew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wroM44XAJew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wroM44XAJew"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "wroM44XAJew",
+        "videoPublishedAt": "2022-07-25T12:51:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qA2z8YKZex33BtzPh30YsdKiW1c",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2022-07-25T12:52:37Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Swizec Teller – React Summit 2022",
+        "description": "Take a look at this interview from the latest edition of React Summit.\n\nReact Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.\nOriginally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.\n\nLearn more: https://reactsummit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pfXUhc6PNlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pfXUhc6PNlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pfXUhc6PNlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pfXUhc6PNlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pfXUhc6PNlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pfXUhc6PNlo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "pfXUhc6PNlo",
+        "videoPublishedAt": "2022-07-25T12:53:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 31,
+    "totalResults": 35,
     "resultsPerPage": 50
   }
 }
