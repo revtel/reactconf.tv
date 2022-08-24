@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "A1R5UwI41Hc3PbVUECKhwQiVFlA",
+  "etag": "FmebOMyw07PkIcXBRbk-5qw-m7s",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1099,7 +1099,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tlfxnkuFkkBf1a4yZVRxpjLCKrU",
+      "etag": "xbq9tpt1JO6YKbVr_bCg0B9WPZ0",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC5DMkU4NTY1QUFGQTYwMDE3",
       "snippet": {
         "publishedAt": "2021-10-21T14:43:25Z",
@@ -1121,6 +1121,16 @@
             "url": "https://i.ytimg.com/vi/DAEnPV78rQc/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DAEnPV78rQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DAEnPV78rQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -1143,7 +1153,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oWVvEQp4AyNTskIkVtuDoDjqsTM",
+      "etag": "RZqq9p15MmCdYMJG8gKrdveYIi8",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC44Mjc5REFBRUE2MTdFRDU0",
       "snippet": {
         "publishedAt": "2021-11-05T10:00:16Z",
@@ -1165,6 +1175,16 @@
             "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U0Xx8TfH1o8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -1187,7 +1207,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dRLRlk7b_05-pH-_tLm-cCWQDEo",
+      "etag": "uhvAGGqk8PoLk8hLsO7o7LsCvDU",
       "id": "UExaM013RC1zb1RURy04SXgzbFE4ekh2azk0anVYcFlqbC41QUZGQTY5OTE4QTREQUU4",
       "snippet": {
         "publishedAt": "2021-11-05T10:32:31Z",
@@ -1209,6 +1229,16 @@
             "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7aQ4QlubzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
