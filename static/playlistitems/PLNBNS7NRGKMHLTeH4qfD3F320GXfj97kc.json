@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Grcerr5fmkINKLfjWcvNcAfI7yk",
+  "etag": "av6pOu4sUXfAx2b9aOMSthx4KJQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1246,7 +1246,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nmao1BTXbKsGb0rJ7m2YpwVwuzw",
+      "etag": "uW5-Sv_WBsw4IglvWIjvjpprcHw",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2019-04-16T13:16:18Z",
@@ -1268,6 +1268,16 @@
             "url": "https://i.ytimg.com/vi/4KfAS3zrvX8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KfAS3zrvX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KfAS3zrvX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -1290,7 +1300,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-4W6xD82OFInsm6nAPv9zMY1Rpw",
+      "etag": "ClNcfnjKN3hQQAm0iURNnnRttVc",
       "id": "UExOQk5TN05SR0tNSExUZUg0cWZEM0YzMjBHWGZqOTdrYy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2019-04-16T13:16:13Z",
@@ -1312,6 +1322,11 @@
             "url": "https://i.ytimg.com/vi/NCLkLCvpwm4/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NCLkLCvpwm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",

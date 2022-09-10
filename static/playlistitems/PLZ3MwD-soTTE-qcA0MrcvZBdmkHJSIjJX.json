@@ -1,10 +1,118 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "CxHZ276zyWvhBRee4HI318ZuLGo",
+  "etag": "RxYy14dxGqHEtTqiH_3rzHTtxV0",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "VJUOvTPDfSVD0VFVN-z_Qdbaat8",
+      "etag": "vdWQa0w5fONFGalyPxttWCQibAc",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-09-08T11:18:32Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU Conference 2022 - Day I",
+        "description": "LINK TO THE SECOND DAY OF REACT NATIVE EU CONFERENCE 2022: https://youtu.be/uLicTDG5hSs \n\nWelcome everyone to the React Native EU 2022 live stream! We’re excited to see you all!\n\nJoin our official Discord channel: https://discord.gg/72kVy6aP\nFeel free to say “hi!” and ask questions regarding the talks!\n\nCheck the conference website: https://hubs.li/H0Wdy9R0\nAnd the full agenda on: https://hubs.li/Q01lbmhY0\n\nAgenda for September 1st:\n\n3:10 PM Nicola Corti: Bringing the New React Native Architecture to the OSS community - Fall Edition\n3:40 PM Adam Foxman: Changing React Native... from within! \n4:10 PM Jamie Birch: How to access all the Objective-C APIs using JSI\n\n4:50-5:05 PM Break\n\n5:05 PM Marin Godechot: How we made our app 80% faster, a data structure story \n5:40 PM Jakub Binda:  You can go EVERYWHERE but I can go FAST - holistic case study on performance \n6:00 PM Darshita Chaturvedi: Reducing bugs in a React codebase\n6:15 PM Josh Justice: Getting Better All the Time: How to Escape Bad Code\n\n6:45-7:00 PM Break\n\n7:00 PM Magdalena Jaśkowska: Showcase of rn-emoji-keyboard library. Enhance your communication with the language of emoji\n7:25 PM Batuhan Tozun, Dilara Kırnapcı: React Native MicroApp Architecture\n7:40 PM Emily Xiong: How to use React Native with Nx in monorepo \n8:00 PM Maxence Harm: Building a full JS deep zoom image viewer\n\n\nFollow us on Twitter: \nhttps://twitter.com/react_native_eu\n\nMeet Callstack - the team of React and React Native development experts:\nhttps://hubs.li/Q01lbmYy0\n\n0:00 Łukasz Chludziński: Opening & Keynote\n38:15 Nicola Corti: Bringing the New React Native Architecture to the OSS community - Fall Edition\n1:07:25 Adam Foxman: Changing React Native... from within! \n1:42:00 Jamie Birch: How to access all the Objective-C APIs using JSI\n2:36:20 Marin Godechot: How we made our app 80% faster, a data structure story \n3:02:20 Jakub Binda:  You can go EVERYWHERE but I can go FAST - holistic case study on performance \n3:25:20 Darshita Chaturvedi: Reducing bugs in a React codebase\n3:37:55 Josh Justice: Getting Better All the Time: How to Escape Bad Code\n4:25:40 Magdalena Jaśkowska: Showcase of rn-emoji-keyboard library. Enhance your communication with the language of emoji\n4:46:15 Batuhan Tozun, Dilara Kırnapcı: React Native MicroApp Architecture\n5:03:30 Emily Xiong: How to use React Native with Nx in monorepo \n5:25:50 Maxence Harm: Building a full JS deep zoom image viewer\n\nAll the details regarding The React Native Show podcast can be found here: https://hubs.li/Q01lbn530\n\nCallstack is hiring! Check for more info: \nhttps://hubs.li/Q01lbnb10\nWe’re looking for Senior React Native developers to join our team! Read more about the role and apply here:\nhttps://hubs.li/Q01lbnhH0\n\nSubscribe to the Callstack newsletter to be always up to date with the latest articles, podcast episodes, job positions, and news that happen at our company:\nhttps://hubs.li/Q01lbrsY0\n\nFollow Callstack on Twitter:\nhttps://twitter.com/callstackio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7QeINTWLUkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7QeINTWLUkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7QeINTWLUkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7QeINTWLUkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7QeINTWLUkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7QeINTWLUkc"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "7QeINTWLUkc",
+        "videoPublishedAt": "2022-09-02T08:40:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-o8Uhu_LMf_Cs89N_Y-QHt4obNI",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-09-08T11:19:09Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU Conference 2022 - Day II",
+        "description": "LINK TO THE FIRST DAY OF REACT NATIVE EU CONFERENCE 2022: https://youtu.be/7QeINTWLUkc\n\nWelcome everyone to the second day of React Native EU Conference 2022! We’re excited to see you all!\n\nJoin our official Discord channel: https://discord.gg/72kVy6aP\nFeel free to say “hi!” and ask questions regarding the talks!\n\nCheck the conference website: https://hubs.li/H0Wdy9R0\nAnd the full agenda on: https://hubs.li/Q01lbmhY0\n\nAgenda for September 2nd:\n\n3:00 PM Charlie Cruzan: Stripe React Native: A simple set of solutions to a complex set of problems \n3:20 PM Eric Vicenti: Dev Workflows with \"Headless\" Content Management: Time to Re-Attach the Head!\n3:45 PM Andrey Goncharov: Headless Flipper - embeddable mobile devtools for your CI and beyond\n\n4:20-4:35 PM Break\n\n4:35 PM Vojtech Novak: Localizing React Native apps from start to end\n5:05 PM Rob Walker: Visual Regression Testing in React Native\n5:30 PM Steven Moyes, Shiven Mian, Slobo Stipic: React Native at Scale: How Microsoft is betting big on React Native to target BILLIONS of users\n5:45 PM Eeva-Jonna Panula: Can't touch this - Different ways users interact with their mobile devices\n\n6:15-6:30 PM Break\n\n6:30 PM Alexandre Moureaux: Performance issues: the usual suspects\n7:10 PM Michał Chudziak: How to actually improve the performance of a React Native app?\n7:35 PM Alain Ngangoue: The component anatomy, 90° to the left\n8:05 PM Marek Fořt: FlashList – make your lists faster now\n\n\nFollow us on Twitter: \nhttps://twitter.com/react_native_eu\n\nMeet Callstack - the team of React and React Native development experts:\nhttps://hubs.li/Q01lbmYy0\n\nAll the details regarding The React Native Show podcast can be found here: https://hubs.li/Q01lbn530\n\nCallstack is hiring! Check for more info: \nhttps://hubs.li/Q01lbnb10\nWe’re looking for Senior React Native developers to join our team! Read more about the role and apply here:\nhttps://hubs.li/Q01lbnhH0\n\nSubscribe to the Callstack newsletter to be always up to date with the latest articles, podcast episodes, job positions, and news that happen at our company:\nhttps://hubs.li/Q01lbrsY0\n\nFollow Callstack on Twitter:\nhttps://twitter.com/callstackio\n\n0:00 Intro\n29:00 Łukasz Chludziński: Opening\n30:00 Charlie Cruzan: Stripe React Native: A simple set of solutions to a complex set of problems \n49:43 Eric Vicenti: Dev Workflows with \"Headless\" Content Management: Time to Re-Attach the Head!\n1:16:09 Andrey Goncharov: Headless Flipper - embeddable mobile devtools for your CI and beyond\n2:05:12 Vojtech Novak: Localizing React Native apps from start to end\n2:36:12 Rob Walker: Visual Regression Testing in React Native\n2:55:38 Steven Moyes, Shiven Mian, Slobo Stipic: React Native at Scale: How Microsoft is betting big on React Native to target BILLIONS of users\n3:08:32 Eeva-Jonna Panula: Can't touch this - Different ways users interact with their mobile devices\n3:52:56 Alexandre Moureaux: Performance issues: the usual suspects\n4:32:42 Michał Chudziak: How to actually improve the performance of a React Native app?\n5:02:38 Alain Ngangoue: The component anatomy, 90° to the left\n5:38:39 Marek Fořt: FlashList – make your lists faster now",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uLicTDG5hSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uLicTDG5hSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uLicTDG5hSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uLicTDG5hSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uLicTDG5hSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uLicTDG5hSs"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "uLicTDG5hSs",
+        "videoPublishedAt": "2022-09-05T07:56:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8LTV91JM4uV8tiRc4TuaG74vCIs",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-07-19T10:59:00Z",
@@ -40,7 +148,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
-        "position": 0,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iocx16HD9FA"
@@ -58,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BmcF5Qwx9OgzpJeGp8ilnTvjQKA",
+      "etag": "1NflQdXI0oQKNzmaB65juha-ddM",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-07-26T11:15:03Z",
@@ -94,7 +202,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
-        "position": 1,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ub4CcrkcYgo"
@@ -112,7 +220,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }
