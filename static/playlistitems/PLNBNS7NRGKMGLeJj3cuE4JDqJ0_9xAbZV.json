@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "QyiE05oQxIgtwVihOVfXETRUdJQ",
+  "etag": "KXBifrlsG3JATSst9_nQGkEDnhI",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J_T87hdnk664PoLfGVlkYasOuWM",
+      "etag": "dmmgVXLGerqaJ9dHQiTYgE1tCrU",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2018-10-28T15:15:41Z",
@@ -188,6 +188,11 @@
             "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
           },
           "maxres": {
             "url": "https://i.ytimg.com/vi/Xz8YojEUMAE/maxresdefault.jpg",
@@ -377,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "n4zH3sVywWt_BNi1ui2HZLctLWI",
+      "etag": "mSFaopWfkIe18X_K9hlajX377ek",
       "id": "UExOQk5TN05SR0tNR0xlSmozY3VFNEpEcUowXzl4QWJaVi5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2018-02-21T09:46:42Z",
@@ -399,6 +404,11 @@
             "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
           },
           "maxres": {
             "url": "https://i.ytimg.com/vi/TLoF1O6vzgY/maxresdefault.jpg",

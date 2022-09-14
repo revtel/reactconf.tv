@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "zBlXIdHCpzPnk6b33wy2ha_PXZk",
+  "etag": "DzCojz1-S5O3aWm8LOAVLAMNHow",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -225,7 +225,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G30l0fVyZrXOZEVUsr2b5jVJDWs",
+      "etag": "W3y1Jwj-BA12me8V_BcCdxHnMsw",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-06-23T17:57:17Z",
@@ -1099,12 +1099,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "N1gia96i8p7o-QJte5DLq2TKmSA",
+      "etag": "3ESYhJU5pqN3izdPzXBL05fHbA0",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
         "publishedAt": "2022-07-01T12:51:50Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Large scale projects challenges (NextJS - Contentful) – Leonidas Mamais, React Summit 2022",
+        "title": "Large Scale Projects Challenges (NextJS - Contentful) – Leonidas Mamais, React Summit 2022",
         "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2022\n\nTalk: Large scale projects challenges (NextJS - Contentful)\nNextJS is an excellent full stack framework. Contentful is a well-known flexible headless CMS. Together are a great match, but when we talk large scale projects the challenges are completely different than the ones you may face in a small to medium scale project. Leonidas will try to raise your awareness on such challenges based on Greece's experience on redesigning Vodafone's site to create beautiful self-serve and guided journeys for Vodafone customers.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
         "thumbnails": {
           "default": {
@@ -1690,10 +1690,206 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SauWmmUvb8vjnr3GB3SQSe9sh1Q",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2022-09-12T19:30:50Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Handling Data at Scale for React Developers – Tejas Kumar, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2022\n\nTalk: Handling Data at Scale for React Developers\nIt is very difficult to scale modern web applications to millions of concurrent users. Oftentimes, we've got to provision and consider in-memory Key/Value stores, search engines, analytics engines, and databases, all while preserving traceability through the layers. This talk expands on the technical details of web apps at this scale, and offers a simpler way to achieve the same effect without the technical hassle.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Urm4xbw4RA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Urm4xbw4RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Urm4xbw4RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Urm4xbw4RA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Urm4xbw4RA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Urm4xbw4RA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "7Urm4xbw4RA",
+        "videoPublishedAt": "2022-09-13T08:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z6bfl7CzEreQKec8b6b2ehv5PJs",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2022-09-12T20:10:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Routing in React 18 and Beyond  – Delba de Oliveira, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2022\n\nTalk: Routing in React 18 and Beyond\nIn this talk, we’ll explore the past, present and future of routing in front-end applications and discuss how new features in React and Next.js can help us architect more performant and feature-rich applications.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qa-Ko-Wih4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qa-Ko-Wih4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qa-Ko-Wih4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qa-Ko-Wih4c"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Qa-Ko-Wih4c",
+        "videoPublishedAt": "2022-09-13T08:30:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R7wHT5AjB5M4XJm8hpfCHCRXhcI",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2022-09-13T06:57:27Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Inside Fiber: the In-Depth Overview You Wanted a TLDR for  – Matheus Albuquerque, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2022\n\nTalk: Inside Fiber: the in-depth overview you wanted a TLDR for\nI want to provide an in-depth overview of the important concepts behind reconciliation. We'll then explore how React uses the algorithm and go through a few magic words we hear a lot, like coroutines, continuations, fibers, generators, algebraic effects and see how they all relate to React.js.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pm5rQBL5sk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pm5rQBL5sk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pm5rQBL5sk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pm5rQBL5sk4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "pm5rQBL5sk4",
+        "videoPublishedAt": "2022-09-13T10:30:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XXQZPAPEhL_oFUPOKRbW5Hz6GEI",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2022-09-13T08:47:49Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Impact: Growing as an Engineer  – Iris Schaffer, React Summit 2022",
+        "description": "React Summit 2022 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2022\n\nTalk: Impact: Growing as an Engineer\nBecoming a web engineer is not easy, but there are tons of resources out there to help you on your journey. But where do you go from there? What do you do to keep growing, and to keep expanding the value you bring to your company? In this talk we’ll look at the different kinds of impact you can have as a web engineer. We’ll walk through what it means to take on bigger, more complex projects, and how to scale yourself, and grow the community around you. By driving our own development we can all grow our impact, and in this talk, we’ll discuss how to go about this.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAg Grid → https://www.ag-grid.com/\nToptal → https://www.toptal.com/freelance-jobs\nRangle.io → https://rangle.io/ \nWPEngine → https://wpengine.com/\nVodafone → https://careers.vodafone.com/ \n\n🥇 Gold Sponsors\nStackHawk → https://www.stackhawk.com/\nBitvavo → https://bitvavo.com/\nIonic → https://ionic.io/\nJetBrains → https://www.jetbrains.com/webstorm/\nKontent by Kentico → https://kontent.ai/\nDecentology → https://www.decentology.com/\nXata → https://xata.io/\nDocker → https://www.docker.com/\nShopify → https://www.shopify.com/careers\nWix Engineering → https://wix.com\nNearForm → https://www.nearform.com/\nFocus Reactive → https://focusreactive.com/\nSanity → https://www.sanity.io/\nSnyk → https://snyk.io/\nContentful → https://www.contentful.com/\nNx → https://nx.dev/\n\n🥈 Silver Sponsors\nFirebase → https://firebase.google.com/\nCallstack → https://www.callstack.com/\nMercari → https://about.mercari.com/en/\nvpTech/ → https://careers.veepee.com/en/vptech-2/\nNativeBase → https://nativebase.io/\nStream → https://getstream.io/\nSiteGround → https://www.siteground.com/\nYoast → https://yoast.com/\nNovermber Five → https://www.novemberfive.co/\nTwilio → https://www.twilio.com/ahoy\nBCGDV → https://bcgdv.com/\nFullscript → https://fullscript.com/\nUtopia Music → https://utopiamusic.com/\nSISU → https://www.sisu.tools/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EiLHTvinnzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EiLHTvinnzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EiLHTvinnzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EiLHTvinnzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EiLHTvinnzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EiLHTvinnzw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "EiLHTvinnzw",
+        "videoPublishedAt": "2022-09-13T10:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 34,
+    "totalResults": 38,
     "resultsPerPage": 50
   }
 }
