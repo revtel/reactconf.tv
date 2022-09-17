@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "mA5ZgsDKBIQnKTMOKeRAxe36tXM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DNNidnFJ8TgySzPNXAmhEnKhbl8",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-09-15T20:43:00Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Remote Edition 2022",
+        "description": "22nd Sept 2022 - Remote Day\n\nReact India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SUk0hF-xe5A"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "SUk0hF-xe5A",
+        "videoPublishedAt": "2022-09-15T20:42:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
