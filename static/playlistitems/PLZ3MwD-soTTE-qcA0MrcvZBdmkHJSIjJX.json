@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "RxYy14dxGqHEtTqiH_3rzHTtxV0",
+  "etag": "8D7efxz-HsP-6JHUH6Qm_13C4Ss",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -217,10 +217,384 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HxNOWaTTL_P0BJG74KndjyijPz0",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-09-20T11:21:44Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Bringing the New React Native Architecture to the OSS community - N. Corti | React Native EU 2022",
+        "description": "At the end of 2021, we successfully rolled out the New React Native Architecture in the Facebook app. Now, it’s time to empower every React Native developer on the globe to use the New React Native Architecture, both the new Fabric renderer and the new TurboModule system. But migrating an entire ecosystem to a New Architecture is no easy task. To support the whole community in this endeavor, we lined up a set of tools and materials that will help both app and library developers to join us in this journey. In the talk, we will present how the New React Native Architecture looks in the OSS space. We will discuss the impact this will have on developing React Native projects. Lastly, we will cover what we learned from the React Native New Architecture migration at Meta, and how you can tackle your migration in your organization.\n\nSpeaker Bio\n\nNicola Corti is a Google Developer Expert for Kotlin. He has been working with the language since before version 1.0, and he is the maintainer of several open-source libraries and tools for mobile developers. He's currently working in the React Native Core team at Meta, building one of the most popular cross-platform mobile framework. Furthermore, he is an active member of the developer community. His involvement goes from speaking at international conferences to being a member of CFP committees and supporting developer communities across Europe. In his free time, he also loves baking, podcasting, and running.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GJxL2aiIX3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GJxL2aiIX3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GJxL2aiIX3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GJxL2aiIX3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GJxL2aiIX3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GJxL2aiIX3Q"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "GJxL2aiIX3Q",
+        "videoPublishedAt": "2022-09-20T11:34:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vi6UXO04dAI6Bd6UoPebEucVm0g",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-09-20T11:40:19Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Changing React Native... from within! - Adam Foxman | React Native EU 2022",
+        "description": "React Native has been used across Microsoft a lot, over the last few years. Only recently, though, we have realized how its developer experience and its community are in a precarious situation. We decided, then, to approach the problem in the most impactful way possible: by going straight to the source! Join us in this talk to hear what we are doing to make life better for everyone in the community, from open sourcing new tools, to creating new cross-company groups and even in collaborating directly with Meta in the core codebase (and not just there!). As a smart person once said: “a rising tide lifts all boats” - and we, we want to be the moon!\n\nSpeaker Bio\n\nAdam is a principal software engineer at Microsoft. He spent his first 20 years building C++ apps and products, and in 2018, he made the leap to JavaScript and React Native and hasn't looked back. Adam is a developer experience enthusiast, a tool builder, and a creative storyteller. When Adam's not working, he's adventuring with his family, making something out of wood or Lego, working on his house, or tinkering with some new piece of tech.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zgAjZVcvsv8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "zgAjZVcvsv8",
+        "videoPublishedAt": "2022-09-20T14:00:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TLTvP4r53ublbg0XkqTOpAWiPvM",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-09-20T11:59:14Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "How to access all the Objective-C APIs using JSI - Jamie Birch | React Native EU 2022",
+        "description": "The JavaScript Interface (JSI) allows us to access native APIs directly from the JS context. Unlike traditional JSON bridge-based native modules, API access is synchronous and even non-serialisable data types can be expressed. However, JSI is largely undocumented, so it may be unclear how to use it. In this talk, we'll learn how to write JSI code to bridge any individual API from the Objective-C runtime to JS and demonstrate how we could even bridge *all* the APIs the Objective-C runtime offers, by walking through the approach used in the shirakaba/react-native-native-runtime GitHub repository.\n\nSpeaker Bio\n\nA cross-platform hobbyist and ex-Smart TV app developer, Jamie enjoys putting JavaScript in places it doesn't belong, usually with a view to building apps for foreign language study.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foEacW-Ze3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foEacW-Ze3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foEacW-Ze3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "foEacW-Ze3w"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "foEacW-Ze3w",
+        "videoPublishedAt": "2022-09-20T16:30:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CGMaeKgC80Gd_porC7LaK1bD2Ss",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-09-20T12:12:06Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "How we made our app 80% faster, a data structure story - Marin Godechot | React Native EU 2022",
+        "description": "After reading dozens of \"React Native Performance Tips\" blog posts and trying many performance tweaks, our app was still slow... until we found a fix that made our app 80% faster. In this talk you will hear about the steps we went through on our never-ending journey for performance, what worked and what didn’t, and how ultimately a simple data structure fix solved most of our performance issues.\n\nSpeaker Bio\n\nMarin is a software engineer at Birdie where he built frontend, backend, and mobile products. Experienced in React and React Native, he is now focusing on improving the performance, stability, and developer experience of Birdie's React Native mobile app.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8FjGjXiTfyc"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "8FjGjXiTfyc",
+        "videoPublishedAt": "2022-09-21T05:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V4o2FPc1eWebxWaVCqb7bk8msLw",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-09-20T12:18:45Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "You can go EVERYWHERE but I can go FAST - performance case study - J. Binda | React Native EU 2022",
+        "description": "On-Road or Off-Road ? Well known question for each automotive enthusiast. Going extremely fast on one end, going absolutely everywhere on the other. Both require different setup and approaches. Both require a use case and defining purpose. It’s not limited just to vehicles. We are forced to reach a compromise in many life’s areas including programming. What will have happened when we put on the line app performance and its versatility in React Native? During the talk I will bring more light on the stated age-old dilemma and try to answer the question if it’s really either my way or highway.\n\nSpeaker Bio\n\nA dedicated software developer who puts a lot of attention to detail in every task that he does. Always committed and eager to learn. Jakub likes to create things and dive into how they work. A father of two and a husband of a woman of his life. Those two roles motivate him the most and give him the strength to move mountains.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9t7teqvycek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9t7teqvycek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9t7teqvycek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9t7teqvycek"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "9t7teqvycek",
+        "videoPublishedAt": "2022-09-21T07:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_wkpqmFfzrH7IhXxe7QlVlxSVRY",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-09-20T12:26:43Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Getting Better All the Time: How to Escape Bad Code - Josh Justice | React Native EU 2022",
+        "description": "What do you do when you need to work with some really bad code? It seems like a no-win situation: whether you rewrite it, do a \"\"refactoring sprint,\"\" or just live with it, you have to pay a big cost. But these aren't the only options. There's a way to get control of your code so that you can make whatever improvements you need in a low-stress, low-cost way. To explain how, this talk is split into two parts. In the first part we'll look at a messy React Native component and see how effortless it is to make improvements to the code if you have comprehensive tests. In the second part we'll tackle that big \"\"if:\"\" how in the world can you get comprehensive tests like that? By the end of this talk you'll have the information to decide if this approach to testing and refactoring will help your project, and if so, you'll have next steps to hone your skills in this approach.\n\nSpeaker Bio\n\nJosh Justice has worked as a developer for 17 years across mobile, frontend, and backend platforms. He currently serves as the Web Platform Lead at Big Nerd Ranch, a web and mobile development shop in Atlanta, Georgia. He also writes, speaks, and livestreams about React Native, testing, and software design.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XKiE4AFjk9s"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "XKiE4AFjk9s",
+        "videoPublishedAt": "2022-09-21T12:00:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LUFH77VVZkHPN8oq4acnwpm0NrE",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-09-20T13:51:34Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q14fWbEjcQM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q14fWbEjcQM"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b-5-JcEN9M7bEfCcYpt1-nkCPcE",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-09-20T13:59:13Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8vkJBQE5uHc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8vkJBQE5uHc"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pNWqlSdazEZ64l_XoHmAcWspiq8",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-09-20T14:11:18Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_VtGcJmf14E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_VtGcJmf14E"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JsuZtwlPuXb09ozpZDhadryR_zg",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-09-20T14:14:35Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8xnZzHPF-OU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8xnZzHPF-OU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 4,
+    "totalResults": 14,
     "resultsPerPage": 50
   }
 }
