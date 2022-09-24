@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Y_xcm2-ezkDqCQIBddFqWbKH7sw",
+  "etag": "cDSbKbIBRlaW_dZQrj3DJtkh3pA",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "DNNidnFJ8TgySzPNXAmhEnKhbl8",
+      "etag": "Vw0Ti4vOC3nBMG-QE0uI16jHq6Y",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-09-15T20:43:00Z",
@@ -13,29 +13,19 @@
         "description": "22nd Sept 2022 - Remote Day\n\nReact India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/sddefault_live.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/maxresdefault_live.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -50,7 +40,7 @@
       },
       "contentDetails": {
         "videoId": "SUk0hF-xe5A",
-        "videoPublishedAt": "2022-09-15T20:42:59Z"
+        "videoPublishedAt": "2022-09-22T15:54:11Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -58,7 +48,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UYwFTjWYm0k2hB58si4hNmII4R4",
+      "etag": "t4V5nJwwbhvEFSZmOzQSKeFwTf4",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-09-21T03:05:10Z",
@@ -67,29 +57,19 @@
         "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/sddefault_live.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/maxresdefault_live.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -109,10 +89,108 @@
       "status": {
         "privacyStatus": "unlisted"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a8lQufOm47AYu2MSI65aYcZRHHQ",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-09-22T20:53:26Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2022 Day 1",
+        "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w2MQzZ1dSZY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "w2MQzZ1dSZY",
+        "videoPublishedAt": "2022-09-23T14:54:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FJSiIGOZ_136QQSVH9pLP-V0Pnw",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-09-24T01:27:17Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2022 Day 2",
+        "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hy11T_eoUHg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "Hy11T_eoUHg",
+        "videoPublishedAt": "2022-09-24T01:27:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }

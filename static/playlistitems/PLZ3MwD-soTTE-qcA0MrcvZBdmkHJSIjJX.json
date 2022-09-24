@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "8D7efxz-HsP-6JHUH6Qm_13C4Ss",
+  "etag": "h-zRT1bW3_MI3j6EI09H3TBVakw",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HxNOWaTTL_P0BJG74KndjyijPz0",
+      "etag": "u69OPcQz8GcDcPhEcZbwAw-V_Ng",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2022-09-20T11:21:44Z",
@@ -274,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vi6UXO04dAI6Bd6UoPebEucVm0g",
+      "etag": "_3UJtC8Z8kOaOMFXjYUtupGCN3I",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-09-20T11:40:19Z",
@@ -318,7 +318,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TLTvP4r53ublbg0XkqTOpAWiPvM",
+      "etag": "FuvsLttq0VN-iL5Myer2lP1j6qM",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2022-09-20T11:59:14Z",
@@ -362,7 +362,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CGMaeKgC80Gd_porC7LaK1bD2Ss",
+      "etag": "T7r1ughKEn2ciTzaGGABae0_0BE",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2022-09-20T12:12:06Z",
@@ -406,7 +406,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V4o2FPc1eWebxWaVCqb7bk8msLw",
+      "etag": "16Gi3Vk8iXqRXIfUDO6NT2cUIBw",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-09-20T12:18:45Z",
@@ -450,7 +450,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_wkpqmFfzrH7IhXxe7QlVlxSVRY",
+      "etag": "lgJHZUGh4sTMDya9Jq_92OVMJsg",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-09-20T12:26:43Z",
@@ -494,102 +494,178 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LUFH77VVZkHPN8oq4acnwpm0NrE",
+      "etag": "fCstwlxf3vhIPksByj4Zr7UWPuk",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2022-09-20T13:51:34Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Showcase of rn-emoji-keyboard. Enhance your communication with the language of emoji - M. Jaśkowska",
+        "description": "Showcase of rn-emoji-keyboard library. Enhance your communication with the language of emoji\n\nEmoji breaks language barriers and boosts nonverbal communication with emotion. As a developer, have you ever wondered what emoji is under the hood? What makes it look different depending on a device or an application? We will look into how it is done and go through some fun facts followed by presenting features of rn-emoji-keyboard - a lightweight, performant and customisable open source library.\n\nSpeaker Bio\n\nHi! I’m Magda, a software developer from London. I work at TheWidlarzGroup where I develop websites and mobile apps. I’m interested in all things React Native. An active open source contributor, trying to turn caffeine into a working software to make your life easier. Aviation geek and winter sports enthusiast.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q14fWbEjcQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q14fWbEjcQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q14fWbEjcQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
         "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q14fWbEjcQM"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "q14fWbEjcQM"
+        "videoId": "q14fWbEjcQM",
+        "videoPublishedAt": "2022-09-21T15:00:36Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b-5-JcEN9M7bEfCcYpt1-nkCPcE",
+      "etag": "UM8DA_cB4nJyW9C2L3TvflVcf94",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-09-20T13:59:13Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "React Native MicroApp Architecture - Dilara Kırnapcı, Batuhan Tozun | React Native EU 2022",
+        "description": "Trendyol is the largest e-commerce company in Turkey, established in 2010 to provide a seamless e-commerce experience to our customers and vendors. At Trendyol Technology team, we scale up vertically. And each team develops their features end-to-end. With this MicroApp Architecture, teams can develop their own domains independently. Our main goal is to improve the code ownership and differentiate business and infrastructure parts, independent deployments. It provides a stable, reusable micro app that can be easily testable. We separate native and domain parts by repositories, these repositories can be developed independently and these independent parts bring together through the build step.\n\nSpeakers Bios\n\nBatuhan is Engineering Team Lead at Trendyol Tech. He began his career in another e-commerce company and then worked as a Frontend Engineer in many start-ups and companies. Currently, he is working with Seller Center Web and Mobile Core teams. Their aim is to empower all users and frontend/mobile developers to achieve maximum efficiency and effectiveness by enabling and building a first-class web/mobile experience.\n\nDilara - I am a computer engineer and I began my carrier working as mobile software developer dealing with react native. Currently I am a member of Seller Center Mobile Core team at Trendyol Tech and working as software developer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8vkJBQE5uHc"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "8vkJBQE5uHc"
+        "videoId": "8vkJBQE5uHc",
+        "videoPublishedAt": "2022-09-22T05:00:03Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pNWqlSdazEZ64l_XoHmAcWspiq8",
+      "etag": "xXcGT4Qp1YLf2kfWG0UB3PQh4jo",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2022-09-20T14:11:18Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "How to use React Native with Nx in monorepo - Emily Xiong | React Native EU 2022",
+        "description": "This talk is going to showcase how to create React Native apps with Nx in monorepo. It will go through - code sharing between web apps - how to use storybook out of the box - how to run unit and e2e tests\n\nSpeaker Bio\n\nA developer in Toronto that focus on monorepo with React Native and Expo.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VtGcJmf14E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VtGcJmf14E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VtGcJmf14E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_VtGcJmf14E"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "_VtGcJmf14E"
+        "videoId": "_VtGcJmf14E",
+        "videoPublishedAt": "2022-09-22T07:00:17Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JsuZtwlPuXb09ozpZDhadryR_zg",
+      "etag": "a3MQ2j_7AliSYM5iq-EBqTG8A6g",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-09-20T14:14:35Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Building a full JS deep zoom image viewer - Maxence Harm | React Native EU 2022",
+        "description": "The go-to solution for efficient display of (very) large images with zooming capability is to use tile pyramids. It is the principle behind every map viewer (google maps, apple plans, leaflet etc.). Our use case was to give our users the ability to view and add markers on building floor plans, with sufficient precision (hence a good zooming ability) and with good performance (network and interactions) in order to be usable on site. From a proof of concept using react-native-maps, we moved to a home made production component built with reanimated 2, fully written in javascript under 500 lines of code. This talk is a walk through the decision to start from scratch instead of using a third party native library.\n\nSpeaker Bio\n\nCo-Founder at a tech company based in La Rochelle, on the atlantic coast of France. We work hard to bring an all-in-one solution for construction professionals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8xnZzHPF-OU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8xnZzHPF-OU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8xnZzHPF-OU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8xnZzHPF-OU"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "8xnZzHPF-OU"
+        "videoId": "8xnZzHPF-OU",
+        "videoPublishedAt": "2022-09-22T18:00:02Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     }
   ],
