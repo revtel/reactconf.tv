@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "cDSbKbIBRlaW_dZQrj3DJtkh3pA",
+  "etag": "zkAqX9qp6xsSXqjNArQSCBOpmIA",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vw0Ti4vOC3nBMG-QE0uI16jHq6Y",
+      "etag": "rMzgJte3RqiKGYcRdfsFuHVREIs",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-09-15T20:43:00Z",
@@ -26,6 +26,11 @@
             "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
         "channelTitle": "React India",
@@ -92,7 +97,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a8lQufOm47AYu2MSI65aYcZRHHQ",
+      "etag": "uTaOC_60YlV1GxfXzJ9tX-WCc7E",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2022-09-22T20:53:26Z",
@@ -114,6 +119,11 @@
             "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
         "channelTitle": "React India",
@@ -136,7 +146,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FJSiIGOZ_136QQSVH9pLP-V0Pnw",
+      "etag": "YTkMJZlZixPHlTb__4C8CVYvbP8",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2022-09-24T01:27:17Z",
@@ -145,29 +155,24 @@
         "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nVisit for the full schedule. \nhttps://www.reactindia.io/schedule",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/maxresdefault_live.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -182,7 +187,7 @@
       },
       "contentDetails": {
         "videoId": "Hy11T_eoUHg",
-        "videoPublishedAt": "2022-09-24T01:27:15Z"
+        "videoPublishedAt": "2022-09-24T13:42:39Z"
       },
       "status": {
         "privacyStatus": "public"

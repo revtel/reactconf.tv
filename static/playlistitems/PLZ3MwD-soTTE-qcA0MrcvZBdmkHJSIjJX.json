@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "h-zRT1bW3_MI3j6EI09H3TBVakw",
+  "etag": "1_FMLQLr3NULom7igP8uZlzMKxM",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -274,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_3UJtC8Z8kOaOMFXjYUtupGCN3I",
+      "etag": "M4Qyo434jLpBJLlNfe3Xxwcbmxs",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-09-20T11:40:19Z",
@@ -296,6 +296,16 @@
             "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgAjZVcvsv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -318,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FuvsLttq0VN-iL5Myer2lP1j6qM",
+      "etag": "vVrT0ZZ5J-xSZh9pNY2SK9gGEGs",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2022-09-20T11:59:14Z",
@@ -340,6 +350,16 @@
             "url": "https://i.ytimg.com/vi/foEacW-Ze3w/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foEacW-Ze3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/foEacW-Ze3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -362,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T7r1ughKEn2ciTzaGGABae0_0BE",
+      "etag": "bzdOKgvvscYgfVEeuSUMn-6N3OQ",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2022-09-20T12:12:06Z",
@@ -384,6 +404,16 @@
             "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8FjGjXiTfyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -406,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "16Gi3Vk8iXqRXIfUDO6NT2cUIBw",
+      "etag": "PTSzffwNOI_xbvj13H6feYqvXzo",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-09-20T12:18:45Z",
@@ -428,6 +458,16 @@
             "url": "https://i.ytimg.com/vi/9t7teqvycek/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9t7teqvycek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9t7teqvycek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -450,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lgJHZUGh4sTMDya9Jq_92OVMJsg",
+      "etag": "X3l0JdEmrDv80c8rBQv-N04Wa5Q",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-09-20T12:26:43Z",
@@ -472,6 +512,16 @@
             "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKiE4AFjk9s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -494,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fCstwlxf3vhIPksByj4Zr7UWPuk",
+      "etag": "fhWIBV3rWb1M4F4EKamCpJWEcu0",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2022-09-20T13:51:34Z",
@@ -516,6 +566,16 @@
             "url": "https://i.ytimg.com/vi/q14fWbEjcQM/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q14fWbEjcQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q14fWbEjcQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -538,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UM8DA_cB4nJyW9C2L3TvflVcf94",
+      "etag": "jxa6WoN1mF8tJn_wA3XPBLEx00I",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-09-20T13:59:13Z",
@@ -560,6 +620,16 @@
             "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8vkJBQE5uHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -582,7 +652,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xXcGT4Qp1YLf2kfWG0UB3PQh4jo",
+      "etag": "g3KvVU0URrFmNNxvCBQ4Ok7cxCQ",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2022-09-20T14:11:18Z",
@@ -604,6 +674,16 @@
             "url": "https://i.ytimg.com/vi/_VtGcJmf14E/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_VtGcJmf14E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_VtGcJmf14E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -626,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a3MQ2j_7AliSYM5iq-EBqTG8A6g",
+      "etag": "MjNrCrl5STT6Bw4Q_NF8T4sjMw0",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-09-20T14:14:35Z",
@@ -648,6 +728,11 @@
             "url": "https://i.ytimg.com/vi/8xnZzHPF-OU/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8xnZzHPF-OU/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
         "channelTitle": "Callstack Engineers",
@@ -667,10 +752,481 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bG2Uxqm8exglOEZIitLqiRZf_Ig",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-09-26T11:42:55Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Reducing bugs in a React codebase - Darshita Chaturvedi | React Native EU 2022",
+        "description": "This is a novel and original look into some of the unexpected behaviors in a React codebase and the anti-patterns that cause them. We discovered them while building a new full-stack web development framework on top of React. We published some of our learnings and received overwhelmingly positive reactions from developers worldwide such as: 1. Selected as the top article of the week by various newsletters 2. Developers voluntarily translated the article into many languages such as South Korean and Russian 3. Reached 100K+ developers with comments such as “Changed my day!” We wish to share these learnings with an even wider developer community through this conference. \n(https://betterprogramming.pub/how-we-reduced-bugs-in-our-react-code-base-9a7a979b4442)\n\nSpeaker Bio\n\nDarshita Chaturvedi is the Co-Founder & CEO of Atri Labs where she is leading the development of a new full-stack framework for web development. She has five years of experience working in Machine Learning and Data Science fields in various capacities from Graduate Research Assistant at MIT (USA) to Quant Researcher at BlackRock, a US headquartered asset management firm. She completed her undergraduate education in Engineering from IIT Kharagpur, India, and dropped out from graduate program in management at MIT Sloan to work on her startup full-time. Her favorite past times are painting and learning art history.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NDW-BLnua_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NDW-BLnua_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NDW-BLnua_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NDW-BLnua_o"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "NDW-BLnua_o",
+        "videoPublishedAt": "2022-09-26T11:48:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xoHJ5rwnrJwSHU46buTSe3SnFQo",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-09-26T11:58:14Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Stripe React Native: A simple set of solutions to a complex set of problems - C.Cruzan | RN EU 2022",
+        "description": "Stripe React Native: A simple set of solutions to a complex set of problems Collecting payments in an app is notoriously difficult. Before you get started, you need to decide whether you can collect payments directly, or if you need go through in app purchases. Then the wide world of different payment methods, security, PCI compliance, optimized checkout flows, and more awaits you. That isn’t a task list that gets many developers excited With Stripe’s React Native libraries, our goal is to provide a broad set of solutions for any payment scenario an app might have. This doesn’t just mean exposing a method to charge card details though. Today we’ll go through some of the features offered by Stripe React Native, when/why you’d use them, and then go through a quick demo. 1. Payment Elements like CardField, AuBECS Form, and Bank redirects, which you can use to create payment methods for customers, no matter where they are or what payment methods they use 2. Don’t feel like spending weeks of engineering time on a Checkout flow in your app? Stripe provides the PaymentSheet which can now be customized and tailored to your app’s own UI. With PaymentSheet, your checkout flow is already optimized, and you can start accepting new payment methods without even shipping out an app update (that’s right, server-side controls!) 3. We’ve mentioned payment methods a lot. Something that’s easily forgotten, especially by me living in a country where credit cards are so ubiquitous, is that if your business plans on operating on an international or global scale, you need to support the payment methods that your customers are comfortable and familiar with. Luckily, whether you’re using PaymentSheet or your own checkout flow, Stripe React Native supports over 20 payment methods. 4. What would a mobile payment talk even be if I didn’t mention Apple Pay and Google Pay? Of course Stripe React native supports the full suite of APIs from each, which means you’re not giving up anything by working in React Native. In addition to that, you even have access to the more specific use cases like adding cards to a users native mobile wallet! demo of the Payment Sheet with customized appearance - when to use the payment sheet demo of custom UI using CardField - when to use the individual elements and build your own checkout flow demo of adding a card to your native wallet ? - this might be too specific of a use case Last slide on Stripe’s future plans for React Native- releasing first-class support for it with new mobile features: insert new libraries that are currently unreleased but will be available before the talk itself\n\nSpeaker Bio\n\nCharlie is a software engineer at Stripe, where he works on ensuring developers using Stripe have powerful tools at their disposal to get their work done efficiently, and enjoyably! One of his focuses is the Stripe React Native SDK, which allows you to build delightful payment experiences faster and easier than ever.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CJStOgidxd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CJStOgidxd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CJStOgidxd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CJStOgidxd0"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "CJStOgidxd0",
+        "videoPublishedAt": "2022-09-26T11:59:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9K7o-AUEGJDORtCAmIJt3Z5_DwI",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-09-26T12:02:28Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Dev Workflows with \"Headless\" Content Management: Time to Re-Attach the Head! - E. Vicenti | RNEU'22",
+        "description": "While code goes through a build/release workflow, and your app handles user data, there is a middle ground of \"\"Content Management\"\". Servers can provide content and configuration to continuously tweak the behavior of your app in the wild. How can we make this process easier and more robust? What happens if we blur the lines between your app's user data, content, and code? With React Native's primitives, can we re-attach the front end of the \"\"Headless CMS\"\", and directly render our content on every platform?\n\nSpeaker Bio\n\nEric is self-taught software engineer who has used React since the year it was released. A former member of the React Native and Open Source teams at Facebook, Eric led the initial development of React Navigation. Now Eric is focusing on Zerve, an Open Source startup.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hrsZlu6Qy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hrsZlu6Qy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hrsZlu6Qy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7hrsZlu6Qy4"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "7hrsZlu6Qy4",
+        "videoPublishedAt": "2022-09-26T13:30:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mjM8bLt6ZZxxT99zQMNU9qcJwAI",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-09-26T12:06:44Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Headless Flipper - embeddable mobile devtools for your CI and beyond - A. Goncharov | RNEU 2022",
+        "description": "Flipper is a platform for debugging mobile and web apps. Half a year ago, we decided to split the electron monolith in two parts: a standalone server and a UI. In this talk, we'll cover why you need headless Flipper, what opportunities it unlocks for you. We’ll go over how Flipper can now be easily used for remote debugging, embedding, CI integration, and etc. We’ll overview how Flipper architecture transformed to support the migration, what Flipper is now, and how we plan to use it at Meta.\n\nSpeaker Bio\n\nHi there 👋 My name is Andrey G. I am a software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C) and finance (love-hate relationship with Pandas). Career: Full-stack (web, blockchain, and even a bit of embedded) at software consultancies - Headed front-end development at Hazelcast - Front-end at Bricks (next-gen spreadsheet web app) - Full-time maintainer of Flipper at Meta (ex-Facebook). I write about tech in my small blog. Occasionally, I speak at conferences. I am currently pursuing a Master's in Computer Science (OMSCS) from Georgia Tech. I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7II1q770c8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7II1q770c8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7II1q770c8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v7II1q770c8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "v7II1q770c8",
+        "videoPublishedAt": "2022-09-27T04:00:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KbeLiSMOcwKSIg_T-dovSJMlgTs",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-09-26T12:17:17Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Localizing React Native apps from start to end - Vojtech Novak | React Native EU 2022",
+        "description": "Localization (l10n), is the process of adapting applications and text to enable their usability in a particular market. From a dev standpoint, what immediately comes to mind is translating strings instead of hardcoding them - but there's much more to the topic. In the talk, I want to cover the following: - Different approaches to managing translation strings, and different libraries / tools which do that with React. - What mistakes can happen during localization and how to prevent them. - Through which services can I get my app translated, and explain a little about how translators themselves work. - What should I (not) do to help translators deliver quality translations. - At which points in the development process we can localize (coding, or perhaps already in design phase?). After the talk, I want the audience to have and understanding what tools are available to them, how to approach SW localization and how to (not) do it.\n\nSpeaker Bio\n\nVojtech has been coding React Native stuff for the past few years. He enjoys contributing to open source projects along the way and maintains a few as well. He's passionate about clean code, automated testing and good developer experience.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jbNzBqhOyTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jbNzBqhOyTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jbNzBqhOyTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jbNzBqhOyTE"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "jbNzBqhOyTE",
+        "videoPublishedAt": "2022-09-27T07:00:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ropyhEFjTmqxH0Rl48eNEfWURgI",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-09-26T12:26:01Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Visual Regression Testing in React Native - Rob Walker | React Native EU 2022",
+        "description": "Visual regression testing catches bugs and UI regressions more effectively than manual testing, but historically, it has been difficult to set up. We are going to see how we can use react-native-owl to simplify the set-up and testing of an app's core UI and flows.\n\nSpeaker Bio\n\nOutdoor Adventurist turned software engineer, Rob's list of projects includes apps for rock climbers, safety managers and warehouse associates and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cRbreZz8LHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cRbreZz8LHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cRbreZz8LHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cRbreZz8LHk"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "cRbreZz8LHk",
+        "videoPublishedAt": "2022-09-27T13:00:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DKZXiGhVsT2FcpSHrpteGdtfHcQ",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-09-26T13:41:58Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native at Scale: How Microsoft is betting big on React Native to target BILLIONS of users",
+        "description": "React Native at Scale: How Microsoft is betting big on React Native to target BILLIONS of users - Steven Moyes, Shiven Mian, Slobo Stipic | React Native EU 2022\n\nYou probably know by now that React Native isn't just for mobile anymore. Thanks to the collaboration between Microsoft and Meta, you can use React Native to target Windows, macOS and mobile. But did you know that Microsoft is using React Native to power parts of Windows, with over 1 billion users? Or that key Microsoft businesses like Office and Xbox use React Native to get native performance and code sharing across platforms? Join us to learn how, where, and why Microsoft is using and improving React Native for all developers -- including you!\n\nSpeakers Bios\n\nSteven Moyes - Sr Product Manager working on React Native for Desktop. Ask me about building x-platform apps using JS/TS, and how you can supercharge your app for Windows using the Windows App SDK!\n\nSlobo Stipic - I am a developer at heart and a software craftsman. Passionate about user experience and front-end technologies such as React Native.\n\nShiven Mian - Shiven is a Software Engineer at Microsoft in the Office division, where he helps drive React Native efforts across Office mobile applications, currently focusing on architecture and performance. Outside of work, he's an avid quizzer, football fan and concert hopper.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/639DW0kN28w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/639DW0kN28w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/639DW0kN28w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "639DW0kN28w"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "639DW0kN28w",
+        "videoPublishedAt": "2022-09-27T15:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CJycffUjs5qlDL0o1fstBOS_slM",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-09-26T13:45:54Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Can't touch this - Different ways users interact with their mobile devices - Panula | RNEU 2022",
+        "description": "Did you know that not everyone uses touch when using their mobile devices? Some use a tool called a screen reader, others use voice interfaces, and some use keyboards or keyboard emulating devices. In this talk, we'll look deeper into these methods and what they mean for you when you're developing with React Native. After this talk, you'll walk away with practical knowledge on how to make apps more accessible to a broader group of users.\n\nSpeaker Bio\n\nEeva-Jonna, or Eevis, is an accessibility specialist and senior software developer. She is also IAAP Certified Professional in Web Accessibility. Her passion is to share knowledge in those areas, and she speaks and writes a blog. When she is not doing that, she explores the beautiful Finnish nature either by foot or kayak.\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVV9CAF56FU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVV9CAF56FU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVV9CAF56FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WVV9CAF56FU"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "WVV9CAF56FU",
+        "videoPublishedAt": "2022-09-28T07:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iHFZDOjdYgLTz6-i4CMPJmD5zTE",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-09-26T15:23:37Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Performance issues: the usual suspects - A. Moureaux | React Native EU 2022",
+        "description": "Whenever I audit RN apps performance, there are several issues that come up quite often. So I created a dummy app with all of them! Through live-coding, let’s fix those issues together, leveraging the power of tools such as React DevTools, Android Studio tracing and the Hermes profiler.\n\nSpeaker Bio\n\nHi, I'm a tech lead at BAM where I've been developing React Native apps for 6 years. My obsession is mobile apps performance 🚀. I truly believe it's our responsibility to develop performant apps, as one way to fight against climate change!\n\nCheck out more about React Native EU conference:\nhttps://www.react-native.eu/\n\nand follow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ieKK27lyxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ieKK27lyxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ieKK27lyxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3ieKK27lyxA"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "3ieKK27lyxA",
+        "videoPublishedAt": "2022-09-28T10:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MTAiQy6ni5s4Jb0gdflv1qeyn4k",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-09-26T15:34:08Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xl5QYfMEBb0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xl5QYfMEBb0"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hup94qjD7qZ61tw5dMsgqWxPtxE",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-09-26T15:39:07Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NowcmDx5Nxg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NowcmDx5Nxg"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wezkekwvWbJm4-Arr-b30X7ufYI",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-09-26T15:42:22Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BrYxGrE9sW8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BrYxGrE9sW8"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 26,
     "resultsPerPage": 50
   }
 }
