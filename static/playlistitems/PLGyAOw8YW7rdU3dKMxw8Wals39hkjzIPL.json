@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "NtWkFHFDV1844dk8QH3vvhAzr60",
+  "etag": "dbABoz46qg3SYnM4yRbsWhZUtPs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "z3l24baVWWiUW62-BSaFngTAspI",
+      "etag": "AA_0eFj2OYTPf-ZaObvQC47BH7s",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-09-15T20:43:00Z",
@@ -31,6 +31,11 @@
             "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUk0hF-xe5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -53,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "t4V5nJwwbhvEFSZmOzQSKeFwTf4",
+      "etag": "aqRPMTXy5SSnAa7n0Jw_HR_AO0k",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-09-21T03:05:10Z",
@@ -75,6 +80,16 @@
             "url": "https://i.ytimg.com/vi/5yqi6dIEthk/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5yqi6dIEthk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -89,15 +104,15 @@
       },
       "contentDetails": {
         "videoId": "5yqi6dIEthk",
-        "videoPublishedAt": "2022-09-21T03:05:08Z"
+        "videoPublishedAt": "2022-10-03T11:37:38Z"
       },
       "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nG58HxmAFQdDhuXFwYNOMznihMs",
+      "etag": "98dsXIB843Y19YZZY2X8wHtxz_U",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2022-09-22T20:53:26Z",
@@ -124,6 +139,11 @@
             "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w2MQzZ1dSZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -146,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XAdgVC-eAivVR23HMT6PbV-UTf0",
+      "etag": "ZhJ4hqHCnt4sOIP0Z4-bmhsmeEk",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2022-09-24T01:27:17Z",
@@ -173,6 +193,11 @@
             "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hy11T_eoUHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -192,10 +217,177 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zbna-ieoczzLagagFnud1QlVGfY",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-10-03T03:22:38Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building a Design System Mid Flight - Josh Goldberg",
+        "description": "Design systems -collections of common components, colors, and other constants- are a key way to scale teams and web applications on the modern web. They're particularly handy for deduplicating frontend development costs for micro frontends and remote teams. But how do you create one from scratch -- or, much more commonly, in-flight from an existing service?\n\nWorkshop description:\nThis hands-on workshop will take you through three stages of crafting your design system:\nPart 1 (Design): Extracting colors, spacing, and typography from your existing brand. We'll look at an example site that has a rough collection of variant UIs, and trim the variants down to a consolidated set.\nPart 2 (Design+Dev): Creating components following standard Atomic Design using the first day's designs. We'll cover atoms, molecules, and so on, match the design sets to their categories, and implement them in a React + CSS variables design system.\nPart 3 (Design+Dev): Fleshing out components and documenting usage with Storybook and TypeScript. Now that we have our basic design system, let's go one by one and swap out the preexisting components and designs on the site!\n\nPre-requisites\n\nIntermediate React and CSS knowledge.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXkUIFjtd9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXkUIFjtd9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXkUIFjtd9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dXkUIFjtd9Q"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "dXkUIFjtd9Q",
+        "videoPublishedAt": "2022-10-03T03:48:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kfUgqqca5D_A3pH6AxmX6hJ_zMs",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-10-03T03:33:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Create a Fitness Tracker App with React & Microfrontends using Syncfusion Components - Uma Maheswari",
+        "description": "In this workshop, you will learn how to build a Fitness Tracker App in React with Microfrontends Architecture by using our Syncfusion React components. One can get a basic understanding of how to architect the microfrontends application in React using the create-mf-app command and get an opportunity to design the outlined view of the Fitness Tracker App by making a call to all the required components from the host container application. At the end of this workshop, you will also receive a certificate of completion from Syncfusion for completing this workshop together with us!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CwRYLpma3rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CwRYLpma3rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CwRYLpma3rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CwRYLpma3rc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "CwRYLpma3rc",
+        "videoPublishedAt": "2022-10-03T03:50:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z-a9N9FJJsNr8tReYpjkghlKxR4",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-10-03T03:59:05Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y7F7ypGFajU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Y7F7ypGFajU"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYEZawawM5YDTlAD-mn5XazC5DI",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-10-03T12:29:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Opening React India 2022 Hybrid Edition",
+        "description": "Visuals and Motion Graphics - \nWetland Studios - Shirish Waghmare and Ashish Kataria\nShirish Waghmare - https://instagram.com/shirishkebab\nAshish Kataria - https://instagram.com/ashishart.tv\n\nMusic Credits - Brij dalvi \nhttps://soundcloud.com/brijdalvi/react-india-2022-official-theme-song\n\n\nOpening Act by React India 2022 Mcs - Vishwa, Ankeet Maini, Kushagara Gour, Ritesh Kumar\n\nProduced by React India Team\nhttps://www.reactindia.io/team",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xttFpI3FycI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xttFpI3FycI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xttFpI3FycI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xttFpI3FycI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xttFpI3FycI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xttFpI3FycI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "xttFpI3FycI",
+        "videoPublishedAt": "2022-10-03T12:29:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 4,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }

@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "juewyJBu6Vaj0rMG5nIojQxms5I",
+  "etag": "DNpQSLmKyYp5_IgplP4z7UmIvOc",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "YdV0UrMZqLF5hmUv15I9Goyrrn4",
+      "etag": "_VVJ41PPuzmqSUPjVzOvoajcD3g",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-06-23T17:51:49Z",
@@ -26,6 +26,16 @@
             "url": "https://i.ytimg.com/vi/IW21KASz4K8/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IW21KASz4K8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IW21KASz4K8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -48,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_I6lduaMizyj7zMrBIm8E4zPHbA",
+      "etag": "NgJvpA3gXvrW4Wj5Bl8iab1LOIM",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-06-23T17:52:46Z",
@@ -70,6 +80,16 @@
             "url": "https://i.ytimg.com/vi/AsaR0wyR9c0/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AsaR0wyR9c0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AsaR0wyR9c0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -333,7 +353,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o7YZqmBkGxCh9gO0dSR9Nz2ZWQw",
+      "etag": "1KyUAKdw4XGaNi6k1-ZQucb4r-0",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2022-06-23T17:58:38Z",
@@ -355,6 +375,16 @@
             "url": "https://i.ytimg.com/vi/_uW7jrSWkdk/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_uW7jrSWkdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_uW7jrSWkdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -510,7 +540,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2k9_FBvnjwjohEkbv6R6C_e_pao",
+      "etag": "MU776rdaoVakcDMOP7hQ1P8MnTw",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-06-23T18:08:36Z",
@@ -532,6 +562,16 @@
             "url": "https://i.ytimg.com/vi/-K-Vck5GBZc/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-K-Vck5GBZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-K-Vck5GBZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -579,7 +619,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5t-TM8JDCUj_HS1_EpPi0urY2ZQ",
+      "etag": "GY0LNH6_oOyyAYpw6_FNFiX0mok",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-06-27T15:08:40Z",
@@ -601,6 +641,16 @@
             "url": "https://i.ytimg.com/vi/y__xvrnNLqM/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y__xvrnNLqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y__xvrnNLqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
@@ -677,7 +727,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lJKr963oICQ5dmEPaPrcoSl_eqI",
+      "etag": "oPpRHNo_OGD5htbhs9tu55_-BcI",
       "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2022-06-27T15:17:21Z",
@@ -699,6 +749,16 @@
             "url": "https://i.ytimg.com/vi/GQwoHfcnq84/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GQwoHfcnq84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GQwoHfcnq84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",

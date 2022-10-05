@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "xKBNRaBo-KMy3oNp6jPZ9oque_I",
+  "etag": "lGBzy57UWp1TG0HvTQv6zo7I0rI",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1138,7 +1138,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zEDlIJEn04amftbXpMSbGhgoEcU",
+      "etag": "qy-AoKTPGTlOOsln2y5RwwESVys",
       "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2022-04-03T13:11:34Z",
@@ -1160,6 +1160,16 @@
             "url": "https://i.ytimg.com/vi/qUqg1bnZ6uQ/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUqg1bnZ6uQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qUqg1bnZ6uQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "ReactNext",
