@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SZPKyV-QfqBoiGI4mVEWbwKksrc",
+  "etag": "NBdMbDI1eeCoBPora63AF84TgnA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Zbna-ieoczzLagagFnud1QlVGfY",
+      "etag": "d9LAvvjKMt9aZWaRummCuBkx8pE",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2022-10-03T03:22:38Z",
@@ -242,6 +242,11 @@
             "url": "https://i.ytimg.com/vi/dXkUIFjtd9Q/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dXkUIFjtd9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
         "channelTitle": "React India",
@@ -264,7 +269,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kfUgqqca5D_A3pH6AxmX6hJ_zMs",
+      "etag": "0qmxBghHPtyTxh5Itqq4oavVU-o",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-10-03T03:33:57Z",
@@ -286,6 +291,11 @@
             "url": "https://i.ytimg.com/vi/CwRYLpma3rc/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CwRYLpma3rc/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
         "channelTitle": "React India",
