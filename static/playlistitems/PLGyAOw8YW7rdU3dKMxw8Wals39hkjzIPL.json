@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "NBdMbDI1eeCoBPora63AF84TgnA",
+  "etag": "0OdxiSu0pCqDyrrYQ-1GyGrzV74",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -394,10 +394,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wnCJBItNSTMTdH6NhSOT59b7kzo",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-10-15T08:23:47Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2022 - Official Aftermovie  🇮🇳",
+        "description": "🗓 Official Aftermovie from React India  2022\n\nReact India is a community-led not-for-profit initiative with an international flavor. See you soon at React India 2023. \n\nhttps://www.reactindia.io/\n\nFollow us on Twitter - https://twitter.com/react_india\n\n\nVisuals and Motion Graphics - \nShirish Waghmare - https://instagram.com/shirishkebab\nAshish Kataria - https://instagram.com/ashishart.tv\n\n\nPhotography  and videography credits  - Artnest India \n\nMusic Credits - Brij dalvi \nhttps://soundcloud.com/brijdalvi/react-india-2022-official-theme-song\n\nOpening Act by React India 2022 Mcs - Vishwa, Ankeet Maini, Kushagara Gour, Ritesh Kumar\n\nProduced and Curated  by React India Team\nhttps://www.reactindia.io/team\n\nConference Organiser - \nhttp://geekabyte.tech/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRRlI5ve2PE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRRlI5ve2PE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRRlI5ve2PE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uRRlI5ve2PE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uRRlI5ve2PE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uRRlI5ve2PE"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "uRRlI5ve2PE",
+        "videoPublishedAt": "2022-10-15T08:07:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }
