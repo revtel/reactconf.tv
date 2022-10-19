@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "0OdxiSu0pCqDyrrYQ-1GyGrzV74",
+  "etag": "BuBYB7BWlrtgy-qcCodvhM67pqo",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -397,7 +397,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wnCJBItNSTMTdH6NhSOT59b7kzo",
+      "etag": "3NJaHN3txmPz07JmNO837qjeDsc",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-10-15T08:23:47Z",
@@ -443,7 +443,7 @@
       },
       "contentDetails": {
         "videoId": "uRRlI5ve2PE",
-        "videoPublishedAt": "2022-10-15T08:07:54Z"
+        "videoPublishedAt": "2022-10-15T13:30:08Z"
       },
       "status": {
         "privacyStatus": "public"
