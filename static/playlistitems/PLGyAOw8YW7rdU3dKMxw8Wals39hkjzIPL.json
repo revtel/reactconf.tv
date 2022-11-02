@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "BuBYB7BWlrtgy-qcCodvhM67pqo",
+  "etag": "YFXiHSzlKDvdFb6KK7sRAKoY8-U",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -318,32 +318,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "z-a9N9FJJsNr8tReYpjkghlKxR4",
-      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2022-10-03T03:59:05Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Y7F7ypGFajU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Y7F7ypGFajU"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Vw1Zut7Uu7NIy3bGHRLIKqDriRg",
+      "etag": "1FOVFGP5BBz5s9ReIzpzmBXAgGY",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2022-10-03T12:29:45Z",
@@ -379,7 +354,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xttFpI3FycI"
@@ -397,7 +372,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3NJaHN3txmPz07JmNO837qjeDsc",
+      "etag": "6NG2kDjDo-hFrbx0tthEx82GYMg",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-10-15T08:23:47Z",
@@ -433,7 +408,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "uRRlI5ve2PE"
@@ -451,7 +426,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 9,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
