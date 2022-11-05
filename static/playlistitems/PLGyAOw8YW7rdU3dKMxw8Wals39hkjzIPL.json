@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "YFXiHSzlKDvdFb6KK7sRAKoY8-U",
+  "etag": "ekOs-WRjLb_29mF9Ztu5s1rcVcQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -423,10 +423,334 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pWE02u8reRHJ6t5RJBg19QTy8jI",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-11-04T19:35:36Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Web's Next Transformation | Kent C Dodds - React India 2022",
+        "description": "The web. What started as a document sharing platform has evolved into an application platform. The web has been through a number of transformations over the years. From static HTML files to dynamic server-generated HTML responses. Then to REST or GraphQL APIs consumed by JavaScript-heavy clients with the Jamstack. The web is entering a completely new transformation. Modern infrastructure and techniques have changed the rules of what it means to make an excellent user experience. In this new future, what's old is new and what's modern is lacking.\n\nIn this keynote, Kent C. Dodds will show you how this transformation will impact your user experience, your development productivity, and your business goals. The future of the web is distributed. It's faster. It's cheaper. It's exciting. Kent will show you what you can do to stay in front of it (and no, it's not web3).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVSizZxecXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVSizZxecXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVSizZxecXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVSizZxecXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVSizZxecXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AVSizZxecXc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "AVSizZxecXc",
+        "videoPublishedAt": "2022-11-05T08:33:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5lqJtiFGthA6YTprJ1QsAN5NTTo",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-11-04T20:22:06Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Understanding Concurrent React with Hacks | Tejas Kumar - React India 2022",
+        "description": "This talk is an exercise in \"code spelunking\" where we try to understand newer React concurrent features by building low level implementations of them, featuring a good amount of live code and suspense for data fetching.\n\nAbout Tejas\n\nTejas enjoys people, code, and talking about code to people. Having begun coding at age 8, today Tejas travels around the world, encouraging, educating and empowering developers in the web development community.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KWb7U9p4h2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KWb7U9p4h2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KWb7U9p4h2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KWb7U9p4h2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KWb7U9p4h2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KWb7U9p4h2U"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "KWb7U9p4h2U",
+        "videoPublishedAt": "2022-11-05T08:33:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TOu7E0nqKb79HRNf1gMmDRdU2mg",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-11-04T20:50:04Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React Hooks broke my tests, now what? - Daniel Afonso",
+        "description": "Hooks have become a better and cleaner way to write React code. Many have realized it and migrated their solutions from class to functional components. When the code looks great, and the migration seems successful, your tests may disagree.\n\nThis presentation focuses on the common pitfalls of testing and what we have been doing wrong while also teaching you how to test your brand new hooks using components, all this while using the React Testing Library.\n\nI’ve been advocating for better testing practices using the Testing Library and have occasionally contributed to it. After spending months of refactoring implementation details focused tests, I’ve grown to understand the main pain points of testing React components and helped my team to build new practices and write better performant and resistant tests.\n\nThis talk consists of a real-life story of when at a previous company, we decided to migrate our 4 months old application from class components to functional ones and use React Hooks. It approaches the motivations for this migration (code reusability, code readability and the ease of teaching React to future Junior hires) and focuses on the main pain point we had: More than half of our tests failed.\n\n\nOur tests were strongly focused on implementation details. This talk will approach how we dealt with this, and, how we discovered the React Testing Library.\n\n\nDaniel is a Developer Advocate at OLX Group. His current interest is in React and JavaScript, and he advocates for better testing principles using the testing library. He has a full-stack background, having worked with different languages and frameworks on various projects from IoT to Fraud Detection. In his free time, when he's not learning new technologies or writing about them, he's probably reading comics or watching superhero movies and shows.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yGKl-VLZCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yGKl-VLZCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yGKl-VLZCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yGKl-VLZCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0yGKl-VLZCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0yGKl-VLZCQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0yGKl-VLZCQ",
+        "videoPublishedAt": "2022-11-05T08:33:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fffgqmOtu1DFmNGGmdnVEOywYJQ",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-11-05T06:07:05Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Revisiting end-to-end testing for better reliability, speed and D.X. at scale  | Anoop Raveendran",
+        "description": "End to end testing workflow becomes a vital quality check for companies with a fast paced environment and operations at scale. It’s important that this workflow is fast, reliable and has great D.X. when authoring, execution, debugging and reporting of tests. Through this talk, i want to explore some efficient E2E testing workflow steps with playwright and seeding test data.\n\nAnoop is a Lead Engineer at Rippling, building frontend platform solutions, passionate about User and Developer experience. Works on JavaScript infrastructure, developer productivity and tooling. Obsessed with design and build systems.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5LWsr95Yd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5LWsr95Yd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5LWsr95Yd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5LWsr95Yd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5LWsr95Yd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W5LWsr95Yd4"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "W5LWsr95Yd4",
+        "videoPublishedAt": "2022-11-05T08:33:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r0zzE1HU6YRkpF5GqCDOFSFhm4M",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-11-05T06:36:28Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Fullstack Typesafety with Next.js -  Brandon Bayer | React India 2022",
+        "description": "Achieving complete typesafety with Next.js is a huge challenge, especially if you are fetching data from databases or third party APIs! I’ll show you how to fully leverage ALL of the Typescript features of Next.js. And I’ll cover the hottest up and and coming libraries for achieving even greater typesafety than is possible with vanilla Next.js. for you: Blitz.js 2.0 is the main one of those libraries for enabling typesafety in Next.js\n\nBrandon is the cofounder and CEO of Flightcontrol and the Creator of Blitz.js. He's deeply passionate about helping people reach their dreams and about making development and entrepreneurship more accessible. Outside of work he loves flying airplanes and helicopters, rock climbing, and traveling.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWhKRvWSqMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWhKRvWSqMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWhKRvWSqMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jWhKRvWSqMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jWhKRvWSqMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jWhKRvWSqMM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "jWhKRvWSqMM",
+        "videoPublishedAt": "2022-11-05T08:33:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qN-2zvsydlFr6KjXtlAQvWkJ3iU",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-11-05T07:56:56Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Supercharging Your Dev Experience with Turborepo | Bruno Paulino",
+        "description": "We will go about how large teams collaborate in a JavaScript/TypeScript monorepo and how dependencies between packages can cause hindrance in the Developer Experience (DX), mostly due to the dependency graph and task execution times.\n⁠\n⁠Then I will follow-up on how Turborepo can greatly reduce dependency complexity when executing tasks and how its smart caching strategy can save you many hours when using CI/CD systems. I will also talk about how we introduced Turborepo at N26, how it has been used and how it has improved the DX of the Web team by drastically reducing CI/CD pipelines execution time.\n\nBruno is a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun. He is mainly interested in Web development. He has been writing web applications using Scala, JavaScript and React.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UO3zFtIoThM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UO3zFtIoThM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UO3zFtIoThM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UO3zFtIoThM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UO3zFtIoThM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UO3zFtIoThM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "UO3zFtIoThM",
+        "videoPublishedAt": "2022-11-05T08:33:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 14,
     "resultsPerPage": 50
   }
 }
