@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ekOs-WRjLb_29mF9Ztu5s1rcVcQ",
+  "etag": "3zQT0fkjDLSd9-krNh0B8MBYfos",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -426,13 +426,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pWE02u8reRHJ6t5RJBg19QTy8jI",
+      "etag": "7J9GyfOMYYenbXES7yNjO8wp9Jg",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-11-04T19:35:36Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "The Web's Next Transformation | Kent C Dodds - React India 2022",
-        "description": "The web. What started as a document sharing platform has evolved into an application platform. The web has been through a number of transformations over the years. From static HTML files to dynamic server-generated HTML responses. Then to REST or GraphQL APIs consumed by JavaScript-heavy clients with the Jamstack. The web is entering a completely new transformation. Modern infrastructure and techniques have changed the rules of what it means to make an excellent user experience. In this new future, what's old is new and what's modern is lacking.\n\nIn this keynote, Kent C. Dodds will show you how this transformation will impact your user experience, your development productivity, and your business goals. The future of the web is distributed. It's faster. It's cheaper. It's exciting. Kent will show you what you can do to stay in front of it (and no, it's not web3).",
+        "title": "The Web's Next Transformation | Kent C Dodds  - React India 2022",
+        "description": "The web. What started as a document sharing platform has evolved into an application platform. The web has been through a number of transformations over the years. From static HTML files to dynamic server-generated HTML responses. Then to REST or GraphQL APIs consumed by JavaScript-heavy clients with the Jamstack. The web is entering a completely new transformation. Modern infrastructure and techniques have changed the rules of what it means to make an excellent user experience. In this new future, what's old is new and what's modern is lacking.\n\nIn this keynote, Kent C. Dodds will show you how this transformation will impact your user experience, your development productivity, and your business goals. The future of the web is distributed. It's faster. It's cheaper. It's exciting. Kent will show you what you can do to stay in front of it (and no, it's not web3).\n\n@KentCDodds-vids",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/AVSizZxecXc/default.jpg",
@@ -534,7 +534,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TOu7E0nqKb79HRNf1gMmDRdU2mg",
+      "etag": "h9Fjj4ccw5lhTkoLlJuL-tcpjXY",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-11-04T20:50:04Z",
@@ -588,7 +588,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fffgqmOtu1DFmNGGmdnVEOywYJQ",
+      "etag": "buV-2fQev4IzZEO-lq0Wt0yVt3U",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2022-11-05T06:07:05Z",
@@ -642,7 +642,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "r0zzE1HU6YRkpF5GqCDOFSFhm4M",
+      "etag": "3sPDCvxBEgNjqhCf9sysgaMEdWg",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-11-05T06:36:28Z",
@@ -696,7 +696,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qN-2zvsydlFr6KjXtlAQvWkJ3iU",
+      "etag": "T9Ipwao8LLXH7ZEgIdVcrVFgQJs",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2022-11-05T07:56:56Z",
@@ -747,10 +747,351 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UD8781Fz7i-R6LGPWN0BDOiP5B8",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-11-05T19:39:44Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Code crimes for good component APIs | Siddharth Kshetrapal  - React India 2022",
+        "description": "This is a talk about what's hidden behind pretty composable API. \n\nSpoiler alert: It's not pretty!\n\nLet's talk about some component API challenges which React doesn't have nicer solutions to and the hacks/jugaad that makes it happen!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kr6V4TN09ws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kr6V4TN09ws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kr6V4TN09ws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kr6V4TN09ws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kr6V4TN09ws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kr6V4TN09ws"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "kr6V4TN09ws",
+        "videoPublishedAt": "2022-11-05T20:05:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z00BWN_jysp-7Cynrce8GqQi0GI",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-11-05T21:02:56Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Calm down your overreactive forms with uncontrolled components | Akash Hamirwasia",
+        "description": "Forms are one of the most common and important parts of any web app. A poorly optimized form can cause a jarring experience to the user who is trying to fill it because of the lags and slow feedback times. Unfortunately, most React tutorials online suggest using state to store data of the form fields and change them on every keystroke. This is kind of shooting yourself on the foot because as the form grows, the state updates also increase causing unwanted re-renders which end up slowing your UI.\n\nThis is a problem I faced in one of my projects where the form was very large and had poor feedback time because it was causing wasted re-renders. I found the solution to this problem was using uncontrolled form fields and using a library like react-hook-form that makes it easy to use uncontrolled form fields without giving up on reactive features.\n\nIn this talk, I’ll be showing how to build a similar API to react-hook-form that leverages uncontrolled form fields to considerably improve the performance of a React form. The best part is that this approach also does not give up on reactivity features a form might need on input change while still providing an easy and ergonomic API.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_fKdyWwdfTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_fKdyWwdfTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_fKdyWwdfTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_fKdyWwdfTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_fKdyWwdfTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_fKdyWwdfTk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "_fKdyWwdfTk",
+        "videoPublishedAt": "2022-11-05T22:17:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1V3XS8pn0D8Sv39kwYHUlwPDB0E",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-11-06T04:36:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3P5glot3cy8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3P5glot3cy8"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mYgWWVIOqx5mlKlVsK5Xu4d97KI",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-11-06T04:54:40Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "How I built Design System Builder - Meenu Makkar | React India 2022",
+        "description": "Design System is a set of shared and integrated principles and patterns, to reduce redundancy and make standardised product that define the overall design of a product.\n\nWhy do we need design system?\n- Maintaining their product is easy.\n- Maintaining the team and other operations around product is standardised in terms for development and design.\n- to save time in development processes\n\nBenefits of having a design system:\n- Promotes consitency.\n- High efficiency\n- Easy updation\n- Open for innovation of whole product.\n- Good UX\n\nWhat are the things that design system should include?\n- brand values, brand identity, components, patterns, assets, etc.\n\nWhile building a design system creating tool, there was a huge learning in terms of how a brand uses the design system, how their developers develop the product, how different designers design. The work was more of reasearch than actually developing the tool.\n\nFollowing are the key learnings and points that I kept in mind:\n1. There should be a balance between the restriction of customizibility and and following the design system rules.\n2. How to make designing easy for UX.\n3. Design sharability.\n4. Ease of using the Design System created from the tool.\n\nDesign system is a very generic and vast term which solves designing and developing the product at the same time.\n\n\nThere should be a sync and a single truth of all the files needed to design and develop a product and design system definitely solves that. While creating a design system, design system can provide and steps and code snippets to build the same. While we get the design and code from a single source, the product looks more formalised and it saves a time for both developers and designers and the tool acts like a communication tool.\n\nHigh level problems:\n- Issues while designing it for different platform environments\n- making it easy UX wise and more like a no code tool.\n- Adding more complex components into a design system and then customizing them.\n- Supporting third party library components in a design system works on a particular tech stack.\n\nWhen and How to build a design system and use it efficiently?\n\nWhen:\n\nThe company needs to evaluate its growth and the scalability factor while going for the design system.\nA design system is a good idea when the software product has a lot of screens and the design standards are unmatchable. A componany or a brand needs to evaluate the time and maintainability while choosing a design system idea.\n\nHow:\nIf you are in the starting phase of the company:\nIt is better to start off with a low level design system that scales up with the product. IT will definitely cut off the design cost later.\n\nIf you are on the enterprise level:\nThe concerned team needs to judge the existing designs of the company and need to evaluate that it doesn't changes the originality of the product. The process needs to very systematic when opting for a design system at later stage but it will definitely result is fruitful results in a longer run.\n\nMeenu is a front-end developer (JavaScript NERD stack) with a love for creativity and solving problems. You give her data and she will render it. She is one of the creators of NativeBase along with a lot of tiny tools to automate dev workflows. She also makes magical drawings experimenting with pencil, code, svgs, and animation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXgRGSTKwFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXgRGSTKwFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXgRGSTKwFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AXgRGSTKwFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AXgRGSTKwFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AXgRGSTKwFg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "AXgRGSTKwFg",
+        "videoPublishedAt": "2022-11-06T05:08:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jrM3U-y7DTo38Czy2u_vvvFrCWk",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-11-06T05:07:55Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0RuIOOlN4I8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0RuIOOlN4I8"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "or6HdyQKbmP7f9tjL_-Lxuk0IE0",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-11-06T05:24:24Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SaS9oxUnGeY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SaS9oxUnGeY"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3b9xUw65vZc-HpBgRrjDZQ1kAjk",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-11-06T06:51:20Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bWVhLuMi6Zo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bWVhLuMi6Zo"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NPDsjY_sdj51uHaSPwZp-MuuFuQ",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-11-06T15:45:17Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p8mTPF75I1M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p8mTPF75I1M"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mFo_azWA1wrrBQ4D6U8pNvbFKeY",
+      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-11-06T16:44:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "What are the expectations from web framework ?",
+        "description": "Panelist - \n\nPrateek Bhatnagar\nStaff frontend engineer, Coinbase\n\nNikhil Sharma\nSoftware Development Engineer II, Postman\n\nSaurav Varma\nEngineer, Tata 1mg\n\n\nMatheus Albuquerque\nSr. Software Engineer, Medallia\n\n\nMohamed Rafi\nEngineer at PushOwl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJWoYm7UMdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJWoYm7UMdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJWoYm7UMdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJWoYm7UMdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MJWoYm7UMdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MJWoYm7UMdc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "MJWoYm7UMdc",
+        "videoPublishedAt": "2022-11-06T17:08:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 23,
     "resultsPerPage": 50
   }
 }
