@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "kzkfYjp5RCekGk8JFjJZf0ncc8k",
+  "etag": "Z5P1vF5tIeBFynthzBiWKCvIoPg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1405,10 +1405,35 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DW1_9eNjaC0uaMh8m77_LuBMcC8",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-11-14T15:26:46Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5HLMy-5X70I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5HLMy-5X70I"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 26,
+    "totalResults": 27,
     "resultsPerPage": 50
   }
 }
