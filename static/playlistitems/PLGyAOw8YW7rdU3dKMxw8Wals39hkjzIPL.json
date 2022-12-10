@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "uEUR393dJTPOKQWcbxrLbqbSPT8",
+  "etag": "IRe8MFd1JSMgdFywiYeZLNgUyB4",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -534,7 +534,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vmWMnZKZQeWDBdJ0ILilhGxq6Us",
+      "etag": "0bhZ06yMGcrnNYhbI3JY-iBC5Ec",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-11-04T20:50:04Z",
@@ -912,32 +912,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YsS7hRsp7vX1VKc5bpdwVIYCMc8",
-      "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC4zRjM0MkVCRTg0MkYyQTM0",
-      "snippet": {
-        "publishedAt": "2022-11-06T15:45:17Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
-        "position": 17,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "p8mTPF75I1M"
-        }
-      },
-      "contentDetails": {
-        "videoId": "p8mTPF75I1M"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "EHv-Sopk0Ds5PRA74uvW9E1H3pE",
+      "etag": "tBj8qIqFm_-8ewwqHP0s6fOXTI0",
       "id": "UExHeUFPdzhZVzdyZFUzZEtNeHc4V2FsczM5aGtqeklQTC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2022-11-06T16:44:45Z",
@@ -973,7 +948,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rdU3dKMxw8Wals39hkjzIPL",
-        "position": 18,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "MJWoYm7UMdc"
@@ -991,7 +966,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 19,
+    "totalResults": 18,
     "resultsPerPage": 50
   }
 }
