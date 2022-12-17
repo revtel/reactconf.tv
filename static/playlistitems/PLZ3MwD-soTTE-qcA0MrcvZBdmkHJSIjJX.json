@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Z5P1vF5tIeBFynthzBiWKCvIoPg",
+  "etag": "LjcLAeePGYNh_C_QJ1GhNOT3eNg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -598,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mtes9dMhduaTNU0fgXbZ1-joJA8",
+      "etag": "DuJOOevijcNtqNKOvMA4LMMFg-A",
       "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-09-20T13:59:13Z",
@@ -1408,27 +1408,56 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DW1_9eNjaC0uaMh8m77_LuBMcC8",
-      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "etag": "9UqrT0NPerP2PEAoAFWYyhteCAY",
+      "id": "UExaM013RC1zb1RURS1xY0EwTXJjdlpCZG1rSEpTSWpKWC4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
-        "publishedAt": "2022-11-14T15:26:46Z",
+        "publishedAt": "2022-12-14T16:29:07Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
+        "title": "React Native EU 2022 - AFTER MOVIE",
+        "description": "Let's get back to the last edition of our conference - React Native EU 2022! Check our post-conference video to feel the #RNEUvibe. \n\nJoin us in 2023! Follow React Native EU channels to stay up to date.\n\nAll the details regarding The React Native Show podcast can be found here: https://hubs.li/Q01lbn530 \n\nCallstack is hiring! Check for more info: https://hubs.li/Q01lbnb10 \nWe’re looking for Senior React Native developers to join our team! Read more about the role and apply here: https://hubs.li/Q01lbnhH0 \n\nSubscribe to the Callstack newsletter to be always up to date with the latest articles, podcast episodes, job positions, and news that happen at our company: https://hubs.li/Q01lbrsY0 \n\nFollow Callstack on Twitter: https://twitter.com/callstackio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ylo_DNPO4-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ylo_DNPO4-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ylo_DNPO4-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ylo_DNPO4-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ylo_DNPO4-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTE-qcA0MrcvZBdmkHJSIjJX",
         "position": 26,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "5HLMy-5X70I"
-        }
+          "videoId": "Ylo_DNPO4-o"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "5HLMy-5X70I"
+        "videoId": "Ylo_DNPO4-o",
+        "videoPublishedAt": "2022-12-14T16:30:15Z"
       },
       "status": {
-        "privacyStatus": "privacyStatusUnspecified"
+        "privacyStatus": "public"
       }
     }
   ],
