@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "lGBzy57UWp1TG0HvTQv6zo7I0rI",
+  "etag": "bEmg0y_YfXNdYRTVIKDvtCMHjaA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -922,13 +922,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "poYxo6zoGOKbXYnBkbRBW8XN9D8",
+      "etag": "vlTMtcwfoopxuvNFRGPt7Nv7m_4",
       "id": "UExNWVZxM3oxUXhTcThVNU1CRTVYRTNwY0JRdDc1YlpYay4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2022-01-31T14:59:33Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
         "title": "Nir Kaufman - The beauty and the beast: custom renderers in React | ReactNext2021",
-        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nThe beauty and the beast: custom renderers in React\n\n\nNir Kaufman\nFront-end Guild Lead @NEXT Insurance \nIn a long-time relationship with React as a developer, author, consultant, and trainer. Google developer expert in Web technologies, Vegan (but nice), electronic music producer, and sound designer at night.",
+        "description": "ReactNext \nwww.react-next.com\n Israel's Annual React & React Native conference \n@reactnext\n\nThe beauty and the beast: custom renderers in React\n\n\nNir Kaufman\nFront-end Guild Lead @NextInsurance \nIn a long-time relationship with React as a developer, author, consultant, and trainer. Google developer expert in Web technologies, Vegan (but nice), electronic music producer, and sound designer at night.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/YkkEPyU7GMA/default.jpg",

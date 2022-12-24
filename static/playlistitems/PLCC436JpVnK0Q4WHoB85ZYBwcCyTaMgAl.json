@@ -1,15 +1,15 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "CT2a9mNJFflpSvxRHcJeH2efh6Q",
+  "etag": "dki7FCKOHUtFEwx24Yz8VtBXcT8",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JOdYXBr_FN6afJHk66XGRAfYlLg",
+      "etag": "KtZPw-HuFSU-y1NxVM-mmpm_QPw",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2020-05-14T19:08:31Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReactEurope 2020",
+        "title": "Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReacteuropeOrgConf 2020",
         "description": "We present an approach to state management that scales from a single component to highly complex apps. This boilerplate-free system makes it easy to support browser history and URLs and to manage asynchronous data dependencies, and works with modern React features. We use as a case-study a sophisticated data analysis tool developed at Facebook which led us to create this system.",
         "thumbnails": {
           "default": {
@@ -58,12 +58,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ICrvgc--xTHLK6IjbvajHZXbhbE",
+      "etag": "XdG5bsBGZAGlTfDe_san2Fb9eIM",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2020-05-14T23:53:52Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Bringing webgl to react - Paul Henschel aka @0xca0a at @ReactEurope 2020",
+        "title": "Bringing webgl to react - Paul Henschel aka @0xca0a at @ReacteuropeOrgConf 2020",
         "description": "This talk is about react-three-fiber, a reconciler that translates react components to threejs to spice up frontend dev with some canvas magic. we will get into the history of it, benefits, hooks and a small primer to get going.",
         "thumbnails": {
           "default": {
@@ -166,12 +166,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Us1xthv3oY0s1xFZriiE7UXMrLg",
+      "etag": "RCOT4C_07mFysB5yn93mC3RCGQ0",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2020-05-14T23:54:20Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Gatsby's roadmap and its future - Sid Chatterjee (@chatsidhartha) core-team gatsby @ReactEurope 2020",
+        "title": "Gatsby's roadmap and its future - Sid Chatterjee (@chatsidhartha) core-team gatsby @ReacteuropeOrgConf 2020",
         "description": "The latest about Gatsby.",
         "thumbnails": {
           "default": {
@@ -436,12 +436,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tJxNmPQh61An26oyg_sGJhDCPXQ",
+      "etag": "p3FuaoTrsE06IhS7Uz6MrqEfHPU",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2020-05-16T14:18:18Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Transforming GraphQL: Full Stack Infrastructure as Code - @Nader Dabit aka @dabit3 @ReactEurope 2020",
+        "title": "Transforming GraphQL: Full Stack Infrastructure as Code - @naderdabit aka @dabit3 @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Nader here https://twitter.com/dabit3",
         "thumbnails": {
           "default": {
@@ -490,12 +490,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IhbxeWoR5rdW3yKX_646xSHSmqI",
+      "etag": "o6fnd2CKmcbbA0CTYEkSwSLFQeY",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2020-05-16T18:51:26Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Expo: Universal React - @Evan Bacon aka @Baconbrix at @ReactEurope 2020",
+        "title": "Expo: Universal React - @Baconbrix aka @Baconbrix at @ReacteuropeOrgConf 2020",
         "description": "Watch Evan demo universal login, html elements, PWAs and more!\n\nFollow Evan on https://twitter.com/Baconbrix\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -544,12 +544,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wWmvU4HMD2vED2Qhqjxwd-R6yjo",
+      "etag": "KhrktxtE6fz8TCeU23CvxvhqLCI",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2020-05-16T19:27:37Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Building a Design Tool for React in React - Sanket Sahu aka @sanketsahu at @ReactEurope 2020",
+        "title": "Building a Design Tool for React in React - Sanket Sahu aka @sanketsahu at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sanket here https://twitter.com/sanketsahu and builderx https://twitter.com/BuilderX\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -598,12 +598,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "y1DUE8CDk1gYwtIhdualrdiMieA",
+      "etag": "n7zRo5Y61KgqQwrwjDzhAQadyis",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2020-05-16T19:34:39Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Hijacking CSS with tailwindCSS - Horacio Herrera aka @hhg2288 at @ReactEurope",
+        "title": "Hijacking CSS with tailwindCSS - Horacio Herrera aka @hhg2288 at @ReacteuropeOrgConf",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Horacio here https://twitter.com/hhg2288\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -652,12 +652,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "C9JA_MljtgqCasVzQRYAADNNnlE",
+      "etag": "WAxno-cj6T_o_hIccU35YFlVTLg",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2020-05-16T19:57:57Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Design system and accessibility - Devon Govett aka @devongovett at @ReactEurope 2020",
+        "title": "Design system and accessibility - Devon Govett aka @devongovett at @ReacteuropeOrgConf 2020",
         "description": "Follow Devon here https://twitter.com/devongovett\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -760,12 +760,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Hem16DGgm3FSdWPKx74XX3Xi0yk",
+      "etag": "iPHrFtB6l6YERpYairLH2xMNZFI",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2020-05-17T12:51:25Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Detecting the unexpected in React applications - Nicolas Dubien aka @ndubien at @ReactEurope 2020",
+        "title": "Detecting the unexpected in React applications - Nicolas Dubien aka @ndubien at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Nicolas here: https://twitter.com/ndubien\n\nWe all know this moment: when a bug we have never thought of before pops up right at the last moment in production.\n\nTruth is, forecasting all potential bugs with our tests is barely infeasible. Yet, what if there was still a way?\n\nLet's investigate together what can be improved and added to our test strategies to make them even more reliable thanks to property based testing. But contrary to classical talk around property based testing, we are going to go further by extending it to user interfaces and race conditions detection.\n\nBy the end of this talk, our CI will have been turned into an automated QA identifying issues in our UI.\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -814,12 +814,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QWuSWGvsccGPMd2qP2i1Y-RG0LU",
+      "etag": "uWTn-1aN9RzAyMfatzoEPlFF6Yw",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2020-05-17T13:01:08Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Let’s Make Development Fast Again! - Ives van Hoorne aka @CompuIves at @ReactEurope  2020",
+        "title": "Let’s Make Development Fast Again! - Ives van Hoorne aka @CompuIves at @ReacteuropeOrgConf  2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Ives here: https://twitter.com/CompuIves",
         "thumbnails": {
           "default": {
@@ -868,12 +868,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dNHbzZON5jZGQAqgjXlHbhr-WG0",
+      "etag": "04i0JxX7tN2ZcpoEDFSS9KojcPM",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2020-05-17T13:06:57Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Blitz.js & the Future of Fullstack - Brandon Bayer aka @flybayer at @ReactEurope 2020",
+        "title": "Blitz.js & the Future of Fullstack - Brandon Bayer aka @flybayer at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Brandon here https://twitter.com/flybayer\n\nFullstack Javascript is too hard. There’s too many choices. Too much complexity. So we created Blitz, a new Rails-like framework for fullstack React apps. It builds on Next.js and adds a new invisible data layer that removes the need to build your own API. It also brings conventions and development tooling like code scaffolding and an integrated code REPL.",
         "thumbnails": {
           "default": {
@@ -922,12 +922,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "swcl2LH2anFssrcXOznMQTHlsjc",
+      "etag": "agl7E5jEAprU4TMBrSa9UHT9V78",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2020-05-17T13:13:56Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Jamstack + React Native - Sebastien Lorber aka @sebastienlorber at @ReactEurope 2020",
+        "title": "Jamstack + React Native - Sebastien Lorber aka @sebastienlorber at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sebastien here https://twitter.com/sebastienlorber",
         "thumbnails": {
           "default": {
@@ -976,12 +976,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4bdqf0rYTq8FU0zXkexVviCpCXg",
+      "etag": "8-iOnC7FvqJqzQdRfebblHjwZ_U",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2020-05-17T13:18:37Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Relay Concepts - Sibelius Seraphini aka @sseraphini at @ReactEurope 2020",
+        "title": "Relay Concepts - Sibelius Seraphini aka @sseraphini at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sibelius here https://twitter.com/sseraphini",
         "thumbnails": {
           "default": {
@@ -1030,12 +1030,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "77gES8eAtVuJ_Eq-HO441ZDAm10",
+      "etag": "6kDRWuhNMVhCenFURvA72pkYtAk",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2020-05-17T13:28:05Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Learn React Hooks By Building An Auth Based To Do App - Lukonde Mwila aka @Luke9ine at @ReactEurope",
+        "title": "Learn React Hooks By Building An Auth Based To Do App - Lukonde Mwila aka @Luke9ine at @ReacteuropeOrgConf",
         "description": "Follow Lukonde here https://twitter.com/Luke9ine\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -1084,12 +1084,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CfVuzitETpX_t8MpcykOd_oSyDw",
+      "etag": "_dB7fVr5ua2a33m3hIWOBPCWFGs",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2020-05-17T13:40:50Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Gamedev on React + WebGL - Korotaev Alexander aka @mamu_eval at @ReactEurope 2020",
+        "title": "Gamedev on React + WebGL - Korotaev Alexander aka @mamu_eval at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -1138,12 +1138,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nrYXkxDzzIEnwOJ-Gl8G7ocxe6s",
+      "etag": "GUPFzq2LGFK6-L35FhhQrojrY_o",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2020-05-17T13:43:15Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Scalability - React Native Architecture at @Wix.com  - Omri Bruchim aka @omribruchim at @ReactEurope",
+        "title": "Scalability - React Native Architecture at @Wix  - Omri Bruchim aka @omribruchim at @ReacteuropeOrgConf",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -1192,12 +1192,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V-sxHrteThhN1KMV9D9dTfBWreo",
+      "etag": "g1wOcMOTnWeqHKwo7sYrSJKwxiw",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
         "publishedAt": "2020-05-17T14:28:54Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "State of React (animations) - John Adetutu aka @johnadetutu93 at @ReactEurope 2020",
+        "title": "State of React (animations) - John Adetutu aka @johnadetutu93 at @ReacteuropeOrgConf 2020",
         "description": "Follow John here https://twitter.com/johnadetutu93\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -1300,12 +1300,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gzthR94-Bog3nzsRZlTf-D9E1cU",
+      "etag": "Q97bnDVBkxvO8wuCo5HqsU6gKCU",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
         "publishedAt": "2020-05-17T16:14:50Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "JavaScript ∩ WebAssembly - Tadeu Zagallo aka @tadeuzagallo at @ReactEurope 2020",
+        "title": "JavaScript ∩ WebAssembly - Tadeu Zagallo aka @tadeuzagallo at @ReacteuropeOrgConf 2020",
         "description": "Follow Tadeu here https://twitter.com/tadeuzagallo\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
         "thumbnails": {
           "default": {
@@ -1354,12 +1354,12 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iEvdg12eOgxtoE5Oz4auvQD5vTo",
+      "etag": "3TF-qG0Zy8WM2z5GKx9ZCTPOh2c",
       "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5DMkU4NTY1QUFGQTYwMDE3",
       "snippet": {
         "publishedAt": "2020-05-17T16:33:05Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Using Expo OTA Updates in your React Native app - Eric Samelson at @ReactEurope 2020",
+        "title": "Using Expo OTA Updates in your React Native app - Eric Samelson at @ReacteuropeOrgConf 2020",
         "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nThis talk will focus on the recently released expo-updates library that allows you to use Expo’s OTA updates in any React Native app. We’ll discuss how to set up and use the module, configuration options, and other important things to be aware of when using OTA updates.",
         "thumbnails": {
           "default": {
