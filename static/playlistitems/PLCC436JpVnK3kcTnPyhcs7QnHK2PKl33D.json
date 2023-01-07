@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "3tMFNeFqVVmkAiIom9FHxbE0kwU",
+  "etag": "r01UsXlg78_9Cv8t3DtrVhs5Xc4",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -166,56 +166,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3j-3d3DT3hEhZBr-D34bJEvTUq4",
+      "etag": "uUhM7kH1FWjuMJRGMHg4nIYtgVU",
       "id": "UExDQzQzNkpwVm5LM2tjVG5QeWhjczdRbkhLMlBLbDMzRC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2019-05-28T13:10:39Z",
         "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
-        "title": "Designing a Rich Content Editor for 1 Third of the Web - Ella van Durpe @ellatrx @ReactEurope 2019",
-        "description": "Get next edition's tickets info here: https://www.react-europe.org/next.html\n\nHow WordPress built its own brand new visual editor experience from the ground up with React. The talk will include an introduction of WordPress and how the Gutenberg Editor project started, details of how it works and how we incrementally improved the block editor over two years, and what our plans are for the future.\n\nGet next edition's tickets info here: https://www.react-europe.org/next.html",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/c6zQbrFDskM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/c6zQbrFDskM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/c6zQbrFDskM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/c6zQbrFDskM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/c6zQbrFDskM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactEurope",
         "playlistId": "PLCC436JpVnK3kcTnPyhcs7QnHK2PKl33D",
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "c6zQbrFDskM"
-        },
-        "videoOwnerChannelTitle": "ReactEurope",
-        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+        }
       },
       "contentDetails": {
-        "videoId": "c6zQbrFDskM",
-        "videoPublishedAt": "2019-05-28T13:28:12Z"
+        "videoId": "c6zQbrFDskM"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
