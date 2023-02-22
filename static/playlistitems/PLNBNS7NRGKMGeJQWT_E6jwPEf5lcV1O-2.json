@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "mf7_-3jvDxLvmcTB6Ki-uevAbLQ",
+  "etag": "u5ly6-DnxNH8rPRlvZTZlBqEWb0",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1891,10 +1891,84 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NVx-7k9eqshgliyFUHa6prqyvYc",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2023-02-20T17:02:50Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8Rn8r6kxII"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f8Rn8r6kxII"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SAJoNKuGnmgfdb4eukyyZcEKt20",
+      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2023-02-21T21:13:34Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit 2022 - the biggest React conference worldwide",
+        "description": "React Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.\n\nCheck out how astonishing the React Summit 2022 was! Enormous venue with a breathtaking view, festival vibe, ferry ride to the venue, livecoding performing artists, algoraves & more.\n\nThe upcoming conference is June 2 (in-person, Amsterdam & remote) & June 6 (remote), 2023\n\nMore information you can found at the event’s website: https://reactsummit.com\nEvent’s Twitter Account: https://twitter.com/reactsummit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sj6h4818zUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sj6h4818zUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sj6h4818zUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sj6h4818zUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sj6h4818zUo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Sj6h4818zUo",
+        "videoPublishedAt": "2023-02-21T21:13:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 35,
+    "totalResults": 37,
     "resultsPerPage": 50
   }
 }
