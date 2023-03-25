@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "PQcsgR-EZTr6cr07VJqYNcpgP0Y",
+  "etag": "4SvVxcg07ak9CMVulO43oGIrndY",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1935,60 +1935,10 @@
       "status": {
         "privacyStatus": "public"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "nV6PHfjLPazIoA2Y5Lgz-bGY5yg",
-      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi5GNDg1Njc1QzZERjlFRjE5",
-      "snippet": {
-        "publishedAt": "2023-02-20T17:02:50Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
-        "position": 36,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "f8Rn8r6kxII"
-        }
-      },
-      "contentDetails": {
-        "videoId": "f8Rn8r6kxII"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "tHazlVjsd2IrzyP5Ie4BpVItsGA",
-      "id": "UExOQk5TN05SR0tNR2VKUVdUX0U2andQRWY1bGNWMU8tMi4zQzFBN0RGNzNFREFCMjBE",
-      "snippet": {
-        "publishedAt": "2023-02-21T21:13:34Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
-        "position": 37,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Sj6h4818zUo"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Sj6h4818zUo"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 38,
+    "totalResults": 36,
     "resultsPerPage": 50
   }
 }
