@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "7CKRLp9BZ6aPDUMhTNrM5dV_sbI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7u-9LA7b7CjNZQu-n3nfEZOHtOQ",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-05-23T18:11:32Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "How NOT to build a video game - Christoph Nakazawa",
+        "description": "How Not to Build a Video Game\nDo easy solutions come at the expense of high performance? In this talk, we'll explore this question as I build a video game from the ground up with JavaScript & React. Along this journey, you'll gain valuable insights into rapid prototyping, test infrastructure, and a range of CSS tricks that can be applied to both game development and your day-to-day work. And perhaps it may even rekindle a love for creating something meaningful & fulfilling, as it did for me!\n\nAbout Christoph\nChristoph is an experienced engineering manager, frontend lead and aspiring game developer. He has played a key role in the development of tools such as Jest, React Native, Metro, and Yarn while working at companies like Facebook and Stripe. Currently Christoph is exploring game development and optimizing his workflows and is excited to share more in 2023.\n\nRecorded live at Reactathon 2023 in San Francisco. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVL0Jnl7OeU"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "mVL0Jnl7OeU",
+        "videoPublishedAt": "2023-05-23T18:13:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t0slva9I1_F5nunVI0V8R49_SEU",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-05-23T21:42:48Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "The Future of React is Us: Theo Browne",
+        "description": "The future of React is us\nFrom components to JSX to hooks, React has been a beacon of innovation for the web dev world. It didn’t start that way though. When we first saw React’s abstractions in 2012, we were horrified. We eventually were convinced. Now, the roles have reversed. Gatsby, Next and Remix all showed the need for React on the server. It took a bit, but the React team caught on. For the last decade, the community has adopted React’s innovative patterns. This time is different. The innovation of Server Components didn’t come from React. It came from us. In this talk, I’ll be discussing our responsibilities as the new shepherds of React, the React community itself.\n\nAbout Theo\nTheo is a strange mix of full stack dev, youtuber, shitposter and CEO. After helping Twitch migrate to React and TypeScript, he started ping.gg. He's known for creating the T3 Stack and pushing the limits of typesafety.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DRebGnDxgFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DRebGnDxgFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DRebGnDxgFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DRebGnDxgFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DRebGnDxgFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DRebGnDxgFs"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "DRebGnDxgFs",
+        "videoPublishedAt": "2023-05-23T21:54:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
