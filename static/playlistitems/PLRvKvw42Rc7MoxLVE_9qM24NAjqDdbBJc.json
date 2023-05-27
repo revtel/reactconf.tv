@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "7CKRLp9BZ6aPDUMhTNrM5dV_sbI",
+  "etag": "NhQk30ILIhHQCBPLUXZew-ZmvFs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "7u-9LA7b7CjNZQu-n3nfEZOHtOQ",
+      "etag": "k-H0ToF1Oe0WVv74DSaDKs1QfuU",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2023-05-23T18:11:32Z",
@@ -58,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "t0slva9I1_F5nunVI0V8R49_SEU",
+      "etag": "GT2byAHsJJl_DQdjLT17oSJ43lw",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2023-05-23T21:42:48Z",
@@ -109,10 +109,334 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8Au9e5-S8zJEGHJEIpT_haJHj0o",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-05-24T16:21:55Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "A Component is worth 1000 APIs: Colin Sidoti",
+        "description": "A Component is worth a thousand APIs\nAfter a decade of REST APIs, developer tools have evolved to speak a new language: React Components. From Next.js's \"Image\" to Clerk's \"SignIn\", components have rewritten the rulebook for how much power can be packed into a single line of code. They bundle a frontend with an API, and offer a ridiculously fast, 'lego block' integration experience. But what makes a good component? There is no REST convention to follow, and publishers have landed on dramatically fragmented solutions to challenges like styling, routing, and composability. In this talk, we'll explore the rise of components as the ideal developer tool, and unpack the tradeoffs among these fragmented approaches.\n\nAbout Colin\nColin is co-founder of Clerk, where he helps build authentication and user management tools for React. He has 15 years of frontend experience and is obsessed with making frontend developers more autonomous.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/enUuBY3HXh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/enUuBY3HXh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/enUuBY3HXh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/enUuBY3HXh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/enUuBY3HXh4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "enUuBY3HXh4"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "enUuBY3HXh4",
+        "videoPublishedAt": "2023-05-24T16:27:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z3zbj71tVGbrTog5SK5lp1L7Jvw",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-05-24T16:48:33Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Splitting the Work: Streaming Server Rendering with Suspense: Shaundai Person",
+        "description": "Splitting the Work: Streaming Server Rendering with Suspense\nMany React developers use server rendering to improve performance. Before React 18, however, all four (4) steps in the server rendering process (data fetching, rendering to HTML, loading JavaScript, and hydrating) had to be completed for the entire app at once. This meant that a bigger or more complex part of your app would block other parts from moving onto the next step, making your app appear slower. Thanks to optimizations in React 18, you can use Suspense to break your app into smaller parts that go through these steps independently. Users benefit from an app that they can see sooner and interact with almost instantaneously!\n\nAbout Shaundai\nShaundai is a Senior Software Engineer (Netflix) and TC39 Delegate based in Atlanta, GA, US. She is passionate about making programming interesting and approachable for all, and does that through her work as a course instructor (tsforjs.com), co-lead for React Robins (reactrobins.com), and technical blogger. In her spare time, Shaundai loves to go hiking, jogging, and listen to audiobooks. Find her on Twitter at @shaundai.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q98l5o1y3ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q98l5o1y3ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q98l5o1y3ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q98l5o1y3ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q98l5o1y3ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q98l5o1y3ao"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "Q98l5o1y3ao",
+        "videoPublishedAt": "2023-05-24T16:49:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "saxUH4yOwIl_L5Q9-1-C8QiNL1w",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-05-24T17:08:42Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "The Costs & Benefits of React Server Components: Jeff Escalante",
+        "description": "The Costs & Benefits of React Server Components\nReact server components (RSC) were initially announced in 2020 and finally made broadly available as a beta via next.js a few months ago. There has been talk and hype around them for years, but genuine understanding of what they are, how they work, and where they shine vs struggle is in short supply. In this talk from the former engineering manager of the next.js team, we'll go into depth on RSC from a balanced perspective, and together we will build a solid understanding of when RSC is the right tool to solve the problems you're facing, and when to look elsewhere. We'll also work through practical examples of RSC in action, and take steps towards shifting your perspective into understanding the new architecture model that RSC sits on top of.\n\nAbout Jeff\nJeff has builds web-tooling-oriented software and manages engineering teams doing the same sort of things. Most recently, he was the manager for the next.js team and for part of the react core team at Vercel, and before that led web development at HashiCorp. Outside of work, he runs a small bagel shop and enjoys woodworking, fitness, and playing music.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJOiXyVKExg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJOiXyVKExg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJOiXyVKExg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TJOiXyVKExg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TJOiXyVKExg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TJOiXyVKExg"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "TJOiXyVKExg",
+        "videoPublishedAt": "2023-05-25T15:52:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zt4zTUmhfaHh511nbQZeIb90uVE",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-05-25T16:22:26Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes",
+        "description": "You've heard the case for React Server Components from the React Core Team, Vercel, and Next.js. But what is the reaction to these patterns and technologies from other members of the extended community? In this panel, we explore how 3 leaders in the community perceive RSCs both for the community at large and within their own niche. \n\nShruti Kapoor\nShruti is a Lead Engineer at Slack and is passionate about teaching and sharing knowledge on JavaScript, React, GraphQL and front-end technologies. She previously worked at Paypal as a Staff Engineer. She shares byte sized javascript tidbits through her newsletter - JSByte: http://tinyletter.com/shrutikapoor. She is also an ardent #DevJoke fan\n\nTanner Linsley\nTanner Linsley has been building software for 10+ years, mostly in the front-end space. He cofounded Nozzle, an SEO analytics SaaS platform, and also created TanStack, his open source umbrella company for web developer tools. He enjoys building open source software, traveling and spoiling his family.\n\nRyan Carniato\nAs a JavaScript performance enthusiast, and fine-grained reactivity super-fan, Ryan is obsessively passionate about the future of JavaScript frameworks. He is the creator of SolidJS, and a maintainer of Marko.\n\nBen Holmes \nBen is an open source maintainer, teacher, and whiteboardist making the web a little better. You'll find him hacking on Astro or sharing bite-sized learnings on http://wtw.dev.\n\nFilmed live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRVtu9_xi2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRVtu9_xi2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRVtu9_xi2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QRVtu9_xi2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QRVtu9_xi2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QRVtu9_xi2k"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "QRVtu9_xi2k",
+        "videoPublishedAt": "2023-05-25T17:42:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ev5J0Fn_qpq0dsGPCsz2qb7rZRc",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-05-26T14:57:53Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Next-Gen Server JavaScript: Web Standards - Wes Bos",
+        "description": "Next-Gen Server JavaScript: Web Standards\nWhat the heck is the Edge? Why did the creator of Node.js make Deno? Heard of Bun? Why can't you use some Node.js APIs in Cloudflare workers? There are more serverside JavaScript runtimes than browser engines! This talk will dive into each of them, and how we can use them to render, stream, intercept and distribute our applications. More importantly, we review web standards and joint efforts that will help us write applications that can deployed multiple platforms. Ideally, you'll come out of this talk excited about new possibilities and not muttering something about IE6 all over again.\n\nAbout Wes\nWes is a prolific educator, conference speaker, workshop instructor, and co-host of the popular Syntax.fm podcast. He loves creating educational courses on web development. He lives and works in Hamilton, Canada.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CSc8QPQdN5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CSc8QPQdN5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CSc8QPQdN5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CSc8QPQdN5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CSc8QPQdN5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CSc8QPQdN5I"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "CSc8QPQdN5I",
+        "videoPublishedAt": "2023-05-26T15:02:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J6S-Q2T76mw36AkKLLgudRAZv2s",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-05-26T15:31:21Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Unlocking the Mystery of React's Re-Rendering: Ankita Kulkarni",
+        "description": "Unlocking the Mystery of React's Re-Rendering\nYour users will not care what tech you used but how fast your app loads. Have you used a hot new stack that everyone loves but still don’t know how to make it performant? Well, it’s because we think about performance as a after-thought after it becomes a bottleneck and when our infra gets costly, ouch! But there is a way to solve this, introducing Core React. We won’t be introducing new tools but going back to how we need to tell React what the DOM should look like. In this talk, we will finally understand why useCallback and useMemo are used, why Lighthouse doesn’t represent performance, how we can minimize component re-render, why it re-renders? and lastly how to profile it with React devtools.\n\nAbout Ankita\nAnkita is an Educator and teaches courses online or sells digital products, such as her Next.js course or her course program on transforming devs into engineering leads. She has taught over 10,000 students online. Ankita has architected and scaled many web and mobile apps for clients using React, GraphQL, React Native and Next.js. She also shares weekly Leadership and Frontend Snacks in her Newsletter at http://bit.ly/42eCi7k.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgryDGTRhZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgryDGTRhZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgryDGTRhZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgryDGTRhZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgryDGTRhZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgryDGTRhZI"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "EgryDGTRhZI",
+        "videoPublishedAt": "2023-05-26T15:36:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
