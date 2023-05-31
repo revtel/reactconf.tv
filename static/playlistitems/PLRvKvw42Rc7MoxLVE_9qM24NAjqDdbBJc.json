@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "NhQk30ILIhHQCBPLUXZew-ZmvFs",
+  "etag": "LyqXpeMyblY2ftlraEXqV4kxy30",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -328,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ev5J0Fn_qpq0dsGPCsz2qb7rZRc",
+      "etag": "srJ7MY7RWA5Hd0ItBjBUJIiDXaA",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2023-05-26T14:57:53Z",
@@ -382,13 +382,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J6S-Q2T76mw36AkKLLgudRAZv2s",
+      "etag": "wjWm3jKZDBgBjuQ4HUVc6e21Jnk",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2023-05-26T15:31:21Z",
         "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
         "title": "Unlocking the Mystery of React's Re-Rendering: Ankita Kulkarni",
-        "description": "Unlocking the Mystery of React's Re-Rendering\nYour users will not care what tech you used but how fast your app loads. Have you used a hot new stack that everyone loves but still don’t know how to make it performant? Well, it’s because we think about performance as a after-thought after it becomes a bottleneck and when our infra gets costly, ouch! But there is a way to solve this, introducing Core React. We won’t be introducing new tools but going back to how we need to tell React what the DOM should look like. In this talk, we will finally understand why useCallback and useMemo are used, why Lighthouse doesn’t represent performance, how we can minimize component re-render, why it re-renders? and lastly how to profile it with React devtools.\n\nAbout Ankita\nAnkita is an Educator and teaches courses online or sells digital products, such as her Next.js course or her course program on transforming devs into engineering leads. She has taught over 10,000 students online. Ankita has architected and scaled many web and mobile apps for clients using React, GraphQL, React Native and Next.js. She also shares weekly Leadership and Frontend Snacks in her Newsletter at http://bit.ly/42eCi7k.",
+        "description": "Unlocking the Mystery of React's Re-Rendering\nYour users will not care what tech you used but how fast your app loads. Have you used a hot new stack that everyone loves but still don’t know how to make it performant? Well, it’s because we think about performance as a after-thought after it becomes a bottleneck and when our infra gets costly, ouch! But there is a way to solve this, introducing Core React. We won’t be introducing new tools but going back to how we need to tell React what the DOM should look like. In this talk, we will finally understand why useCallback and useMemo are used, why Lighthouse doesn’t represent performance, how we can minimize component re-render, why it re-renders? and lastly how to profile it with React devtools.\n\nAbout Ankita\nAnkita is an Educator and teaches courses online or sells digital products, such as her Next.js course or her course program on transforming devs into engineering leads. She has taught over 10,000 students online. Ankita has architected and scaled many web and mobile apps for clients using React, GraphQL, React Native and Next.js. She also shares weekly Leadership and Frontend Snacks in her Newsletter at http://bit.ly/42eCi7k.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/EgryDGTRhZI/default.jpg",
@@ -433,10 +433,172 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jsHJHy1L2whPRbCFbpk4o01spSY",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-05-30T14:44:37Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "The time to go full stack is now - Andre Landgraf",
+        "description": "The time to go full stack is now\nDo you currently feel stuck working on a React SPA? Is the performance declining? Then it's time to sit down with the decision-makers at your company and convince them to unlock the full potential of the web platform. It is 2023, and the JavaScript ecosystem has never been stronger. In this talk, I want to make 7 points to convince your boss to go full stack. Only with access to the full stack of the web platform will you be able to tackle the performance requirements of tomorrow. You might have already fallen in love with the idea of owning the backend of the web platform, but you will need a business case with solid business incentives to make your boss pay attention. Let’s build one together!\n\nAbout Andre\nAndre is a developer from Germany who is passionate about all things web. He previously worked on voice apps at Mercedes-Benz R&D before joining LinkedIn. In his free time, he tutors aspiring developers in weekly meetups and writes about full-stack development.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PhAWtMQWgSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PhAWtMQWgSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhAWtMQWgSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PhAWtMQWgSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PhAWtMQWgSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PhAWtMQWgSs"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "PhAWtMQWgSs",
+        "videoPublishedAt": "2023-05-30T14:45:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zbQE0Dn-PEr4ozgX30YKJ2H2lDc",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-05-30T15:03:08Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "The long-tail of type safety - Simon Sturmer",
+        "description": "The long-tail of type safety\nSo you've added TypeScript to your codebase, tweaked your tsconfig file and you're flying high with the confidence of no more runtime exceptions and the joy of being able to confidently refactor your code, right? I've been there, it's a great feeling. But as you soon discover, adding TS to your code is only the first step of true end-to-end type safety. In fact, it's likely the easiest step. What about API calls, databases, parsed JSON, query string parameters, request and response bodies, session storage and all those third party libraries and SDKs? These are the I/O boundaries of your application and they can destroy your otherwise flawless type safety. In this talk I'll walk you through the long tail of type safety, approaches to implementing type-safety in the overlooked areas of your stack, and tools to help you do so. You'll come away from this talk well equipped to make your codebase more robust and resilient to runtime exceptions. And best of all you'll get that sweet TypeScript confidence back again!\n\nAbout Simon\nSimon is a YC Founder, software engineer, speaker and educator. He's been a frontend engineer at Facebook, worked on product infrastructure at YouTube and is an instructor for Pluralsight Enterprise Learning.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZDzpgCsMwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZDzpgCsMwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZDzpgCsMwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LZDzpgCsMwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LZDzpgCsMwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LZDzpgCsMwE"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "LZDzpgCsMwE",
+        "videoPublishedAt": "2023-05-30T16:01:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T_8rexbgWw_iYWH7xk66QMVVJQ4",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-05-30T17:17:54Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Concurrent React Made Easy - Henrique Inonhe",
+        "description": "Concurrent React Made Easy\nUI’s are composed of fast parts, and slow parts in terms of how responsive they are to user interaction. React's concurrent renderer decouples the fast parts from the slow parts by allowing us to render the slow parts in the background without blocking the fast parts, so that each part can respond to user interaction at its own pace. In this talk, we'll explore Concurrent React, understand what problems it solves, how it works and how to leverage it through the use of concurrent features.\n\nAbout Henrique\nHenrqiue Inonhe is a software developer at Codeminer42. He currently works mostly with Javascript and is a static type maniac.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ssYDhx5ld7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ssYDhx5ld7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ssYDhx5ld7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ssYDhx5ld7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ssYDhx5ld7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ssYDhx5ld7o"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "ssYDhx5ld7o",
+        "videoPublishedAt": "2023-05-30T17:29:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 11,
     "resultsPerPage": 50
   }
 }
