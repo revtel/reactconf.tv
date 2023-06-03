@@ -1,64 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "LyqXpeMyblY2ftlraEXqV4kxy30",
+  "etag": "PF7_3h79CzQF-XdodD7C2GAEZsE",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "k-H0ToF1Oe0WVv74DSaDKs1QfuU",
-      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2023-05-23T18:11:32Z",
-        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
-        "title": "How NOT to build a video game - Christoph Nakazawa",
-        "description": "How Not to Build a Video Game\nDo easy solutions come at the expense of high performance? In this talk, we'll explore this question as I build a video game from the ground up with JavaScript & React. Along this journey, you'll gain valuable insights into rapid prototyping, test infrastructure, and a range of CSS tricks that can be applied to both game development and your day-to-day work. And perhaps it may even rekindle a love for creating something meaningful & fulfilling, as it did for me!\n\nAbout Christoph\nChristoph is an experienced engineering manager, frontend lead and aspiring game developer. He has played a key role in the development of tools such as Jest, React Native, Metro, and Yarn while working at companies like Facebook and Stripe. Currently Christoph is exploring game development and optimizing his workflows and is excited to share more in 2023.\n\nRecorded live at Reactathon 2023 in San Francisco. Learn more at https://reactathon.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Real World React",
-        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "mVL0Jnl7OeU"
-        },
-        "videoOwnerChannelTitle": "Real World React",
-        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
-      },
-      "contentDetails": {
-        "videoId": "mVL0Jnl7OeU",
-        "videoPublishedAt": "2023-05-23T18:13:18Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "GT2byAHsJJl_DQdjLT17oSJ43lw",
+      "etag": "r97VRaE_-Awf9qmfmb-DZStO6bg",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2023-05-23T21:42:48Z",
@@ -94,7 +40,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 1,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DRebGnDxgFs"
@@ -112,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8Au9e5-S8zJEGHJEIpT_haJHj0o",
+      "etag": "PHIWDCi3p88erV5craw5ndTh_nA",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2023-05-24T16:21:55Z",
@@ -148,7 +94,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 2,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "enUuBY3HXh4"
@@ -166,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Z3zbj71tVGbrTog5SK5lp1L7Jvw",
+      "etag": "631W411azxplCVpPSFTwPLcbVos",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-05-24T16:48:33Z",
@@ -202,7 +148,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 3,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q98l5o1y3ao"
@@ -220,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "saxUH4yOwIl_L5Q9-1-C8QiNL1w",
+      "etag": "14SL_lnI1fxkJADuxry9hZf8MbE",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-05-24T17:08:42Z",
@@ -256,7 +202,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 4,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TJOiXyVKExg"
@@ -274,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Zt4zTUmhfaHh511nbQZeIb90uVE",
+      "etag": "7fZRPPBPooKSz0D7O7SPXGjyuuY",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2023-05-25T16:22:26Z",
@@ -310,7 +256,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 5,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QRVtu9_xi2k"
@@ -328,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "srJ7MY7RWA5Hd0ItBjBUJIiDXaA",
+      "etag": "6PxgoRRj3RAs_TnIlC7opi1u42Q",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2023-05-26T14:57:53Z",
@@ -364,7 +310,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 6,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CSc8QPQdN5I"
@@ -382,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wjWm3jKZDBgBjuQ4HUVc6e21Jnk",
+      "etag": "bZfDEcm6KCLJWkc7Mv9TvP6ZhBs",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2023-05-26T15:31:21Z",
@@ -418,7 +364,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EgryDGTRhZI"
@@ -436,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jsHJHy1L2whPRbCFbpk4o01spSY",
+      "etag": "uhOVF3Ak6N8abPNbFLDcvwm-cB4",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2023-05-30T14:44:37Z",
@@ -472,7 +418,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PhAWtMQWgSs"
@@ -490,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zbQE0Dn-PEr4ozgX30YKJ2H2lDc",
+      "etag": "4Wzo7zUu5zPE3rF2N5_nZIa-3mg",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2023-05-30T15:03:08Z",
@@ -526,7 +472,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 9,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LZDzpgCsMwE"
@@ -544,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T_8rexbgWw_iYWH7xk66QMVVJQ4",
+      "etag": "gbUIzKoRuSOz7RGfQaFWWsixKwg",
       "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2023-05-30T17:17:54Z",
@@ -580,7 +526,7 @@
         },
         "channelTitle": "Real World React",
         "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
-        "position": 10,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ssYDhx5ld7o"
@@ -595,10 +541,226 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J8jDp0QAbSGKDZgx3FueGSRAVwc",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-05-23T18:11:32Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "How NOT to build a video game - Christoph Nakazawa",
+        "description": "How Not to Build a Video Game\nDo easy solutions come at the expense of high performance? In this talk, we'll explore this question as I build a video game from the ground up with JavaScript & React. Along this journey, you'll gain valuable insights into rapid prototyping, test infrastructure, and a range of CSS tricks that can be applied to both game development and your day-to-day work. And perhaps it may even rekindle a love for creating something meaningful & fulfilling, as it did for me!\n\nAbout Christoph\nChristoph is an experienced engineering manager, frontend lead and aspiring game developer. He has played a key role in the development of tools such as Jest, React Native, Metro, and Yarn while working at companies like Facebook and Stripe. Currently Christoph is exploring game development and optimizing his workflows and is excited to share more in 2023.\n\nRecorded live at Reactathon 2023 in San Francisco. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVL0Jnl7OeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVL0Jnl7OeU"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "mVL0Jnl7OeU",
+        "videoPublishedAt": "2023-05-23T18:13:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LitoZqBhBlNyDdjJdv2CxrKAw1c",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-05-31T14:28:41Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Modern CSS - A fireside chat with Nicole Sullivan",
+        "description": "Nicole was lucky enough to be a part of 3 major evolutions in the web. \n\nDuring the first, she introduced components to CSS and HTML when she created the first design systems in 2006\nDuring the second, she was at Meta when the precursor to React (XHP) was created in 2009\nThe next one is happening now!\n\nAfter working as a web developer, Nicole joined Chrome as a PM so she could solve developer’s challenges directly in the browser. \n\nShe believes developers have too many jobs to do, she wants the browser to help. \n\nFilmed live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O9VDzaxVSfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O9VDzaxVSfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O9VDzaxVSfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O9VDzaxVSfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O9VDzaxVSfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O9VDzaxVSfs"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "O9VDzaxVSfs",
+        "videoPublishedAt": "2023-05-31T14:39:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LiCC7v0E8scawfWVbG0uHpXDMuc",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-05-31T14:41:46Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Making state management intelligent - David Khourshid",
+        "description": "Making state management intelligent\nManaging state is complicated. Humans are even more complicated. As developers, it's our job to deliver seamless and intuitive user experiences, but the sheer complexity of human behavior and the real world can make this a daunting task. In this talk, we'll explore a radical new approach to app development where language models (LLMs) and reinforcement learning (RL) can be used to handle app logic in a more intelligent and human-centric way. We're bringing artificial intelligence to state management in ways that go much, much further than calling the ChatGPT API. You will learn how you can leverage AI in your existing code to create the best UX possible, and peer into the future of AI and the path to AGI.\n\nAbout David\nDavid is a software engineer who loves playing piano and is passionate about animations, state machines, cutting-edge user interfaces, and open-source. Previously at Microsoft, he is now the founder of Stately, a startup focused on making even the most complex application logic visual and accessible to developers and non-developers alike.\n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iw8Uf7q4nVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iw8Uf7q4nVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iw8Uf7q4nVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iw8Uf7q4nVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iw8Uf7q4nVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Iw8Uf7q4nVc"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "Iw8Uf7q4nVc",
+        "videoPublishedAt": "2023-05-31T15:07:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hfkw6tlOgk5QW4xGeWf-WVMu-OA",
+      "id": "UExSdkt2dzQyUmM3TW94TFZFXzlxTTI0TkFqcURkYkJKYy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-05-31T15:23:32Z",
+        "channelId": "UCgL3tdpvoARHuX-_3eLWEgg",
+        "title": "Web Development in the Age of AI",
+        "description": "The future of frontend development in the age of AI & AGI\nArtificial intelligence has made heretofore unfathomable gains in capability, utility, and popularity since the release of ChatGPT in November 2022. The impressive capabilities are usurped only by the speed at which they are evolving and improving. So what does this mean for frontend development -- or for engineering itself? These are fascinating questions to explore -- with a potential for a paradigmatic shift the likes of which we haven't seen since the Industrial Revolution or the dawn of the World Wide Web. Join us as we discuss these ideas and more with Sean Grove & Swyx -- who will help us to contextualize these changes with insight and even some demonstrations of the technologies & concepts discussed.\n\nAbout Sean Grove\nSean Grove is a seasoned tech leader and software engineer who's passionate about innovation and making complex problems simple. With a strong background in programming languages like Rust, Clojure, and OCaml, Sean is uniquely positioned to bridge cutting-edge technology with real-world solutions. He has even founded two Y-Combinator startups and sold OneGraph to Netlify in 2021, where he now serves as Principal Architect. Recently, Sean has ventured into the world of machine learning, working on projects like Journaliza, Prator, and Prof Dumbot. These projects aim to help developers and users leverage AI to enhance productivity and communication, and he's firmly in the camp that this is only the beginning of how ML will impact daily life and developer tooling. His passion for exploring new frontiers in this exciting and rapidly evolving field is contagious, and he's always eager to push the limits of what's possible with technology.\n\nAbout Shawn Swyx Wang\nWwyx has helped Developer Tools cross the chasm at AWS, Two Sigma, and three devtool unicorns - Netlify, Temporal, and most recently at Airbyte. He has started and run communities for hundreds of thousands of developers, like Svelte Society, /r/reactjs, and the React TypeScript Cheatsheet. His blog (https://swyx.io/ideas) covers Tech, Careers, and Indie Hacking, and his nontechnical writing was published in the Coding Career Handbook for Junior to Senior developers. He's currently writing and podcasting on AI at https://latent.space \n\nRecorded live in San Francisco at Reactathon 2023. Learn more at https://reactathon.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35nC0AtdlJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35nC0AtdlJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35nC0AtdlJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35nC0AtdlJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35nC0AtdlJE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real World React",
+        "playlistId": "PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "35nC0AtdlJE"
+        },
+        "videoOwnerChannelTitle": "Real World React",
+        "videoOwnerChannelId": "UCgL3tdpvoARHuX-_3eLWEgg"
+      },
+      "contentDetails": {
+        "videoId": "35nC0AtdlJE",
+        "videoPublishedAt": "2023-05-31T15:35:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 14,
     "resultsPerPage": 50
   }
 }

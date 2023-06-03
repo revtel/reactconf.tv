@@ -1,0 +1,1115 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "929GK7vqZvMuBOtRW7Mf2y8eoXs",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f1PqjVCkzWjTzQeKbuxoTrY8aFc",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-05-31T19:17:35Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Andrew Gable – The past, present, and future of React Native at Expensify (Chain React 2023)",
+        "description": "Andrew Gable, Expensify\nThe past, present, and future of how Expensify sees React Native\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SYWIk9jFSp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SYWIk9jFSp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYWIk9jFSp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SYWIk9jFSp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SYWIk9jFSp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SYWIk9jFSp4"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "SYWIk9jFSp4",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m63IuqP-qJjjR3oAGAinn1tvhco",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-05-31T19:34:04Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Theo Browne – Simple by default (Chain React 2023)",
+        "description": "Theo Browne, Ping.gg\nThis talk will propose a new model for how we think about \"complexity\" as we build. If you've ever struggled to convince someone to adopt React, RN, Next.js, etc., this talk is for you.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainR...\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXDxa9YdqFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXDxa9YdqFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXDxa9YdqFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dXDxa9YdqFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dXDxa9YdqFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dXDxa9YdqFA"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "dXDxa9YdqFA",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nmIcXxiW25R-P5hSBhOiXuAnB8A",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-05-31T19:39:06Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Kadi Kraman – Building a 5-star app (Chain React 2023)",
+        "description": "Kadi Kraman, Formidable\nIn this talk, we explore how to leverage tech, UX, and psychology to enhance your app and give it the best possible chance of reaching the top of the app stores!\n\nSlides from the talk: \nhttps://pitch.com/public/9b819027-9f82-4c95-8bbf-1657f0803443\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainR...\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UrJGrhOHNI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UrJGrhOHNI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UrJGrhOHNI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UrJGrhOHNI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UrJGrhOHNI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UrJGrhOHNI8"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "UrJGrhOHNI8",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v3p93A37uYHoWOO-mX4b5bmK86s",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-05-31T20:29:08Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Mark Rickert –Outrage-driven development to take your React Native app up a level (Chain React 2023)",
+        "description": "Mark Rickert, Infinite Red\nLet’s face it, we all have a little bit of outrage inside us. But did you know you can channel that energy into creating amazing React Native apps? Join this talk to learn the basics of “Outrage Driven Development” (ODD) and discover how to become an ODD developer. Don’t suppress your outrage any longer - let’s turn it into a productive force and become ODD masters together! Get ready to revolutionize your app development game with the power of ODD.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vk0XdVuzxyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vk0XdVuzxyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vk0XdVuzxyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vk0XdVuzxyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vk0XdVuzxyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vk0XdVuzxyo"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "vk0XdVuzxyo",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eDgebnwvuuMgtNheSpY7b2nAkdI",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-05-31T20:42:14Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Cecelia Martinez – Signed, sealed, deployed: shipping React Native apps (Chain React 2023)",
+        "description": "Cecelia Martinez, Ionic\nThis talk is a crash course covering the process of building and shipping apps and a review of common tools in the React Native ecosystem so you can feel confident deploying and getting back to developing.\n\nSlides from the talk:\nhttps://ionic.link/3pR5SBs\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uiu_hqXoHpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uiu_hqXoHpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uiu_hqXoHpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uiu_hqXoHpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uiu_hqXoHpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uiu_hqXoHpA"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "uiu_hqXoHpA",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ERnX81nvrguUYYG5mEKUVvKZSn4",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-05-31T20:47:07Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Nick Alekhine – Building NTWRK’s livestream shopping application w/ React Native (Chain React 2023)",
+        "description": "Nick Alekhine, NTWRK\nLearn about the team's process at NTWRK building a React Native app and discover how React Native can be reliably used to build complicated applications that heavily lean into media and real-time mechanics.\n\nSlides from the talk:\nhttps://nickalekhine.com/chain-react-2023.pdf\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ik1eMi0Raro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ik1eMi0Raro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ik1eMi0Raro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ik1eMi0Raro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ik1eMi0Raro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ik1eMi0Raro"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "ik1eMi0Raro",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "voncL_cstltKFLe1xGCAvTWm5Ng",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-05-31T20:47:51Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Naoya Makino – Server-Driven UI (Chain React 2023)",
+        "description": "Naoya Makino, Mercari\nServer-Driven UI: Dynamic and Scalable User Experiences\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vpwAh6NnaU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vpwAh6NnaU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vpwAh6NnaU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vpwAh6NnaU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vpwAh6NnaU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vpwAh6NnaU0"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "vpwAh6NnaU0",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SiwXUkljGioBKTvD-p0TcmQwHoQ",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-05-31T20:50:00Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chris DeMars – Incorporating screen readers into React Native development for improved accessibility",
+        "description": "Chris DeMars, Split\nVoiceOver is a screen reader built into every Mac and iOS device, allowing users with visual impairments to navigate and interact with their devices using only sound. In this talk, we will explore how to utilize VoiceOver on an iPhone to improve the accessibility of a React Native mobile application. By implementing VoiceOver in a React Native app, developers can ensure that their app is accessible to a wider range of users. We will cover best practices for testing and debugging with VoiceOver, as well as strategies for ensuring a seamless and intuitive user experience for all users.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gmte6NfxjcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gmte6NfxjcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gmte6NfxjcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gmte6NfxjcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gmte6NfxjcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gmte6NfxjcA"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "gmte6NfxjcA",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JyzxdWYrIOcNJlMfuwUItiPEIII",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:17:01Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Rachel Nabors – Gateway to React: the react.dev story (Chain React 2023)",
+        "description": "Rachel Nabors, Developer Education Renegade\nA behind-the-scenes look at the design and development of the all-new React docs at react.dev and how it changes how people learn to code.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVMGwMp2MZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVMGwMp2MZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVMGwMp2MZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVMGwMp2MZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVMGwMp2MZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LVMGwMp2MZo"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "LVMGwMp2MZo",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zv2HbjTsFVeJvAm9hd7lLE6gYH4",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:22:09Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Jenn Robison – Reviving a Codebase: Our 3-Week React Native Rescue Mission (Chain React 2023)",
+        "description": "Jenn Robison, Imagine Pediatrics\nJoin me in this 10-minute talk as I share my experience of navigating the challenges of rewriting an app's codebase in just three weeks using React Native. By some this could be seen as Mission Impossible, but this is a tale of a success; a rescue mission to create a thriving codebase! I'll delve into the steps we took to identify the need to re-write, the obstacles we were facing without, as well as the process we took to feel empowered in our code base.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3wo09W7Dp08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3wo09W7Dp08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3wo09W7Dp08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3wo09W7Dp08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3wo09W7Dp08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3wo09W7Dp08"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "3wo09W7Dp08",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SOV0z47dwoKhYGf2xhX7IdYQlvQ",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:28:43Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Riccardo Cipolleschi – From Codegen to your first PR in Core (Chain React 2023)",
+        "description": "Riccardo Cipolleschi, Meta\nA walkthrough of Codegen, a pillar of the New Architecture, and how you can contribute to the React Native repository.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3sgOgB9pl1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3sgOgB9pl1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3sgOgB9pl1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3sgOgB9pl1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3sgOgB9pl1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3sgOgB9pl1U"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "3sgOgB9pl1U",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ynKCyEysGcS3SdRC01ZJl_OzUdU",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:32:40Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Keith Kurak – Not your grandparents’ Expo (Chain React 2023)",
+        "description": "Keith Kurak, Expo\nLearn how today’s Expo adapts as you need to customize your native projects, speeds up local development, and provides complex build setups to a simple configuration file.\n\nSlides from the talk: \nhttps://t.co/0BqoVmrPuH\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YufZFVL-BJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YufZFVL-BJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YufZFVL-BJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YufZFVL-BJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YufZFVL-BJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YufZFVL-BJc"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "YufZFVL-BJc",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WbBxtG3fKKgfA6iEu5H2eJgq0p8",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:39:09Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Chiara Mooney & Shiven Mian – Building for Microsoft (Chain React 2023)",
+        "description": "Chiara Mooney & Shiven Mian, Microsoft\nAn inside look at the journey and challenges of building and consuming React Native Windows by Microsoft developers.\n\nSlides from the talk: \nhttps://microsoft-my.sharepoint-df.com/:b:/p/chiaramooney/EfQD-GUSP-9ArEHGi-Zh0NIBs_ZVxDRGCVpuqsNpntvTVg?e=f9lHOy\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kMJNEFHj8b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kMJNEFHj8b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kMJNEFHj8b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kMJNEFHj8b8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kMJNEFHj8b8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kMJNEFHj8b8"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "kMJNEFHj8b8",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oEPMT3CaYxlPxjQVTmWlqrs0w18",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:53:18Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Lorenzo Sciandra – The work that you don't see (Chain React 2023)",
+        "description": "Lorenzo Sciandra, Microsoft\nReact Native is often subject to drama and a lack of communication, leading to a lack of trust. In my conference talk, I'll shed light on the under-appreciated work of developers improving the technology, with the hope of restoring your faith in its future.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vMic8ixfVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vMic8ixfVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vMic8ixfVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1vMic8ixfVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1vMic8ixfVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1vMic8ixfVI"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "1vMic8ixfVI",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jw2nn6Ez2fiHyiopGCtAtJmo-gw",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-05-31T22:56:52Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Ankita Kulkarni – The performance myths of React Native (Chain React 2023)",
+        "description": "Ankita Kulkarni, Educator\nThis talk will discuss React Native performance myths and compare real-world React Native apps with pure native development to bust them.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_KbqzK66hM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_KbqzK66hM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_KbqzK66hM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B_KbqzK66hM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B_KbqzK66hM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B_KbqzK66hM"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "B_KbqzK66hM",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_MI5oSpJLwrDWD5217cw2xA16Ak",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:00:18Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Christoph Purrer – From Electron to React Native (Chain React 2023)",
+        "description": "Christoph Purrer, Meta\nWhy and how we migrated the Messenger desktop app from Electron to React Native, and the challenges and lessons learned along the way.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ChDQZpWQbwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ChDQZpWQbwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ChDQZpWQbwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ChDQZpWQbwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ChDQZpWQbwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ChDQZpWQbwk"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "ChDQZpWQbwk",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cELiEqkMQpgJU7cv76Oe1lOur7s",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:06:09Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Rob Walker – 0 to 1 (Million Downloads): PUMA's Mobile Success Story (Chain React 2023)",
+        "description": "Rob Walker, Formidable\nLearn from our experience scaling the PUMA App from zero to a million downloads over 6 months. We will review the tools, tasks, and processes used to get and keep the app working effectively.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/teuZZTsl_F8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/teuZZTsl_F8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/teuZZTsl_F8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/teuZZTsl_F8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/teuZZTsl_F8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "teuZZTsl_F8"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "teuZZTsl_F8",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DqY938aDwUo79eDpndbTfvn90wQ",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:09:41Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Taz Singh – Wait, you’re shipping React Native to the web?! (Chain React 2023)",
+        "description": "Taz Singh, Guild\nIn this talk, he’ll dive into the skepticism of building React Native Apps for the Web, including everything from design systems and navigation to ExpoGL and Reanimated, from how they’ve successfully built Guild on top of this architecture.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9KNu7cYHBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9KNu7cYHBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9KNu7cYHBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z9KNu7cYHBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z9KNu7cYHBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z9KNu7cYHBI"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "z9KNu7cYHBI",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "09r1dum_GaP5RL14eVL_5gPGcHI",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:16:48Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhh2aKhn8Fg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fhh2aKhn8Fg"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N2t6mpnMWSo_AeOJ6t82XSxVerU",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:25:23Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Michał Pierzchała – Scaling teams with federated super apps (Chain React 2023)",
+        "description": "Michał Pierzchała, Callstack\nFind out if and how we can overcome challenges from moving fast and efficiently in big teams on a large product with complex functionality.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g7UV2yWlg3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g7UV2yWlg3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g7UV2yWlg3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g7UV2yWlg3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g7UV2yWlg3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g7UV2yWlg3g"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "g7UV2yWlg3g",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2YRrhMEL0dM1mFETxikcY6bplyI",
+      "id": "UExGSHZMMjFnOWJrMzBGMlVhSmZuNlRxSm4xNU1Bb0JPYy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-05-31T23:32:48Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Colin Gray – Default to performance (Chain React 2023)",
+        "description": "Colin Gray, Shopify\nHow Shopify uses multiple strategies for building React Native screens at scale.\n\nChain React 2023\nChain React is a three-day event in Portland, Oregon exploring the latest in React Native. Leaders from companies like Meta, Amazon, and Expo all send their developers to Chain React to announce the latest news, make lifelong connections, and advance the industry. \n\nChain React is hosted by the team at Infinite Red.\n\nFollow Chain React\n• Website: https://chainreactconf.com\n• Twitter: https://twitter.com/ChainReactConf\n• GitHub: https://github.com/infinitered/ChainReactApp2023\n\nConnect with Infinite Red\n• Website: https://infinite.red",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEfTgM6QL1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEfTgM6QL1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEfTgM6QL1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bEfTgM6QL1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bEfTgM6QL1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bEfTgM6QL1E"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "bEfTgM6QL1E",
+        "videoPublishedAt": "2023-06-01T22:06:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
+  }
+}
