@@ -1,0 +1,388 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "22XgjOeb-gvrUDl44eSiC6fKFG0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PZDeALx0gYtuPFjf8WBcgkLoBfU",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:43:14Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Misko Hevery - Speeding Up Your React App With Less JavaScript, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Speeding Up Your React App With Less JavaScript\nToo much JavaScript is getting you down? New frameworks promising no JavaScript look interesting, but you have an existing React application to maintain. What if Qwik React is your answer for faster applications startup and better user experience? Qwik React allows you to easily turn your React application into a collection of islands, which can be SSRed and delayed hydrated, and in some instances, hydration skipped altogether. And all of this in an incremental way without a rewrite.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZ5gaAo08Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZ5gaAo08Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZ5gaAo08Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZ5gaAo08Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZ5gaAo08Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IZ5gaAo08Pw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "IZ5gaAo08Pw",
+        "videoPublishedAt": "2023-06-15T06:38:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYSFJVSXdUAPXovil71ByzUwny0",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:43:43Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Mark Erikson - Debugging JS, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Debugging JS\nAs developers, we spend much of our time debugging apps - often code we didn't even write. Sadly, few developers have ever been taught how to approach debugging - it's something most of us learn through painful experience.  The good news is you _can_ learn how to debug effectively, and there's several key techniques and tools you can use for debugging JS and React apps.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XAlefWniwz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XAlefWniwz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XAlefWniwz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XAlefWniwz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XAlefWniwz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XAlefWniwz0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "XAlefWniwz0",
+        "videoPublishedAt": "2023-06-15T06:42:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XZIL5KR4TXpeZOsZZl2ofKhdWA4",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:43:56Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Omry Nachman - Off with Their Heads: Rise of the Headless Components, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Off with Their Heads: Rise of the Headless Components\nAren't You Tired of Repeating Yourself? Tired of repeating the same code over and over again in your React projects? In this talk, we'll discover the power of headless components, a design pattern that separates the logic from the presentation layer, allowing you to create reusable and flexible UI components. We'll explore how headless components can simplify your development process, saving you both time and effort. We'll examine popular headless component libraries and provide tips for integrating them into your projects. Whether you're a beginner or an experienced developer, join us to discover how headless components can help you streamline your React development and create high-quality, customizable UIs.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_WtVG_pKsxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_WtVG_pKsxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_WtVG_pKsxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_WtVG_pKsxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_WtVG_pKsxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_WtVG_pKsxM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "_WtVG_pKsxM",
+        "videoPublishedAt": "2023-06-15T06:35:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7vPvsH4ykck02dGGkbVwxapu1oY",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:44:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Juri Strumpflohner - No CRA? What now?, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: No CRA? What now?\nSo CRA is no more and it probably was about time. The React docs suggest Next, Remix or Gatsby...but you're not ready yet for a full-blown React Meta-Framework and really just want pure React. Any alternatives? In this talk, I'm going to explore exactly that. We've got 7 minutes, so no slides, just code where we're going to set up a new React standalone application using Nx.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_lAgBwXJX3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_lAgBwXJX3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_lAgBwXJX3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_lAgBwXJX3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_lAgBwXJX3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_lAgBwXJX3A"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "_lAgBwXJX3A",
+        "videoPublishedAt": "2023-06-15T06:32:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vq7yja6pYlTwIN2THoy_c1q_8LA",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:44:28Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Lee Robinson - Next.js Metamorphosis, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Next.js Metamorphosis\nNext.js 13.4 recently released the stable version of the \"\"App Router\"\" – a transformative shift for the core of the framework. In this talk, I'll share why we made this change, the key concepts to know, and why I'm excited about the future of React.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I9Ev044V4Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I9Ev044V4Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I9Ev044V4Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I9Ev044V4Lk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I9Ev044V4Lk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I9Ev044V4Lk"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "I9Ev044V4Lk",
+        "videoPublishedAt": "2023-06-15T06:29:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "69-7ZjLnqGqpwEft7Ui9gxM5Lk0",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:44:45Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Tiki Lobel - How to Become a Fintech Developer in Seven Minutes, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: How to Become a Fintech Developer in Seven Minutes\nDevelopers play an essential role in integrating and monetizing financial services. In this lightning talk, we will explore the concept of embedded fintech and its use cases. We will then dive into a demo showing how to set up and integrate financial services using the Rapyd API. By the end of this talk, attendees will have a clear understanding of how to get started integrating fintech into applications. With clear instructions on how to get started, this talk will provide developers with the knowledge and resources they need to get started as fintech developers in just seven minutes.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/onvxP94Ln_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/onvxP94Ln_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/onvxP94Ln_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/onvxP94Ln_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/onvxP94Ln_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "onvxP94Ln_c"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "onvxP94Ln_c",
+        "videoPublishedAt": "2023-06-15T06:31:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N4RW4V3GBTicxZxHYPHSLccT2gk",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:44:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Sam Sycamore - Building Pixel-Perfect UI Components Using CSS Variables, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Building Pixel-Perfect UI Components Using CSS Variables\nCSS variables have become so sophisticated in recent years that they now enable us to do things that aren't possible with JavaScript. In this lightning talk, I'll explain how MUI's engineers are leveraging the power of CSS variables in our new React component library, Joy UI, to deliver components that automatically adapt their style and structure to the context in which they're rendered.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMGjdEnXo38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMGjdEnXo38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMGjdEnXo38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aMGjdEnXo38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aMGjdEnXo38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aMGjdEnXo38"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "aMGjdEnXo38",
+        "videoPublishedAt": "2023-06-15T06:29:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  }
+}
