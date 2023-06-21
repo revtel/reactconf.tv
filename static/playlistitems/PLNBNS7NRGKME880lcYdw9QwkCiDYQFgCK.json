@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "22XgjOeb-gvrUDl44eSiC6fKFG0",
+  "etag": "tcRQ-pH7u8e7UDN8tDds9ARicAw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "PZDeALx0gYtuPFjf8WBcgkLoBfU",
+      "etag": "povOj8SQtkOJ3Bz7i2a7JG04nWY",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2023-06-15T06:43:14Z",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7vPvsH4ykck02dGGkbVwxapu1oY",
+      "etag": "Adsh_LLZMgHJnsbuNBKCNFBvdME",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-06-15T06:44:11Z",
@@ -379,10 +379,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NEMGVVSJ3_RB7z-fq6nDM4aVpsw",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-06-20T09:41:44Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Malte Ubl - Principles for Scaling Frontend Application Development, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Principles for Scaling Frontend Application Development\nAfter spending over a decade at Google, and now as the CTO of Vercel, Malte Ubl is no stranger to being responsible for a team’s software infrastructure. However, being in charge of defining how people write software, and in turn, building the infrastructure that they’re using to write said software, presents significant challenges. This presentation by Malte Ubl will uncover the guiding principles to leading a large software infrastructure.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tqhLK0Fb5_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tqhLK0Fb5_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tqhLK0Fb5_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tqhLK0Fb5_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tqhLK0Fb5_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tqhLK0Fb5_4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "tqhLK0Fb5_4",
+        "videoPublishedAt": "2023-06-20T09:43:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
