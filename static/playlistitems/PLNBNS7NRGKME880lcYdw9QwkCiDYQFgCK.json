@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "tcRQ-pH7u8e7UDN8tDds9ARicAw",
+  "etag": "igZH-zInrtIdExELS_MXDn5Lorw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "povOj8SQtkOJ3Bz7i2a7JG04nWY",
+      "etag": "AG8Mw_ODVO3ZUp8aPJF54P_zsGk",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2023-06-15T06:43:14Z",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Adsh_LLZMgHJnsbuNBKCNFBvdME",
+      "etag": "tM6iBKfRqf9yGk37TuvbKh5PFkM",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-06-15T06:44:11Z",
@@ -433,10 +433,118 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-tclV4hIYuZA38FAxZ5i89C90g4",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-06-22T15:53:39Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit 2023 - React Open Source Awards Ceremony",
+        "description": "React Summit 2023 #ReactSummit #GitNation #OSAwards\n\nWebsites: \nhttps://reactsummit.com/\nhttps://osawards.com/react/\n\nWinners:\nBreakthrough of the Year – Next.js (App Router) (https://youtu.be/DrxiNfbr63s)\nThe Most Exciting Use of Technology – Tamagui (https://github.com/tamagui/tamagui)\nFun Side Project of the Year – React Native Vision Camera (https://github.com/mrousavy/react-native-vision-camera)\nThe Most Impactful Contribution to the Community – This Week In React (https://thisweekinreact.com/)\nProductivity Booster – Expo Router (https://github.com/expo/router)\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://portal.gitnation.org/events/react-summit-2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWRNJpvluoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWRNJpvluoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWRNJpvluoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NWRNJpvluoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NWRNJpvluoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NWRNJpvluoI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "NWRNJpvluoI",
+        "videoPublishedAt": "2023-06-22T15:53:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I3jrttOWpVndSMtfs4ttAsxLIoo",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-06-23T07:55:31Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Christoph Nakazawa - How Not to Build a Video Game, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: How Not to Build a Video Game\nIn this talk we'll delve into the art of creating something meaningful and fulfilling. Through the lens of my own journey of rediscovering my passion for coding and building a video game from the ground up with JavaScript and React, we will explore the trade-offs between easy solutions and fast performance. You will gain valuable insights into rapid prototyping, test infrastructure, and a range of CSS tricks that can be applied to both game development and your day-to-day work.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8SmXOTM8Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8SmXOTM8Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8SmXOTM8Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m8SmXOTM8Ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m8SmXOTM8Ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m8SmXOTM8Ec"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "m8SmXOTM8Ec",
+        "videoPublishedAt": "2023-06-15T06:36:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 10,
     "resultsPerPage": 50
   }
 }
