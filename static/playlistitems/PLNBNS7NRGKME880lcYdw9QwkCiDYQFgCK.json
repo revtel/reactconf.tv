@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "igZH-zInrtIdExELS_MXDn5Lorw",
+  "etag": "DYmNd8VNppyWt6KQv8dM0kIgu5w",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "AG8Mw_ODVO3ZUp8aPJF54P_zsGk",
+      "etag": "8CgvEr4H0-_eN-QQaObZM-7CGKs",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2023-06-15T06:43:14Z",
@@ -58,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oYSFJVSXdUAPXovil71ByzUwny0",
+      "etag": "ax6qaywidlGRnyF9eu3NOQtcrjM",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2023-06-15T06:43:43Z",
@@ -382,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NEMGVVSJ3_RB7z-fq6nDM4aVpsw",
+      "etag": "fFfJv34URfsEbW2arcBDDbRnrGw",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2023-06-20T09:41:44Z",
@@ -541,10 +541,324 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6FPJBXEnKVLwppoU0-YOEDD-IIA",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-06-28T03:52:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Anuradha Kumari, React Summit 2023",
+        "description": "Anuradha is a frontend developer, working on making the web more accessible, one website at a time. She is passionate about exploring new technologies and sharing knowledge through tech articles and talks. She has been recognized as GDE, MVP, MDE, and WTM Ambassador. As an accessibility advocate, she aims to spread awareness and empower the community toward achieving the common goal of inclusion through technology. When she is not coding, she loves traveling, exploring museums, reading books, and sketching.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RtcJz65ZcOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RtcJz65ZcOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RtcJz65ZcOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RtcJz65ZcOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RtcJz65ZcOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RtcJz65ZcOQ"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "RtcJz65ZcOQ",
+        "videoPublishedAt": "2023-06-28T03:54:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G4r97s-yzfx2PuEae4rhLtg5KJg",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-06-28T03:56:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Christoph Nakazawa, React Summit 2023",
+        "description": "Christoph is an experienced engineering manager, frontend lead and aspiring game developer. He has played a key role in the development of tools such as Jest, React Native, Metro, and Yarn while working at companies like Facebook and Stripe. Currently Christoph is exploring game development and optimizing his workflows which he is excited to share more about in 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAucKdt-DRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAucKdt-DRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAucKdt-DRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gAucKdt-DRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gAucKdt-DRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gAucKdt-DRM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "gAucKdt-DRM",
+        "videoPublishedAt": "2023-06-28T03:57:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fnntk-xZmZGKVur-0ghBktaQMV8",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-06-28T03:59:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Lee Robinson, React Summit 2023",
+        "description": "Lee Robinson is the VP of Developer Experience at Vercel, where he helps developers build a faster web. He leads the community for the React framework Next.js and is an open-source contributor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AjURjxaStuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AjURjxaStuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjURjxaStuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AjURjxaStuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AjURjxaStuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AjURjxaStuE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "AjURjxaStuE",
+        "videoPublishedAt": "2023-06-28T04:02:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HbV1FkmEMFllatcclZthMOwQILQ",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-06-28T04:04:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Maxim Nam, React Summit 2023",
+        "description": "Tele2 Kazakhstan, Front-end TeamLead, 10 years of web development, in love with project transformation and refactoring React based applications.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uw4_cjPbyY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uw4_cjPbyY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uw4_cjPbyY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uw4_cjPbyY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uw4_cjPbyY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uw4_cjPbyY0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "uw4_cjPbyY0",
+        "videoPublishedAt": "2023-06-28T04:04:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VRIhh_HI3X9IKPbEFUIwwlpkDFA",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-06-28T04:11:14Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Michel Westrate, React Summit 2023",
+        "description": "Open source fanatic, speaker and trainer. Author of MobX, MobX-State-Tree, Immer and a plethora of smaller packages. On a continuous quest to make programming as natural as possible. React, JavaScript and TypeScript fan. Working at Facebook on dev tooling for mobile developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsJLiU1gmiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsJLiU1gmiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsJLiU1gmiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HsJLiU1gmiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HsJLiU1gmiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HsJLiU1gmiU"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "HsJLiU1gmiU",
+        "videoPublishedAt": "2023-06-28T04:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kj5sytlD6e7RffHtQECZjYf0cNc",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-06-28T04:13:50Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Interview with Senna Parsa, React Summit 2023",
+        "description": "Senna is a Solutions Engineer at GitHub supporting our customers the EMEA MidMarket segment. She has a background in web application, iOS development, and accessibility. Originally working out of the HQ in San Francisco, she’s been working with GitHub customers for three years, passionate about empowering developers and helping organizations as they go through cultural and digital transformations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/26hiYfExQz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/26hiYfExQz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/26hiYfExQz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "26hiYfExQz8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "26hiYfExQz8",
+        "videoPublishedAt": "2023-06-28T04:15:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 16,
     "resultsPerPage": 50
   }
 }
