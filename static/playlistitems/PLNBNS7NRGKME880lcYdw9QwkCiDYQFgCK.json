@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "DYmNd8VNppyWt6KQv8dM0kIgu5w",
+  "etag": "-1U9yyJsaCpjzAUR8-FESVqz9gU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vq7yja6pYlTwIN2THoy_c1q_8LA",
+      "etag": "BczmM7tTQyCBrNV1-KlJ0Oh0qHU",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-06-15T06:44:28Z",
@@ -269,7 +269,7 @@
         "videoPublishedAt": "2023-06-15T06:29:42Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "N4RW4V3GBTicxZxHYPHSLccT2gk",
+      "etag": "hdGfebEIPc-s27cMWLx5_Q1ERWc",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2023-06-15T06:44:59Z",
@@ -544,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6FPJBXEnKVLwppoU0-YOEDD-IIA",
+      "etag": "299n781-GzPQb0PW2PI8i94XH9w",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2023-06-28T03:52:26Z",
@@ -598,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G4r97s-yzfx2PuEae4rhLtg5KJg",
+      "etag": "B_ENo33nlUWllysYQDvxaHtl9qA",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2023-06-28T03:56:19Z",
@@ -706,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HbV1FkmEMFllatcclZthMOwQILQ",
+      "etag": "xClhqPEM_rHyypwldPUBJUjdJmA",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2023-06-28T04:04:23Z",
@@ -814,7 +814,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Kj5sytlD6e7RffHtQECZjYf0cNc",
+      "etag": "x3i12A0_nBwOb27QKAOC0nyoZ7I",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2023-06-28T04:13:50Z",
@@ -855,10 +855,226 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qzx8oaxLhH0za9yw12uU8eGQjhA",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-06-29T07:36:47Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Itai Hanski - Using PKCE to Communicate Between React and Native Mobile SDKs, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Using PKCE to Communicate Between React and Native Mobile SDKs\nIt’s important to have a frictionless, secure, and performant authentication system for any app, be it web or mobile. In this lightning talk, Itai Hanski covers the importance of authentication and how the Descope team used PKCE to communicate between their React web app and native mobile SDKs.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H93Ut3PQSlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H93Ut3PQSlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H93Ut3PQSlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H93Ut3PQSlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H93Ut3PQSlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H93Ut3PQSlE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "H93Ut3PQSlE",
+        "videoPublishedAt": "2023-06-15T06:33:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A-5icF0vEy2uv8S1rHjnBdoVor8",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-06-29T07:37:10Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Christopher Chedeau - Video Editing in the Browser, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Video Editing in the Browser\nVideo editing is a booming market with influencers being all the rage with Reels, TikTok, Youtube. Did you know that browsers now have all the APIs to do video editing in the browser? In this talk I'm going to give you a primer on how video encoding works and how to make it work within the browser. Spoiler, it's not trivial!\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-d6q4yb57F8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-d6q4yb57F8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-d6q4yb57F8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-d6q4yb57F8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-d6q4yb57F8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-d6q4yb57F8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "-d6q4yb57F8",
+        "videoPublishedAt": "2023-06-08T10:51:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oFWMQUjozNi4s9LA-L49b_v12jA",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-06-29T07:37:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Cecelia Martinez - Code Signing React Native Apps, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Code Signing React Native Apps\nYou've built a React Native app and now it's time to get it in the hands of your users. If you're used to web, dealing with mobile-specific deployment issues can be a struggle. There are native build hardware and config requirements, signing certificates, app store approvals, app versions, pushing updates, and more. You also have to consider all the tooling options -- do you manually deploy on your own, use a React Native-specific solution, or try to configure web CI/CD for mobile? This crash course will outline the build and ship process and review some common tools in the React Native ecosystem so you can feel confident deploying and get back to developing.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SPWt7mCz_uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SPWt7mCz_uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPWt7mCz_uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SPWt7mCz_uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SPWt7mCz_uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SPWt7mCz_uY"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "SPWt7mCz_uY",
+        "videoPublishedAt": "2023-06-08T10:48:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bYKCkGSxnHdmdZ0BDZmgrYvez10",
+      "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-06-29T08:13:34Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Lee Robinson - Next.js Metamorphosis, React Summit 2023",
+        "description": "React Summit 2023 #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → \n\nTalk: Next.js Metamorphosis\nNext.js 13.4 recently released the stable version of the \"\"App Router\"\" – a transformative shift for the core of the framework. In this talk, I'll share why we made this change, the key concepts to know, and why I'm excited about the future of React.\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\n\n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nShopify → https://shopify.engineering/\nNx → https://nx.dev/\nTiny → https://www.tiny.cloud/\nDescope → https://www.descope.com/\nKontent.ai → https://kontent.ai/\nAppflow → https://ionic.io/appflow\nContentful → https://www.contentful.com/\nRangle → https://rangle.io/\nRapyd → https://www.rapyd.net/\nJetBrains → https://www.jetbrains.com/\nReactBricks → https://reactbricks.com/\n\n🥈 Silver Sponsors\nGetStream → https://getstream.io/\nPlatformatic → https://platformatic.dev/\ntalkdesk → https://www.talkdesk.com/\nchromatic → https://www.chromatic.com/\nGitHub → https://github.com/\nThe Graph → https://thegraph.com/en/\ncallstack → https://www.callstack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5HaX0Q_Do1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5HaX0Q_Do1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5HaX0Q_Do1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5HaX0Q_Do1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5HaX0Q_Do1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5HaX0Q_Do1I"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "5HaX0Q_Do1I",
+        "videoPublishedAt": "2023-06-29T08:14:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 16,
+    "totalResults": 20,
     "resultsPerPage": 50
   }
 }
