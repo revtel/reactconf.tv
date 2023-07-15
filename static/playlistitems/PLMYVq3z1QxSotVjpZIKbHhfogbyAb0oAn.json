@@ -1,0 +1,1223 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DTB3yRBar0lWVnIsALL1EU6UylY",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pZyZF5vlVwPLnroWXgtq457Y8Bw",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:41:16Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yael Oshri Balla @ ReactNext '23 | JWT Magic: A Deep Dive into JSON Web Tokens",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native Conference Powered by EventHandler\n\nJWT Magic: A Deep Dive into JSON Web Tokens\n\nIntermediate | Hebrew\n\nIn this session, we will deep dive into the world of JSON Web Tokens (JWT) and learn how to use them to authenticate and authorize users in your in React app for secure client-server communication. We'll start by demystifying the structure of a JWT, and then move on to practical examples and best practices of how to implement JWT.\nAt the end of this session you will walk away with a solid understanding of how to use JWT for secure client-server communication in React applications. Whether you're just starting out with JWT or looking to take your skills to the next level, this session is for you!\n\n\nYael Oshri Balla\nVP R&D\n\nA software engineer since the age of 18, I played various hands-on and management roles, doing both frontend and backend before it was called \"Full Stack\". Today VP R&D at Karma, startup developing an AI shopping assistant.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6zWRyNy6y_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6zWRyNy6y_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6zWRyNy6y_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6zWRyNy6y_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6zWRyNy6y_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6zWRyNy6y_4"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "6zWRyNy6y_4",
+        "videoPublishedAt": "2023-07-13T15:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YzOWZ3WihJcTAn8aRkUCzupn7TU",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:45:33Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hila Israeli @ ReactNext '23 | Empowering Your Career: Mastering the Art of Self-Education",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nEmpowering Your Career: Mastering the Art of Self-Education\n\nBeginner/Intro | Hebrew\n\nWe can divide developers into two main groups: some developers receive a task at work, and are obligated to learn the required skills and implement them according to the task, while others learn new technologies in their free time and can’t wait for the opportunity to implement them.\n\nThe process of learning a new tech skill on one's own and applying it at work can be a deterrent task, yet it can also be a source of huge satisfaction.\nIn this talk, I will share the lessons I learned from my own journey as I transitioned from a backend developer to building, from scratch to production, a React SPA, entirely on my own.\n\nI will share recommendations on how to familiarize yourself with the industry's best practices, plan your architecture and user interface with a scalable and user-centered focus, when to utilize debugging tools and testing methodologies, etc.\n\nBy sharing my personal experience, I hope to encourage others who are considering joining on a similar journey to take the leap and to take the challenges and benefits that come from learning and implementing new technologies independently.\n\n\nHila Israeli\nSoftware Team Lead\n\nHila Israeli, a senior software engineer with over 8 years of experience, a scrum master and a public speaker.\nWhile working at OwnBackup she was a leading part in building 3 different products from scratch to production.\nHila graduated Bs.C in Computer Science and Economics from Tel Aviv University.\nShe speaks and organizes meetups for women engineers and is a mentor for junior developers.\nLives with her husband in Tel Aviv, is passionate about hiking, running, and, of course, learning new things.\n\nPowered by EventHandler",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OYCx1Umds9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OYCx1Umds9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYCx1Umds9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OYCx1Umds9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OYCx1Umds9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OYCx1Umds9c"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "OYCx1Umds9c",
+        "videoPublishedAt": "2023-07-13T15:00:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1uImq4t5RlZ09YGEWsm4DlB4uoA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:49:01Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Elinor Sapir @ ReactNext '23 | Debugging debugging; why we must approach debugging differently",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nDebugging debugging; why we must approach debugging differently\n\nIntermediate | English\nDebugging, in its various forms, has been around for as long as people have been developing code. It is a critical step in the creation and maintenance of code. No matter what it is that you are developing, you will undoubtedly have an array of issues, and debugging enables you to get to the bottom of these; to find the bug and to then find a fix for it.\n\nBut debugging, as we know it, is broken. It takes time, it is always a struggle to get the exact data you want, and worst of all, you are often called to debug at the most inconvenient times.\n\nIn this talk, we will delve into the reasons why debugging techniques are broken. Why a method that was developed last century is no longer relevant (or useful) to our ever evolving technology stacks of today, and what advances have been made in the space to ensure that everyone can use the right tools for the right use case. We will delve into the finer details of how tools empower teams to take real ownership and how, by addressing the biggest pain points associated with traditional debugging techniques, we can rebrand it to a task that developers would want to take on.\n\n\nElinor Sapir\nSolution Engineer\n\nElinor is the Director Solutions Engineering at Rookout. Originally hailing from New Zealand, she is passionate about making sure people increase the adoption of new and cutting-edge technology. When she’s not promoting new tech, you can find her exploring new places or at the beach.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V0w1JRxpKzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V0w1JRxpKzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V0w1JRxpKzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V0w1JRxpKzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V0w1JRxpKzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V0w1JRxpKzM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "V0w1JRxpKzM",
+        "videoPublishedAt": "2023-07-13T15:00:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DRc4xWdVYJeFHI-tpyz8AjLbTbA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:53:35Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adam Klein & Liad Yosef @ ReactNext '23 | Prompt-End Developer",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nThe prompt-end developer\n\nBeginner/Intro | English\n\nMind blowing technologies are entering mainstream development in a staggering pace. What part will AI have in writing our React code? What part will we have? Liad and Adam will take us through a futuristic journey, exploring the latest abilities of AI and a glimpse to the not-so-distant future\n\n\nAdam Klein\nCTO\n\nAdam is the CTO of Covver, a web GDE, and author of open source libraries. He was one of the co-founders of 500Tech, a company that specializes in frontend technologies. He loves coding, and he loves speaking about code.\n\n\nLiad Yosef\nFront-end Architect\n\nLiad is the Frontend Architect and Tech Lead in Duda, in charge of its client-side infrastructure, technologies, and performance.\nHe is a web dev entusiast for over a decade, juggling React, Webpack and Buzzwords@latest in order to always build the best user experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RZ_TDXKyCiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RZ_TDXKyCiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RZ_TDXKyCiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RZ_TDXKyCiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RZ_TDXKyCiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RZ_TDXKyCiI"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "RZ_TDXKyCiI",
+        "videoPublishedAt": "2023-07-13T15:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ddjjf5r1GkHH6lju6YPOfLIDPA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:55:39Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Kaufman @ ReactNext '23 | 9 Years with React – I got a story to tell",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\n9 Years with React – I got a story to tell\n\nIntermediate | English\n\nIn this session I'll share my perpective on React. After 9 years, dozens of projects, success - and falis.\nAs a frontned developer in 2023 - what I'll take aith me - and what I would leave behind.\n\n\nNir Kaufman\nFront End Tech Lead\n\nFrontend developer, community enthusiast, meetup organizer, international public speaker, trainer, author, and mentor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pc3j9wpwmrE"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "pc3j9wpwmrE",
+        "videoPublishedAt": "2023-07-13T15:00:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O81TDQOccUaAti8kmYj81x_eYlg",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-07-12T14:57:33Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "53OwN6PqQMY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "53OwN6PqQMY"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2g0PWWZwZ2zOKlbPtTUc5ccYHO0",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:09:48Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Michal Gigi @ ReactNext '23 | Recoil to the rescue! How Recoil helped us to manage our React state",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nRecoil to the rescue! How Recoil helped us to manage our React state\n\nIntermediate | Hebrew\n\nIt was late, I participated in another endless meeting, struggling to figure out the best way to handle the complex data tree in our new Dashboard React application… Every possible solution we raised was just not good enough. Until salvation came… Boom! We will use React Recoil!\nOur problem was that we needed to share data between components in a React application, using a complex dynamic data tree and to render a component without rendering the whole application.\nIn this talk, I will explain what Recoil is, its advantages over React Context and Redux, and how it helped us manage our Dashboard state.\n\n\nMichal Gigi\nFrontend Developer\n\nFrontend developer @ Skai with over 20 years of R&D experience with different projects and technologies.\nI have a true passion for technologies, people, design and how they interact in building great products.\nMy favorite thing is to travel abroad and especially to plan the entire trip from A to Z, including all the cool activities. Now after COVID, I’m finally compensating for the trips I lost.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eftluD-LMKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eftluD-LMKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eftluD-LMKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eftluD-LMKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eftluD-LMKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eftluD-LMKg"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "eftluD-LMKg",
+        "videoPublishedAt": "2023-07-13T15:00:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EaHHZ-sh2U4NRKfKHAoFq_TqDzc",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:11:41Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Roei Berkovich @ ReactNext '23 | Unlocking the Secrets of Client Data",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nUnlocking the Secrets of Client Data\n\nIntermediate | Hebrew\n\nThis session will present how we leveraged DataDog to effectively implement logging and monitoring in a React application at scale. Attendees will learn about the challenges we faced, the solutions we adopted and the best practices we established for collecting and analyzing client data across multiple teams and shared components. The session will also discuss how we used the insights gained from DataDog to improve our performance, usability, and collaboration in the company.\n\n\nRoei Berkovich\nSW Team Lead\n\nRoei is a Tech enthusiast working as a software Team Lead at AppsFlyer, enjoys people, code, and talking about code to people. He focuses mostly on React and Node.js. He also writes for the react-israel.co.il tech blog and founded JSsnippets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eViLGKJX_s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eViLGKJX_s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eViLGKJX_s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eViLGKJX_s0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eViLGKJX_s0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eViLGKJX_s0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "eViLGKJX_s0",
+        "videoPublishedAt": "2023-07-13T15:00:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "svlKH_4OPDgGVqfRPkob5My7GxE",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:14:04Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Matan Borenkraout @ ReactNext '23 | Testing Library: everybody uses it, but nobody understands it",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nTesting Library: everybody uses it, but nobody understands it\n\nIntermediate | English\n\nTesting is an essential part of software development, but it can be a tricky and time-consuming process. The popular testing-library package is a widely used tool that helps developers write reliable and maintainable frontend tests based on a behavior driven approach, but many users are not fully aware of how it works or why it works the way it does. In this talk, I, as one of the maintainers of the package, give an in-depth look into the testing-library ecosystem, including its structure and foundations. I explain how we built a solution that can be used in every framework, and how you can use it in both Node and browser environments. You will learn how testing-library is designed to encourage good testing practices and how it can help you write more maintainable tests.\n\n\nMatan Borenkraout\nSenior Software Engineer\n\nMatan is a Software Engineer at Microsoft, the co-organiser of the “Big web theory” meetup and a tech blog writer. He is a React enthusiast and a Testing Library maintainer who's aiming to understand how things work rather than satisfying on a given API. Matan believes that knowledge is worth nothing if not spread.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jNAMdsbdvlI"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "jNAMdsbdvlI",
+        "videoPublishedAt": "2023-07-13T15:00:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5QyC4Um3moVpVQcQ7zZhPTgNC98",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:15:54Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yanai Edri @ ReactNext '23 | Stories from the React Crypt",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nStories from the React Crypt\n\nIntermediate | Hebrew\n\nIn this session, I will show you some examples of how to improve your React code base. I will compare before and after code state and indicate pit falls that can crawl from crypt. Last but not least, I will explain things that you should think about when you are writing your React code.\n\n\nYanai Edri\nWeb Developer\n\nThe founder of Negev Web Developer group. loves to donate to the community, time to time writing articles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72tDk7t_8Es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72tDk7t_8Es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72tDk7t_8Es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/72tDk7t_8Es/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/72tDk7t_8Es/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "72tDk7t_8Es"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "72tDk7t_8Es",
+        "videoPublishedAt": "2023-07-13T15:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2iID_0oROKyop6JUN9TD7bDN0HA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:18:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Alon Valadji @ ReactNext '23 | React new Era, AKA Here we go Server Components",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nReact new Era, AKA Here we go Server Components\n\nIntermediate | English\n\nWe started coding our application in a new way in the past year. Meta frameworks and better tooling gave us granular control over our app's outcome.\n\nFrom 0 JavaScript to running react components on the server, resumability or partial hydration, welcome to the new era of React.\n\nWe'll talk about the new React Server Components, how to stream data from the server to the client, which components are interactive, and how to lift up the state, as much as possible, even completely remove it.\n\n\nAlon Valadji\nSenior web technologies consultant\n\nAlon is a leading software architect well-versed in Rozansky and Woods’ architectural methodologies. As a full-cycle JavaScript and web architecture torchbearer. His main goal in life is to make developers happy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiM0NJLVJoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiM0NJLVJoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiM0NJLVJoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FiM0NJLVJoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FiM0NJLVJoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FiM0NJLVJoY"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "FiM0NJLVJoY",
+        "videoPublishedAt": "2023-07-13T15:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DuAi0sOtlThyzuX0P_Ej4kI3X-s",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:19:42Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Evyatar Alush @ ReactNext '23 | Let's Build React Context in Vanilla JS",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nLet’s Build React Context in Vanilla JS\n\nIntermediate | English\n\nIn this talk, we'll explore the capabilities of React's Context API and learn how to use its powerful features outside of React to declutter our code, reduce bloat, and simplify our functions' signatures.\n\nWe'll make use of JavaScript fundamentals to build this API from scratch, and by the end of the talk, you'll be able to use it in your vanilla JavaScript and node applications.\n\nJoin me as we dive into the world of React's Context API and discover how to harness its power in your own projects. You won't want to miss this exciting opportunity to learn a new approach to building efficient, effective applications.\n\n\nEvyatar Alush\nFront End Engineer\n\nEvyatar, a Front End engineer at Meta. Author of Vest validations framework, and passionate about open source and API design.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tt1ZuyoPcFc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "tt1ZuyoPcFc",
+        "videoPublishedAt": "2023-07-13T15:00:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n5mUd-8rPcrd0OfArxbCHlnL-UY",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:21:16Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adir Amsalem @ ReactNext '23 | Writing command-line interfaces (CLIs) with React. Wait, what? Yeah!",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nWriting command-line interfaces (CLIs) with React. Wait, what? Yeah!\n\nIntermediate | English\n\nReact was originally created as a library for building composable user interfaces. It encourages the creation of reusable UI components that present data which changes over time, and is very popular among web and mobile developers. What you probably didn’t know is that by leveraging the React component model, developers can also create intuitive, beautiful and powerful command-line applications. Let’s dive into it!\n\n\nAdir Amsalem\nDevTools Developer\n\n\nSoftware developer with over 15 years' experience, focusing mainly on frontend development in the last decade.\nCurrently, part of the DevTools group at Wix, which is the group responsible of all our Developer Tools and DX products.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cEKlZephMpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cEKlZephMpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cEKlZephMpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cEKlZephMpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cEKlZephMpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cEKlZephMpU"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "cEKlZephMpU",
+        "videoPublishedAt": "2023-07-13T15:00:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uN7esHzoq9pJ3FyT0FSI4K3QxZk",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:25:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Maya Shavin @ ReactNext '23 | Are we React-ing wrongly?",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nAre we React-ing wrongly?\n\nIntermediate | English\n\nEveryone thinks he/she knows how to use React well, me included. But even React docs is only 90% completed, how can we be so sure we understand all the use cases each React feature is for?\nThis is not a talk about best practices. It's about findings and lessons learned after working and debating about using React daily.\n\n\nMaya Shavin\nSenior Software Engineer\n\nMaya is Senior Software Engineer in Microsoft, working extensively with JavaScript and frontend frameworks and based in Israel. She is also a published author, international speaker and an open-source library maintainer of frontend and web projects. As a core maintainer of StorefrontUI framework for e-commerce, she focuses on delivering performant components and best practices to the community while believing a strong Vanilla JavaScript knowledge is necessary for being a good web developer. She can be reached at her blog (https://mayashavin.com), on Twitter @mayashavin, or via email.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ga4qoNJGNts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ga4qoNJGNts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ga4qoNJGNts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ga4qoNJGNts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ga4qoNJGNts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ga4qoNJGNts"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "ga4qoNJGNts",
+        "videoPublishedAt": "2023-07-13T15:00:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zEbAlLZgZqXBN78KgxYrnohWbfA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:26:52Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Ron Hagafny @ ReactNext '23 | How we used Face Detection to create a delightful User Experience",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nHow we used Face Detection to create a delightful User Experience\n\nIntermediate | English\n\nAs we work on our sprints, it’s often hard to see which moves can create the biggest impact.\nAt Mixtiles, we’re dealing with millions of images of our users. Our developer spotted the opportunity and suggested we use a Face Detection algorithm to generate a “Smart Crop” feature that automatically detects the best way to crop the images our users provide.\nThe result shocked even our most optimistic analysts. (#4 will shock you)\n\nIn this talk we’ll dive deep into the way we detected this opportunity, what we tried to solve and the mistakes we made along the way until we came up with our current solution of combining React with Tensorflow for frontend machine-learning face detection.\n\nI hope that after the talk you too will feel inspired to think outside the box and come up with solutions that create extreme impact within your team.\n\n\nRon Hagafny\nSoftware Engineer\n\nEver since I learned to code by hacking online flash games at 16, I've been enthusiastic about code and the ability to create anything from an idea. After serving as a Software Developer at Unit 81, I joined a company called Guester and served as VP R&D for 3 years. During my time in the company, we won the Nightlife Entrepreneurs of the Year award. During my studies of Computer Science at IDC, I took part in the Zell Entrepreneurship Program, a program aimed toward top students with the goal of forming teams and creating Startups. Today, I work as a Software Engineer in Mixtiles. Besides my work as a Full-stack Developer, I love creating video games.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a4zmoZ8uoEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a4zmoZ8uoEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4zmoZ8uoEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a4zmoZ8uoEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a4zmoZ8uoEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a4zmoZ8uoEc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "a4zmoZ8uoEc",
+        "videoPublishedAt": "2023-07-13T15:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z9z_6Tfn9_rD83ST-eHGKB9Locw",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:28:12Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Ran Wahle @ ReactNext '23 | Let's look at the virual DOM",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nLet’s look at the virual DOM\n\nAdvanced | English\n\nHaving to write without worrying about change detection is great, but how does it actually work? In our session, we'll take a look at the virtual DOM mechanism, what happens when changing state, what is the useEffect callback, etc,\n\nThe session will be accompanied by looking at react source code.\n\n\nRan Wahle\nFrontend Developer\n\nFront end developer & Consultant that is passionate about going into legacy code and (carefully) change it, until it dies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "he2l6xtAnkE"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "he2l6xtAnkE",
+        "videoPublishedAt": "2023-07-13T15:00:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CsIdHZFDfoTOB-2HzcZuSN-C4cA",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:29:44Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Kathleen McMahon @ ReactNext '23 | Bye-bye, weeds!  Digital Gardening with Astro, SolidJS, & MDX",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nBye-bye, weeds! Digital Gardening with Astro, SolidJS, & MDX.\n\nIntermediate | English\n\nHas your once-thriving digital garden become overgrown with weeds? Has your framework of choice changed from a suite of landscaping tools to a warehouse of industrial farming equipment? What if you're three versions behind? Do you upgrade and continue with complexity, or choose a new stack that meets your static site needs?\n\nThis talk will teach you to weed out site complexity with Astro, SolidJS, and MDX. Pair this with accessibility best practices, and breathe new life into your digital garden.\n\n\nKathleen McMahon\nEngineer | Designer | Speaker\nKathleen is a software engineer, designer, and conference speaker, who has deep industry experience that fuels her passion for making apps beautifully accessible, she's also a Color Module Specification Editor for the W3C Design Tokens Community Group. In her spare time, she is the Creative Director for the CXsisters network, and the best lanterne rouge cyclocrosser you’ll ever meet.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aBzP3ItRH00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aBzP3ItRH00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aBzP3ItRH00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aBzP3ItRH00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aBzP3ItRH00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aBzP3ItRH00"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "aBzP3ItRH00",
+        "videoPublishedAt": "2023-07-13T15:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZShoUEcY_V34t306JdRfhhcoQuk",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:31:56Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Keren Kenzi @ ReactNext '23 | Hello (Virtual) World",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nHello (Virtual) World\n\nBeginner/Intro | English\n\nAs our lives move more and more into the virtual world, let's explore how we can use our coding skills and knowledge in JavaScript and HTML to create a virtual world of our own.\nIn this session, through a live demo, we will cover the basics of creating a simple virtual reality game using A-Frame, JavaScript, and the DOM API.\nI hope this talk will ignite your creativity and inspire you to create games and have fun!\n\n\nKeren Kenzi\nSenior Software Engineer\nKeren is a senior software engineer with over a decade of experience in the industry. She holds an M.Sc. in Computer Science and is passionate about React and learning new technologies. Keren volunteers as a program manager at Baot, a community that supports women in R&D in their professional growth. She instructs and inspires developers to write blogs in her tech blogging workshops. Keren has experience as a dev community leader and a co-organizer of meetups and events. And in her not-so-spare time, she studies psychology. Her hobbies include drawing, photography, and singing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4AmvE7TsTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4AmvE7TsTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4AmvE7TsTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4AmvE7TsTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4AmvE7TsTM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S4AmvE7TsTM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "S4AmvE7TsTM",
+        "videoPublishedAt": "2023-07-13T15:00:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d1CG5B6_ggT4GT0bHscLs570ajM",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:33:10Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Tejas Kumar @ ReactNext '23 | Why everybody needs to use a framework",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nWhy everybody needs to use a framework\n\nKeynote | English\n\nThis talk explores the need for frameworks like Next.js or Remix by live-coding some of the heavy lifting they do from scratch, and then understanding the work they save us from.\n\nFrom this talk, engineers will understand the real value of meta-frameworks.\n\n\nTejas Kumar\nInternational Keynote Speaker\nTejas Kumar is an international keynote speaker with over 20 years of engineering experience. Today, he speaks at conferences aiming to equip, empower, and encourage developers about the best ways to build software worldwide.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBPh6ZaAWAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBPh6ZaAWAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBPh6ZaAWAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBPh6ZaAWAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBPh6ZaAWAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zBPh6ZaAWAA"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "zBPh6ZaAWAA",
+        "videoPublishedAt": "2023-07-13T14:30:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ILKkweBRzLQnJoG7sUc4nuLf9f8",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:35:21Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Fink @ ReactNext '23 | Qwik-ifying React",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nQwik-ifying React\n\nIntermediate | English\n\nQwik is a new Resumability framework that boosts web apps/sites performance. What if you want to enjoy both the performance of Qwik and the big React eco-system of libraries and components?\nIn this session we will see how React and Qwik can play nicely together.\n\n \n\n \n\n\nGil Fink\nCEO and Senior Consultant\n\nGil Fink is a web development expert, Web Technologies GDE and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web based solutions. He is also co-author of several Microsoft Official Courses (MOCs) and training kits and co-author of \"Pro Single Page Application Development\" book (Apress).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xZ2xIASFZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xZ2xIASFZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xZ2xIASFZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3xZ2xIASFZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3xZ2xIASFZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3xZ2xIASFZQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "3xZ2xIASFZQ",
+        "videoPublishedAt": "2023-07-13T14:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5UtUmL6z8k7ca-EmG9acITL_ukU",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:37:21Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Opher Vishnia @ ReactNext '23 | Throw away your Xbox - The future of games is written in React",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nThrow away your Xbox – The future of games is written in React\n\nIntermediate | English\n\nImagine this: you type a URL into your browser and instantly are transported into a modern 3D multiplayer match. Actually, that’s not a dream - that already exists now!\nIn this talk we'll be looking at the journey we’ve made from the early days of Flash games to amazing web technologies we can play with today like WebGPU, WebGL, React-Three-Fiber and others. This is particularly mind-boggling considering the web was originally intended to just serve documents!\nGame consoles? Who needs them? The future of games is written in React. Let me show you how the web can serve as a true gaming platform right now\n\n\nOpher Vishnia\nSenior Creative Developer\n\nOpher is a multidisciplinary creator whose work spans the fields of web development, design, music and game development.\n\nFor the past nine years Opher has been working at Eko as lead creative developer, specializing in web technologies. His day-to-day involves working with both creative teams (design, art, film) as well as development teams to push the envelope of interactive video, a new and exciting creative medium. His prominent work involved the VR film “Broken Night” and was featured at Cannes film festival and the Tribeca Film Festival in NYC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSwxSS_zOnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSwxSS_zOnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSwxSS_zOnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NSwxSS_zOnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NSwxSS_zOnA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NSwxSS_zOnA"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "NSwxSS_zOnA",
+        "videoPublishedAt": "2023-07-13T14:45:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n2Dv3t5RHUnZLbJQ9pG83rEmAuw",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-07-13T08:40:25Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Noam Rosenthal @ ReactNext '23 | React and/or Web Components?",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nReact and/or Web Components?\n\nIntermediate | English\n\nAre Web-Components a React \"killer\" (alternative)? Or are the two technologies meant to work together?\n\nWe will explore what web components are, what they're useful and not useful for, where they can be an alternative and where React & Web Components can work together.\n\n\nNoam Rosenthal\nBrowsers & Standards Engineer\n\nA seasoned software engineer, who spent many years in both the web-development world and in developing browsers & standards.\n\nCurrently a Software Engineer for Google Chrome Speed Metrics, the team behind Core Web Vitals and the performance APIs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jBJ7eoPtmY8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "jBJ7eoPtmY8",
+        "videoPublishedAt": "2023-07-13T15:00:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LXC7iuQvzW_qPDvE7pt96-YELQ0",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-07-14T07:59:48Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Dan Shappir @ ReactNext '23 | Overcoming the Performance Cost of Hydration",
+        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nOvercoming the Performance Cost of Hydration\n\nIntermediate | English\n\nModern JavaScript frameworks overcame the rendering performance limitations of Single-Page Applications (SPAs) by introducing Server-Side Rendering (SSR) and Static Site Generation (SSG). Unfortunately at the same time they created a potentially worse problem: unresponsive user interfaces. This is due to the requirement to hydrate UIs provided by SSR / SSG using client-side JavaScript before they can respond to user interactions. Recently frameworks have started to tackle this issue using a variety of different approaches. These approaches include: islands of hydration, selective hydration, server-side components, progressive enhancement, render slicing, edge computing, and resumability. In this talk I will describe these approaches, and highlight their benefits and limitations. Together we will try to determine which approach is likely to win out.\n\n\nDan Shappir\nPerformance Tech Lead\n\nDan Shappir is the Performance Tech Lead at NEXT Insurance. Dan has over 25 years of software development experience, and has worked on systems ranging from multiuser games to missile trajectory simulations to designing and building large-scale Web applications used by hundreds of millions of users. He is a frequent speaker at technical conferences, a host and panelist on the JavaScript Jabber podcast, and an Invited Expert on the W3C Web Performance Working Group. Dan holds an MSc in Computer Science.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kd0fT1W0PL8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "kd0fT1W0PL8",
+        "videoPublishedAt": "2023-07-14T08:04:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 23,
+    "resultsPerPage": 50
+  }
+}
