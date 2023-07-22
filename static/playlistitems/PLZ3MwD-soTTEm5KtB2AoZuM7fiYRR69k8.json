@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Q53TQCU8dAruOxDJqAe1OtRPe-8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E1Wgyro-Zyflt1AwsiOakTlF10I",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-07-20T06:10:12Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2023 Trailer",
+        "description": "React Native EU 2023 is almost there ⏰\n\nGet ready for inspiring talks, amazing speakers, unforgettable #RNEUvibe, and much more!\n\nHyped? Get your ticket now 🎟 https://hubs.li/Q01Wvnj70",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-fL7wZDKSEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-fL7wZDKSEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-fL7wZDKSEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-fL7wZDKSEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-fL7wZDKSEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-fL7wZDKSEE"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "-fL7wZDKSEE",
+        "videoPublishedAt": "2023-07-20T06:13:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xQElrRFk4MCbMID8Zhi8Poq0fyk",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-07-20T06:14:10Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Guenther Steiner invites you to React Native EU 🏁",
+        "description": "Let's hear from React Native EU 2023 guest speaker,  Guenther Steiner 🏁 \n\nYou might know Guenther from a Netflix hit “Drive to Survive” or simply from the world of Formula 1 – either way, we are really excited to have him join our conference. Guenther has a personal video invitation just for you, our dear community ❤️️ \n\nIf you're a fan of F1 and can't resist his quick wit, you definitely don't want to miss out, so get your ticket now and join us as we bring together the best of React Native and the thrill of Formula 1 👉 https://hubs.li/Q01Y8skf0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9o3uCx_Zo24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9o3uCx_Zo24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9o3uCx_Zo24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9o3uCx_Zo24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9o3uCx_Zo24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9o3uCx_Zo24"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "9o3uCx_Zo24",
+        "videoPublishedAt": "2023-07-19T10:26:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
