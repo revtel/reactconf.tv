@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "8xDnSRMAth91Ojqqr_vATjz80Jo",
+  "etag": "O9kBf0382qRJmocfYpJVImeH1No",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1109,7 +1109,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "n2Dv3t5RHUnZLbJQ9pG83rEmAuw",
+      "etag": "AZDVY5JsooPIeOV9-jkeAvQTXyU",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-07-13T08:40:25Z",
@@ -1214,10 +1214,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6r5VYHIdg5YPW_WcJJz1k9mi5do",
+      "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-08-01T07:52:02Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2023 Highlights",
+        "description": "ReactNext 2023\nIsrael's annual React & React Native Conference\nwww.react-next.com\n\nSince 2016, ReactNext has been Israel’s largest and most prestigious conference for the React© framework. The all technical conference brings top local and international speakers to share their experiences with over 1,000 developers in Israel and from all over the world. The conference features advanced topics aimed for experienced developers, team leaders, and consultants. And a great opportunity for R&D and product managers to evaluate the business advantages of React.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u9JA4PwgjR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u9JA4PwgjR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u9JA4PwgjR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u9JA4PwgjR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u9JA4PwgjR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u9JA4PwgjR8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "u9JA4PwgjR8",
+        "videoPublishedAt": "2023-08-01T07:52:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 23,
+    "totalResults": 24,
     "resultsPerPage": 50
   }
 }
