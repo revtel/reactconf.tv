@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "z4pbb_nl2W_Sab95vteoi9yUkq8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0aBFw8sAfEWVV0h9EXtRs5UAWE",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-08-28T17:17:52Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "209   useWat  David Khourshid",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QoJcMhpRngQ"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "QoJcMhpRngQ",
+        "videoPublishedAt": "2023-08-28T16:45:05Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
