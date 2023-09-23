@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Q53TQCU8dAruOxDJqAe1OtRPe-8",
+  "etag": "3qOsgrHADVqhKCWAjaRj2fkamwg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -109,10 +109,726 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kIi9SLzRrGFnn5e8plrdC7DhqGM",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-09-21T08:02:05Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2023 Keynote - Łukasz Chludziński, Alex Hunt, Riccardo Cipolleschi",
+        "description": "🗣 Speaker Bios\n\nŁukasz Chludziński is an experienced React Native Developer with a background in Android development. Specializing in creating apps for multiple platforms: mobile, web and TV. Known for attention to detail and proactive approach. Constantly learning to stay ahead of industry trends and experiment with new ideas. Host of The React Native Show Podcast and Mentor in the field of Community and Trainings at Callstack.\n\nAlex Hunt is a Software Engineer at Meta working on React Native Developer Experience. He is passionate about developer tooling and productivity. Prior to Meta, Alex worked in several product teams and startups making use of React Native, which he hopes will keep him looking at problems from a user's perspective as he writes less and less UI! In his free time, he enjoys rock climbing, snowboarding, investing, plugging Notion, and learning Japanese.\n\nRiccardo Cipolleschi is a Software Engineer with 7 years of experience in iOS development. He joined Meta and the React org in March 2022. Since then, he mainly worked on the Open Source build system for iOS and on the rollout of the New Architecture in the Open Source. In his free time, he writes technical articles on Swift, runs, plays tennis and drums.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nLearn more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-rCRgbsJumk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-rCRgbsJumk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rCRgbsJumk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-rCRgbsJumk"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "-rCRgbsJumk",
+        "videoPublishedAt": "2023-09-22T11:42:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ycx-9KjXlEGaTd_kcVrWPwReskM",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-09-21T09:07:40Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Scaling of the PlayStation App with React Native - Fernando Ruiz | React Native EU 2023",
+        "description": "📖 About the talk \n\nIn 2017, we launched a version of the PS App with 5 major features that complemented the experience of the player’s console. By 2019, we had a new challenge; bring a new generation of the PlayStation experiences that players loved as well as newer features that would delight and attract new players into the PlayStation ecosystem. In this talk you’ll learn what philosophies as well as guidelines we created in order to set up our application for a long term future keeping quality, performance, and scalability of our code base, features, and teams.\n\n🗣 Speaker Bio\n\nFernando is a Staff Software Engineer at PlayStation based in San Francisco working on the PS App with React Native. Some of his hobbies include photography (macro and landscapes), reading, and exploring new cities.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ND8hREs04FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ND8hREs04FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ND8hREs04FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ND8hREs04FY"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "ND8hREs04FY",
+        "videoPublishedAt": "2023-09-22T11:42:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HOzFnvotFjSt1OdJ8XBb7XMz678",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-09-21T10:31:52Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The Invisible Architect - Michał Pierzchała | React Native EU 2023",
+        "description": "📖 About the talk \n\nAs app developers, builders, software architects and designers, we’re used to shaping things the way we like. Bending the code to our reality. Often believing we have full control over our creation. But reality is much more complex. Reality means talking to other people, communicating needs and ideas. I’m going to show you how this communication shapes and designs your products and code, how React fits into this picture, and how to take Conway’s law to your advantage.\n\n🗣 Speaker Bio\n\nHead of Technology at Callstack. Passionate about building mobile and web experiences, high quality JS tooling and Open Source. Core React Native Community & Jest contributor. Space exploration enthusiast.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WhhQwUPSaaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WhhQwUPSaaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WhhQwUPSaaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WhhQwUPSaaY"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "WhhQwUPSaaY",
+        "videoPublishedAt": "2023-09-22T11:44:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mxc1sMxw3o0fNaLURKzDHB8528I",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-09-21T11:10:49Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "The day I broke React Native - Nicola Corti | React Native EU 2023",
+        "description": "📖 About the talk \n\n4th November 2022. It was just a regular day for the “release crew” as we were approaching to prepare the first release candidate for React Native 0.71. Little did we know how an innocuous release could have triggered a domino effect resulting in failing builds for nearly every React Native developer out there. With the wisdom of hindsight, we’ll walk through what happened, what are our lessons learned and the lowlights of this incident. We’ll have the opportunity to look through the internals of React Native, discover our incident-response culture, and learn how we’re hardening our ecosystem to protect us against similar events in the future. Join me as we revive this incident, and don’t miss this opportunity to gain insights, be inspired, and embrace the lessons learned from the day I broke React Native.\n\n🗣 Speaker Bio\n\nNicola Corti is a Google Developer Expert for Kotlin. He has been working with the language since before version 1.0, and he is the maintainer of several open-source libraries and tools for mobile developers. He's currently working in the React Native Core team at Meta, building one of the most popular cross-platform mobile framework. Furthermore, he is an active member of the developer community. His involvement goes from speaking at international conferences to being a member of CFP committees and supporting developer communities across Europe. In his free time, he also loves baking, podcasting, and running.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rers6rpuGTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rers6rpuGTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rers6rpuGTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rers6rpuGTo"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Rers6rpuGTo",
+        "videoPublishedAt": "2023-09-22T11:45:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y0QzWFp0w4W7eFCkBgHdpvLx5_Y",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-09-21T11:33:15Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Our Journey of Making React Native a Preferred Choice - Lorenzo Sciandra & Tommy Nguyen | RNEU 2023",
+        "description": "📖 About the talk \n\nAt Microsoft, we're committed to providing our teams with the best tools and technologies to build high-quality mobile applications. React Native has long been a preferred choice for its high performance and great user experience, but getting stakeholders on board can be a challenge. In this talk, we will share our journey of making React Native a preferred choice for stakeholders who prioritize ease of integration and developer experience. We'll discuss the specific strategies we used to achieve our goal and the results we achieved.\n\n🗣 Speaker Bios\n\nLorenzo Sciandra is a Senior Software Engineer at Microsoft; since 2018 he is also a maintainer of react-native, and he’s been a releaser since 0.57.4. He cares a lot about mental health and open source, and won’t stop talking about either.\n\nTommy Nguyen is a Software Engineer at Microsoft who has shipped React Native based experiences within existing Microsoft apps and are now focussing on tooling and making the developer experience better for everyone.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PYMMxfttOug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PYMMxfttOug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PYMMxfttOug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PYMMxfttOug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PYMMxfttOug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PYMMxfttOug"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "PYMMxfttOug",
+        "videoPublishedAt": "2023-09-22T11:46:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_GPGQIGgYG_qeFpT5Z_2XDfCWns",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-09-21T12:02:06Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "How Expensify is Building Bridges with OSS and React Native - Rory Abraham | React Native EU 2023",
+        "description": "📖 About the talk \n\nExpensify's mission is to \"Live Rich, Have Fun, Save the World\", and at a high level that means building a community of people who come together to solve humanity’s urgent challenges. This guiding principle has informed the decision to rebuild Expensify's product as a next-gen collaboration tool, from the ground up with a fully open-source front-end. This approach gives us access to specialized talent, enables us to scale up our engineering capacity without expanding the internal team, and ultimately preserves Expensify's tight-knit culture, keeping us laser-focused on our long-term vision. In this speech, we'll take a tour of Expensify's open-source contribution program and demonstrate how the company engages a global network of contributors to build features, fix bugs, and ultimately build a better product. Our commitment to communal ownership of our dependencies, and the drive to build up the entire React Native community, ties into our long-term goal to build a community that empowers people to \"Get Shit Done.\" We'll discuss in detail how the program works, including the various roles we’ve made available for external contributors, how they can get paid to contribute, and some lessons learned along the way. Join us as we explore how Expensify is building bridges with open-source and React Native, and how this approach aligns with our mission to make a positive impact on the world.\n\n🗣 Speaker Bio\nRory Abraham is a Full Stack developer at Expensify, and he's helped build our open-source program since it's inception. He spends a huge portion of his time working with developers from all across the React Native community to help Expensify build their product and, importantly, to improve their dependencies.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jqKE7suC-s8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jqKE7suC-s8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jqKE7suC-s8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jqKE7suC-s8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jqKE7suC-s8"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "jqKE7suC-s8",
+        "videoPublishedAt": "2023-09-22T11:46:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DjlElVcoUzrMwEGG0uptwkvah2Q",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-09-21T13:03:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Adding modularity to your React Native library - Mathieu Acthernoene | React Native EU 2023",
+        "description": "📖 About the talk \n\nIn order to avoid tedious iOS app store reviews, react-native-permissions had to be rewritten in a modular way at some point. Find out how it's done, the benefits of the different approaches, and how you can achieve the same result for your own library.\n\n🗣 Speaker Bio\n\nMathieu Acthernoene is a Lead frontend developer at Swan.io and maintainer of react-native-(permissions / localize / bootsplash / bars / dev-menu…). In love with type systems and \"boring\" libraries that do their job without any fuss.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaSUaB4if2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaSUaB4if2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaSUaB4if2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eaSUaB4if2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eaSUaB4if2g"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "eaSUaB4if2g",
+        "videoPublishedAt": "2023-09-22T11:47:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-NWpCd0v9RaMp0peVGANUVTXNLU",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-09-21T13:41:46Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Build Your Mental Model of React’s Rendering Behavior - Charlotte Isambert | React Native EU 2023",
+        "description": "📖 About the talk \n\nJoin me as we explore the intricacies of React's rendering system and develop a comprehensive mental model of how it works. We'll build data-driven schemas to examine how React tracks its elements and their data over time and determines which components need to be updated. But be prepared: we’ll need to talk about fibers. By delving deeper into React's inner work, we'll be better equipped to identify performance issues and troubleshoot tricky bugs in our daily life.\n\n🗣 Speaker Bio\n\nCharlotte is a software architect at BAM, a company specialized in mobile apps, with a big React Native tribe. She has been a React Native developer for 3 years.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-x2HdZ5unH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-x2HdZ5unH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-x2HdZ5unH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-x2HdZ5unH4"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "-x2HdZ5unH4",
+        "videoPublishedAt": "2023-09-22T11:48:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KuKrlQsCoDMqzG2yefIodX4MfPc",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-09-21T13:59:26Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Creating Design Systems in React Native - Marek Fořt | React Native EU 2023",
+        "description": "📖 About the talk \n\nOver the last year, we built a new design system in React Native for our Shopify apps. What does that entail? What principles have we used? How do you build a design system that is scalable while ensuring that any component provides the best UX out-of-the-box?\n\n🗣 Speaker Bio\n\nMarek Fořt is a software engineer at Shopify working on the Shopify Mobile app and its React Native design system.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jKhLWl1MX5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jKhLWl1MX5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jKhLWl1MX5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jKhLWl1MX5s"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "jKhLWl1MX5s",
+        "videoPublishedAt": "2023-09-22T11:48:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xmi76ohDRjIP1uswFg-SVhkGpII",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-09-21T14:55:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3zvbeN_91nk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3zvbeN_91nk"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4tdGpldgCPA6o8yF_jXwp1wE9kI",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-09-21T15:28:12Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wRx9oSVaSXs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wRx9oSVaSXs"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J5tONiLn-VojItWqBGhlJDDDV4Y",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-09-21T15:31:53Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iw12uJf1BwM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iw12uJf1BwM"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ke0K_psrBVgpH3YuDNpXJp7nYYA",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-09-21T16:45:22Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eaZ9MdRIbRQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eaZ9MdRIbRQ"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FSDmqqAqI_iL7ekWrczQvxLQrFk",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-09-21T16:58:06Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UnSYNKZnAXA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UnSYNKZnAXA"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1kxvJx-EB_k3uXiUmpzu_HnJyRE",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-09-21T19:37:15Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LIhDyF1Gatc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LIhDyF1Gatc"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zWbMb5q6nhQjZQ-4WZNbNjIo07w",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-09-21T19:58:29Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q-xKYA0EO-c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q-xKYA0EO-c"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q0qOc7tygWX_mAESFTyRJSrtDTc",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-09-22T03:34:30Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V-Z918aWaCQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "V-Z918aWaCQ"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WogjVYcFMXuRQ_MU78E39tBOZKM",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-09-22T04:06:38Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bVBA3cgfSW8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bVBA3cgfSW8"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PDRRZSsXA_ic_3dyMJRzVPYBCGk",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-09-22T04:30:33Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CRQOkie6Ej8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CRQOkie6Ej8"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y1pKx1CJ5d9ak98gqw4U7c9Ut0g",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-09-22T04:49:33Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgpHCLCwebU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EgpHCLCwebU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FeCW2HogH8BP5KDGD1k_IT-D3Nc",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-09-22T04:54:11Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KePfrsBj8wg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KePfrsBj8wg"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 23,
     "resultsPerPage": 50
   }
 }
