@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "3qOsgrHADVqhKCWAjaRj2fkamwg",
+  "etag": "oKFnW7ieL8Xh1kduKIoyW1ZXCtU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -156,7 +156,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ycx-9KjXlEGaTd_kcVrWPwReskM",
+      "etag": "blotsqzOB_oZZjxI_1AjYM_FcC0",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-09-21T09:07:40Z",
@@ -200,7 +200,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HOzFnvotFjSt1OdJ8XBb7XMz678",
+      "etag": "kdmT1vReOxMhj9Ww6u4bPGjDbTc",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-09-21T10:31:52Z",
@@ -528,177 +528,335 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xmi76ohDRjIP1uswFg-SVhkGpII",
+      "etag": "4slz-jPIie0JeHmgpBcnOoZIhEI",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2023-09-21T14:55:31Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "A peek into React Navigation 7 - Satyajit Sahoo | React Native 2023",
+        "description": "📖 About the talk \n\nReact Navigation is one of the most popular navigation libraries. The upcoming version brings further refinements and adds some long-requested features. In this talk, we will share some highlights of React Navigation 7, such as the new optional static API, and how you can test them out and provide feedback.\n\n🗣 Speaker Bio\n\nReact Native and Web developer who specializes in JavaScript, TypeScript, and all things frontend related. Satya has created and maintained many open source libraries for React Native & Web such as React Navigation, React Native Paper, React Native Builder Bob, Linaria etc. Creator of React Navigation 5 and Linaria.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zvbeN_91nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zvbeN_91nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zvbeN_91nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3zvbeN_91nk"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "3zvbeN_91nk"
+        "videoId": "3zvbeN_91nk",
+        "videoPublishedAt": "2023-09-25T08:40:16Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4tdGpldgCPA6o8yF_jXwp1wE9kI",
+      "etag": "EpTZUJuWEXhKXpy2s2_o1LYg4Ns",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2023-09-21T15:28:12Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Lifting & Shifting Entire React Ecosystem into New Languages - Matt Hargett | React Native EU 2023",
+        "description": "📖 About the talk \n\nHow do you prove out a new language, type system, or virtual machine implementation? How do you accelerate maturity while you wait for organic adoption and deployment of your new language at scale? In this talk, we’ll discuss how lifting and shifting nearly 500KLOC of React, Jest, and GraphQL into a new language, VM, and type system rapidly accelerated maturity and also highlighted latent issues in React and TypeScript.\n\n🗣 Speaker Bio\n\nMatt has been programming since 1984, speaking at conferences worldwide since 1998, and been working with React since 2013. He lives in San Francisco with his husband of 23 years, their daughter, and their dog.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wRx9oSVaSXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wRx9oSVaSXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wRx9oSVaSXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "wRx9oSVaSXs"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "wRx9oSVaSXs"
+        "videoId": "wRx9oSVaSXs",
+        "videoPublishedAt": "2023-09-25T08:40:30Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J5tONiLn-VojItWqBGhlJDDDV4Y",
+      "etag": "hIilDM3emDj32Y8BCldBQHcUxZs",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2023-09-21T15:31:53Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Feature Driven Design: Microfrontends’ Best Friend (Chase App) - Sandra Jurek | React Native EU 2023",
+        "description": "📖 About the talk \n\nOver the last few years, the idea of creating front-end applications implementing the microfrontends design approach became increasingly popular. Not surprisingly – developing the application in a modular way empowers the teams to work with their own pace and take more ownership of the code they write. It can also significantly speed up the delivery of features across the project, as long as it is implemented well. In the very beginning, a lot of React Native projects started off as monolithic apps. Even now, when looking for a starter template for a React Native application, it is likely to come across the examples that suggest dividing the code based on its type – screens, components, hooks, helpers, utils, etc. A division that is perfectly suitable for small projects, but in the long run will not be able to guarantee the scalability of fast-growing ones. One that might result in difficult to detect cyclic dependencies, can delay the release of the product due to a simple defect in one of the packages or forces all the teams to use the same tools and boilerplates. Following the principles of feature driven design can help to take the project one step further, offering the possibility to scale it based on – as the name suggests – the development of the features included in it. Not necessarily features commonly understood in the context of the agile methodology, but the product features – the ones that describe the characteristics of what a particular area in the product (and correspondingly in the codebase) is responsible for.\n\n🗣 Speaker Bio\n\nSandra is a robotics engineer turned frontend engineer in JPMorgan Chase. Her key responsibilities involve leading the design system implementation and being responsible for the frontend architecture of the application. Her experience includes working on projects for leading UK brands, such as Wagamama, Jaguar Land Rover, Boots and Nando’s. In her free time, she enjoys playing board games and creative crafts.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iw12uJf1BwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iw12uJf1BwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iw12uJf1BwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iw12uJf1BwM"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "iw12uJf1BwM"
+        "videoId": "iw12uJf1BwM",
+        "videoPublishedAt": "2023-09-25T08:40:40Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ke0K_psrBVgpH3YuDNpXJp7nYYA",
+      "etag": "3wMrG3le6AlgGSS-V0mLaNnl-rE",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2023-09-21T16:45:22Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "A Story(book) About Testing - Anisha Malde | React Native EU 2023",
+        "description": "📖 About the talk \n\nDuring this talk I’m going to dive into what Storybook is and how you can use it for UI development, testing, and documentation. I’ll go through examples of how you can use storybooks capacity to isolate a component, to import stories into tools like Jest, Testing Library, Puppeteer, and Cypress to save you time and maintenance work. I’ll also show you how you can easily use it for, the often forgotten, visual regression and accessibility testing.\n\n🗣 Speaker Bio\n\nAnisha is a Developer Advocate at Amazon where she is focused on engaging app and game developers through teaching, code samples, and public speaking. Previously, she was a React developer at IBM and was the recipient of the Rising Star in Digital 2021 Award & Top 100 Women in Tech award in the UK. \n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaZ9MdRIbRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaZ9MdRIbRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaZ9MdRIbRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eaZ9MdRIbRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eaZ9MdRIbRQ"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "eaZ9MdRIbRQ"
+        "videoId": "eaZ9MdRIbRQ",
+        "videoPublishedAt": "2023-09-25T08:40:48Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FSDmqqAqI_iL7ekWrczQvxLQrFk",
+      "etag": "KueB1TSgqLYW6Vc0Rw44Kg6wH34",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2023-09-21T16:58:06Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "How Ant Colonies are Revolutionizing Digital Health Development - Jacob Suñol | React Native EU 2023",
+        "description": "📖 About the talk \n\nEver wondered what ants and React Native have in common? Join Jacob Sunol as he takes you on an extraordinary journey that bridges the natural world with the realm of digital health technology. Learn how the intricate social structures of ant colonies can offer invaluable insights into team building, specialization, and communication in React Native digital health projects. This talk will explore the fascinating world of ants as superorganisms and how their principles can be applied to create more efficient, sustainable, and adaptable digital health solutions. Whether you’re a developer, a healthcare professional, or simply someone intrigued by the intersection of nature and technology, this presentation offers a fresh perspective that will leave you buzzing with new ideas! Don’t miss this unique opportunity to discover how we can learn from nature to improve digital health outcomes. See you there!\n\n🗣 Speaker Bio\n\nJacob is a Senior Director of Product Development at Abbott. He has 20+ years of experience in the healthcare industry, and he’s dedicated his career to transforming how we approach digital health. His journey has taken him through pharmaceuticals, medical devices, and digital health startups at companies like Abbott, Roche, and Ipsen. As a seasoned leader, Jacob has spearheaded digital transformations in global organizations, scaling teams and processes to deliver cutting-edge digital products.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnSYNKZnAXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnSYNKZnAXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnSYNKZnAXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UnSYNKZnAXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UnSYNKZnAXA"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "UnSYNKZnAXA"
+        "videoId": "UnSYNKZnAXA",
+        "videoPublishedAt": "2023-09-25T08:40:56Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1kxvJx-EB_k3uXiUmpzu_HnJyRE",
+      "etag": "8KAYiWVILcVqLDjf40Z2fpdvk_Q",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2023-09-21T19:37:15Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Hermes Hacking: Demystifying JavaScript Engines - Radek Pietruszewski | React Native EU 2023",
+        "description": "📖 About the talk \n\nTo many JavaScript developers, JavaScript engines seem like black magic. But they really aren't! They're just programs, like anything else, and you too can understand at a high level how they work, and even contribute. Let me demystify Hermes, and explain to you how its pieces — bytecode, interpreter, garbage collector, hidden classes, and more — all fit together to run your React Native app. We'll also take a look at Hermes's C++ codebase, and make a few changes, and compile it!\n\n🗣 Speaker Bio\n\nCTO at Nozbe. Author of WatermelonDB and ZACS. Proud generalist.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIhDyF1Gatc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIhDyF1Gatc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIhDyF1Gatc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIhDyF1Gatc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIhDyF1Gatc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LIhDyF1Gatc"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "LIhDyF1Gatc"
+        "videoId": "LIhDyF1Gatc",
+        "videoPublishedAt": "2023-09-25T08:41:01Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zWbMb5q6nhQjZQ-4WZNbNjIo07w",
+      "etag": "czM8CTBgE1fMrbd2pCs7sQSLw20",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2023-09-21T19:58:29Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Static Hermes: the Next Generation of Hermes - Tzvetan Mikov | React Native EU 2023",
+        "description": "📖 About the talk \n\nWelcome to Static Hermes, an evolution of non-web JavaScript engines. The cornerstone feature is the optional compilation of type-annotated JavaScript into native code, offering predictable performance on par with C/C++. It supports an arbitrary mix of native and interpreted code, both typed and untyped. Optional 'unsafe' language extensions enable direct manipulation of native types and APIs, reducing the need to shift to C++ and allowing for a predominantly single-language codebase. These advancements merge native-like power with the flexibility and convenience of JavaScript. We will explore how Static Hermes may redefine our interaction with React Native and shift the paradigm of JavaScript engines.\n\n🗣 Speaker Bio\n\nWorking on a super secret project to speed up JS, previously Hermes JavaScript Engine, previously Bloomberg L.P.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q-xKYA0EO-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q-xKYA0EO-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q-xKYA0EO-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q-xKYA0EO-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q-xKYA0EO-c"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "q-xKYA0EO-c"
+        "videoId": "q-xKYA0EO-c",
+        "videoPublishedAt": "2023-09-25T08:42:45Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
@@ -728,107 +886,257 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WogjVYcFMXuRQ_MU78E39tBOZKM",
+      "etag": "BkkUJRwkPv8GgdW4tdXK4Cyl4n4",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2023-09-22T04:06:38Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Igniting React Native Upgrades with Flame AI - Jamon Holmgren | React Native EU 2023",
+        "description": "📖 About the talk \n\nUpgrading React Native apps has long been a painstaking and tedious task. In this talk, Jamon will introduce a revolutionary and free open-source AI-powered solution: Flame CLI. Flame takes the best of next-gen LLMs and helps you upgrade your project with a lot less hassle.\n\n🗣 Speaker Bio\n\nCofounder and CTO of Infinite Red, React Native enthusiast, international speaker, dad to four kids, semi-pro tractor operator, and rec league hockey goalie.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bVBA3cgfSW8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "bVBA3cgfSW8"
+        "videoId": "bVBA3cgfSW8",
+        "videoPublishedAt": "2023-09-25T08:43:01Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PDRRZSsXA_ic_3dyMJRzVPYBCGk",
+      "etag": "DQ80uEVFfeVUJzJ3l8l_4ypnYp8",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2023-09-22T04:30:33Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Connecting React Native App with Garmin Smartwatch - Małgorzata Mazurek-Biel | React Native EU 2023",
+        "description": "📖 About the talk \n\nAre you a sports fan? You can’t imagine a day without activity? Maybe you’ve been using a smartwatch and you haven’t realized its full potential? Wearables are great tools, and I would like to take you through my journey of creating a useful Garmin app and utilizing its features with React Native.\n\n🗣 Speaker Bio\n\nMałgorzata has more than 4 years of experience in React. He mainly focuses on developing in field of native mobile development to improve her React Native experience. Her great passion for life is cycling. She takes part in professional cycling tournaments and enjoys every race, no matter what her final result is.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CRQOkie6Ej8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CRQOkie6Ej8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CRQOkie6Ej8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CRQOkie6Ej8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CRQOkie6Ej8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CRQOkie6Ej8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "CRQOkie6Ej8"
+        "videoId": "CRQOkie6Ej8",
+        "videoPublishedAt": "2023-09-25T08:43:10Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Y1pKx1CJ5d9ak98gqw4U7c9Ut0g",
+      "etag": "KyEcSWa9-R8mPIUhW4Q5oLZ5L9E",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-09-22T04:49:33Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "From Gaming to Productivity: how Microsoft is using React Native across a portfolio of experiences",
+        "description": "📖 About the talk \n\nReact Native is used to build features across a large portfolio of applications at Microsoft, and in this talk we will describe several such experiences and how we built them. We will also cover updates to React Native for Windows and macOS, tools that we've built to enable React Native adoption at scale, and our contributions to the overall ecosystem.\n\n🗣 Speaker Bio\n\nKhalef is an engineering manager at Microsoft and his team works on React Native for Windows and the integration of React Native into Microsoft Office. They also contribute to upstream React Native, help drive open source releases and participate in several React Native related working groups.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgpHCLCwebU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgpHCLCwebU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgpHCLCwebU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgpHCLCwebU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgpHCLCwebU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EgpHCLCwebU"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "EgpHCLCwebU"
+        "videoId": "EgpHCLCwebU",
+        "videoPublishedAt": "2023-09-25T08:43:20Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FeCW2HogH8BP5KDGD1k_IT-D3Nc",
-      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4zRjM0MkVCRTg0MkYyQTM0",
+      "etag": "k4RAzI-VEiu8At0CzWj7M-bCfCI",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
-        "publishedAt": "2023-09-22T04:54:11Z",
+        "publishedAt": "2023-09-25T10:27:37Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "React Native Animations in 2023 and Beyond - Catalin Miron | React Native EU 2023",
+        "description": "📖 About the talk \n\nWhat's new, what's coming, what's missing and how to start? A case study of React Native animations in 2023 and beyond.\n\n🗣 Speaker Bio Speaker Bio\n\nCatalin loves giving life to UI through animations and so, he's created AnimateReactNative.com. He's a speaker, YouTuber, father of 2, React & React Native enthusiast, Open Source contributor and coffee nerd. In his free time, he helps others to succeed.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WTfZJ9TreFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WTfZJ9TreFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WTfZJ9TreFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 22,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "KePfrsBj8wg"
-        }
+          "videoId": "WTfZJ9TreFc"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "KePfrsBj8wg"
+        "videoId": "WTfZJ9TreFc",
+        "videoPublishedAt": "2023-09-25T08:39:48Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YNp25JY3r6ySDJru6pf2h-Al8IY",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2023-09-25T10:31:14Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU 2023 Q&A Panel",
+        "description": "🗣 Panel Guests\n\nNicola Corti (Meta), Eli White (Meta), Khalef Hosany (Microsoft), Charlotte Isambert (BAM), Michał Pierzchała (Callstack), Vojtech Novak (Independent Contributor)\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KePfrsBj8wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KePfrsBj8wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KePfrsBj8wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KePfrsBj8wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KePfrsBj8wg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KePfrsBj8wg"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "KePfrsBj8wg",
+        "videoPublishedAt": "2023-09-25T08:43:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 23,
+    "totalResults": 24,
     "resultsPerPage": 50
   }
 }
