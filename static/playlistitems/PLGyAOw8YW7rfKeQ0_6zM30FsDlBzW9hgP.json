@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ybj6ad5bRJ00W6D3fWC769MarhM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dvqf25cHK_XL2tsGw0YZMYR4zLg",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-10-02T08:21:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Remote 2023",
+        "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2fvoGbkG2eo"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "2fvoGbkG2eo",
+        "videoPublishedAt": "2023-10-03T14:08:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
