@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ybj6ad5bRJ00W6D3fWC769MarhM",
+  "etag": "5albjbMNwpq1ONEZu0W0GzQZ0X0",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Dvqf25cHK_XL2tsGw0YZMYR4zLg",
+      "etag": "tzso5nJWJIVwnsQOiy5A12XOfUA",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2023-10-02T08:21:45Z",
@@ -55,10 +55,172 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Smf4VOX9IqID5UVvFqw6gb70-NA",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-10-05T04:13:37Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Master the Next Wave of Identity Management: Leveraging Decentralized Auth with Affinidi Login",
+        "description": "Join this workshop to delve into the world of privacy preserving passwordless authentication where First sign-in acts as registration, collecting essential onboarding data in a seamless process, fostering trust and improving user experience. Users have complete control, ensuring transparent and user-friendly consent for information sharing.Empowering developers to craft efficient, secure, and privacy-conscious user experiences with data integrity and industry-standard compatibility.\n\nAffinidi - https://affinidi.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P91D3CIlKbQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "P91D3CIlKbQ",
+        "videoPublishedAt": "2023-10-05T10:09:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_DFSxJMh1HxXS4PDST064liXD_Y",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-10-05T18:09:07Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2023  - DAY 1",
+        "description": "Day One live stream for the most awaited. \n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Qj2YsbWDB4"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "8Qj2YsbWDB4",
+        "videoPublishedAt": "2023-10-06T19:02:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rgOmm9dpJhxH9GE0kjsSguykmGo",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-10-07T02:44:11Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2023  - DAY 2",
+        "description": "After Epic Day 1 we are back for a super epic Day 2 live stream for the most awaited. \n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JuedZFbhyL0"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "JuedZFbhyL0",
+        "videoPublishedAt": "2023-10-07T02:44:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }
