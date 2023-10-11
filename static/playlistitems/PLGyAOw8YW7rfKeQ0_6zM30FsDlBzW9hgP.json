@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "5albjbMNwpq1ONEZu0W0GzQZ0X0",
+  "etag": "SVhNZWdzMWAQst-wDxJd22Vct5s",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -112,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_DFSxJMh1HxXS4PDST064liXD_Y",
+      "etag": "RW4tD4CqfV8Rrrt81YU5ilEd_ak",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2023-10-05T18:09:07Z",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rgOmm9dpJhxH9GE0kjsSguykmGo",
+      "etag": "TfvxgIpioSCRJuCwFu3Vrs992lg",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-10-07T02:44:11Z",
@@ -175,27 +175,27 @@
         "description": "After Epic Day 1 we are back for a super epic Day 2 live stream for the most awaited. \n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -212,7 +212,7 @@
       },
       "contentDetails": {
         "videoId": "JuedZFbhyL0",
-        "videoPublishedAt": "2023-10-07T02:44:09Z"
+        "videoPublishedAt": "2023-10-07T16:09:29Z"
       },
       "status": {
         "privacyStatus": "public"

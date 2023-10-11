@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "AmXeitLf8PxgH-s6s2cK-5k70ac",
+  "etag": "eclm46m_eZn_nFg2vNPDjhJ-pro",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -861,76 +861,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q0qOc7tygWX_mAESFTyRJSrtDTc",
-      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45RTgxNDRBMzUwRjQ0MDhC",
-      "snippet": {
-        "publishedAt": "2023-09-22T03:34:30Z",
-        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "Callstack Engineers",
-        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "V-Z918aWaCQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "V-Z918aWaCQ"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "BkkUJRwkPv8GgdW4tdXK4Cyl4n4",
-      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5ENDU4Q0M4RDExNzM1Mjcy",
-      "snippet": {
-        "publishedAt": "2023-09-22T04:06:38Z",
-        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Igniting React Native Upgrades with Flame AI - Jamon Holmgren | React Native EU 2023",
-        "description": "📖 About the talk \n\nUpgrading React Native apps has long been a painstaking and tedious task. In this talk, Jamon will introduce a revolutionary and free open-source AI-powered solution: Flame CLI. Flame takes the best of next-gen LLMs and helps you upgrade your project with a lot less hassle.\n\n🗣 Speaker Bio\n\nCofounder and CTO of Infinite Red, React Native enthusiast, international speaker, dad to four kids, semi-pro tractor operator, and rec league hockey goalie.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bVBA3cgfSW8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Callstack Engineers",
-        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "bVBA3cgfSW8"
-        },
-        "videoOwnerChannelTitle": "Callstack Engineers",
-        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
-      },
-      "contentDetails": {
-        "videoId": "bVBA3cgfSW8",
-        "videoPublishedAt": "2023-09-25T08:43:01Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "DQ80uEVFfeVUJzJ3l8l_4ypnYp8",
+      "etag": "DQbTrW0FOeFjazI-RDyHAgGCHXU",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2023-09-22T04:30:33Z",
@@ -966,7 +897,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 20,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CRQOkie6Ej8"
@@ -984,7 +915,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KyEcSWa9-R8mPIUhW4Q5oLZ5L9E",
+      "etag": "WcKmZIeUixKgB_tRcrYxVbr3Eb0",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-09-22T04:49:33Z",
@@ -1020,7 +951,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 21,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EgpHCLCwebU"
@@ -1038,7 +969,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k4RAzI-VEiu8At0CzWj7M-bCfCI",
+      "etag": "hj4UO5RAeccUpMrckCA5o6bZ930",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2023-09-25T10:27:37Z",
@@ -1064,7 +995,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 22,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WTfZJ9TreFc"
@@ -1082,10 +1013,64 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YNp25JY3r6ySDJru6pf2h-Al8IY",
-      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5DNzE1RjZEMUZCMjA0RDBB",
+      "etag": "FwaehJKiyshvFCDT8eIyG9GNT_M",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
-        "publishedAt": "2023-09-25T10:31:14Z",
+        "publishedAt": "2023-10-11T05:18:36Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Igniting React Native Upgrades with Flame AI - Jamon Holmgren | React Native EU 2023",
+        "description": "📖 About the talk \n\nUpgrading React Native apps has long been a painstaking and tedious task. In this talk, Jamon will introduce a revolutionary and free open-source AI-powered solution: Flame CLI. Flame takes the best of next-gen LLMs and helps you upgrade your project with a lot less hassle.\n\n🗣 Speaker Bio\n\nCofounder and CTO of Infinite Red, React Native enthusiast, international speaker, dad to four kids, semi-pro tractor operator, and rec league hockey goalie.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8r0qirR3wWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8r0qirR3wWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8r0qirR3wWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8r0qirR3wWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8r0qirR3wWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8r0qirR3wWY"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "8r0qirR3wWY",
+        "videoPublishedAt": "2023-10-11T05:19:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9C7VLQuqFNBfF7s4Otl35ikRows",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-10-11T05:19:39Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
         "title": "React Native EU 2023 Q&A Panel",
         "description": "🗣 Panel Guests\n\nNicola Corti (Meta), Eli White (Meta), Khalef Hosany (Microsoft), Charlotte Isambert (BAM), Michał Pierzchała (Callstack), Vojtech Novak (Independent Contributor)\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
@@ -1118,7 +1103,7 @@
         },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
-        "position": 23,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KePfrsBj8wg"
@@ -1136,7 +1121,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 24,
+    "totalResults": 23,
     "resultsPerPage": 50
   }
 }
