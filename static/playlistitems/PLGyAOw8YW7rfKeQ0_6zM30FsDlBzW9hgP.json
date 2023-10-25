@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "h2-VIOGeDhTReh3DI5L_koeiDHE",
+  "etag": "hAejaSG7a2GLTCbwX08qWofzqJw",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -976,32 +976,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h6XkuswAudcDRs0YAbcvoVLeuIY",
-      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2023-10-14T18:33:26Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-ai8hzCv9kM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "-ai8hzCv9kM"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "uX8M1c8SJnnRMYz9pPnLJmGkp-Y",
+      "etag": "3x5FCUzsYN113sHUzlKO5Vp2rdQ",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2023-10-14T19:13:40Z",
@@ -1037,7 +1012,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 19,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kjOacmVsLSE"
@@ -1055,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jc4mcm87iH1OJO0pmjNd6PevF00",
+      "etag": "-9o50OfXxmm9JQ8gGPnFinld0AA",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
         "publishedAt": "2023-10-14T19:54:10Z",
@@ -1091,7 +1066,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 20,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CRfsz5j3oww"
@@ -1109,7 +1084,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k-bVoHj-iQyO14JrAyAgJTogT2U",
+      "etag": "IxaQDHp0Vfq8KoCzCMX4FyZm9vk",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-10-14T19:18:33Z",
@@ -1145,7 +1120,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 21,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pfXzmUAw1dI"
@@ -1163,7 +1138,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lQH_NQXmt1Mbh5_dsL6PCnW03TI",
+      "etag": "RNXFx2HY8VZlSpdoBksw_tJapH4",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2023-10-14T19:20:21Z",
@@ -1199,7 +1174,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 22,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NPQwzKP6OMQ"
@@ -1217,7 +1192,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Pd6zIXs8LqrgCIQUBwpSyIN6rKY",
+      "etag": "UIYMQDdARkv9PL7gwix49dX3Hl8",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC44Mjc5REFBRUE2MTdFRDU0",
       "snippet": {
         "publishedAt": "2023-10-14T19:57:50Z",
@@ -1253,7 +1228,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 23,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_6FFj3599Pk"
@@ -1271,7 +1246,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gs_cN-egPjkFjBuIH2zIxl1xtc4",
+      "etag": "6-qyir2LcQ5Lp-EYd2vxW2isVa8",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DQ0MyQ0Y4Mzg0M0VGOEYw",
       "snippet": {
         "publishedAt": "2023-10-14T19:47:48Z",
@@ -1307,7 +1282,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 24,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-S1XgjLKFF8"
@@ -1325,7 +1300,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xXFc6ECmsdLh2IR4s0iNfiYd-kg",
+      "etag": "mKlz10sMLYgma-TLWr2havEXZYo",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
         "publishedAt": "2023-10-14T19:36:49Z",
@@ -1361,7 +1336,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 25,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yLLlIV7kzBI"
@@ -1379,7 +1354,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zx8NjrSG3TwgjFHIjB0kGOzSMkw",
+      "etag": "kQCg11xJNtDj8Wbx6WjRKlnaONo",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4zRDBDOEZDOUM0MDY5NEEz",
       "snippet": {
         "publishedAt": "2023-10-14T20:10:37Z",
@@ -1415,7 +1390,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 26,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "brbOW--PEKM"
@@ -1433,7 +1408,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0-uAMpSRkf3ce348N3_MCUn5_Rk",
+      "etag": "NYazwynVmLMBAs9LHBYJiKixSqQ",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DMkU4NTY1QUFGQTYwMDE3",
       "snippet": {
         "publishedAt": "2023-10-14T19:56:33Z",
@@ -1469,7 +1444,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 27,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fOmvSDH8seI"
@@ -1487,7 +1462,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ou2a5anoEn5LKnKXonmErBh3K3M",
+      "etag": "fl5VZ0SlVbu_pcapIYvg-zqRZPQ",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC43NDhFRTgwOTRERTU4Rjg3",
       "snippet": {
         "publishedAt": "2023-10-14T19:59:35Z",
@@ -1523,7 +1498,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 28,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aWzDBJHgiEc"
@@ -1541,7 +1516,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0zZd80ZIazaTmLiI18WCc4fJudo",
+      "etag": "N3scQTh3yKopV1327zvrRTDyx18",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45NkVENTkxRDdCQUFBMDY4",
       "snippet": {
         "publishedAt": "2023-10-15T08:21:11Z",
@@ -1577,7 +1552,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 29,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jnDuZZhOWjg"
@@ -1595,7 +1570,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IAc875p6uTmBOy2Bns4686PM5Lo",
+      "etag": "NqbF7O7Jo2v9T6r2d-teKHxQSOA",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2023-10-14T19:32:06Z",
@@ -1631,7 +1606,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 30,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ivZAsyVLhR8"
@@ -1649,7 +1624,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J3F08PSsf8PQxUN8IU49Yjbwntc",
+      "etag": "TMSbFyqelaMPKsblB2DmdePWsZE",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
         "publishedAt": "2023-10-14T19:43:33Z",
@@ -1685,7 +1660,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 31,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xx3fmr5htZ8"
@@ -1703,7 +1678,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KbsRsgEkK67nvhdModjxJQuRKkU",
+      "etag": "9UiYwFgup_YLd33rxSsS8Q84GOg",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41QUZGQTY5OTE4QTREQUU4",
       "snippet": {
         "publishedAt": "2023-10-14T20:02:23Z",
@@ -1739,7 +1714,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 32,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XoMgzPxJdKw"
@@ -1750,6 +1725,60 @@
       "contentDetails": {
         "videoId": "XoMgzPxJdKw",
         "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Ag4k0EsB6CJouQkb7M0u6ZJwgE",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:49:32Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Sharing logic & state between universal web and mobile apps - Mo Khazali",
+        "description": "Nowadays, you can write web, mobile, and server side code in Javascript/Typescript. There's a lot of excitement brewing around using React Native to build a single universal web & (native) mobile app - write once, ship everywhere. It's an exciting idea, but does it hold up in reality? Let's explore the benefits and challenges of building universal mobile & web apps with React Native.\n\nMo is the Head of Mobile and a Tech Lead at Theodo UK, having worked on several projects with startups and established enterprises to create cross-platform mobile application in React Native. He's passionate about React Native, MobileDevOps, and pushing the boundaries of combining code across web and mobile. Before joining Theodo, Mo was a full-stack developer at Nasdaq. He is a graduate from the University of Edinburgh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SvrDM_ARJBk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "SvrDM_ARJBk",
+        "videoPublishedAt": "2023-10-15T05:59:26Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -1811,61 +1840,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CT73pTsZ54KP33wtGerRdDDL8M8",
-      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5BRjJDODk5REM0NjkzMUIy",
-      "snippet": {
-        "publishedAt": "2023-10-15T05:49:32Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Sharing logic & state between universal web and mobile apps - Mo Khazali",
-        "description": "Nowadays, you can write web, mobile, and server side code in Javascript/Typescript. There's a lot of excitement brewing around using React Native to build a single universal web & (native) mobile app - write once, ship everywhere. It's an exciting idea, but does it hold up in reality? Let's explore the benefits and challenges of building universal mobile & web apps with React Native.\n\nMo is the Head of Mobile and a Tech Lead at Theodo UK, having worked on several projects with startups and established enterprises to create cross-platform mobile application in React Native. He's passionate about React Native, MobileDevOps, and pushing the boundaries of combining code across web and mobile. Before joining Theodo, Mo was a full-stack developer at Nasdaq. He is a graduate from the University of Edinburgh.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 34,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SvrDM_ARJBk"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "SvrDM_ARJBk",
-        "videoPublishedAt": "2023-10-15T05:59:26Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "IlqzZukooH2Xw3FvXZd5zKgEby4",
+      "etag": "rqjEwaByUAM10_JKlAU2xSsmF4M",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4xOTEzQzhBQzU3MDNDNjcz",
       "snippet": {
         "publishedAt": "2023-10-15T05:50:45Z",
@@ -1901,7 +1876,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 35,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3IVX8sTu15E"
@@ -1919,7 +1894,385 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ONo02i_iPTBeL1rzsXFn6_aFXuk",
+      "etag": "9REdRFJRldtkRZxvS-8tfJ-Gdbw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "IUI (Intelligent User Interface) - Trishanth Naidu",
+        "description": "Hi there, I'm Trishanth Naidu. I am a Software Developer at Paypal. I spend most of the time practically everyday experimenting with React, JavaScript for making apps work better, faster and less troublesome. I have currently started up with my liking towards the world of ML and CI / AI and looking forward to add a lot of them to my upcoming projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aojWZIwZkSY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "aojWZIwZkSY",
+        "videoPublishedAt": "2023-10-23T09:50:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4SI7C18nupuw9f8zYM986cmgfNg",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Type-Safe Style Systems: The Future of CSS - Josh Goldberg",
+        "description": "Hi, I'm Josh! I'm a frontend developer with a passion for open source, static analysis, and the web. I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as typescript-eslint and TypeStat. I'm also the author of the Learning TypeScript book, published by O'Reilly.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XDw2yr0KqzQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XDw2yr0KqzQ",
+        "videoPublishedAt": "2023-10-23T09:51:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BlEo1eoY_bltvHRAxq08IKgi7b4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2023-10-23T06:29:43Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Relay Magic: Revisited - Dipak Ingole",
+        "description": "About Dipak Ingole \n\nWeb developer with over 9+ years of experience working on UI frameworks and libraries ranging from jQuery, DOJO to modern SPA world frameworks like Angular to React. Hands on experience working with Wepack, Rollup, GitWeb developer with over 9+ years of experience working on UI frameworks and libraries ranging from jQuery, DOJO to modern SPA world frameworks like Angular to React. Hands on experience working with Wepack, Rollup, Git",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z-oA_QcreAs"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "z-oA_QcreAs",
+        "videoPublishedAt": "2023-10-23T06:30:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xty_3zM2cOfw5XkqlucWpT7a2rU",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Computer Science of Fibers - Matheus Albuquerque",
+        "description": "Matheus is a Sr. Front-End Engineer at Medallia, building their surveys platform and helping them shape the customer experience market with React, and a Google Developer Expert in Web Performance. His areas of interest include React and its ecosystem, JS and compile-to-JS languages, DX, and perceived performance optimization. Aside from public speaking about these, he also volunteers at TechLabs, teaching front-end development.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0Q6dclJGHjA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0Q6dclJGHjA",
+        "videoPublishedAt": "2023-10-23T09:51:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e-sHYaX68GqJGRhMptY9dnuEJc4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "A nerdy guide to the web trending concepts - Daniel Afonso",
+        "description": "Daniel Afonso is a Developer Advocate with a full-stack background, having worked with different languages and frameworks on various projects from IoT to Fraud Detection. He is passionate about learning and teaching and has spoken at multiple conferences related to React, JavaScript, and testing. In his free time, when he's not learning new technologies or writing about them, he's probably reading comics or watching superhero movies and shows.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t304OkG7siM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "t304OkG7siM",
+        "videoPublishedAt": "2023-10-23T09:51:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XbQ-2FMkNdTSmhAArnlM3_oD0po",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "How does Netflix build software to streamline organizational operations - Ruchi Agarwal",
+        "description": "Ruchi is a senior software engineer at Netflix with over 12 years of experience in building full-stack web applications. She has led and architected many projects at Netflix and has been a key player in the success of these applications. Prior to Netflix, Ruchi worked at Apple where she worked with the iPhone h/w team, building tools that are used for performance testing of different iPhone configurations. Ruchi has a Bachelor's and Master’s degree in Computer Science. In her free time, she enjoys reading and painting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XA8tCQtpVhk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XA8tCQtpVhk",
+        "videoPublishedAt": "2023-10-23T09:50:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g5vNU-e7vWriUZ8BKWkp6WnzhoE",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React Server Components: The next paradigm - Shaswat Prabhat",
+        "description": "About Shaswat: Passionate technologist with over eight years of experience in software engineering and Web. Striving to make the world a better place one commit at a time.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WE-oVpoYnoQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "WE-oVpoYnoQ",
+        "videoPublishedAt": "2023-10-23T09:50:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "htNhA8BjXnl1YSYuopargnCqFIc",
       "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DNkMwRUI2MkI4QkI4NDFG",
       "snippet": {
         "publishedAt": "2023-10-15T09:01:15Z",
@@ -1955,7 +2308,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
-        "position": 36,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bsIlJfozdJw"
@@ -1973,7 +2326,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 37,
+    "totalResults": 43,
     "resultsPerPage": 50
   }
 }

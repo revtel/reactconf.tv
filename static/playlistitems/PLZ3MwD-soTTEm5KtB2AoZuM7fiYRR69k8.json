@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "eclm46m_eZn_nFg2vNPDjhJ-pro",
+  "etag": "xG7RTUoP6gIYtE2KbKzICIVkp_U",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1118,10 +1118,35 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iYVBN325Ns7TPPMyabGeJWTgSXw",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-10-25T07:15:44Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "peGVNs0IrDU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "peGVNs0IrDU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 23,
+    "totalResults": 24,
     "resultsPerPage": 50
   }
 }
