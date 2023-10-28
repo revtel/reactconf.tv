@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "xG7RTUoP6gIYtE2KbKzICIVkp_U",
+  "etag": "_BTpxum2OwKv6RKu8qffpFKlh2s",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1121,27 +1121,56 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iYVBN325Ns7TPPMyabGeJWTgSXw",
+      "etag": "2dF0hcoFedXZGSKCFzCYM3TdEBg",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yQUE2Q0JEMTk4NTM3RTZC",
       "snippet": {
         "publishedAt": "2023-10-25T07:15:44Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "React Native EU 2023 Aftermovie",
+        "description": "✨React Native EU is powered by Callstack, Total Software Engineering Consultancy✨\n\nLet’s relive the excitement, energy, and unforgettable moments of React Native EU 2023 with the aftermovie! 🎥🍿 \n\nImmerse yourself in the highlights of the conference and let the nostalgia sweep over you. Keep an eye out for familiar faces – if you were there, you might just spot yourself in the crowd, and if that's the case, let us know in the comments.\n\nBy the way, tickets for React Native EU are available 🎟 https://hubs.li/Q026HgcF0\n\nSubscribe to Callstack newsletter for tech leaders and developers ✉️ https://hubs.li/Q026HfSL0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/peGVNs0IrDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/peGVNs0IrDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/peGVNs0IrDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/peGVNs0IrDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/peGVNs0IrDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "peGVNs0IrDU"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "peGVNs0IrDU"
+        "videoId": "peGVNs0IrDU",
+        "videoPublishedAt": "2023-10-25T12:57:53Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     }
   ],
