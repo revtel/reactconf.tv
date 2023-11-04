@@ -1,0 +1,222 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Zi7LbCoHeRoZlWt4TgXjiww3QW0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rjK5LYTRvzRF9tYnCnmYzjEFW0Y",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-11-02T06:09:31Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Is React Native cross-platform default? | RNEU 2023 Interview with Łukasz Chludziński",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q0272xDq0 \n\nReady to dive into the post-React Native EU 2023 vibes? In this exclusive interview, we caught up with Łukasz Chludziński, one of the keynote speakers, to discuss the future of React Native.\n\nŁukasz takes us through the nitty-gritty of his talk, dissecting Airbnb’s \"Sunsetting React Native\" saga and why React Native stands strong as the go-to cross-platform solution for startups, SMEs, and big-league enterprises. Get the inside scoop on his conference experience, insights, and what's on the horizon for React Native 🚀\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟️ https://hubs.ly/Q0272xNt0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8rGt4l2Zao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8rGt4l2Zao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8rGt4l2Zao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z8rGt4l2Zao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z8rGt4l2Zao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z8rGt4l2Zao"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "Z8rGt4l2Zao",
+        "videoPublishedAt": "2023-11-03T12:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HgWSh_1uHxIo0ZsGF-StF2yP064",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-11-02T06:11:41Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Community is stronger than ever | RNEU 2023 Interview with Tommy Nguyen & Lorenzo Sciandra",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.ly/Q0272y0n0 \n\n\nHow about digging deeper into Microsoft’s journey to making React Native a preferred choice for stakeholders who prioritize ease of integration and developer experience? We give you an exclusive interview featuring React Native EU 2023 speakers, Lorenzo Sciandra and Tommy Nguyen.\n\nDiscover the behind-the-scenes moments that led Lorenzo and Tommy to elevate React Native as a top choice and their take on its future – and find out how they enjoyed React Native EU 2023.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.ly/Q0272xXH0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gNJANL_AXIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gNJANL_AXIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gNJANL_AXIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gNJANL_AXIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gNJANL_AXIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gNJANL_AXIU"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "gNJANL_AXIU",
+        "videoPublishedAt": "2023-11-03T12:15:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rj8QBqpIwT7Kx4U2HsZJ97miY9Q",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-11-02T06:16:26Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "All devs make mistakes, even at Meta | RNEU 2023 Interview with Nicola Corti",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q0272y0y0 \n\nCurious to explore the story behind the day Nicola Corti broke React Native? Watch our exclusive interview straight from React Native EU 2023.\n\nIn this sit-down, Nicola takes us back to the infamous release of November 4, 2022. Get ready to unravel behind the scenes as Nicola revives the incident and shares intriguing insights from that pivotal day.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.ly/Q0272xX_0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1-KyDF-cuOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1-KyDF-cuOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1-KyDF-cuOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1-KyDF-cuOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1-KyDF-cuOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1-KyDF-cuOQ"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "1-KyDF-cuOQ",
+        "videoPublishedAt": "2023-11-03T12:30:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yu8XOsOiS7k1C6Rlpz0_v7Qbjw8",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-11-03T07:34:13Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SXbOENMaPtI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SXbOENMaPtI"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ksZZ52cKZBfFm3JPJO49zQLkJtw",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-11-03T07:49:07Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lmb5hLNymKg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lmb5hLNymKg"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}
