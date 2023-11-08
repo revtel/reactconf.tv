@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Zi7LbCoHeRoZlWt4TgXjiww3QW0",
+  "etag": "kXhmN6vE4z3NaHQQNialBu-cH04",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -58,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HgWSh_1uHxIo0ZsGF-StF2yP064",
+      "etag": "ehcVJoxlM0VQ5gOdKtrnbr_1cQQ",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2023-11-02T06:11:41Z",
@@ -166,52 +166,110 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yu8XOsOiS7k1C6Rlpz0_v7Qbjw8",
+      "etag": "65CjMJR_uK7ykQFouXanazs_qkg",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2023-11-03T07:34:13Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Bringing best minds to advance React Native | RNEU 2023 Interview with Rory Abraham",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q027G1Vh0 \n\nHere comes another React Native EU 2023 speaker interview, this time with Rory Abraham from Expensify. We dive deep into Expensify's product landscape, shedding light on the significance of uniting the entire community to collaborate on a single app. Rory also tells us how Conway's Law seamlessly weaves into Expensify's DNA, shaping both the company and its products. \n\nAt the end of the day, it's not just about code; it's about community, cooperation, and pushing the boundaries of what React Native can achieve.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q027G1V00 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXbOENMaPtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXbOENMaPtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXbOENMaPtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SXbOENMaPtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SXbOENMaPtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SXbOENMaPtI"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "SXbOENMaPtI"
+        "videoId": "SXbOENMaPtI",
+        "videoPublishedAt": "2023-11-06T06:38:33Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ksZZ52cKZBfFm3JPJO49zQLkJtw",
+      "etag": "G5SWuLoUAH-9emUqpAWxi9H9ACo",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-11-03T07:49:07Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Code, make mistakes, get community feedback & improve | RNEU 2023 Interview with Mathieu Acthernoene",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q027G2Sc0 \n\nDig even deeper into adding modularity to your React Native library in an interview with Mathieu Acthernoene from Swan.io. Mathieu not only elaborates on his conference talk, but also shares his unique perspective on React Native EU as a catalyst for community building within the tech space.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q027G2Sd0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lmb5hLNymKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lmb5hLNymKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lmb5hLNymKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lmb5hLNymKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lmb5hLNymKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lmb5hLNymKg"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "lmb5hLNymKg"
+        "videoId": "lmb5hLNymKg",
+        "videoPublishedAt": "2023-11-06T06:37:44Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     }
   ],
