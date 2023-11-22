@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "IJkooQsMRdubPl_g3Ht0znFoRBM",
+  "etag": "-tbOZ_o82MlvK-ZLepKz_VWJMyg",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -271,10 +271,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H8dCvQnQ9lRG_G7moJyuFjy0BoQ",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-11-20T07:41:18Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React is not magic; it’s a capable tool | RNEU 2023 Interview with Charlotte Isambert",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q029pncH0 \n\nLet’s listen to what Charlotte Isambert, a React Native Tech Lead at BAM, has to say about her talk, “Build Your Mental Model of React’s Rendering Behavior”, and the importance of understanding the tools you’re using as a software developer. \n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q029pnbF0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7Xf7rrVtaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7Xf7rrVtaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7Xf7rrVtaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E7Xf7rrVtaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E7Xf7rrVtaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E7Xf7rrVtaE"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "E7Xf7rrVtaE",
+        "videoPublishedAt": "2023-11-20T08:02:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 5,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }

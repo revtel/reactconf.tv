@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ACDTLPo4VdFx1Y9ZnY3tM_Pg1x8",
+  "etag": "zSB2k4d40i3UKqvb_M1WY2Ji_t4",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -342,7 +342,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aSEb51Iv9fWl23rpRTkxXO9Zdtk",
+      "etag": "0J4F5bv-rNh4rAcdUkP4F-4KhU4",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2023-09-21T12:02:06Z",
@@ -572,7 +572,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZAZv2aykG8eLqVJrESD_6tAJZZc",
+      "etag": "L-qX4OFIW4FhEpYnC2rwwHd8bu0",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2023-09-21T15:28:12Z",
@@ -861,7 +861,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DQbTrW0FOeFjazI-RDyHAgGCHXU",
+      "etag": "XqN-L8jUo3OeoTjHbM_gKCxlzkA",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2023-09-22T04:30:33Z",
@@ -915,7 +915,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WcKmZIeUixKgB_tRcrYxVbr3Eb0",
+      "etag": "BS9IER11HTAD5w3qDPowk34xFTg",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-09-22T04:49:33Z",
@@ -969,7 +969,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hj4UO5RAeccUpMrckCA5o6bZ930",
+      "etag": "XQiaroLGcoqVTtz1yTZd1auEtqQ",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2023-09-25T10:27:37Z",
@@ -1200,27 +1200,56 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ALeXrGjoMQRXRwnXNXAWb4eEbu4",
+      "etag": "R50GY3p-rWWYQTl4pwfCurc5wv4",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC44Mjc5REFBRUE2MTdFRDU0",
       "snippet": {
         "publishedAt": "2023-11-09T08:44:55Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Feel The Vibe | React Native EU 2023 Extended Aftermovie",
+        "description": "In September 2023, dozens of IT specialists from all around the world gathered in Wrocław to talk about the topics close to their hearts: React Native, innovation, community engagement, and more. \n\nWhat do they think about this year's React Native EU powered by Callstack? Watch the extended version of our aftermovie to find out for yourself.\n\nBy the way, tickets for React Native EU are available 🎟 https://hubs.li/Q029px3h0\n\nSubscribe to Callstack newsletter for tech leaders and developers ✉️ https://hubs.li/Q029px7z0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aIWFl3aBHm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aIWFl3aBHm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aIWFl3aBHm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aIWFl3aBHm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aIWFl3aBHm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
         "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aIWFl3aBHm8"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "aIWFl3aBHm8"
+        "videoId": "aIWFl3aBHm8",
+        "videoPublishedAt": "2023-11-21T06:00:01Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     }
   ],
