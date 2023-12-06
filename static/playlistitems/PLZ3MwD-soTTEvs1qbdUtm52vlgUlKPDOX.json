@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "AgiIlWPrXHHzRiwFsou9NERcJdY",
+  "etag": "7-Rf9zDsCrQ5r7hF9rM87eIiuxc",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -328,52 +328,110 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lDBde6JbMNQWU-J2HBLMTgLrRI4",
+      "etag": "lfKUL966bnvyglGO0sejCvjMn5Y",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2023-11-29T09:16:01Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Coffee-fuelled animations at 60FPS | RNEU 2023 Interview with Catalin Miron",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q02bd7ZX0 \n\nJoin us for an exclusive interview with Catalin Miron, the creator of AnimateReactNative.com, as he reflects on his talk \"Animations in 2023 and Beyond\" at React Native EU 2023. In the video, Catalin shares insights on Open Source tools, recommended resources, and the power of mindset in mastering animations. \n\nSnag your tickets early for the 2024 edition of React Native EU 🎟https://hubs.ly/Q02bd7P40 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VB4jBTCPboM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VB4jBTCPboM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VB4jBTCPboM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VB4jBTCPboM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VB4jBTCPboM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VB4jBTCPboM"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "VB4jBTCPboM"
+        "videoId": "VB4jBTCPboM",
+        "videoPublishedAt": "2023-12-04T06:45:00Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1zdxZaM-or-faJ6JxN6pUGfKc5w",
+      "etag": "4xKB0SUO2QlrJhRfnWvBc-knZXM",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2023-11-29T09:35:03Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Use AI as an inspiration to build your own tools | RNEU 2023 Interview with Jamon Holmgren",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q02bt1HP0 \n\nLet’s hear from Jamon Holmgren, Co-founder & CTO at Infinite Red, Inc. and the person behind Flame AI. Discover how this tool empowers developers to leverage AI without the need for extensive coding knowledge, and find out why coming to React Native EU feels like visiting a bunch of old friends.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q02bt1HR0\n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PZFGOrSLA28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PZFGOrSLA28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PZFGOrSLA28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PZFGOrSLA28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PZFGOrSLA28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "Callstack Engineers",
         "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PZFGOrSLA28"
-        }
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
       },
       "contentDetails": {
-        "videoId": "PZFGOrSLA28"
+        "videoId": "PZFGOrSLA28",
+        "videoPublishedAt": "2023-12-04T07:00:13Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     }
   ],
