@@ -1,13 +1,545 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "cuY-Ax8Bb728zPLmJ0P_1DL3K9g",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I_0GQ4XM3HgxyfC1JKwQ4Kq8hPA",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-05-19T13:32:51Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Bridging React Native Back to its Roots - Vincent Riemer  (@vincentriemer) at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nReact Native has come a long way since its announcement 3 years ago, but what if its future meant looking even further into its past?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOWIJ4Mgb2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOWIJ4Mgb2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOWIJ4Mgb2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aOWIJ4Mgb2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aOWIJ4Mgb2k"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "aOWIJ4Mgb2k",
+        "videoPublishedAt": "2018-05-19T13:41:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dLfxIf1uCPVyLvZ2rDButVTFft8",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-05-19T14:16:28Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Do the Right (to Left) Thing: Directional Content in React - @majapw at @ReactEurope",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nIn 2017, Airbnb supported 27 languages and had developed robust translation tools that made it easy to add more. We launched Croatian in May with little overhead beyond setting up the new domain and translating phrases. However, this was not true for all new languages; our next most requested language, Hebrew, posed a unique challenge. Because it reads right-to-left, the entire Hebrew UI must be flipped. Browsers only handle reversing the DOM structure, but styling and interactions must be coded manually.\n\nThis talk covers the journey of enabling right-to-left languages on airbnb.com. Recently, Airbnb has moved to a React frontend and away from Sass to a CSS-in-JS paradigm. We developed a performant and cross-browser solution for RTL that leveraged a CSS-in-JS abstraction layer to isolate the logic from our codebase. Our efforts led us most of the way to launching in Arabic and Hebrew while requiring little effort from our product engineers and with minimal disruption to their work.\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZ9vQYSNVyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZ9vQYSNVyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZ9vQYSNVyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dZ9vQYSNVyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dZ9vQYSNVyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dZ9vQYSNVyo"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "dZ9vQYSNVyo",
+        "videoPublishedAt": "2018-05-19T14:16:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XPPIvqM9c3LowInn1jFCTIv8NQE",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-05-19T18:10:46Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "A Journey Through React Apollo - Peggy Rayzis aka @peggyrayzis at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCXYA3lZTbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCXYA3lZTbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCXYA3lZTbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fCXYA3lZTbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fCXYA3lZTbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fCXYA3lZTbo"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "fCXYA3lZTbo",
+        "videoPublishedAt": "2018-05-19T18:08:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZevMQJLF9zV97TGmzMdH63-FxzQ",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-05-20T10:09:10Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Replicated Redux - Jim Purbrick aka @JimPurbrick at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nRedux’s reified events, serializable actions and state, middleware, side effect free functional reducers and time travel super powers make it well suited for building simple, networked, testable decoupled simulations. This talk shows how to put those pieces together to build networked ReactVR applications and how it might be useful in a wide variety of other domains.\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fr3vp0C22H0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fr3vp0C22H0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fr3vp0C22H0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fr3vp0C22H0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fr3vp0C22H0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fr3vp0C22H0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "Fr3vp0C22H0",
+        "videoPublishedAt": "2018-05-20T10:09:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E6m6m57e_MpE7R48L_n4OgTGO0M",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-05-20T10:33:41Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "The fun of runtime type systems (Or: \"Funtime type systems\") -  @mweststrate at @ReactEurope",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nThe React prop-types package is a simple runtime type system that is used for property validation. But runtime type systems can do many more things than just data validation. Because they are very flexible (as you can basically reuse the entire hosting language to express your types) it will be much less likely that you will run into structures that cannot be expressed in the type system. You can generate runtime types on the fly from other sources (json-schema, graphql etc) or compose them together.\n\nIn this talk I will walk you through some runtime type systems, like prop-types, tcomb and mobx-state-tree. But also show you how runtime- and compile-time type systems like TypeScript or Flow can co-exist and leverage each other.\n\nIf you thought so far Higher Order Components or render callbacks where cool, in this talk I will show you that these patterns can be applied in general to any data structure you have.\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/010daBQPFmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/010daBQPFmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/010daBQPFmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/010daBQPFmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/010daBQPFmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "010daBQPFmw"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "010daBQPFmw",
+        "videoPublishedAt": "2018-05-20T10:33:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DfjqWrYdrnFKZObqzi6k-rbTUM4",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-05-20T11:10:26Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Up and Running with Universal Components - @SamanthaBretous & @KurtisKemple at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nCreating universal components isn’t just about reusability. Its about creating a development strategy. Without careful planning, your team can quickly end up in some pretty nasty spots. Join Samantha and Kurt as they walk through what universal components are, some best practices, and most importantly, some pitfalls to avoid!\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D1NkyO-J6B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D1NkyO-J6B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1NkyO-J6B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D1NkyO-J6B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D1NkyO-J6B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D1NkyO-J6B0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "D1NkyO-J6B0",
+        "videoPublishedAt": "2018-05-20T11:11:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R_ngC68X5NdR9AK8kb04mZx_Qpo",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-05-20T11:23:36Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Keynote - @Ken_Wheeler at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QFk6YwMz8nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QFk6YwMz8nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFk6YwMz8nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QFk6YwMz8nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QFk6YwMz8nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QFk6YwMz8nc"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "QFk6YwMz8nc",
+        "videoPublishedAt": "2018-05-20T11:23:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BfnVBYiJZN43ZVW1J6-h1RbvGX0",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-05-20T12:29:12Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "The Case for Whimsy - Joshua Comeau aka @joshwcomeau at @ReactEurope 2018",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nJosh will be giving a workshop this year on May 22nd about how to make your app more whimsical https://www.react-europe.org/#schedule-item-1581\n\nThis talk explores various ways that we, as front-end developers, can make our products more delightful to use. While it’s design’s job to give us static mock-ups, it’s our job to bring those designs to life.\n\nSlides: https://github.com/joshwcomeau/react-europe-talk-2018\n\nMail demo: https://github.com/joshwcomeau/whimsical-mail-client\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z2d9rw9RwyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z2d9rw9RwyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z2d9rw9RwyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z2d9rw9RwyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z2d9rw9RwyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z2d9rw9RwyE"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "Z2d9rw9RwyE",
+        "videoPublishedAt": "2018-05-20T12:29:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WcUB0-uJiUonsPvRueDwlela3vo",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-05-20T12:54:20Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Subtyping is Overrated - Caleb Meredith aka @calebmer at @ReactEurope 2018",
+        "description": "Get notified of next edition's tickets here: https://goo.gl/zfEhBp\n\nLet’s play a game. What’s the biggest difference between type systems for JavaScript and an ML inspired language like OCaml or Haskell? Subtyping! Subtyping allows runtime values of some type to be used as a different type, and how a language designer chooses to address subtyping deeply affects every other design decision in the language. From the way values are represented in the runtime, to how effective type inference algorithms are, to the supported polymorphic code patterns. Implicit runtime subtyping is common in today’s most popular languages like JavaScript, Java, C#, and Ruby but the tradeoffs aren’t well understood. Subtyping is useful, but in today’s programming environment subtyping is overrated.\n\nGet next edition's tickets info here: https://goo.gl/zfEhBp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M6MsDBFwa6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M6MsDBFwa6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6MsDBFwa6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M6MsDBFwa6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M6MsDBFwa6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M6MsDBFwa6Y"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "M6MsDBFwa6Y",
+        "videoPublishedAt": "2018-05-20T12:54:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sA_2Tws8NF6r4Qag0_sO3jk7U6g",
+      "id": "UExDQzQzNkpwVm5LM3hIX0FycElqZGtZREd3V05rVmE3My5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-05-20T13:21:54Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Declarative future of gestures and animations in React Native - Krzysztof Magiera (@kzzzf)",
+        "description": "Get next edition's tickets info here: https://goo.gl/yfHbBG\n\nAnimations and touch related interactions are the secret ingredients that can make a good app an awesome app. Apparently, they are also the elements most sensitive to frame drops, which degrades the great experience they ought to provide. We will learn what the challenges are when building performant and responsive UI on mobile, and get to know how declarative APIs let us deal with these problems.\n\nGet next edition's tickets info here: https://goo.gl/yfHbBG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdq4z2708VM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdq4z2708VM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdq4z2708VM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdq4z2708VM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdq4z2708VM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kdq4z2708VM"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "kdq4z2708VM",
+        "videoPublishedAt": "2018-05-20T13:21:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
   }
 }

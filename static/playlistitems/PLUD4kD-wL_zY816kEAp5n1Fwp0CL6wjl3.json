@@ -1,13 +1,1144 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "wnbTzU6KazyB1fYqF9oOQ0qHJiU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "utOtenQOR45zxKFnYcdzoIOgbLQ",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-08-28T17:17:52Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "useWat - David Khourshid - React Rally 2023",
+        "description": "David Khourshid at React Rally 2023\n\nReact has quite the history. From React.createComponent to server components, React has evolved to be a mainstay in web development. But let's be honest, there's many un-use-ual things about React. In this talk, we'll revisit React's lifecycle from being a sprinkle of interactivity to wanting to be its own language, with plenty of puns, nostalgia, and a peek into the future of our favorite not-a-framework.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QoJcMhpRngQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QoJcMhpRngQ"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "QoJcMhpRngQ",
+        "videoPublishedAt": "2023-09-05T17:23:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lOstdFun5DCLfVXrmh0D7k6JVnA",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:36:34Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Take up space - Shirley Wu - React Rally 2023",
+        "description": "Shirley Wu - React Rally 2023\n\nThis is a story about identity, burnout, finding courage, rekindling a dream, and settling into the discomfort of not knowing what comes next.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BbmuLC32msE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BbmuLC32msE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BbmuLC32msE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BbmuLC32msE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BbmuLC32msE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BbmuLC32msE"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "BbmuLC32msE",
+        "videoPublishedAt": "2023-09-05T18:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bxt-WMNJftGVhEZCh7afPzdMVtY",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:52:41Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "The Web's Next Transition  - Kent C. Dodds - React Rally 2023",
+        "description": "Kent C. Dodds - React Rally 2023\n\nThe web. What started as a document sharing platform has evolved into an application platform. The web has been through a number of transformations over the years. From static HTML files to dynamic server-generated HTML responses. Then to REST or GraphQL APIs consumed by JavaScript-heavy clients with the Jamstack. The web is entering a completely new transformation. Modern infrastructure and techniques have changed the rules of what it means to make an excellent user experience. In this new future, what's old is new and what's modern is lacking.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VXR-994OkCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VXR-994OkCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VXR-994OkCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VXR-994OkCM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VXR-994OkCM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VXR-994OkCM"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "VXR-994OkCM",
+        "videoPublishedAt": "2023-09-05T19:00:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eAfQc7GD_1ImOMJP16SUAvO0ooU",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:27:31Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "A Guide to React Rendering Behavior - Mark Erikson - React Rally 2023",
+        "description": "Mark Erikson - React Rally 2023\n\nReact is a library for \"rendering\" UI from components, but many users find themselves confused about how React rendering actually works. What do terms like \"rendering\", \"reconciliation\", \"Fibers\", and \"committing\" actually mean? When do renders happen? How does Context affect rendering, and how do libraries like Redux cause updates?\n\nIn this talk, we'll clear up the confusion and provide a solid foundation for understanding when, why, and how React renders.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGzfMDs2A5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGzfMDs2A5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGzfMDs2A5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IGzfMDs2A5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IGzfMDs2A5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IGzfMDs2A5o"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "IGzfMDs2A5o",
+        "videoPublishedAt": "2023-09-05T19:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J0fLvHBLAcbm4U0eYS5ejHMyy5M",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:50:42Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Let's Sketch: Using p5.js & React to fill a Canvas - Monica Powell - React Rally 2023",
+        "description": "Monica Powell - React Rally 2023\n\nAttendees will gain a better understanding of the fundamental concepts necessary get started with, p5.js, a JavaScript library for creative coding to produce art with JavaScript, learn how to integrate p5.js with React and feel empowered to further explore their own creative coding experiments.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7dCoz56Pucw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7dCoz56Pucw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7dCoz56Pucw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7dCoz56Pucw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7dCoz56Pucw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7dCoz56Pucw"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "7dCoz56Pucw",
+        "videoPublishedAt": "2023-09-05T19:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uB3sXXG0UrM2WoEwX5SYc6dpeTM",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:54:00Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Why everybody needs to use a framework - Tejas Kumar - React Rally 2023",
+        "description": "Tejas Kumar - React Rally 2023\n\nThe prevalent advice on how to use React today is to use a framework: either to start with one or to incrementally adopt one. This talk will explore why, and how to go about this with live code examples.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7tzvVor7M-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7tzvVor7M-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7tzvVor7M-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7tzvVor7M-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7tzvVor7M-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7tzvVor7M-k"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "7tzvVor7M-k",
+        "videoPublishedAt": "2023-09-05T19:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gb4zHHx-MoaX6xfOmiYcHoE5vYc",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:28:52Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "You's the Platform! - Jon Jensen - React Rally 2023",
+        "description": "Jon Jensen - React Rally 2023\n\nAs web developers, it's sometimes easy to see \"The Platform\" as this thing we can't really change that does things for reasons we can't really understand. But that's not true! Browsers and specs are built by developers just like you and me, and the entire process is open source, which means we can do it too!\n\nLet's take a journey through a real web platform improvement from start to finish, learning how the WHATWG and browser vendors work. By the end you'll know how to update a spec, write web platform tests, land a change in major browsers, and document your shiny new feature on MDN!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fF5gky3x_nI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fF5gky3x_nI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fF5gky3x_nI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fF5gky3x_nI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fF5gky3x_nI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fF5gky3x_nI"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "fF5gky3x_nI",
+        "videoPublishedAt": "2023-09-05T19:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "meMGHP6xlA9cLPm9-DHX8_eaYE4",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:43:27Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Creating Reusable Components…That Are Actually Reusable - Cory House - React Rally 2023",
+        "description": "Cory House - React Rally 2023\n\nCreating a React component is easy. However, creating a truly reusable component is hard. So, in this session I'll share lessons learned from scaling a large reusable component library. We'll explore the key practices and patterns necessary for creating components that are robust, broadly reusable, and easy to understand.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L0PZhSJUlxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L0PZhSJUlxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0PZhSJUlxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L0PZhSJUlxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L0PZhSJUlxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L0PZhSJUlxM"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "L0PZhSJUlxM",
+        "videoPublishedAt": "2023-09-05T19:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R9SFywgXBqrbzM2RZ1aZwbgw0HQ",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:31:48Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Opt-in design - the new era of React frameworks - Ben Holmes - React Rally 2023",
+        "description": "Ben Holmes - React Rally 2023\n\nPicking up a new technology, developers stick with defaults. It's a fact that every tool from JQuery to NextJS has needed to face. At their worst, defaults ship hundreds of wasted JS kilobytes for routing, state, and other baggage developers may never use. But at their best, defaults give us a simple baseline to start from, with a clear path to add the exact set of features our project demands. This is the magic of opt-in design.\n\nLet's see how smart defaults guide modern frontend tools from Astro to React Server Components, and why this new era reshapes your workflow, and website performance metrics, for the better.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qb7IsT3BP5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qb7IsT3BP5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qb7IsT3BP5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qb7IsT3BP5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qb7IsT3BP5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qb7IsT3BP5Q"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "Qb7IsT3BP5Q",
+        "videoPublishedAt": "2023-09-05T19:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L3QT5sQj6y5YIl5kYthevqb9zsg",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:25:41Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Its 2023 and I Can Finally Talk About Atomic CSS - Matheus Albuquerque - React Rally 2023",
+        "description": "Matheus Albuquerque - React Rally 2023\n\nLibraries like Tailwind became quite popular and their utility-first—aka atomic classes—approach was an interesting paradigm shift in CSS. Many developers love it, and it's understandable why.\n\nHowever, we tend to forget that the core of this technique isn't new. Way before Bootstrap we all had our own small CSS snippets copied from project to project with similar classes.\n\nHowever, there are good reasons why we stopped doing that for a while and we should discuss them before using them everywhere.\n\nIn this session, we'll discuss the evolution of scalable CSS, walk through the limitations and drawbacks of Atomic CSS, and also figure out where this concept can come in handy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e0rxJXwnHLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e0rxJXwnHLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e0rxJXwnHLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e0rxJXwnHLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e0rxJXwnHLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e0rxJXwnHLY"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "e0rxJXwnHLY",
+        "videoPublishedAt": "2023-09-05T19:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gleD2RTKd_CJrJb1gC_FLmZ3T-s",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:24:30Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Remix:  Embracing Web Standards to Redefine Modern Web Development -Alexa Spalato - React Rally 2023",
+        "description": "Alexa Spalato - React Rally 2023\n\nDiscover the power of Remix, a groundbreaking full-stack framework that embraces web standards to redefine modern web development.\n\nAs developers grapple with complex tools and frameworks, creating performant and maintainable applications becomes increasingly challenging.\n\nWhat if there's a solution that leverages core web principles to streamline development? Enter Remix\n\nIn this talk, learn how Remix harnesses web standards, such as URLs, Fetch API, HTML, and HTTP caching, to elevate developer and user experiences, ultimately empowering you to become a better developer!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b5L6JpP9RJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b5L6JpP9RJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5L6JpP9RJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b5L6JpP9RJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b5L6JpP9RJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b5L6JpP9RJo"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "b5L6JpP9RJo",
+        "videoPublishedAt": "2023-09-05T17:24:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G3xCFfHXUBLueZfdMmdWzC4R9KQ",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:30:40Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Suspense + GraphQL = Superpowers - Alessia Bellisario & Jerel Miller - React Rally 2023",
+        "description": "Alessia Bellisario & Jerel Miller - React Rally 2023\n\nReact has been empowering developers to build great apps since it was open sourced in 2013. With the introduction of Suspense, developers now have an ergonomic way to orchestrate loading states to improve on the status quo. In this talk, the Apollo Client team will show you how we built a non-trivial application using Apollo Client’s new Suspense features, GraphQL features like the @defer directive, and how to combine them to build great user experiences in your own apps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xqI3O8lqIxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xqI3O8lqIxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xqI3O8lqIxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xqI3O8lqIxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xqI3O8lqIxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xqI3O8lqIxw"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "xqI3O8lqIxw",
+        "videoPublishedAt": "2023-09-05T19:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q7mwfb-CO2KKE6PoseLrBx8MdXc",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:53:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "There are no soft skills: turning empathy into action - Sharon Steed - React Rally 2023",
+        "description": "Sharon Steed - React Rally 2023\n\nThere are no soft skills: turning empathy into action for better performance\n\nCommunicating confidently and effectively; working collaboratively; solving complex problems; time management - all of these are considered soft skills, and none of them come naturally. Excelling at any of these \"soft\" skills could mean taking courses to learn more about the tools, asking a mentor to guide you when you feel overwhelmed, and engaging in a ton of trial and error when it matters the most.\n\nSoft skills are competencies. We must consistently and actively work at developing these abilities so we can be successful teammates, managers, leaders and coworkers. And there's one skill above all that can get you there faster: empathy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMIFtr_wLLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMIFtr_wLLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMIFtr_wLLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IMIFtr_wLLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IMIFtr_wLLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IMIFtr_wLLs"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "IMIFtr_wLLs",
+        "videoPublishedAt": "2023-09-05T19:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "46RcsR0XeTm87y3DfusdOIb6kto",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-09-05T22:46:23Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Mastering Moving to Management - Sophia Shoemaker 👠 - React Rally 2023",
+        "description": "Sophia Shoemaker 👠 - React Rally 2023\n\nI recently made the jump from software engineer to engineering manager. It can be a daunting decision for your career. Do I stay on the IC path or do I make the transition to engineering management? We'll explore the differences between the two roles (there is more in common than you might think!)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oq3sAXD4lZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oq3sAXD4lZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oq3sAXD4lZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oq3sAXD4lZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oq3sAXD4lZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oq3sAXD4lZc"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "Oq3sAXD4lZc",
+        "videoPublishedAt": "2023-09-05T22:46:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GfYB41lbLeGmxuHmZiAHvfZdxCo",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:53:26Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "The Frontend Family Tree - Emma Twersky - React Rally 2023",
+        "description": "Emma Twersky - React Rally 2023\n\nWhat can React learn from Angular? In this talk, we’ll look at how frameworks are all working to solve developer’s problems and how the latest changes in Angular, might just solve React’s problems too.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BUdLxY-XP0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BUdLxY-XP0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BUdLxY-XP0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BUdLxY-XP0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BUdLxY-XP0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BUdLxY-XP0o"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "BUdLxY-XP0o",
+        "videoPublishedAt": "2023-09-05T19:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ek-35xoR7NRx0lwy-jaLyAHxewI",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:52:30Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Unlocking the Mystery of React's Re Rendering - Ankita Kulkarni - React Rally 2023",
+        "description": "Ankita Kulkarni - React Rally 2023\n\nYour users will not care what tech you used but how fast your app loads. Have you used a hot new stack that everyone loves but still doesn’t know how to make it performant? Well, it’s because we think about performance as an afterthought after it becomes a bottleneck and when our infra gets costly, ouch!\n\nBut there is a way to solve this, introducing Core React. We won’t be introducing new tools but going back to how we need to tell React what the DOM should look like. In this talk, we will finally understand why useCallback and useMemo are used, why lighthouse doesn’t represent performance, why React re-renders? and lastly how to profile it with React Devtools.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XJWPIjMO8Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XJWPIjMO8Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJWPIjMO8Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XJWPIjMO8Ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XJWPIjMO8Ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XJWPIjMO8Ec"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "XJWPIjMO8Ec",
+        "videoPublishedAt": "2023-09-05T19:00:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ggoq1vE_dLx3Lx4CLc_nZbnJnz0",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:53:40Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Imagined Dragons: Imagination Powered Music Recommendation Platform - Eric Allen - React Rally 2023",
+        "description": "Eric Allen - React Rally 2023\n\nThe Artificial Intelligence landscape is a wild, rapidly developing frontier with some unique challenges. The most sophisticated and capable models are controlled by a handful of companies, gated behind waitlists, and the costs of training and running your own large language models (LLMs) are prohibitive.\n\nBut this doesn’t mean we can’t have a little fun with them right now and inspire the rest of the community to explore their capabilities. We’re already starting to see how more tools, and more education, lead to more innovation and a future where open, cheap LLMs will be available to everyone.\n\nIn this talk, we’ll walk through the process of harnessing an LLM’s imagination and empowering it with knowledge and tools from the real world to perform one of the most delicate human tasks: creating mixtapes.\n\nWe’ll discover the subtle nuances of Prompt Engineering, learn how to manage and manipulate a chatbot’s memory, dig into the complexities of ChatGPT's response time and Vercel's Edge Functions with Next.js, and discuss some open source tools that we can leverage with existing and future LLMs as we explore this new frontier.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSqIDV4aOXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSqIDV4aOXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSqIDV4aOXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BSqIDV4aOXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BSqIDV4aOXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BSqIDV4aOXg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "BSqIDV4aOXg",
+        "videoPublishedAt": "2023-09-05T19:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bfqI8TLGDjpvbX-1S1qeF3ScLKI",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-09-05T17:52:06Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Mastering the JavaScript Engine: Get Hold of the Web - Anirudh Sharma - React Rally 2023",
+        "description": "Anirudh Sharma - React Rally 2023\n\nWith a whole existing and upcoming ecosystem of libraries and frameworks around JavaScript, the need for thorough understanding of code execution on the web becomes more relevant. This knowledge also helps you to better understand and distinguish technologies like WebAssembly from JavaScript.\n\nAttend this talk to get an in-depth overview of the JavaScript engine and learn how it can help you as a developer to write more optimized JavaScript code. You will learn how exactly your high-level code is converted to bytecode and then to the optimized machine code with the magic of the V8 engine.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_WfPeAypxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_WfPeAypxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_WfPeAypxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x_WfPeAypxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x_WfPeAypxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x_WfPeAypxg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "x_WfPeAypxg",
+        "videoPublishedAt": "2023-09-05T19:00:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m_K-Xnkwm4XjfTKqNoSxxtNGkBE",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-09-05T22:44:29Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Server-side rendering using WebAssembly - Shivay Lamba - React Rally 2023",
+        "description": "Shivay Lamba - React Rally 2023\n\nConstantly thinking about how to best achieve Server-side rendering (SSR) for your application? SSR enables to render client side SPAs on servers and sending a fully rendered page back to the client. Is there a way to achieve server side rendering that is also secure and takes up less space? Enter WebAssembly!\n\nThis talk shares how to achieve Server-side rendering using WebAssembly and WASMEdge which is a WebAssembly Runtime. The talk also covers the benefits of using WebAssembly to achieve Server Side Rendering. The talk will also cover a demo of how to launch a React application using the WasmEdge runtime.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qnuAqBn9wVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qnuAqBn9wVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qnuAqBn9wVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qnuAqBn9wVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qnuAqBn9wVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qnuAqBn9wVc"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "qnuAqBn9wVc",
+        "videoPublishedAt": "2023-09-05T22:44:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bpzZRajJWU7kAycMLTC93YNnyfI",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-09-05T21:25:32Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2023 Day 2",
+        "description": "The content of React Rally Live Stream is owned solely by the speakers, presenters, musicians, and instructors who have created and recorded the material presented. Recording, recreating, or redistributing any content without the explicit consent of the owner is expressly forbidden.\n\nReact Rally is a community conference about React and topics interesting to React developers. We focus on a friendly, welcoming atmosphere, engaging talks from new and established speakers, and plenty of hallway-track time to chat with interesting people.\n\nClosed captioning options:\n1. Click CC in this player to enable YouTube's automated closed captions.\n2. Follow this link to view closed captions by Deepgram in a separate window:\nhttps://event-captioner.deepgram.com/events/reactrally/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxCs9IAhciE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxCs9IAhciE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxCs9IAhciE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxCs9IAhciE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pxCs9IAhciE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pxCs9IAhciE"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "pxCs9IAhciE",
+        "videoPublishedAt": "2023-09-05T21:25:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yrz-yDe8ctTvdxEqNF2pCNzemDs",
+      "id": "UExVRDRrRC13TF96WTgxNmtFQXA1bjFGd3AwQ0w2d2psMy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-09-05T21:25:45Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React Rally 2023 Day 1",
+        "description": "The content of React Rally Live Stream is owned solely by the speakers, presenters, musicians, and instructors who have created and recorded the material presented. Recording, recreating, or redistributing any content without the explicit consent of the owner is expressly forbidden.\n\nReact Rally is a community conference about React and topics interesting to React developers. We focus on a friendly, welcoming atmosphere, engaging talks from new and established speakers, and plenty of hallway-track time to chat with interesting people.\n\nClosed captioning options:\n1. Click CC in this player to enable YouTube's automated closed captions.\n2. Follow this link to view closed captions by Deepgram in a separate window:\nhttps://event-captioner.deepgram.com/events/reactrally/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ispz-5cwNW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ispz-5cwNW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ispz-5cwNW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ispz-5cwNW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ispz-5cwNW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zY816kEAp5n1Fwp0CL6wjl3",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ispz-5cwNW0"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "ispz-5cwNW0",
+        "videoPublishedAt": "2023-09-05T21:25:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
   }
 }

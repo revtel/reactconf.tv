@@ -1,13 +1,1144 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "wm2ohg5WTqWS6BXTjPAcjZSfZ68",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tabfZL97tUoYGWKtl1cJprOsBxk",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React Renderers - Abstracting the DOM - Maël Nison aka @arcanis",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nMaël Nison is a software engineer at https://www.datadoghq.com/ , you can follow him on twitter  https://twitter.com/arcanis\n\nTalk topic: React Renderers - Abstracting the DOM\n\nMost of the React applications we write today use the DOM renderer, generating HTML elements consumed by our browsers. But React is so much more! Its architecture, designed to separate the DOM-specific fragments from the library core, makes it suitable for many other types of applications. In fact, React Native itself leverages these capabilities though its custom renderer that, instead of working with the DOM, manipulates native OS primitives.​ ​But how do those renderers work exactly? Can anyone write one? What makes them a better choice than, say, a regular template language? Are they limited to UI work? We'll discuss all that, and take a quick tour of the existing renderers made those past years.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SvQeVZ6ws8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SvQeVZ6ws8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SvQeVZ6ws8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SvQeVZ6ws8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SvQeVZ6ws8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SvQeVZ6ws8E"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "SvQeVZ6ws8E",
+        "videoPublishedAt": "2020-03-25T19:08:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rHg6x7rnKlevfM26x8ws6BGoiAc",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Generating an API at Build Time with Gatsby - Jon Meyers",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\n Follow Jon Meyers on twitter  https://twitter.com/_dijonmusters\n\nGatsby is fast! Blazing fast! But how much can you actually do with a static site. ANYTHING! In this talk we will look at how Gatsby can be used to build highly dynamic content - such as gated/authenticated content - without breaking the JAMstack workflow.\n\nThis talk will begin with a brief introduction to Gatsby and the JAMstack, detailing the performance benefits and unique problems that surface with static content. The main focus of the talk will be around dynamically building an authenticated API from markdown files at build time - keeping our workflow consistent for both public and protected content. This style of development would also allow all content to be tracked by git and easily rolled back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5DTEpauQq6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5DTEpauQq6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5DTEpauQq6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5DTEpauQq6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5DTEpauQq6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5DTEpauQq6I"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "5DTEpauQq6I",
+        "videoPublishedAt": "2020-03-24T20:21:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UzT-ZzST1iityejanqLngv73Txw",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Hangout with  Naomi Meyer on Data Visualizations and Internationalization",
+        "description": "Some of our speakers will do cool demos live on our Youtube channel during the months leading to the conference.\n\n Follow Naomi Meyer on twitter  https://twitter.com/nae_ohmi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/12E870o9yA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/12E870o9yA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/12E870o9yA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/12E870o9yA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/12E870o9yA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "12E870o9yA8"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "12E870o9yA8",
+        "videoPublishedAt": "2020-03-23T20:32:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h-uSU5vRAtOw6LPQp7H0M9UPUhU",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Building communities for Open Source Projects - Sanket Sahu aka @sanketsahu",
+        "description": "Some of our speakers will do cool demos live on our Youtube channel during the months leading to the conference.\n\nThird one will be Sanket Sahu who will talk about \"Building  communities for Open Source Projects\".\n\nSanket works on https://builderx.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-AZVW3I5yXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-AZVW3I5yXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-AZVW3I5yXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-AZVW3I5yXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-AZVW3I5yXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-AZVW3I5yXk"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "-AZVW3I5yXk",
+        "videoPublishedAt": "2020-03-09T13:29:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DAhioupncHuMl6YZh2qbioh2uYs",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "fn(state) !== fn(state, effects) - Conor Hastings",
+        "description": "Some of the great proposals that were submitted to our CFP  couldn't make it to the final line-up get to present live on our Youtube channel during the months leading to the conference.\n\nToday we're having Conor Hastings on fn(state) !== fn(state, effects) -- Incorporating asynchronous effects with API consistency with the useReducer model.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NDMgVPXyR5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NDMgVPXyR5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NDMgVPXyR5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NDMgVPXyR5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NDMgVPXyR5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NDMgVPXyR5k"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "NDMgVPXyR5k",
+        "videoPublishedAt": "2020-03-05T19:56:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2hr0cgIJyoYceFKW0Vy6s-At9P0",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Nader Dabit: Building a Full Stack CMS for the Modern Age",
+        "description": "Some of our speakers will do cool demos live on our Youtube channel during the months leading to the conference.\n\nNader will also be giving workshop on Full Stack React with GraphQL and AWS Amplify  https://www.react-europe.org/#slot-2038-full-stack-react-with-graphql-and-aws-amplify-workshop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rvNYPz1HwTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rvNYPz1HwTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rvNYPz1HwTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rvNYPz1HwTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rvNYPz1HwTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rvNYPz1HwTA"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "rvNYPz1HwTA",
+        "videoPublishedAt": "2020-02-25T19:39:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbmLgbc56ECcR4ud-Q0X32QLpcc",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Demo of the latest cool developments by Sidhartha Chatterjee from the Gatsby core team",
+        "description": "Accessible client routing\nExperimental Page Build Optimizations\nRidiculously fast query running (900 queries a second)\n\nSome of our speakers will do cool demos live on our Youtube channel during the months leading to the conference.\n\nSecond one will be Sidhartha Chatterjee aka @chatsidhartha from the Gatsby core-team and he will be doing cool demos of the latest in Gatsby.js\n\nSid will also be giving a talk on the future of Gatsby at the conference https://www.react-europe.org/#slot-2380-gatsby-s-roadmap-and-its-future-discovery-track-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZ1SZ0GZ6HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZ1SZ0GZ6HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZ1SZ0GZ6HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xZ1SZ0GZ6HI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xZ1SZ0GZ6HI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xZ1SZ0GZ6HI"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "xZ1SZ0GZ6HI",
+        "videoPublishedAt": "2020-02-20T19:27:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RxhCPBLE9ZdqE32-Ghl1XuahhQI",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Hangout with Florian Rappl on Microfrontends with React",
+        "description": "Some of the great talks that were submitted to our CFP but couldn't make it to the final line-up get to present live on our Youtube channel during the months leading to the conference.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kG7gIF16cOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kG7gIF16cOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kG7gIF16cOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kG7gIF16cOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kG7gIF16cOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kG7gIF16cOk"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "kG7gIF16cOk",
+        "videoPublishedAt": "2020-02-18T15:10:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qxcLowClb8dI1xe5VTxYPx0Rzlc",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-25T20:45:24Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Relay and Concurrent Mode with React - Sibelius Seraphini aka @sseraphini",
+        "description": "Some of our speakers will do cool demos live on our Youtube channel during the months leading to the conference.\n\nFirst one will be Sibelius Seraphini aka @sseraphini on relay and Concurrent Mode live this 13th of February. Make sure to subscribe or set a reminder.\n\nSibelius will be giving a workshop at the conference on Relay and Concurrent Mode https://www.react-europe.org/#slot-2154-workshop-build-great-user-experiences-with-concurrent-mode-suspense-with-relay-may-16th-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dAazdich_qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dAazdich_qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dAazdich_qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dAazdich_qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dAazdich_qg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dAazdich_qg"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "dAazdich_qg",
+        "videoPublishedAt": "2020-02-13T13:36:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BtybKLskvNJabyS4hcB4wmEslHk",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-04-11T20:30:47Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Hooks for Fetching with ReactQuery Creator Tanner Linsley aka @tannerlinsley",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow Tanner Linsley on twitter  https://twitter.com/tannerlinsley\n\nTalk topic: ReactQuery: Hooks for Fetching",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PPvWXbSCtBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PPvWXbSCtBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PPvWXbSCtBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PPvWXbSCtBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PPvWXbSCtBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PPvWXbSCtBU"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "PPvWXbSCtBU",
+        "videoPublishedAt": "2020-03-30T19:47:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hq1y_elfnflgvD6TFzhAD_W5IsA",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:47:48Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React+TypeScript+GraphQL demo  - Roy Derks aka @gethackteam",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/gethackteam\n\nTalk topic: React+TypeScript+GraphQL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zmzZwZh77_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zmzZwZh77_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmzZwZh77_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zmzZwZh77_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zmzZwZh77_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zmzZwZh77_w"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "zmzZwZh77_w",
+        "videoPublishedAt": "2020-04-08T17:25:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kHxBRFn7HEdjsbTawj2FzvSFoPg",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:48:06Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Redwood Talk and Demo by its Co-Author Peter Pistorius aka @appfactory",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/appfactory\n\nTalk topic: RedwoodJS Talk and Demo\nPeter is going to talk about a few of the nice ideas in RedwoodJS.\nHe will explain what it is at first, why we built it, and then he'll go into detail about of a few of the nicer ideas about Redwood:\n- Auto lazy imports of pages.\n- Cells\n- SDL and Services",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rAb0H-MD-Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rAb0H-MD-Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rAb0H-MD-Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rAb0H-MD-Fs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rAb0H-MD-Fs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rAb0H-MD-Fs"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "rAb0H-MD-Fs",
+        "videoPublishedAt": "2020-04-09T17:01:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NH4PuGSuGhGYZcZAmNSSvDDnDi4",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-04-16T18:15:09Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "How to convince your boss to fix technical debt in your React app by Paul Armstrong",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/paularmstrong\n\nTalk topic: How to convince your boss to fix technical debt in your React app by Paul Armstrong aka @paularmstrong\n\nPaul will be talking on how to work with product/management on \"selling\" to them that paying back technical debt and investing in developer experience can impact the monetary return from users/customers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlLp2VXf81Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlLp2VXf81Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlLp2VXf81Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZlLp2VXf81Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZlLp2VXf81Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZlLp2VXf81Q"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "ZlLp2VXf81Q",
+        "videoPublishedAt": "2020-04-16T18:26:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eKxyvJeLePs5Z7dLL5jkXF3dScw",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:48:41Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React Hook Form Talk and Demo by its Author Bill Luo aka @bluebill1049",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/bluebill1049\n\nReact Hook Form: https://react-hook-form.com/\n\nTalk topic: React Hook Form Talk and Demo by its Author Luo Bill  aka @bluebill1049",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpwnCGgc9A8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpwnCGgc9A8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpwnCGgc9A8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fpwnCGgc9A8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fpwnCGgc9A8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fpwnCGgc9A8"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "fpwnCGgc9A8",
+        "videoPublishedAt": "2020-04-17T20:00:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DGCuk0qflzo-N06Vp-X0pvh3ie4",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-04-17T14:50:56Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "How to Market Yourself as a Dev with Shawn  Wang aka @swyx",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter https://twitter.com/swyx\nGet his book: https://gumroad.com/l/bAZJq/Presale\n\nTalk topic: How to Market Yourself as a Dev with Shawn Wang aka @swyx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcca0VCJe9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcca0VCJe9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcca0VCJe9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcca0VCJe9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcca0VCJe9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bcca0VCJe9Q"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "bcca0VCJe9Q",
+        "videoPublishedAt": "2020-04-20T18:28:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jab5_k0xnTV3OV5P4HWvP2YxC2o",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-04-09T19:56:11Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "ChakraUI Talk and Demo by its Author Segun Adebayo aka @thesegunadebayo",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/appfactory\n\nTalk topic: ChakraUI Talk and Demo by its Author Segun Adebayo aka @thesegunadebayo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/laBJihRC560/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/laBJihRC560/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/laBJihRC560/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/laBJihRC560/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/laBJihRC560/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "laBJihRC560"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "laBJihRC560",
+        "videoPublishedAt": "2020-04-30T20:09:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a0w0htCLnGi4kkDALwbYNnAPoCM",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-04-28T11:10:05Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Hasura Actions in Action with its Co-Founder Tanmai  Gopal aka @tanmaigo",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow Hasura on twitter https://twitter.com/hasurahq\nFollow him on twitter https://twitter.com/tanmaigo\n\nTalk topic: Hasura Actions in Action with its Co-Founder Tanmai  Gopal aka @tanmaigo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KH3mv4tm0fY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KH3mv4tm0fY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KH3mv4tm0fY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KH3mv4tm0fY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KH3mv4tm0fY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KH3mv4tm0fY"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "KH3mv4tm0fY",
+        "videoPublishedAt": "2020-05-05T17:56:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_-FqhrWX-Utb9FUmMo9Sjrdj5cU",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:49:31Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Prisma 2.0 Demo by its Core-Team member  Nikolas Burk aka @nikolasburk",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/nikolasburk\n\nTalk topic: Prisma 2.0 Demo by its Core-Team member  Nikolas Burk\naka @nikolasburk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AnJxKWQG_fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AnJxKWQG_fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AnJxKWQG_fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AnJxKWQG_fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AnJxKWQG_fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AnJxKWQG_fM"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "AnJxKWQG_fM",
+        "videoPublishedAt": "2020-05-20T18:32:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qyukNhfQL-PSd0CQ6mdVSbfzZWg",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-04-17T14:50:56Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Building a fullstack React app w/ GraphQL, Express, Couchbase & Recoiljs -  Eric Bishard @httpJunkie",
+        "description": "Get your ticket to our conference and workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/httpJunkie\n\nTalk topic: Building a fullstack React app with GraphQL, Express, and Couchbase -  Eric  Bishard aka @httpJunkie\n\nPaul will be talking on how to work with product/management on \"selling\" to them that paying back technical debt and investing in developer experience can impact the monetary return from users/customers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d69FJiRwc1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d69FJiRwc1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d69FJiRwc1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d69FJiRwc1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d69FJiRwc1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d69FJiRwc1Y"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "d69FJiRwc1Y",
+        "videoPublishedAt": "2020-05-22T19:47:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8iENM8HDRmY21w4UgSKkaJ0muRA",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:51:08Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "ReactEurope 2020 Live",
+        "description": "Watch all the videos nicely cut in our 2020 playlist here https://www.youtube.com/watch?list=PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl&v=nzeL1wZltf0&feature=emb_title",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/41Ia291KIvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/41Ia291KIvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/41Ia291KIvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/41Ia291KIvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/41Ia291KIvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "41Ia291KIvI"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "41Ia291KIvI",
+        "videoPublishedAt": "2020-05-14T19:54:45Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vRFWNC5rv6O2uk1fo10AbsXsgKk",
+      "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-04-03T14:49:12Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "From AngularJS to React at ProtonMail - Matthieu Lux aka @Swiip",
+        "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/Swiip\n\nTalk topic: From AngularJS to React at ProtonMail - Matthieu Lux aka @Swiip",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aRitqFYPwS8"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "aRitqFYPwS8",
+        "videoPublishedAt": "2020-04-02T20:06:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
   }
 }

@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "7-Rf9zDsCrQ5r7hF9rM87eIiuxc",
+  "etag": "m7TdepKKp4wIwEKeVjmMtfaBdFE",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -433,10 +433,118 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FsyuCx7mbOHQ7F-INRy8GWxKWy4",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-12-14T06:42:17Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU is the place to be | RNEU 2023 Interview with Matt Hargett",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q02cX1zH0 \n\nLet’s talk about big tech transformations with Matt Hargett, one of the React Native EU 2023 speakers. In the interview, Matt explains the importance of iterative work and discussing risks upfront for business success. He also shares what makes React Native EU special to him, from incredible attention to detail to the chance to connect with Core Contributors. \n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q02cX1zH0 \n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RHx-YHYCdqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RHx-YHYCdqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHx-YHYCdqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RHx-YHYCdqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RHx-YHYCdqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RHx-YHYCdqs"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "RHx-YHYCdqs",
+        "videoPublishedAt": "2023-12-18T07:29:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dQNenwGJyAjKgTNEnftp5sfWI2w",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-12-14T06:43:29Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "What the heck is a developer advocate? | RNEU 2023 Interview with Anisha Malde",
+        "description": "✨ React Native EU is powered by Callstack, Total Software Engineering Consultancy ✨  https://hubs.li/Q02cX0mS0 \n\nTune in to the interview with Anisha Malde from Amazon! Learn who a developer advocate is (spoiler alert: that’s probably your best friend) and discover the power of using Storybook in React Native testing. And if you’re not sure whether React Native EU is a conference for you, trust Anisha when she says it’s the go-to event for all developers, offering talks for every skill level and the possibility to truly become a part of the Open Source community.\n\nSnag your tickets early for the 2024 edition of React Native EU 🎟 https://hubs.li/Q02cX0910\n\n📱 Follow React Native EU for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/reactnative_eu/ \nFacebook: https://www.facebook.com/reactnativeeu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3GgF2DTKbiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3GgF2DTKbiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3GgF2DTKbiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3GgF2DTKbiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3GgF2DTKbiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3GgF2DTKbiQ"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "3GgF2DTKbiQ",
+        "videoPublishedAt": "2023-12-18T07:25:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 10,
     "resultsPerPage": 50
   }
 }
