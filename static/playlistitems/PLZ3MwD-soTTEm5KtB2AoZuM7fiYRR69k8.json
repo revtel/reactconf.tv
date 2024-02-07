@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "XFFOVd0iZXYlV8EJrhC-zIjo2ts",
+  "etag": "ENH5kjJNSd5DvVeVFgrhZf-Ct80",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -200,13 +200,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3u8H-rdJoVcdf8JAF2-SohN5HLA",
+      "etag": "oLw7LGTY5BLYwqnrZuLTZqpY1dY",
       "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-09-21T10:31:52Z",
         "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
         "title": "The Invisible Architect - Michał Pierzchała | React Native EU 2023",
-        "description": "📖 About the talk \n\nAs app developers, builders, software architects and designers, we’re used to shaping things the way we like. Bending the code to our reality. Often believing we have full control over our creation. But reality is much more complex. Reality means talking to other people, communicating needs and ideas. I’m going to show you how this communication shapes and designs your products and code, how React fits into this picture, and how to take Conway’s law to your advantage.\n\n🗣 Speaker Bio\n\nHead of Technology at Callstack. Passionate about building mobile and web experiences, high quality JS tooling and Open Source. Core React Native Community & Jest contributor. Space exploration enthusiast.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
+        "description": "📖 About the talk \n\nAs app developers, builders, software architects, and designers, we’re used to shaping things the way we like. Bending the code to our reality. Often believing we have full control over our creation. But reality is much more complex. Reality means talking to other people, communicating needs and ideas. I’m going to show you how this communication shapes and designs your products and code, how React fits into this picture, and how to take Conway’s law to your advantage.\n\n🗣 Speaker Bio\n\nHead of Technology at Callstack. Passionate about building mobile and web experiences, high quality JS tooling and Open Source. Core React Native Community & Jest contributor. Space exploration enthusiast.\n\nGet your tickets for React Native EU 2024:\nhttps://ti.to/react-native-eu/react-native-eu-2024/\n\nCheck out more about React Native EU conference: \nhttps://www.react-native.eu/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nVisit the organizer's website: \nhttps://www.callstack.com/?utm_campaign=React_Native_EU&utm_source=youtube&utm_medium=social\n\nFollow us on Twitter to stay up to date: \nhttps://twitter.com/react_native_eu",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/WhhQwUPSaaY/default.jpg",
