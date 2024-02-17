@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ENH5kjJNSd5DvVeVFgrhZf-Ct80",
+  "etag": "XKYlth9FvBrQLfRwA4ZuIE23P9o",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1226,10 +1226,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PA9nhR3IaSr1vFvKQwlqf0DIwI8",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2024-02-15T15:51:43Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Native EU is React Universe Conf now",
+        "description": "🚀 We are thrilled to announce that React Native EU is React Universe Conf now! 📣 After seven editions focused exclusively on cross-platform development with React Native, we are opening up to the whole React ecosystem as one 🔥 because there’s one React and many platforms 👌\n\nFind out more about the conference and grab your blind bird ticket ⏳ https://hubs.li/Q02lctTG0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LUpZ4cBJ7lM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LUpZ4cBJ7lM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LUpZ4cBJ7lM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LUpZ4cBJ7lM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LUpZ4cBJ7lM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LUpZ4cBJ7lM"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "LUpZ4cBJ7lM",
+        "videoPublishedAt": "2024-02-15T17:34:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 25,
+    "totalResults": 26,
     "resultsPerPage": 50
   }
 }
