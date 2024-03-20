@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "zatn9LWH5M5-pUYUeLK0YZO8NzE",
+  "etag": "s1ns01vOr2RQCnA2G8jPy-JyEV8",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -652,7 +652,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gdT651XeNXAJ8deglXfd6kphIE8",
+      "etag": "e9u-6n5cygiy9cZ9nToAbQTHtZQ",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2024-02-20T08:17:32Z",
@@ -706,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zEMnwPw7b5LAgSTjj8NyLbJ3omM",
+      "etag": "6lgsdtMwhb8hJhu2Jx2bA7QPZes",
       "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2024-02-20T10:30:36Z",
@@ -757,10 +757,118 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OYLCXIL_eEULWphMeBv0dSa4LQ0",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2024-03-20T10:04:05Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "Can you combine Open Source work with everyday job? | RNEU 2023 Interview with Vojtech Novak",
+        "description": "✨ React Universe Conf (formerly React Native EU) is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q02q51c20 \n\nIn this interview recorded at last year’s conference, Szymon Rybczak asks Vojtech Novak about his reasons for returning to the conference, the event’s importance for community building, and Vojtech’s Open Source contributions. \n\nSnag your tickets early for React Universe Conf 2024 🎟️ https://hubs.li/Q02q51d70 \n\n📱 Follow React Universe Conf for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/react_universe_conf/ \nFacebook: https://www.facebook.com/reactuniverseconf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AhTlSR9i-WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AhTlSR9i-WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AhTlSR9i-WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AhTlSR9i-WU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AhTlSR9i-WU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AhTlSR9i-WU"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "AhTlSR9i-WU",
+        "videoPublishedAt": "2024-03-20T10:29:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O_LtPHvrGfgdvNZxhMDlVfuGXGQ",
+      "id": "UExaM013RC1zb1RURXZzMXFiZFV0bTUydmxnVWxLUERPWC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-03-20T10:11:29Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "We’re making opportunities for people to connect | RNEU 2023 Interview with Mike Grabowski",
+        "description": "✨ React Universe Conf (formerly React Native EU) is powered by Callstack, Total Software Engineering Consultancy ✨ https://hubs.li/Q02q518n0 \n\nTune in to an interview with Mike Grabowski, Callstack’s co-founder. Discover how our conference has evolved into a larger affair while maintaining its authentic community spirit. In conversation with Szymon Rybczak, Mike also discusses the thriving React Native ecosystem and the beginning of his career in software development, which began at the age of 18.\n\nSnag your tickets early for React Universe Conf 2024 🎟️ https://hubs.li/Q02q518J0 \n\n📱 Follow React Universe Conf for more updates:\nTwitter: https://twitter.com/react_native_eu \nLinkedIn: https://pl.linkedin.com/showcase/react-native-eu/\nInstagram: https://www.instagram.com/react_universe_conf/ \nFacebook: https://www.facebook.com/reactuniverseconf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2cUKzC_Oilw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2cUKzC_Oilw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2cUKzC_Oilw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2cUKzC_Oilw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2cUKzC_Oilw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEvs1qbdUtm52vlgUlKPDOX",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2cUKzC_Oilw"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "2cUKzC_Oilw",
+        "videoPublishedAt": "2024-03-20T10:30:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 16,
     "resultsPerPage": 50
   }
 }
