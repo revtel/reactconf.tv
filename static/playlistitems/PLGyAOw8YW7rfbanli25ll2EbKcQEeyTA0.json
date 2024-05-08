@@ -1,0 +1,54 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "WPhCMjH4phe14E5RXi-qc8L6W8A",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "trA6EpSRZBrzC-AhiJVrDi6KoN4",
+      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-05-08T07:27:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India - Chennai Meetup April 2024",
+        "description": "​This meetup is brought to you in collaboration with the Chennai React Community.\n\n​Agenda\n\n​Talk #1: Augmented Reality with React Native using Viro SDK\n\n​Arun Kumar N, Senior Analyst @Tiger Analytics\n\n​Talk #2: Exploring the World of Microfrontend Architecture with React\n\nShanthi P, Senior Engineer @Talentship\n\n​Talk #3: Building web components with React\n\n​Dani Akash, Frontend Engineer @Clarifai\n\n​Follow us for more updates\n\n​https://twitter.com/chennaireact\n\n​https://www.linkedin.com/company/chennaireact/\n\n​https://www.meetup.com/chennai-reactjs-meetup-group/\n\n\n​Follow and subscribe for more info!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_hVbeInTQKU"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "_hVbeInTQKU",
+        "videoPublishedAt": "2024-05-08T07:24:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
