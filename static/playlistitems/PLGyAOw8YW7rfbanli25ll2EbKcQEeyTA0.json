@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "WPhCMjH4phe14E5RXi-qc8L6W8A",
+  "etag": "kBG6yFap5AObOX7m984ayOc_HQk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "trA6EpSRZBrzC-AhiJVrDi6KoN4",
+      "etag": "mngdZAnz9OD4DbX4oS2xuRM3_XE",
       "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-05-08T07:27:41Z",
@@ -26,6 +26,16 @@
             "url": "https://i.ytimg.com/vi/_hVbeInTQKU/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -40,7 +50,7 @@
       },
       "contentDetails": {
         "videoId": "_hVbeInTQKU",
-        "videoPublishedAt": "2024-05-08T07:24:26Z"
+        "videoPublishedAt": "2024-05-08T15:43:51Z"
       },
       "status": {
         "privacyStatus": "public"
