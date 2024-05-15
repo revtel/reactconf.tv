@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "iZWMCvpiqWBoTRF5eAsjkKwxdrg",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o9UC-9sWv07IdUMP31ICJaKAp7o",
+      "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-05-14T17:29:50Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2024",
+        "description": "Day 2: Thursday, May 16, 2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaaY3NEriypd7FKyWqbBNuAB",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ckOUBiuxVY"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "0ckOUBiuxVY",
+        "videoPublishedAt": "2024-05-14T17:29:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wY9972tXlKwJhmBGRSHv7pfyaK8",
+      "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-05-14T17:25:32Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2024",
+        "description": "Day 1: Wednesday, May 15, 2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaaY3NEriypd7FKyWqbBNuAB",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T8TZQ6k4SLE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "T8TZQ6k4SLE",
+        "videoPublishedAt": "2024-05-14T17:25:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
