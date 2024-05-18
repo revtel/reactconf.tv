@@ -1,39 +1,39 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "iZWMCvpiqWBoTRF5eAsjkKwxdrg",
+  "etag": "pSDKsCKg6NY2D1g2cyqMG4ZRtSs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "o9UC-9sWv07IdUMP31ICJaKAp7o",
+      "etag": "b2MmmThQkD6RzK3FZma5L2kJ4-A",
       "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-05-14T17:29:50Z",
         "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
-        "title": "React Conf 2024",
-        "description": "Day 2: Thursday, May 16, 2024",
+        "title": "React Conf 2024 Day 2",
+        "description": "Day 2: Thursday, May 16, 2024\n\nAgenda:\nhttps://conf.react.dev/agenda\n\nLive Caption View URL:\nhttps://www.streamtext.net/player?event=ReactConf24",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -50,7 +50,7 @@
       },
       "contentDetails": {
         "videoId": "0ckOUBiuxVY",
-        "videoPublishedAt": "2024-05-14T17:29:49Z"
+        "videoPublishedAt": "2024-05-17T00:17:57Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -58,36 +58,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wY9972tXlKwJhmBGRSHv7pfyaK8",
+      "etag": "Pp73gLhbXzU_H_djvkZLpkRG3_Q",
       "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-05-14T17:25:32Z",
         "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
-        "title": "React Conf 2024",
-        "description": "Day 1: Wednesday, May 15, 2024",
+        "title": "React Conf 2024 Day 1",
+        "description": "React Conf 2024 Day 1\n\nReact Conf 2024 Day 2: https://www.youtube.com/watch?v=0ckOUBiuxVY\n\n00:00 Pre-stream\n16:13 Intro\n29:48 Keynote\n1:32:22 Vanilla React\n1:57:55 Break\n2:28:00 What's new in React 19\n2:48:32 React Unpacked: A Roadmap to React 19\n3:20:20 Forget About Memo\n3:53:25 Break\n5:13:45 React for Two Computers\n5:46:05 Introducing Universal React Server Components in Expo Router\n6:03:25 Break\n6:41:08 Real-time server components\n6:55:16 React 19 Deep Dive: Coordinating HTML\n7:11:07 Let’s break React’s rules\n7:26:55 RedwoodJS, now with React Server Components!\n7:38:38 React team Q&A\n8:30:22 Outro",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -104,7 +104,7 @@
       },
       "contentDetails": {
         "videoId": "T8TZQ6k4SLE",
-        "videoPublishedAt": "2024-05-14T17:25:31Z"
+        "videoPublishedAt": "2024-05-16T00:49:30Z"
       },
       "status": {
         "privacyStatus": "public"
