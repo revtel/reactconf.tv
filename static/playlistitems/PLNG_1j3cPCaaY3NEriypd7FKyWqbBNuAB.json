@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Kny6rVJ7AA5hcg9XFQ08ZOik7Nw",
+  "etag": "qM2sS3PHWeMqwZ47nnFU0hz4q4E",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -58,13 +58,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_NRzE6O0UdpnCTzRfScgC-Neyv0",
+      "etag": "fYlOhrmfHj7eASM5ZzFKBNlpgLE",
       "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-05-14T17:29:50Z",
         "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
         "title": "React Conf 2024 Day 2",
-        "description": "Day 2: Thursday, May 16, 2024\n\nAgenda:\nhttps://conf.react.dev/agenda\n\nLive Caption View URL:\nhttps://www.streamtext.net/player?event=ReactConf24",
+        "description": "React Conf 2024 Day 2\n\nReact Conf 2024 Day 1: https://www.youtube.com/watch?v=T8TZQ6k4SLE\n\n00:00 Pre-stream\n28:36 Intro\n38:40 Keynote\n1:36:36 Extending React Native Beyond Mobile & Desktop Apps\n2:06:00 Break\n2:35:11 React Compiler Deep Dive\n3:07:35 And Now You Understand React Server Components\n3:32:08 React Rhythm & Blues\n3:53:08 Break\n5:31:21 Solve 100% of your errors\n5:44:16 Demystifying accessibility in React apps\n6:01:32 Pigment CSS, CSS in the server component age\n6:15:25 Spatial computing with React\n6:35:49 Break\n7:01:20 Enhancing Forms with React Server Components\n7:22:49 Cross Platform React\n7:45:35 React Native team Q&A\n8:15:40 Outro",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/default.jpg",
