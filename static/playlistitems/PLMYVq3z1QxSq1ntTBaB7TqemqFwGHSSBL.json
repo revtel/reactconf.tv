@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "iuHnztvnzqQB1cdcS4kL4xj4UW0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sOp8-ZuJBlJDxH5te3aSt_4FIig",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-07-11T15:52:41Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yr8jH2OWX7M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yr8jH2OWX7M"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
