@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "xnd7dGIBU4dfnbjq37Fznhg9psk",
+  "etag": "ZmdR9Zmqag7LVfqNaOyJxt8Ckjw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "fDf-4y2qz_LzIYefNZ68FvxpYTw",
+      "etag": "_ZEYtzbvgUh5vGVzS6-u01sdUJs",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-07-11T15:52:41Z",
@@ -158,7 +158,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tlrt6FJE6dy0LIFwlLveGZKWJHg",
+      "etag": "FAFlaxCus0kcrdYsOZ10Nd9O1ZQ",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2024-07-14T16:22:28Z",
@@ -628,27 +628,56 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vcetbbqTTHw4pfeDtFSetGjURu0",
+      "etag": "JfRWcElK75crPWdpVx0g6mAKKYA",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2024-07-14T17:30:09Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Asaf Shochet Avida @ ReactNext 24` | Mastering React Component Library Optimization",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nShaking Things Up: Mastering React Component Library Optimization\n\nManaging a growing component library can be quite a puzzle. The more it expands, the heavier it gets with larger bundle sizes, dependencies multiplying, and the overall complexity going through the roof. And let's face it, it's a headache when every project using the library ends up dragging the entire package, even when they just need a single component 🤦.\nBut worry not! That's where tree-shaking steps in to save the day!\nIn this talk, I will spill the beans on my experience fine-tuning a React component library that boasts over 40 components and serves various projects. We'll roll up our sleeves and dig into the world of tree shaking, talk about what you need to get it up and running smoothly and untangle some tricky terms like commonJS vs. ES modules, peer dependencies, and the whole multi-bundle exports thing.\nGet ready for some down-to-earth, practical insights that can save you a refactor or two.\n\n\nAsaf Shochet Avida\nFrontend Tech Lead @ Evinced\n\nAsaf is the front-end tech lead @Evinced, with 13+ years of experience under his belt, including frontend, backend, and test automation (go testing!), and a special place in his heart for shiny CI pipelines.\nHe loves reading Harry Potter with his daughter, mentoring junior devs, and making bonfires with his family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FYNovA29Ya4"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "FYNovA29Ya4"
+        "videoId": "FYNovA29Ya4",
+        "videoPublishedAt": "2024-07-25T13:52:49Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {

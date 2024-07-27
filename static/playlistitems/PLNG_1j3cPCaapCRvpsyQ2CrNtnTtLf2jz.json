@@ -1,0 +1,1360 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DVScrV2ZKfhQOI8CCRdNRVla_mM",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z7jO49aCxrymz9z0QmriXQfxpdA",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2024-07-04T04:42:51Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2024 Highlights",
+        "description": "Co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See all React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6auCiVoa3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6auCiVoa3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6auCiVoa3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p6auCiVoa3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p6auCiVoa3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p6auCiVoa3c"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "p6auCiVoa3c",
+        "videoPublishedAt": "2024-07-25T15:57:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mA6p2Er7XBN09rghGs7wb-fho14",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf Keynote (Day 1)",
+        "description": "Joe Savona | Meta\nJoe was planning to major in math and philosophy but got into computer science after writing physics simulations in Matlab. Prior to React, he worked on Relay, RSocket.js, and the Skip programming language. While he’s not building some sort of reactive system he enjoys running, studying Japanese, and spending time with his family.\nhttps://github.com/josephsavona\nhttps://twitter.com/en_JS\n\nLauren Tan | Meta\nLauren’s programming career peaked when she first discovered the marquee tag. She’s been chasing that high ever since. She studied Finance instead of CS in college, so she learned to code using Excel instead of Java. Lauren enjoys dropping cheeky memes in chat, playing video games with her partner, and petting her dog Zelda.\nhttps://github.com/poteto\nhttps://twitter.com/potetotes\n\nAndrew Clark | Vercel\nAndrew got started with web development by making sites with WordPress, and eventually tricked himself into doing JavaScript. His favorite pastime is karaoke. Andrew is either a Disney villain or a Disney princess, depending on the day.\nhttps://github.com/acdlite\nhttps://twitter.com/acdlite\n\nJosh Story | Vercel\nJosh majored in Mathematics and discovered programming while in college. His first professional developer job was to program insurance rate calculations in Microsoft Excel, the paragon of Reactive Programming which must be why he now works on React. In between that time Josh has been an IC, Manager, and Executive at a few startups. outside of work he likes to push his limits with cooking.\nhttps://github.com/gnoff\nhttps://twitter.com/joshcstory\n\nSathya Gunasekaran | Meta\nSathya hated the Dragon Book in school but somehow ended up working on compilers all his career. When he’s not compiling React components, he’s either drinking coffee or eating yet another Dosa.\nhttps://github.com/gsathya\nhttps://twitter.com/_gsathya\n\nMofei Zhang | Meta\nMofei started programming when she realized it can help her cheat in video games. She focused on operating systems in undergrad / grad school, but now finds herself happily tinkering on React. Outside of work, she enjoys debugging bouldering problems and planning her next backpacking trip(s).\nhttps://github.com/mofeiZ\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lyEKhv8-3n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lyEKhv8-3n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lyEKhv8-3n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lyEKhv8-3n0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lyEKhv8-3n0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lyEKhv8-3n0"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "lyEKhv8-3n0",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2OXuXAdmaWU4vsbNtKOQj_O6ByE",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Vanilla React | Ryan Florence",
+        "description": "In 2014 Ryan and Michael first published React Router. Over the past decade, React Router has been the backbone of countless React apps, and has provided a stable foundation for anyone building with React. More recently, React Router has grown into a full stack framework with some help from Remix and Shopify. This talk will explore what we've done to keep React Router up to date as React evolves, and show off some of the latest developments we've been working on.\n\nRyan Florence | Shopify\nRyan Florence is the co-creator of Remix and has been obsessed with UX since using an Intellivision.\nhttps://github.com/ryanflorence\nhttps://twitter.com/ryanflorence\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZcwA0xt8FlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZcwA0xt8FlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZcwA0xt8FlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZcwA0xt8FlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZcwA0xt8FlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZcwA0xt8FlQ"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "ZcwA0xt8FlQ",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TRviKsgz1TWDkSdw58UJ3qIESkA",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "What's new in React 19 | Lydia Hallie",
+        "description": "This visual technical talk provides a deep dive overview of React 19's new features\n\nLydia Hallie | Software Engineering Consultant\nLydia Hallie is a JavaScript and React expert focusing on web performance. Her visually engaging presentations make complex topics easy to follow, focusing on helping people really understand and appreciate the tech behind their projects.\nhttps://github.com/lydiahallie\nhttps://twitter.com/lydiahallie\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJOGzVygGcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJOGzVygGcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJOGzVygGcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJOGzVygGcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AJOGzVygGcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AJOGzVygGcY"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "AJOGzVygGcY",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tg09UTAx-eU9XDda_KCs3AX5CKg",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Unpacked: A Roadmap to React 19 | Sam Selikoff",
+        "description": "We'll take a step-by-step approach to building a user interface, using real-world features to motivate React's newest primitives and patterns. By the end of the talk, viewers will have a clearer understanding of what problems these new APIs solve, how they work together, and when it makes sense to use them in their own projects.\n\nSam Selikoff (Build UI)\nSam Selikoff has been teaching frontend development for over eight years through his podcast Frontend First, in-person trainings, conference talks, and videos on YouTube, Build UI, and EggHead. He's also a consultant. Prior to working for himself, he was a frontend engineer at TED conferences.\nhttps://github.com/samselikoff\nhttps://x.com/samselikoff\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0B2HsSM78s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0B2HsSM78s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0B2HsSM78s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R0B2HsSM78s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R0B2HsSM78s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R0B2HsSM78s"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "R0B2HsSM78s",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uSC9hTMj2G7c3pjOEJt1eSclhtk",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Forget About Memo | Lauren Tan",
+        "description": "Lauren Tan | Meta\nLauren’s programming career peaked when she first discovered the marquee tag. She’s been chasing that high ever since. She studied Finance instead of CS in college, so she learned to code using Excel instead of Java. Lauren enjoys dropping cheeky memes in chat, playing video games with her partner, and petting her dog Zelda.\nhttps://github.com/poteto\nhttps://twitter.com/potetotes\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvhPq5chokM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvhPq5chokM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvhPq5chokM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lvhPq5chokM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lvhPq5chokM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lvhPq5chokM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "lvhPq5chokM",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mNpf3V5YmjbGse6Qq0utsFPKzYo",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React for Two Computers | Dan Abramov",
+        "description": "Dan Abramov | Bluesky\nDan got into programming after he accidentally discovered Visual Basic inside Microsoft PowerPoint. He has found his true calling in turning Sebastian’s tweets into long-form blog posts. Dan occasionally wins at Fortnite by hiding in a bush until the game ends.\nhttps://github.com/gaearon\nhttps://twitter.com/dan_abramov\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozI4V_29fj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozI4V_29fj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozI4V_29fj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ozI4V_29fj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ozI4V_29fj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ozI4V_29fj4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "ozI4V_29fj4",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nV2MsfGPw25LD5Q0CcIi7VxuPR0",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Introducing Universal React Server Components in Expo Router | Evan Bacon",
+        "description": "A first-look at React Server Components for native and web with Expo Router—the universal React framework. What does it look like when data fetching and server-driven UI are first-class primitives in React Native, and what kinds of experiences does this unlock? Server rendering native views, streaming UI, bundle splitting, and parallel data fetching come together in a unified system for all platforms. It's a new era of app development, powered by React.\n\nEvan Bacon | Expo\nEvan Bacon, an artist and technologist. Currently building Expo Router, the universal React framework. He started working on the Expo project in 2017 with the goal to make mobile experiences easy to create, share, and discover.\nhttps://github.com/EvanBacon\nhttps://twitter.com/baconbrix\n\nThis talk was given as a part of React Conf 2024 co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/djhEgxQf3Kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/djhEgxQf3Kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/djhEgxQf3Kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/djhEgxQf3Kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/djhEgxQf3Kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "djhEgxQf3Kw"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "djhEgxQf3Kw",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fd3h5Xfvh29JeUowtHXE2gsHW-s",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Real-time server components | Sunil Pai",
+        "description": "The evolution of Stateful Serverless infrastructure married with React Server Components is a highly compelling stack to build incredible real-time applications for the next age of User Interfaces. In this talk, we'll see how regular React developers can take advantage of this paradigm and build amazing applications.\n\nSunil Pai | PartyKit\nSunil Pai is Founder and CEO of PartyKit, a London based startup for building realtime, collaborative applications. He plays a blue Les Paul.\nhttps://github.com/threepointone\nhttps://twitter.com/threepointone\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sMANTHWtLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sMANTHWtLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sMANTHWtLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6sMANTHWtLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6sMANTHWtLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6sMANTHWtLM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "6sMANTHWtLM",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qbH1a6IOCZzJPHcLx3u_xuwVzlw",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React 19 Deep Dive: Coordinating HTML | Josh Story",
+        "description": "Josh Story | Vercel\nJosh majored in Mathematics and discovered programming while in college. His first professional developer job was to program insurance rate calculations in Microsoft Excel, the paragon of Reactive Programming which must be why he now works on React. In between that time Josh has been an IC, Manager, and Executive at a few startups. outside of work he likes to push his limits with cooking.\nhttps://github.com/gnoff\nhttps://twitter.com/joshcstory\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IBBN-s77YSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IBBN-s77YSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IBBN-s77YSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IBBN-s77YSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IBBN-s77YSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IBBN-s77YSI"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "IBBN-s77YSI",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QwtyQNfgoq_vtcJfXPDRKks3GsE",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Let’s break React’s rules | Charlotte Isambert",
+        "description": "\"Do not call hooks conditionally,\" \"Only call hooks from React functions\" - you've known these rules for a long time, but do you know what really happens if you break them?\n\nCharlotte Isambert | BAM\nCharlotte is software engineer at BAM. She has been a React Native developer for 3 years.\nhttps://twitter.com/c_isambert\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxbVN1F-aag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxbVN1F-aag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxbVN1F-aag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cxbVN1F-aag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cxbVN1F-aag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cxbVN1F-aag"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "cxbVN1F-aag",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V3FBbRYmDjkDd_dXBwFqyLyJ0GY",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "RedwoodJS, now with React Server Components! | Amy Dutton",
+        "description": "RedwoodJS, the full-stack, open source, React web application framework, has adopted React Server Components in a major architectural shift. By combining the strengths of SSR, streaming, Suspense, RSCs, and Server Actions, we have created a new version of Redwood that is both simpler and more capable. In this talk I will share the lessons we learned in implementing RSCs on top of Vite, and dig into how Redwood’s approach to RSCs differs from Next.js. Come see how we make data fetching (both client- and server-side) trivial with our unique Cell pattern, how to execute server functions from the client, and how our routes file makes complex URLs easy to manage. I will also reveal our roadmap and future innovations you can expect from the framework!\n\nAmy Dutton | RedwoodJS\nAmy loves using her 22 years of internet experience to teach developers how to design, and designers how to develop. She lives in Nashville, TN USA with her husband, 3 adorable kids, and 2 dogs.\nhttps://github.com/ahaywood\nhttps://twitter.com/selfteachme\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sjyY4MTECUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sjyY4MTECUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjyY4MTECUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sjyY4MTECUU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sjyY4MTECUU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sjyY4MTECUU"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "sjyY4MTECUU",
+        "videoPublishedAt": "2024-07-25T15:57:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VZDSbYNEzeXOMj-pEqUbExRYdPU",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React team Q&A",
+        "description": "Michael Chan | Life enthusiast\nchantastic is a software engineer and community leader with a passion for education. As the host of React Podcast, he has shared insights from open source luminaries and engineer-creators. His curious and engaging style has helped aspiring engineers learn React.\nhttps://github.com/chantastic\nhttps://twitter.com/chantastic\n\nLauren Tan | Meta\nLauren’s programming career peaked when she first discovered the marquee tag. She’s been chasing that high ever since. She studied Finance instead of CS in college, so she learned to code using Excel instead of Java. Lauren enjoys dropping cheeky memes in chat, playing video games with her partner, and petting her dog Zelda.\nhttps://github.com/poteto\nhttps://twitter.com/potetotes\n\nMofei Zhang | Meta\nMofei started programming when she realized it can help her cheat in video games. She focused on operating systems in undergrad / grad school, but now finds herself happily tinkering on React. Outside of work, she enjoys debugging bouldering problems and planning her next backpacking trip(s).\nhttps://github.com/mofeiZ\n\nRicky Hanlon | Meta\nRicky majored in theoretical math and somehow found himself on the React Native team for a couple years before joining the React team. When he’s not programming you can find him snowboarding, biking, climbing, golfing, or closing GitHub issues that do not match the issue template.\nhttps://github.com/rickhanlonii\nhttps://twitter.com/rickhanlonii\n\nJason Bonta | Meta\nJason abandoned embedded-C for a career in front-end engineering and never looked back. Armed with esoteric CSS knowledge and a passion for beautiful UI, Jason joined Facebook in 2010, where he now feels privileged to have seen JavaScript development come of age. Though he may not understand how for-of loops work, he loves getting to work with brilliant people on projects that enable amazing UX.\n\nJoe Savona | Meta\nJoe was planning to major in math and philosophy but got into computer science after writing physics simulations in Matlab. Prior to React, he worked on Relay, RSocket.js, and the Skip programming language. While he’s not building some sort of reactive system he enjoys running, studying Japanese, and spending time with his family.\nhttps://github.com/josephsavona\nhttps://twitter.com/en_JS\n\nJosh Story | Vercel\nJosh majored in Mathematics and discovered programming while in college. His first professional developer job was to program insurance rate calculations in Microsoft Excel, the paragon of Reactive Programming which must be why he now works on React. In between that time Josh has been an IC, Manager, and Executive at a few startups. outside of work he likes to push his limits with cooking.\nhttps://github.com/gnoff\nhttps://twitter.com/joshcstory\n\nDan Abramov | Bluesky\nDan got into programming after he accidentally discovered Visual Basic inside Microsoft PowerPoint. He has found his true calling in turning Sebastian’s tweets into long-form blog posts. Dan occasionally wins at Fortnite by hiding in a bush until the game ends.\nhttps://github.com/gaearon\nhttps://twitter.com/dan_abramov\n\nAndrew Clark | Vercel\nAndrew got started with web development by making sites with WordPress, and eventually tricked himself into doing JavaScript. His favorite pastime is karaoke. Andrew is either a Disney villain or a Disney princess, depending on the day.\nhttps://github.com/acdlite\nhttps://twitter.com/acdlite\n\nThis Q&A was part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCkPaE4nxaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCkPaE4nxaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCkPaE4nxaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iCkPaE4nxaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iCkPaE4nxaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iCkPaE4nxaw"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "iCkPaE4nxaw",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X9E9T5nzta4k-xzJnJkT61d3McQ",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf Keynote (Day 2)",
+        "description": "Join us for the Day 2 Keynote of ReactConf 2024, where we’ll have the opportunity to showcase what the React & React Native team have been working on during the last months. Fasten your seatbelts, because we’re going to reveal what’s next for (React and?) React Native. We hope you’re all as excited as we are!\n\nNicola Corti | Meta\nNicola Corti is currently working in the React Native Core team at Meta, building one of the most popular cross-platform mobile framework. He's also a Google Developer Expert for Kotlin and has been working with the language since before version 1.0. He is the maintainer of several open-source libraries and tools for mobile developers. Furthermore, he is an active member of the developer community. His involvement goes from speaking at international conferences to being a member of CFP committees and supporting developer communities across Europe. In his free time, he also loves podcasting, and running marathons.\nhttps://github.com/cortinico\nhttps://twitter.com/cortinico\n\nKadi Kraman | Expo\nKadi helps create and maintain open-source libraries, including Formidable’s react-native-app-auth, and is a React Native specialist. An accomplished speaker and instructor, Kadi actively presents at JavaScript and React-focused conferences, meetups, and workshops, including appearances at GraphQL Finland, React Native London Meetup, and the CityJS conference.\nhttps://github.com/kadikraman\nhttps://twitter.com/kadikraman\n\nRiccardo Cipolleschi | Meta\niOS Engineer @ Meta, working toward bringing the New React Native Architecture to OSS.\nhttps://github.com/cipolleschi\nhttps://twitter.com/cipolleschir\n\nThis talk was part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5SMmKb7qVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5SMmKb7qVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5SMmKb7qVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q5SMmKb7qVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q5SMmKb7qVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q5SMmKb7qVI"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "Q5SMmKb7qVI",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8U6KtrNyyhdXckjWWAPnYKXMw0M",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Extending React Native Beyond Mobile & Desktop Apps | Chris Traganos & Anisha Malde",
+        "description": "Media & entertainment apps are smarter than ever before yet increasingly complex - it's time to expand beyond mobile screens & desktop apps. In this session, we'll explore how to build multi-modal streaming apps with React Native for Amazon Devices. Whether complementing an existing mobile app or building a new streaming media experience, we'll cover the best practices for multi-modal experiences, managing different input methods, focus management, and how to use the native functionality of Amazon devices such as Fire TVs, Tablets, Echo Shows, and Automotive.\n\nChris Traganos | Amazon\nChris Traganos, also known as Trag, is currently leading the Developer & Appstore Evangelism program at Amazon. Before Amazon, Trag worked at Stripe where he led many projects including Stripe's first React Native library.\nhttps://twitter.com/chris_trag\n\nAnisha Malde | Amazon\nAnisha is a Developer Advocate at Amazon where she is focused on engaging app and game developers through teaching, code samples, and public speaking. Previously, she was a React developer at IBM and was the recipient of the Rising Star in Digital 2021 Award & Top 100 Women in Tech award in the UK.\nhttps://twitter.com/anisha_malde\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X2eJtxoLlb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X2eJtxoLlb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X2eJtxoLlb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X2eJtxoLlb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X2eJtxoLlb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X2eJtxoLlb4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "X2eJtxoLlb4",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DXnif8R9UdZMiaYz7dEKUvvSMOI",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Compiler Deep Dive | Mofei Zhang & Sathya Gunasekaran",
+        "description": "Mofei Zhang | Meta\nMofei started programming when she realized it can help her cheat in video games. She focused on operating systems in undergrad / grad school, but now finds herself happily tinkering on React. Outside of work, she enjoys debugging bouldering problems and planning her next backpacking trip(s).\nhttps://github.com/mofeiZ\n\nSathya Gunasekaran | Meta\nSathya hated the Dragon Book in school but somehow ended up working on compilers all his career. When he’s not compiling React components, he’s either drinking coffee or eating yet another Dosa.\nhttps://github.com/gsathya\nhttps://twitter.com/_gsathya\n\nThis talk was given as a part of React Conf 2024 https://conf.react.dev/. See this playlist for more React Conf 2024 talks: https://www.youtube.com/playlist?list=PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uA_PVyZP7AI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uA_PVyZP7AI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uA_PVyZP7AI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uA_PVyZP7AI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uA_PVyZP7AI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uA_PVyZP7AI"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "uA_PVyZP7AI",
+        "videoPublishedAt": "2024-07-25T15:57:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O2Pv_iOiHHdfUJ87Xz2a2sUvoTI",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "And Now You Understand React Server Components | Kent C. Dodds",
+        "description": "You want to keep up with the future of React. React has evolved over the years and continues to push the component model further and further. Out of all the evolutions of React, server components are certainly the biggest advancement. It expands the component model further than ever before and as a result, requires some rethinking. Seasoned React developers need to unlearn the way we used to do things to be able to understand the improvements that React Server Components offer.\n\nIn this talk, Kent will guide you through React Server Components start to finish so you can understand how React Server Components work and set you off on your journey into the future of components everywhere!\n\nKent C. Dodds | Software Engineer and Educator\nKent C. Dodds is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. He is the creator of EpicWeb.dev, the Epic Stack, EpicReact.dev, and TestingJavaScript.com. He's an instructor on egghead.io and Frontend Masters. He's also a live streamer, podcaster, and conference organizer. Kent is married and the father of five kids.\nhttps://github.com/kentcdodds\nhttps://twitter.com/kentcdodds\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pOo7x8OiAec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pOo7x8OiAec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pOo7x8OiAec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pOo7x8OiAec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pOo7x8OiAec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pOo7x8OiAec"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "pOo7x8OiAec",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_UfiBK-82y-hoACZFVum-u6qD_k",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Rhythm & Blues | Lee Robinson",
+        "description": "Learn how the latest React features create a harmony between the client and server.\n\nLee Robinson | Vercel\nVP of Product at Vercel\nhttps://github.com/leerob\nhttps://twitter.com/leeerob\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rs9X5MjvC4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rs9X5MjvC4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rs9X5MjvC4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rs9X5MjvC4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rs9X5MjvC4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rs9X5MjvC4s"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "rs9X5MjvC4s",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q6CmjWFy5U_T7oDN9Nri_-VpzcQ",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Solve 100% of your errors | Ryan Albrecht",
+        "description": "You know that annoying bug? The one that doesn’t show up locally, but people keep reporting over and over? And no matter how many times you try to recreate the environment you can’t reproduce it? You’ve gone through the breadcrumbs, read through the stack trace, and are now playing detective to piece together support tickets to make sure it’s real. Join Sentry developer Ryan Albrecht in this talk to learn how developers can use Session Replay - a tool that provides video-like reproductions of user interactions to identify directly from your users, problems and reproduce & fix faster (without rolling your head on your keyboard).\n\nRyan Albrecht | Sentry\nRyan can always be found experimenting with new ways to break (and then fix) websites and frontend codebases. Prior to joining Sentry to build out emerging developer tools such as Session Replay, Ryan spent time at Pinterest growth hacking, and building internal tools, as well as at Meta making commenting on facebook.com easier and faster.\nhttps://github.com/ryan953\n\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vH5_cYyX-DQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vH5_cYyX-DQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vH5_cYyX-DQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vH5_cYyX-DQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vH5_cYyX-DQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vH5_cYyX-DQ"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "vH5_cYyX-DQ",
+        "videoPublishedAt": "2024-07-25T15:57:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gDQSF7BbSaWo_YTeLxh7CnYA1K8",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Demystifying accessibility in React apps | Kateryna Porshnieva",
+        "description": "Web Accessibility is nuanced and can be a tough topic to navigate and get right. In this talk, I aim to provide a practical guide to web accessibility in React apps, completed with many interactive examples.\n\nWe’ll start with brief introduction to web accessibility as a whole, we will explore the way assistive technology interacts with web pages, how accessibility tree is constructed and used to navigate web content. Then, we’ll go over a few common patterns in React apps and how to implement without compromising accessibility. This is going to be fun!\n\nKateryna Porshnieva | Buffer\nKateryna is an engineer from Ukraine with 10+ years of experience in UI development and design, currently leading front-end direction at Buffer. She is passionate about accessible web, design systems and making complex things simple. Apart from work, she is active in tech community, organises board game nights and is known as a coffee snob.\nhttps://github.com/krambertech\nhttps://twitter.com/krambertech\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UHjt2A6CS6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UHjt2A6CS6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UHjt2A6CS6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UHjt2A6CS6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UHjt2A6CS6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UHjt2A6CS6A"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "UHjt2A6CS6A",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OZVKTceteMp61K8xkKXSffrbZTE",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Pigment CSS, CSS in the server component age | Olivier Tassinari",
+        "description": "Server components are shaking up the CSS-in-JS ecosystem. Styled-components and Emotion are not compatible with it yet. But even then, CSS-in-JS libraries with a runtime impose a significant performance tax. In this lightning talk we will present the problem in more depth, all the options that the Material UI team explored, and why it eventually settled on Pigment CSS.\n\nOlivier Tassinari | MUI\nOlivier is CEO, co-founder at @mui • co-creator of Material UI • studied @telecomparis • ex @doctolib\nhttps://github.com/oliviertassinari\nhttps://x.com/olivtassinari\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_0cz-JwlsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_0cz-JwlsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_0cz-JwlsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_0cz-JwlsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_0cz-JwlsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_0cz-JwlsU"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "n_0cz-JwlsU",
+        "videoPublishedAt": "2024-07-25T15:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OqPVQ5T-5uk2-uFLGW22j3Tgfwk",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Spatial computing with React | Michał Pierzchała",
+        "description": "Michał Pierzchała | Callstack\nMichał is Head of Technology overseeing Callstack's Open Source and R&D efforts. Making sure we keep on innovating in app development space. Passionate about building OSS tools for JS devs. Created React Native Testing Library. And he likes rockets!\nhttps://github.com/thymikee\nhttps://twitter.com/thymikee\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BaHAqicAJMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BaHAqicAJMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BaHAqicAJMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BaHAqicAJMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BaHAqicAJMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BaHAqicAJMQ"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "BaHAqicAJMQ",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BXgDeR-PYsx1M-sWGO8IRdODZ7o",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Enhancing Forms with React Server Components | Aurora Walberg Scharff",
+        "description": "In this talk, we explore the application of React Server Components (RSC) to elevate the functionality and efficiency of forms. We will touch upon the core principles of RSC and their specific benefits for form development, such as improved load times and streamlined server-side processing. Attendees will gain insights into practical strategies for integrating RSC into forms, focusing on enhancing user experience and reducing frontend complexities.\n\nAurora Walberg Scharff | Inmeta\nAurora Walberg Scharff is a web developer from Norway. She holds a bachelor's degree in Robotics and Intelligent Systems, with knowledge of engineering mathematics, robotics, algorithms, data structures, and computer architecture. After working for a couple of years at a financial technology startup, she continues developing as a consultant at Inmeta. Aurora is actively building with React Server Components in her current consultancy project and is eager to share her knowledge.\nhttps://github.com/aurorascharff\nhttps://twitter.com/aurorascharff\n\nThis talk was given as a part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9cw4VczYVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9cw4VczYVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9cw4VczYVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X9cw4VczYVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X9cw4VczYVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X9cw4VczYVg"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "X9cw4VczYVg",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p4lwhhnUGk7X-dAmOKUuEoJ9H3s",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Cross Platform React | Olga Zinoveva & Naman Goel",
+        "description": "React Native, over its first decade, has enabled developers to create cross-platform native apps using web-based React skills, with significant success at Meta and beyond. In this talk we will share our vision for the next decade and the building blocks we've already put into place to achieve this vision.\n\nOlga Zinoveva | Meta\nOlga works as an engineering manager on the React team at Meta focusing on making React Native work seamlessly across all platforms.\nhttps://github.com/SlyCaptainFlint\n\nNaman Goel | Meta\nNaman is the maintainer of StyleX, a contributor to React-Strict-DOM and been building UIs on the web for more than 10 years.\nhttps://github.com/nmn\nhttps://twitter.com/naman34\n\nThis talk was given at React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sl-QUd3YiqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sl-QUd3YiqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sl-QUd3YiqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sl-QUd3YiqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sl-QUd3YiqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sl-QUd3YiqA"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "sl-QUd3YiqA",
+        "videoPublishedAt": "2024-07-25T15:57:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EYSTIvwDhNvaNKDFYDZ3Uznbwxk",
+      "id": "UExOR18xajNjUENhYXBDUnZwc3lRMkNyTnRuVHRMZjJqei4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2024-07-24T23:37:22Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Q&A with the React Native team",
+        "description": "Jamon Holmgren | Infinite Red\nJamon is CTO/cofounder of Infinite Red, React Native consultancy. Started coding in QBasic at 12 years old. Host of React Native Radio, Chain React Conf, React Native Live (streaming), Jamon’s Code Quests (YouTube). Dad of 4.\nhttps://github.com/jamonholmgren\nhttps://twitter.com/jamonholmgren\n\nOlga Zinoveva | Meta\nOlga works as an engineering manager on the React team at Meta focusing on making React Native work seamlessly across all platforms.\nhttps://github.com/SlyCaptainFlint\n\nNicola Corti | Meta\nNicola Corti is currently working in the React Native Core team at Meta, building one of the most popular cross-platform mobile framework. He's also a Google Developer Expert for Kotlin and has been working with the language since before version 1.0. He is the maintainer of several open-source libraries and tools for mobile developers. Furthermore, he is an active member of the developer community. His involvement goes from speaking at international conferences to being a member of CFP committees and supporting developer communities across Europe. In his free time, he also loves podcasting, and running marathons.\nhttps://github.com/cortinico\nhttps://twitter.com/cortinico\n\nRiccardo Cipolleschi | Meta\niOS Engineer @ Meta, working toward bringing the New React Native Architecture to OSS.\nhttps://github.com/cipolleschi\nhttps://twitter.com/cipolleschir\n\nKevin Gozali | Meta\nKevin is an engineering manager in the React team at Meta who has been supporting the React Native architecture initiatives for over 5 years and has been developing software at Meta for close to 10 years.\nhttps://github.com/fkgozali\nhttps://twitter.com/fkgozali\n\nThis Q&A was part of React Conf 2024, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2024 talks here: https://conf.react.dev/talks\n\nThank you to React Conf 2024's sponsors:\n\n💎 Diamond Sponsor\nShopify: https://remix.run/\n\n🏆 Platinum Sponsor\nAmazon: https://developer.amazon.com/apps-and-games?cmp=US_2024_05_3P_React-Conf-2024&ch=prtnr&chlast=prtnr&pub=ref&publast=ref&type=org&typelast=org\n\n🥇 Gold Sponsors\nSentry: https://sentry.io/for/react/?utm_source=sponsored-conf&utm_medium=sponsored-event&utm_campaign=frontend-fy25q2-evergreen&utm_content=logo-reactconf2024-learnmore\nMUI: https://mui.com/?utm_source=conf.react.dev&utm_medium=referral&utm_campaign=sponsor2024&utm_content=sponsorslist\nAbbott: https://www.jobs.abbott/software\n\n🥈 Silver Sponsors\nRedwood: https://redwoodjs.com\nExpo: https://expo.dev/\n\n🌈 Diversity Sponsor\nVercel: https://vercel.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FzjE9fYa1aE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FzjE9fYa1aE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FzjE9fYa1aE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FzjE9fYa1aE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FzjE9fYa1aE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaapCRvpsyQ2CrNtnTtLf2jz",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FzjE9fYa1aE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "FzjE9fYa1aE",
+        "videoPublishedAt": "2024-07-25T15:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 25,
+    "resultsPerPage": 50
+  }
+}
