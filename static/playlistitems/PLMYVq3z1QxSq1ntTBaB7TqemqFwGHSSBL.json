@@ -1,879 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "A91lUMdDzxCfyZZAkezZ73SQesc",
+  "etag": "NlSyCOU4OqHmlx-qSUh0SmLlqsg",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "9DiXZQPMsTCee9KdOOzqn3x-m6U",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:22:28Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Ariel Shulman @ ReactNext 24` | Conquering Concurrent React",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nConquering Concurrent React\n\nThe most important addition in React 18 is something we hope you never have to think about: concurrency”- React@18 documentation\nWell, in this talk - we ARE going to think about it!\nReact’s new mental model is not easy to wrap our heads around, and that’s where this talk comes in. We will learn how concurrency works in React bottom up, what problems it solves, and how SSR and streaming components fit in the picture.\nBy the end of this talk we will understand the newest technologies around us, whether it’s React’s concurrent features such as Suspense and React Lazy or the new Next.js App router\n\nAriel Shulman\nFull Stack Developer @ Illumex\n\nAriel is a Full Stack developer with a passion for designing scalable applications, understanding how things work under the hood, and public speaking about all the above.\nWhen she's not behind a keyboard she's probably surfing or playing guitar.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "LijC4OQO3Y8"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "LijC4OQO3Y8",
-        "videoPublishedAt": "2024-07-24T07:38:08Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Z2PcmbLDnli6QoHMJPOYMrvmklQ",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2024-07-11T15:52:41Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Yoav Abrahami @ ReactNext 24` | Where the future is heading for JS Frameworks…",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nWhere the future is heading for JS Frameworks…\n\nReact, Angular, Vue, Svelte are the leading frameworks today, and rightly so. But all of them as well as other “current generation” frameworks have limitations.. In order to better prepare for what’s coming next as developers, let’s talk about the next challenges facing JS frameworks, learning from history and outlining how our future will look like.\n\nHaving spent the past few years building a next generation framework myself, I have lots of insights and a good perspective to share, as I’ve done a fair bit of research on the topic.\nWe’ll talk about Signals, Web Components, Qwik and a whole new way of thinking about traditional frameworks. So strap on the seatbelts… we’re getting in the delorean… back to the future!\n\n\nYoav Abrahami\nChief Architect & Head of coding products @Wix engineering.\n\nWorking at Wix for 14 years, a father of two kids, mountain biker & 30 years in tech. Always looking to innovate and do interesting things.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "yr8jH2OWX7M"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "yr8jH2OWX7M",
-        "videoPublishedAt": "2024-07-23T09:41:33Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "hhAfs1adkfBZdfF7Ufuq9xnMR7s",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:57:08Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Adi Achituve @ ReactNext 24` | Responsive Design vs. Adaptive Design",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nResponsive Design vs. Adaptive Design: Advanced Techniques in React Apps\n\nIn this session, we will explore \"adaptive\" and \"responsive\" design within the context of the latest React development. We'll break down these concepts with everyday examples, discovering what screen breakpoints are and how they come into play.\nIntroducing container queries, the latest CSS feature that replaces traditional media queries, offering a more efficient approach to achieving adaptive layouts.\nJust clear insights and straightforward examples make it easy to understand. By the end, you'll gain practical skills to ensure your React apps run perfectly on any screen.\n\n\nAdi Achituve\nSenior Front-End Web Developer @ Lightricks\n\nAdi is an experienced Front-End Web developer with over 8 years of expertise, focusing on making React applications work smoothly. She is known for her precise attention to detail, especially in CSS and styling, ensuring apps are pixel-perfect across various browsers and screens. She loves working on complex projects, architecture, and researching new technologies while investigating how browsers work.\nApart from coding, Adi has a strong passion for UX design, believing in making applications not only high-performing but also user-friendly, ensuring they meet the highest standards of both design and functionality.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "jEUP6-g9Xus"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "jEUP6-g9Xus",
-        "videoPublishedAt": "2024-07-22T10:15:03Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "vV0ICC3GvbcholW1ITOsy48QYcE",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yMUQyQTQzMjRDNzMyQTMy",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:26:36Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Gil Fink @ ReactNext 24` | Losing your Components’ Head",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nLosing your Components’ Head\n\nEvery web project will eventually need a components library and no matter which framework you are using. But, the requirements in each project are different and even if you will find a component library, it will have it's own opinionated UI look and feel or rendering. This is where headless components can help you achieve your project's goals. Join me to understand what are headless components and why you should consider using this pattern in your projects.\n\n\nGil Fink\nCEO and Senior Consultant @ sparXys\n\nGil Fink is a web development expert, Web Technologies GDE and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web based solutions. He is also co-author of several Microsoft Official Courses (MOCs) and training kits and co-author of \"Pro Single Page Application Development\" book (Apress).",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "NzSYpbpMfDo"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "NzSYpbpMfDo",
-        "videoPublishedAt": "2024-07-22T08:00:10Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "0TAHuJEc78E-cYhLhon-o4DW3XU",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5EQUE1NTFDRjcwMDg0NEMz",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:14:18Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Gil Tayar @ ReactNext 24` | Towards a simpler JavaScript ecosystem",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nTowards a simpler JavaScript ecosystem\n\nThe history of the JavaScript ecosystem can be described as a move from a simple ecosystem with no tooling (just write the code and F5!) in the 90s, towards the current wave of massive tooling which nobody understands but which helps us mitigate the deficiencies in browsers and the internet.\nAre we stuck there? I believe we aren’t.\nI aim to bring a vision that returns full circle to an ecosystem with little to no tooling. It shows that with modern technologies like import maps, web bundles, the type annotations proposal, 103 Early Hints, and others, we can bring back the simplicity of the early ecosystem, while not sacrificing the advantages of the current one.\nThis talk presents this vision, and describes the technologies and techniques that enable this return to simplicity.\n\n\nGil Tayar\nSenior Architect @ Microsoft\n\n35 years of experience have not dulled the fascination Gil Tayar has with software development. His passion is distributed systems and figuring out how to scale development to big teams. Extreme modularity and testing are the main tools in his toolbelt, using them to combat the code spaghetti monster as a software architect at companies like Wix, Applitools, and at his current job as software engineer at Microsoft.\nIn his private life, he is a dad to two lovely kids, an avid reader of Science Fiction, and a passionate film buff. Unfortunately for him, he hasn’t answered the big question of his life—what’s better, static or dynamic languages? But he’s working on it.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "DtbimoRP7nc"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "DtbimoRP7nc",
-        "videoPublishedAt": "2024-07-22T08:00:05Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "G1re84HHgfD50EnVDCU9l3jJS8g",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:37:32Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Evyatar Daud @ ReactNext 24` | React Query Under the Hood",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nReact Query Under the Hood\n\nHave you ever wondered how React Query works under the hood? What magic does it use to be so fast and responsive? How to write your own implementation and get better at writing such libraries? You’ve come to the right place!\nIn this talk, we are going to dive into how React Query works, how it handles caching, how it manages multiple requests at the same time without wasting network resources, and how it works cross-framework without needing to rewrite its core components.\nThis talk is intended for experienced developers and assumes that you’ve used React Query in the past, and are familiar with concepts such as custom hooks, pub-sub mechanism, React data-syncing patterns, and a little bit about caching and promises.\n\n\nEvyatar Daud\nSenior Full Stack Developer @ Elementor\n\nEvyatar Daud is a Senior Full-Stack Developer at Elementor. Discovering his passion for software development at the age of 12, he began teaching himself how to code, mainly focusing on frontend development. Today, he is an open-source contributor, a mentor, and a public speaker. In his free time, he explores TypeScript libraries' code and creates art using a single div and a lot of CSS.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "rq2igcuSvEY"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "rq2igcuSvEY",
-        "videoPublishedAt": "2024-07-21T15:15:03Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "-pSWqDVn5wZSKRsqBxpVfukQIQU",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4zRjM0MkVCRTg0MkYyQTM0",
-      "snippet": {
-        "publishedAt": "2024-07-21T12:05:55Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "ReactNext 2024 Highlights",
-        "description": "ReactNext 2024\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nSee you next year on June 25th, 2025\n\nFor information regarding partnership with ReactNext contact us at office@eventhandler.co.il",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DbbvemkX25o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DbbvemkX25o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DbbvemkX25o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DbbvemkX25o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DbbvemkX25o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "DbbvemkX25o"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "DbbvemkX25o",
-        "videoPublishedAt": "2024-07-21T12:07:17Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2OuxFna_xqJ6h1oH8fUO0BMna5Y",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yODlGNEE0NkRGMEEzMEQy",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:03:35Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XgN189Hr2RU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "XgN189Hr2RU"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "kftyHA-j-eOY8YtD68-_p8q0QLI",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:09:45Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "pw_SdXJmv2A"
-        }
-      },
-      "contentDetails": {
-        "videoId": "pw_SdXJmv2A"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2EyiQ96PyBBJiGDtubA7HQElr6Y",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:16:06Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "IE4BdD3DQqs"
-        }
-      },
-      "contentDetails": {
-        "videoId": "IE4BdD3DQqs"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "TrrsOY1OgaIbKwNluXPFhKzHFpg",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:19:43Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-osnW5Nq504"
-        }
-      },
-      "contentDetails": {
-        "videoId": "-osnW5Nq504"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "oLL1OrNXksZ-Q80acOAGxekFkpQ",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:40:29Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Eliran Eliassy @ ReactNext 24` | A Deep Dive into Fine-Grained Reactivity and the future of Signals",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nA Deep Dive into Fine-Grained Reactivity and the future of Signals\n\nIn the dynamic world of web development, crafting responsive and efficient user interfaces is paramount. As web developers, we often find ourselves navigating the challenges of managing complex state changes and ensuring that our applications respond seamlessly to user interactions. This talk aims to explore the realm of fine-grained reactivity and signals within web development, shedding light on advanced techniques to elevate your application's performance and maintainability.\n\nEliran Eliassy\nFounder & CEO @ e-square.io\n\nI'm a Google Developer Expert (GDE) for Angular.\nExperienced FE developer, specialized in high performance applications.\nFounder & CEO @ e-square.io.\nAngular enthusiast, Public speaker, Community leader.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "1lKTpZjrIjQ"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "1lKTpZjrIjQ",
-        "videoPublishedAt": "2024-07-28T13:35:40Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "r6xUZQPL8xAO4i2j3F6Qg_e8tNs",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:44:25Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "hobx2MfSYhE"
-        }
-      },
-      "contentDetails": {
-        "videoId": "hobx2MfSYhE"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "OykTWekUAVfZhd91HCsxKpSEs4s",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:50:27Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Gal Weizman @ ReactNext 24` |",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nWhat can traditional web application security learn from browser wallet extensions?\n\nIs securing a crypto browser wallet the same as securing a traditional web app?\nIn this talk we will focus on the unique challenges of securing browser wallets.\nWhile browser wallets are normal JavaScript Web extensions for the most part, their unique architecture requires a\nsomewhat special security approach as their threat model is eventually different from traditional web applications.\nThis means that while traditional security threats such as XSS, Phishing, Supply Chain Attacks, etc still apply to\nbrowser wallets, the way to address them can be different and more challenging given their unique architecture.\nThis sets browser wallets to be a great use case to learn about clientside security from by making us ask ourselves:\nWhat can we learn from the security challenges browser wallets have to deal with that cab be applied to traditional web application?\n\n\n\nGal Weizman\nJavaScript Security Engineer @ MetaMask\n\nGal is an expert in browser JavaScript and client side security with close to a decade of proven experience in multiple fields, ranging from vulnerability research and bots mitigation, through application and supply chain security to anti debugging research, browser extensions security and more. Gal is also an experienced speaker with multiple performances in well known conferences and podcasts and is responsible for some popular findings and discoveries in the browser security space.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "tZxnA0_jLVE"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "tZxnA0_jLVE",
-        "videoPublishedAt": "2024-07-30T14:46:45Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "sbR2_RGkVednDIKMi_jFSTJUxcU",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:53:53Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 14,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "mAY3QzG3AQU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "mAY3QzG3AQU"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "6__O3_9CzOaRhZtHxBCY-REl-xw",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45ODRDNTg0QjA4NkFBNkQy",
-      "snippet": {
-        "publishedAt": "2024-07-14T16:59:51Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 15,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fT-VYGbCn6U"
-        }
-      },
-      "contentDetails": {
-        "videoId": "fT-VYGbCn6U"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "dtWPbYcbfcXLaqJYUvvF5fkc1is",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4zMDg5MkQ5MEVDMEM1NTg2",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:06:28Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Evyatar Alush @ ReactNext 24` | Re-Form the future. Rethinking Form Validations in React",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nRe-Form the future. Rethinking Form Validations in React\n\nForms are at the backbone of the web, but building and validating them can be a tangled mess of code and frustration. As they get more complex, they become harder to write, maintain, and validate effectively.\nIntroducing a new way of validating forms in React, using Vest - a library that changes the way we handle form validation using the expressive syntax and style of testing libraries.\nWe will cover the history of forms on the web, why they are so hard to validate - and how to fix them. We'll step up our form validation game by taking a complex form, and together write its validations using Vest.\n\n\nEvyatar Alush\nFront End Engineer @ Meta\n\nEvyatar Alush is a Front End Engineer at Meta who is passionate about open source development. He works on multiple open source projects, including the Vest Validations Framework, and volunteers as a mentor to support new engineers entering the open source community. Evyatar cares deeply about API design and improving the developer experience.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 16,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Toa1aLVOE9Q"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "Toa1aLVOE9Q",
-        "videoPublishedAt": "2024-07-29T10:11:02Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "EWwze4MG2xn24nbUVZstgc-olSA",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41Mzk2QTAxMTkzNDk4MDhF",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:09:55Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 17,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "YNZrAQf4HP8"
-        }
-      },
-      "contentDetails": {
-        "videoId": "YNZrAQf4HP8"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "uBVmgGpMVAnUyu3TW5NP62_DyyY",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41QTY1Q0UxMTVCODczNThE",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:16:24Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "nuSZAJfuSKc"
-        }
-      },
-      "contentDetails": {
-        "videoId": "nuSZAJfuSKc"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "rlQQTNQkaKon-hcE49XY31ViSAc",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45RTgxNDRBMzUwRjQ0MDhC",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:30:09Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Asaf Shochet Avida @ ReactNext 24` | Mastering React Component Library Optimization",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nShaking Things Up: Mastering React Component Library Optimization\n\nManaging a growing component library can be quite a puzzle. The more it expands, the heavier it gets with larger bundle sizes, dependencies multiplying, and the overall complexity going through the roof. And let's face it, it's a headache when every project using the library ends up dragging the entire package, even when they just need a single component 🤦.\nBut worry not! That's where tree-shaking steps in to save the day!\nIn this talk, I will spill the beans on my experience fine-tuning a React component library that boasts over 40 components and serves various projects. We'll roll up our sleeves and dig into the world of tree shaking, talk about what you need to get it up and running smoothly and untangle some tricky terms like commonJS vs. ES modules, peer dependencies, and the whole multi-bundle exports thing.\nGet ready for some down-to-earth, practical insights that can save you a refactor or two.\n\n\nAsaf Shochet Avida\nFrontend Tech Lead @ Evinced\n\nAsaf is the front-end tech lead @Evinced, with 13+ years of experience under his belt, including frontend, backend, and test automation (go testing!), and a special place in his heart for shiny CI pipelines.\nHe loves reading Harry Potter with his daughter, mentoring junior devs, and making bonfires with his family.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "FYNovA29Ya4"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "FYNovA29Ya4",
-        "videoPublishedAt": "2024-07-25T13:52:49Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "uiqQgBlerOo3PM6iUO4N7Bz-6DA",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5ENDU4Q0M4RDExNzM1Mjcy",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:32:50Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "DobKkCDjZRM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "DobKkCDjZRM"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "rAc0-EucDygWKCZ6GSaIqdkDwmQ",
-      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yMDhBMkNBNjRDMjQxQTg1",
-      "snippet": {
-        "publishedAt": "2024-07-14T17:35:27Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 21,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "lDS-WruyBFo"
-        }
-      },
-      "contentDetails": {
-        "videoId": "lDS-WruyBFo"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "tlImO7-eDCkoaOInmmgsf01EU5o",
+      "etag": "iDQp-bMSfurngdefV4a_70IFntA",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2024-07-14T17:37:51Z",
@@ -909,7 +40,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
-        "position": 22,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "feCdq4ZTIpU"
@@ -923,6 +54,875 @@
       },
       "status": {
         "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9enGsSi3dv7YuGTsodXIxbAYml4",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:50:27Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gal Weizman @ ReactNext 24` |",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nWhat can traditional web application security learn from browser wallet extensions?\n\nIs securing a crypto browser wallet the same as securing a traditional web app?\nIn this talk we will focus on the unique challenges of securing browser wallets.\nWhile browser wallets are normal JavaScript Web extensions for the most part, their unique architecture requires a\nsomewhat special security approach as their threat model is eventually different from traditional web applications.\nThis means that while traditional security threats such as XSS, Phishing, Supply Chain Attacks, etc still apply to\nbrowser wallets, the way to address them can be different and more challenging given their unique architecture.\nThis sets browser wallets to be a great use case to learn about clientside security from by making us ask ourselves:\nWhat can we learn from the security challenges browser wallets have to deal with that cab be applied to traditional web application?\n\n\n\nGal Weizman\nJavaScript Security Engineer @ MetaMask\n\nGal is an expert in browser JavaScript and client side security with close to a decade of proven experience in multiple fields, ranging from vulnerability research and bots mitigation, through application and supply chain security to anti debugging research, browser extensions security and more. Gal is also an experienced speaker with multiple performances in well known conferences and podcasts and is responsible for some popular findings and discoveries in the browser security space.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tZxnA0_jLVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tZxnA0_jLVE"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "tZxnA0_jLVE",
+        "videoPublishedAt": "2024-07-30T14:46:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PhPqRYjCwWLBUaVtqWAxMtaTilQ",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:06:28Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Evyatar Alush @ ReactNext 24` | Re-Form the future. Rethinking Form Validations in React",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nRe-Form the future. Rethinking Form Validations in React\n\nForms are at the backbone of the web, but building and validating them can be a tangled mess of code and frustration. As they get more complex, they become harder to write, maintain, and validate effectively.\nIntroducing a new way of validating forms in React, using Vest - a library that changes the way we handle form validation using the expressive syntax and style of testing libraries.\nWe will cover the history of forms on the web, why they are so hard to validate - and how to fix them. We'll step up our form validation game by taking a complex form, and together write its validations using Vest.\n\n\nEvyatar Alush\nFront End Engineer @ Meta\n\nEvyatar Alush is a Front End Engineer at Meta who is passionate about open source development. He works on multiple open source projects, including the Vest Validations Framework, and volunteers as a mentor to support new engineers entering the open source community. Evyatar cares deeply about API design and improving the developer experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Toa1aLVOE9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Toa1aLVOE9Q"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "Toa1aLVOE9Q",
+        "videoPublishedAt": "2024-07-29T10:11:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TgWW4B003W-6U0pqWdsHHkq8LU4",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:40:29Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Eliran Eliassy @ ReactNext 24` | A Deep Dive into Fine-Grained Reactivity and the future of Signals",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nA Deep Dive into Fine-Grained Reactivity and the future of Signals\n\nIn the dynamic world of web development, crafting responsive and efficient user interfaces is paramount. As web developers, we often find ourselves navigating the challenges of managing complex state changes and ensuring that our applications respond seamlessly to user interactions. This talk aims to explore the realm of fine-grained reactivity and signals within web development, shedding light on advanced techniques to elevate your application's performance and maintainability.\n\nEliran Eliassy\nFounder & CEO @ e-square.io\n\nI'm a Google Developer Expert (GDE) for Angular.\nExperienced FE developer, specialized in high performance applications.\nFounder & CEO @ e-square.io.\nAngular enthusiast, Public speaker, Community leader.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1lKTpZjrIjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1lKTpZjrIjQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "1lKTpZjrIjQ",
+        "videoPublishedAt": "2024-07-28T13:35:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IzJmPTqBt2igB4BcZa89rHGibHE",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:30:09Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Asaf Shochet Avida @ ReactNext 24` | Mastering React Component Library Optimization",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nShaking Things Up: Mastering React Component Library Optimization\n\nManaging a growing component library can be quite a puzzle. The more it expands, the heavier it gets with larger bundle sizes, dependencies multiplying, and the overall complexity going through the roof. And let's face it, it's a headache when every project using the library ends up dragging the entire package, even when they just need a single component 🤦.\nBut worry not! That's where tree-shaking steps in to save the day!\nIn this talk, I will spill the beans on my experience fine-tuning a React component library that boasts over 40 components and serves various projects. We'll roll up our sleeves and dig into the world of tree shaking, talk about what you need to get it up and running smoothly and untangle some tricky terms like commonJS vs. ES modules, peer dependencies, and the whole multi-bundle exports thing.\nGet ready for some down-to-earth, practical insights that can save you a refactor or two.\n\n\nAsaf Shochet Avida\nFrontend Tech Lead @ Evinced\n\nAsaf is the front-end tech lead @Evinced, with 13+ years of experience under his belt, including frontend, backend, and test automation (go testing!), and a special place in his heart for shiny CI pipelines.\nHe loves reading Harry Potter with his daughter, mentoring junior devs, and making bonfires with his family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FYNovA29Ya4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FYNovA29Ya4"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "FYNovA29Ya4",
+        "videoPublishedAt": "2024-07-25T13:52:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FAFlaxCus0kcrdYsOZ10Nd9O1ZQ",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:22:28Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Ariel Shulman @ ReactNext 24` | Conquering Concurrent React",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nConquering Concurrent React\n\nThe most important addition in React 18 is something we hope you never have to think about: concurrency”- React@18 documentation\nWell, in this talk - we ARE going to think about it!\nReact’s new mental model is not easy to wrap our heads around, and that’s where this talk comes in. We will learn how concurrency works in React bottom up, what problems it solves, and how SSR and streaming components fit in the picture.\nBy the end of this talk we will understand the newest technologies around us, whether it’s React’s concurrent features such as Suspense and React Lazy or the new Next.js App router\n\nAriel Shulman\nFull Stack Developer @ Illumex\n\nAriel is a Full Stack developer with a passion for designing scalable applications, understanding how things work under the hood, and public speaking about all the above.\nWhen she's not behind a keyboard she's probably surfing or playing guitar.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LijC4OQO3Y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LijC4OQO3Y8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "LijC4OQO3Y8",
+        "videoPublishedAt": "2024-07-24T07:38:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8-Oah1HrZ7jgpolfbrk_nLiODRE",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-07-11T15:52:41Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yoav Abrahami @ ReactNext 24` | Where the future is heading for JS Frameworks…",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nWhere the future is heading for JS Frameworks…\n\nReact, Angular, Vue, Svelte are the leading frameworks today, and rightly so. But all of them as well as other “current generation” frameworks have limitations.. In order to better prepare for what’s coming next as developers, let’s talk about the next challenges facing JS frameworks, learning from history and outlining how our future will look like.\n\nHaving spent the past few years building a next generation framework myself, I have lots of insights and a good perspective to share, as I’ve done a fair bit of research on the topic.\nWe’ll talk about Signals, Web Components, Qwik and a whole new way of thinking about traditional frameworks. So strap on the seatbelts… we’re getting in the delorean… back to the future!\n\n\nYoav Abrahami\nChief Architect & Head of coding products @Wix engineering.\n\nWorking at Wix for 14 years, a father of two kids, mountain biker & 30 years in tech. Always looking to innovate and do interesting things.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yr8jH2OWX7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yr8jH2OWX7M"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "yr8jH2OWX7M",
+        "videoPublishedAt": "2024-07-23T09:41:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oF7VEzQSnUEQkRa4_cIh3ScTbek",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:57:08Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adi Achituve @ ReactNext 24` | Responsive Design vs. Adaptive Design",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nResponsive Design vs. Adaptive Design: Advanced Techniques in React Apps\n\nIn this session, we will explore \"adaptive\" and \"responsive\" design within the context of the latest React development. We'll break down these concepts with everyday examples, discovering what screen breakpoints are and how they come into play.\nIntroducing container queries, the latest CSS feature that replaces traditional media queries, offering a more efficient approach to achieving adaptive layouts.\nJust clear insights and straightforward examples make it easy to understand. By the end, you'll gain practical skills to ensure your React apps run perfectly on any screen.\n\n\nAdi Achituve\nSenior Front-End Web Developer @ Lightricks\n\nAdi is an experienced Front-End Web developer with over 8 years of expertise, focusing on making React applications work smoothly. She is known for her precise attention to detail, especially in CSS and styling, ensuring apps are pixel-perfect across various browsers and screens. She loves working on complex projects, architecture, and researching new technologies while investigating how browsers work.\nApart from coding, Adi has a strong passion for UX design, believing in making applications not only high-performing but also user-friendly, ensuring they meet the highest standards of both design and functionality.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jEUP6-g9Xus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jEUP6-g9Xus"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "jEUP6-g9Xus",
+        "videoPublishedAt": "2024-07-22T10:15:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zKegWDSkDiOEhd6LzXrWNL02pdI",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:26:36Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Fink @ ReactNext 24` | Losing your Components’ Head",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nLosing your Components’ Head\n\nEvery web project will eventually need a components library and no matter which framework you are using. But, the requirements in each project are different and even if you will find a component library, it will have it's own opinionated UI look and feel or rendering. This is where headless components can help you achieve your project's goals. Join me to understand what are headless components and why you should consider using this pattern in your projects.\n\n\nGil Fink\nCEO and Senior Consultant @ sparXys\n\nGil Fink is a web development expert, Web Technologies GDE and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web based solutions. He is also co-author of several Microsoft Official Courses (MOCs) and training kits and co-author of \"Pro Single Page Application Development\" book (Apress).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NzSYpbpMfDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NzSYpbpMfDo"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "NzSYpbpMfDo",
+        "videoPublishedAt": "2024-07-22T08:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FPhQ76tal4uTBRkdU7Ph2lLzq7I",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:14:18Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Tayar @ ReactNext 24` | Towards a simpler JavaScript ecosystem",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nTowards a simpler JavaScript ecosystem\n\nThe history of the JavaScript ecosystem can be described as a move from a simple ecosystem with no tooling (just write the code and F5!) in the 90s, towards the current wave of massive tooling which nobody understands but which helps us mitigate the deficiencies in browsers and the internet.\nAre we stuck there? I believe we aren’t.\nI aim to bring a vision that returns full circle to an ecosystem with little to no tooling. It shows that with modern technologies like import maps, web bundles, the type annotations proposal, 103 Early Hints, and others, we can bring back the simplicity of the early ecosystem, while not sacrificing the advantages of the current one.\nThis talk presents this vision, and describes the technologies and techniques that enable this return to simplicity.\n\n\nGil Tayar\nSenior Architect @ Microsoft\n\n35 years of experience have not dulled the fascination Gil Tayar has with software development. His passion is distributed systems and figuring out how to scale development to big teams. Extreme modularity and testing are the main tools in his toolbelt, using them to combat the code spaghetti monster as a software architect at companies like Wix, Applitools, and at his current job as software engineer at Microsoft.\nIn his private life, he is a dad to two lovely kids, an avid reader of Science Fiction, and a passionate film buff. Unfortunately for him, he hasn’t answered the big question of his life—what’s better, static or dynamic languages? But he’s working on it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DtbimoRP7nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DtbimoRP7nc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "DtbimoRP7nc",
+        "videoPublishedAt": "2024-07-22T08:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hkgMEvdhaGWSjBFO_XqHjX02_yU",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:37:32Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Evyatar Daud @ ReactNext 24` | React Query Under the Hood",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nReact Query Under the Hood\n\nHave you ever wondered how React Query works under the hood? What magic does it use to be so fast and responsive? How to write your own implementation and get better at writing such libraries? You’ve come to the right place!\nIn this talk, we are going to dive into how React Query works, how it handles caching, how it manages multiple requests at the same time without wasting network resources, and how it works cross-framework without needing to rewrite its core components.\nThis talk is intended for experienced developers and assumes that you’ve used React Query in the past, and are familiar with concepts such as custom hooks, pub-sub mechanism, React data-syncing patterns, and a little bit about caching and promises.\n\n\nEvyatar Daud\nSenior Full Stack Developer @ Elementor\n\nEvyatar Daud is a Senior Full-Stack Developer at Elementor. Discovering his passion for software development at the age of 12, he began teaching himself how to code, mainly focusing on frontend development. Today, he is an open-source contributor, a mentor, and a public speaker. In his free time, he explores TypeScript libraries' code and creates art using a single div and a lot of CSS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rq2igcuSvEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rq2igcuSvEY"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "rq2igcuSvEY",
+        "videoPublishedAt": "2024-07-21T15:15:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tRHIv2YJuhpzxwMzJHCds3TDtlc",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-07-21T12:05:55Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2024 Highlights",
+        "description": "ReactNext 2024\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nSee you next year on June 25th, 2025\n\nFor information regarding partnership with ReactNext contact us at office@eventhandler.co.il",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DbbvemkX25o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DbbvemkX25o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DbbvemkX25o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DbbvemkX25o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DbbvemkX25o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DbbvemkX25o"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "DbbvemkX25o",
+        "videoPublishedAt": "2024-07-21T12:07:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DKXHO27N58ECXHx-E93ZfU3-hys",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:03:35Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XgN189Hr2RU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XgN189Hr2RU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5k8NMAvHZt1JEmaeAGtBaEZ7-zg",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:09:45Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pw_SdXJmv2A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pw_SdXJmv2A"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tk6_ZM_IrzZDce_BED3ZThDRJVA",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:16:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IE4BdD3DQqs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IE4BdD3DQqs"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OD8Sm8_bLNI2v5CTpSIzkvPjKrY",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:19:43Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-osnW5Nq504"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-osnW5Nq504"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W603_1BehpET7dviH_Qyun_B-50",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:44:25Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hobx2MfSYhE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hobx2MfSYhE"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9Odsxizzmte7GViPEfBRHhjo5T0",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:53:53Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mAY3QzG3AQU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mAY3QzG3AQU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ylW1hHi-CWtnxDjLFi7A1Cz7PJ8",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2024-07-14T16:59:51Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fT-VYGbCn6U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fT-VYGbCn6U"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TnrsAyPm-JPt0LX_dGPpSnMsg8U",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:09:55Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YNZrAQf4HP8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YNZrAQf4HP8"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QPAOctrVaSXB0Z9kN6eSFn-zvV8",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:16:24Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nuSZAJfuSKc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nuSZAJfuSKc"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kfh5sjITKj4pRCV7cd7plQYZdGo",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:32:50Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DobKkCDjZRM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DobKkCDjZRM"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cY4vKB8zIPwRyu3tyu_evILyHg0",
+      "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-07-14T17:35:27Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lDS-WruyBFo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lDS-WruyBFo"
+      },
+      "status": {
+        "privacyStatus": "private"
       }
     }
   ],
