@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "NlSyCOU4OqHmlx-qSUh0SmLlqsg",
+  "etag": "gO0aTLUUWNgB2krN_ceW70apVwc",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TgWW4B003W-6U0pqWdsHHkq8LU4",
+      "etag": "dOhsnPe9gYDeJMMVL1a4ICwI1Zg",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2024-07-14T16:40:29Z",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IzJmPTqBt2igB4BcZa89rHGibHE",
+      "etag": "hNMggtRmFjRhdmYlwAILXsSS_kE",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2024-07-14T17:30:09Z",
@@ -652,152 +652,326 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DKXHO27N58ECXHx-E93ZfU3-hys",
+      "etag": "2LiyUkC-hPdzArXyaJrMySfsiFs",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-07-14T16:03:35Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Noam Tahor Shafran and Tom Carpel @ ReactNext 24` | Lazy Brilliance",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nLazy Brilliance: Unveiling the Power of Codebase Preservation in React\n\nImagine a world where embracing laziness becomes a strategic advantage in React application development. In this presentation, we challenge the conventional practice of purging old code. We will explore how our team's seemingly counterintuitive decision to stop deleting old codepaths has not only streamlined our React development process but has also acted as an unforeseen safety net in times of crisis. In other words, our laziness became a wellspring of real-time resilience.\nJoin this session to explore how an embrace of relics in the code can enhance resilience, expedite recovery, and provide unexpected solutions to the challenges faced by front-end developers using the React framework. Gain insights into how this unorthodox strategy not only provides unexpected solutions, but also transforms old code flows from a perceived liability into an invaluable asset.\n\nNoam Tahor Shafran\nEngineering Manager @ Remitly \n\nNoam began her journey with Remitly 4.5 years ago as a junior front-end developer and quickly evolved professionally. Today, she leads a team of full-stack developers in charge of the Rewire by Remitly financial platform. With a BSc in Computer Science from Tel Aviv-Yafo Academic College, prior to joining Rewire (now Remitly Israel), Noam gained professional experience from leading tech companies such as Check Point.\nOutside of work, Noam raises her three year old daughter together with her partner and her goal is to effectively manage these two worlds in a way that leads to further growth and development.\n\nTom Carpel\nDirector of Engineering @ Remitly \n\nTom has over 15 years of software development and engineering management experience. With a BSc in Computer Science and Engineering from UCLA under his belt, Tom’s career includes working at some of the biggest companies in the San Francisco Bay Area such as Box and Cisco. Upon his return to Israel, Tom started working at the fintech startup Rewire (now Remitly Israel). When not working, Tom likes to walk (his dog) and run (for fun and occasionally in a marathon).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgN189Hr2RU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgN189Hr2RU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgN189Hr2RU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XgN189Hr2RU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XgN189Hr2RU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XgN189Hr2RU"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "XgN189Hr2RU"
+        "videoId": "XgN189Hr2RU",
+        "videoPublishedAt": "2024-08-06T07:32:52Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5k8NMAvHZt1JEmaeAGtBaEZ7-zg",
+      "etag": "dvBArxOfl1aZvSYpBgMl5aCTJOE",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2024-07-14T16:09:45Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Kevin Maes @ ReactNext 24` | Evolving JavaScript: Cultivating Genetic Algorithms for Creative Coding",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nEvolving JavaScript: Cultivating Genetic Algorithms for Creative Coding\n\nWhen was the moment you first realized that coding was pure joy? We all need a well-deserved break from feature releases, meetings, bug fixes, tech debt, and 10X burnout! Join me in exploring delightful, interactive experiences, inspired by nature, that we as JavaScript developers can create with our everyday coding skills. We’ll learn about genetic algorithms, what they’re good for, and how to code with them, including a demo. Adding state machines and generative art into the mix, our small step into the world of AI programming will enable us to produce problem solving agents that are as intelligent as they are beautiful!\n\n\nKevin Maes\nSoftware Engineer @ Stately.ai\n\nKevin moved his first pixels back in the days of Flash animation, working at startups in Tel Aviv and NYC. He’s done development, consulting, and engineering management at companies like NBC Universal, Thomson Reuters, and Giant Machines. He is currently building Stately Studio as an engineer at Stately.ai. When not at a computer, Kevin enjoys opera, spending time with his family, and traveling.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pw_SdXJmv2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pw_SdXJmv2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pw_SdXJmv2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pw_SdXJmv2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pw_SdXJmv2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pw_SdXJmv2A"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "pw_SdXJmv2A"
+        "videoId": "pw_SdXJmv2A",
+        "videoPublishedAt": "2024-08-05T17:05:30Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Tk6_ZM_IrzZDce_BED3ZThDRJVA",
+      "etag": "kDROwXZuZcfIfPKJl75QX21bT7U",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2024-07-14T16:16:06Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Sagi Liba @ ReactNext 24` | Events As A Communication Pattern",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nEvents As A Communication Pattern\n\nWorking with any framework eventually develops a mindset for its best practices, and React is no different.\nAfter years of experience working with React, I've become accustomed to thinking that the communication methods we've always been using (context, parent-child, child-parent) are the only ways to communicate with React components.\nWhen you start looking at your application with a framework agnostic mindset, questions starts popping up, \"Can I send custom events in React?\", \"What's the right way of doing it?\", \"Is it an anti-pattern to work with events in React?\", etc...\nThis lecture will cover exactly these questions, and how to use Custom Events with React, and which pitfalls to avoid.\n\nSagi Liba\nFrontend Architect\n\nI help React developers stand out from the crowd, differentiate themselves, and become senior developers faster, by Architecting React Infrastructures.\nI’m a Frontend Architect, and have worked on many advanced projects for some of the most successful cyber security companies in the world (CyberArk & Pentera).\nMy obsession for building frontend infrastructures and the years I’ve dedicated to it, had led me to uncover the rules and best-practices that exist in any React infrastructure, which I’m sharing with you today.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IE4BdD3DQqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IE4BdD3DQqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IE4BdD3DQqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IE4BdD3DQqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IE4BdD3DQqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "IE4BdD3DQqs"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "IE4BdD3DQqs"
+        "videoId": "IE4BdD3DQqs",
+        "videoPublishedAt": "2024-08-07T12:00:17Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OD8Sm8_bLNI2v5CTpSIzkvPjKrY",
+      "etag": "JrteyE80eK_FHP-ICMwg2R0ADpQ",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2024-07-14T16:19:43Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Ran Bar-Zik @ ReactNext 24` | Do not let your React be injected",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nDo not let your React be injected\n\nSecurity issues are not only on the server side! With simple methods, malicious attackers can hijack your beautifully crafted React application and turn it into a disaster area.\nIn this session, we will learn about injection attacks and, more importantly, several techniques that help us protect against malicious injections. From SRI to CSP with the particular culprits in React. With real-life examples on Next.js (SSR) and Vite.js.\n\nRan Bar-Zik\nSenior software architect @ CyberArk\n\n15+ years of development experience, Blogger at internet-israel.com, author of \"Learn Javascript in Hebrew\", \"Learn Node.js in Hebrew\", \"Learn React in Hebrew\" and \"Learn MySQL in Hebrew\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-osnW5Nq504/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-osnW5Nq504/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-osnW5Nq504/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-osnW5Nq504/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-osnW5Nq504/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-osnW5Nq504"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "-osnW5Nq504"
+        "videoId": "-osnW5Nq504",
+        "videoPublishedAt": "2024-08-07T08:00:00Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "W603_1BehpET7dviH_Qyun_B-50",
+      "etag": "HZ6eFI5nBdX0JN1n7QtaXxSDJao",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2024-07-14T16:44:25Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Matan Borenkraout @ ReactNext 24` | Playwright Component Tests: Are they the Testing-Library killer?",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nPlaywright Component Tests: Are they the Testing-Library killer?\n\nAs the React ecosystem evolves, so do our testing strategies. In this session, we delve into the fascinating world of component testing, pitting two heavyweight contenders against each other: Playwright Component Tests and the long time champion Testing Library. I, as one of Testing-Library's maintainers will try to honestly answer \"which one reigns supreme?\" Buckle up as we understand what are the two options, explore their strengths and weaknesses through examples, realize what are the API differences, what are the performance aspects and understand whether Playwright Component Tests have what it takes to dethrone the Testing Library.\n\n\nMatan Borenkraout\nSenior Software Engineer @ Microsoft\n\nMatan is a Senior Software Engineer at Microsoft, speaker and a tech blog writer. He is a React enthusiast and a Testing Library maintainer who's aiming to understand how things work rather than satisfying on a given API. Matan believes that knowledge is worth nothing if not shared.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hobx2MfSYhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hobx2MfSYhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hobx2MfSYhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hobx2MfSYhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hobx2MfSYhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hobx2MfSYhE"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "hobx2MfSYhE"
+        "videoId": "hobx2MfSYhE",
+        "videoPublishedAt": "2024-08-05T16:54:45Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9Odsxizzmte7GViPEfBRHhjo5T0",
+      "etag": "AwD9Yka_OPnxJZFw9O27hoSIK-s",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2024-07-14T16:53:53Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Ofir Elarat @ ReactNext 24` | Core Web Vitals – Measuring Performance Like a Pro",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nCore Web Vitals – Measuring Performance Like a Pro\n\nIn today's digital world, a fast and smooth website isn't just nice to have; it's essential for keeping your audience engaged and driving success. But how do you measure what \"fast and smooth\" actually means? Just recently, the answer became simple: “Core Web Vitals”\nIn this talk, we’ll show you exactly how these metrics are reshaping the way we think about web performance. We'll explore how they influence not just user experience but also your site's visibility on Google. More importantly, you'll learn practical tips and strategies to improve your site based on these vital metrics and start measuring performance like a pro.\n\n\nOfir Elarat\nSoftware Engineer @ Mixtiles\n\nMy love affair with coding ignited in high school,\nwhere I delved into the creation of apps, websites, and various small projects for both fun and continuous learning.\nWith each line of code, I find joy in unraveling the complexities of this ever-evolving field.\nFrom Cloud to Mobile to Web Development I always find aspects that excite me and I’m always eager to learn more.\nI served as a Full Stack Developer in the IDF, working on various large scale projects but also creating the unit’s tech podcast.\nIn addition to my hands-on projects,\nI maintain a medium profile where I share insights and articles on diverse topics within computer science.\nCurrently I work as a Software Engineer at Mixtiles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mAY3QzG3AQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mAY3QzG3AQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAY3QzG3AQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mAY3QzG3AQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mAY3QzG3AQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "mAY3QzG3AQU"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "mAY3QzG3AQU"
+        "videoId": "mAY3QzG3AQU",
+        "videoPublishedAt": "2024-08-06T07:43:27Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
@@ -827,77 +1001,164 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TnrsAyPm-JPt0LX_dGPpSnMsg8U",
+      "etag": "UvoF-OLeVdyE0nIrE-eB9bHPTEI",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2024-07-14T17:09:55Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Noam Honig @ ReactNext 24` | Simplifying React Dialogs with Awaitable Promises",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nSimplifying React Dialogs with Awaitable Promises\n\nIn modern web development, managing user interactions through modals and dialogs is a common yet often cumbersome task.\nTraditional methods in React involve maintaining \"open\" states and handling outcomes through \"onClick\" events.\nThis approach, especially when dealing with complex user flows or multiple confirm steps, quickly becomes unwieldy, reminiscent of the callback patterns of old server-side interactions.\nWith the evolution of asynchronous programming, the use of callbacks has been largely supplanted by the more elegant and readable async/await pattern for server calls.\nWhy not apply the same evolution to how we handle user interactions in React?\nIn this talk, we propose a transformative approach: utilizing dialogs as awaitable promises. This method allows developers to write intuitive and linear business logic, akin to using if (await dialog(\"question\")) {...} for handling user inputs, streamlining the process of complex user flows and decision trees within applications.\n\n\nNoam Honig\nCreator of Remult\n\nCoder, open-sourcerer, developer experience enthusiast, software architect, and entrepreneur. At work, I oversee and consult in enterprise legacy systems modernization for fortune 500s to small businesses. Outside work I love helping NGOs as a full-stack developer and mentor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YNZrAQf4HP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YNZrAQf4HP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNZrAQf4HP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YNZrAQf4HP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YNZrAQf4HP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YNZrAQf4HP8"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "YNZrAQf4HP8"
+        "videoId": "YNZrAQf4HP8",
+        "videoPublishedAt": "2024-08-06T07:38:04Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QPAOctrVaSXB0Z9kN6eSFn-zvV8",
+      "etag": "aEfSmEUwntL5AMz0vEETQJrkFeA",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2024-07-14T17:16:24Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Liri Sokol @ ReactNext 24` | Get your SVG in shape",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nGet your SVG in shape\n\nCalling all developers, it's time to unlock the magic of vector graphics!\nPrepare to be amazed by the world of SVGs, where creativity meets code and mathematics in perfect harmony.\nIn this talk we'll embrace our coding powers to create awesome and special components with SVG, the way only a developer can.\n\n\nLiri Sokol\nSoftware Engineer and Sourcerer\n\n11 years of hands on experience in the high-tech industry, working in all sorts of technologies and products.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nuSZAJfuSKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nuSZAJfuSKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nuSZAJfuSKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nuSZAJfuSKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nuSZAJfuSKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nuSZAJfuSKc"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "nuSZAJfuSKc"
+        "videoId": "nuSZAJfuSKc",
+        "videoPublishedAt": "2024-08-05T17:00:38Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kfh5sjITKj4pRCV7cd7plQYZdGo",
+      "etag": "7ME7WVDp9OIchOZk9eEaVsJ16Jw",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2024-07-14T17:32:50Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Omri Lavi @ ReactNext 24` | The Superpower of ASTs: How We Saved 16% on Our Bundle Size",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nThe Superpower of ASTs: How We Saved 16% on Our Bundle Size\n\nIn this session I will explain about the development of a special Babel loader, that allowed us to decrease our bundle size by a whopping 16%. We did this by inlining constant objects directly into the referencing code, reducing the need for including huge files at the bundle output. We actually achieved better improvement than Webpack’s tree-shaking! This was allowed by harnessing the power of Babel’s AST tools: utilizing their potentials may yield dramatic results, unattainable by other manners.\nIn this sessions I will explain about:\n* What are ASTs and why are they useful\n* How to develop AST-based tools\n* Some limitations of tree-shaking\n* Strategies for writing custom bundler plugins\n* A secret tip for avoiding our mistake\nJoin us for a new outlook on ASTs with insights that might surprise you!\n\n\nOmri Lavi\nDevTools Tech Lead @ Monday\n\nWith over a decade of industry experience, I've been an engineer at monday.com for the past 2+ years as part of the DevTools group. In this role, our overarching mission centers on creating powerful, user-friendly, and well-documented tools designed to empower developers, ultimately fostering efficiency and job satisfaction within the team. My responsibilities extend beyond coding; I actively engage in understanding the nuanced needs of our developers, ensuring that the tools we build resonate with their workflows and aspirations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DobKkCDjZRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DobKkCDjZRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DobKkCDjZRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DobKkCDjZRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DobKkCDjZRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSq1ntTBaB7TqemqFwGHSSBL",
         "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DobKkCDjZRM"
-        }
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
       },
       "contentDetails": {
-        "videoId": "DobKkCDjZRM"
+        "videoId": "DobKkCDjZRM",
+        "videoPublishedAt": "2024-08-07T09:30:07Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {

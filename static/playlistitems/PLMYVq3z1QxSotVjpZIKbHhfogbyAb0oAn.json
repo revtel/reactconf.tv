@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "qMGOV8U3uM_k6Nc_GmWNnjRwI54",
+  "etag": "LXdcZKoSY8YRhr-S87Ltrg6TY1c",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,56 +220,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tOhE7oEP4MSc_KJUZZ9daHQOMKI",
+      "etag": "De_G87Fx0hq7HKBPQMXtMUSAhkE",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2023-07-12T14:55:39Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Nir Kaufman @ ReactNext '23 | 9 Years with React – I got a story to tell",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\n9 Years with React – I got a story to tell\n\nIntermediate | English\n\nIn this session I'll share my perpective on React. After 9 years, dozens of projects, success - and falis.\nAs a frontned developer in 2023 - what I'll take aith me - and what I would leave behind.\n\n\nNir Kaufman\nFront End Tech Lead\n\nFrontend developer, community enthusiast, meetup organizer, international public speaker, trainer, author, and mentor.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pc3j9wpwmrE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "pc3j9wpwmrE"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "pc3j9wpwmrE",
-        "videoPublishedAt": "2023-07-13T15:00:44Z"
+        "videoId": "pc3j9wpwmrE"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
@@ -382,56 +353,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k5GnD2_Y8pLrzv4clE4Q8aUjzhc",
+      "etag": "ggxCD4t1g6a6qZ4asVunS6H5XyY",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2023-07-13T08:14:04Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Matan Borenkraout @ ReactNext '23 | Testing Library: everybody uses it, but nobody understands it",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nTesting Library: everybody uses it, but nobody understands it\n\nIntermediate | English\n\nTesting is an essential part of software development, but it can be a tricky and time-consuming process. The popular testing-library package is a widely used tool that helps developers write reliable and maintainable frontend tests based on a behavior driven approach, but many users are not fully aware of how it works or why it works the way it does. In this talk, I, as one of the maintainers of the package, give an in-depth look into the testing-library ecosystem, including its structure and foundations. I explain how we built a solution that can be used in every framework, and how you can use it in both Node and browser environments. You will learn how testing-library is designed to encourage good testing practices and how it can help you write more maintainable tests.\n\n\nMatan Borenkraout\nSenior Software Engineer\n\nMatan is a Software Engineer at Microsoft, the co-organiser of the “Big web theory” meetup and a tech blog writer. He is a React enthusiast and a Testing Library maintainer who's aiming to understand how things work rather than satisfying on a given API. Matan believes that knowledge is worth nothing if not spread.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jNAMdsbdvlI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jNAMdsbdvlI"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "jNAMdsbdvlI",
-        "videoPublishedAt": "2023-07-13T15:00:39Z"
+        "videoId": "jNAMdsbdvlI"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
@@ -544,56 +486,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JwLn-WYdkl0Kza6AMsMxGcOiXUY",
+      "etag": "NeoXMn_FTB6eFrfQg-39clXvLpA",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2023-07-13T08:19:42Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Evyatar Alush @ ReactNext '23 | Let's Build React Context in Vanilla JS",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nLet’s Build React Context in Vanilla JS\n\nIntermediate | English\n\nIn this talk, we'll explore the capabilities of React's Context API and learn how to use its powerful features outside of React to declutter our code, reduce bloat, and simplify our functions' signatures.\n\nWe'll make use of JavaScript fundamentals to build this API from scratch, and by the end of the talk, you'll be able to use it in your vanilla JavaScript and node applications.\n\nJoin me as we dive into the world of React's Context API and discover how to harness its power in your own projects. You won't want to miss this exciting opportunity to learn a new approach to building efficient, effective applications.\n\n\nEvyatar Alush\nFront End Engineer\n\nEvyatar, a Front End engineer at Meta. Author of Vest validations framework, and passionate about open source and API design.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tt1ZuyoPcFc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "tt1ZuyoPcFc"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "tt1ZuyoPcFc",
-        "videoPublishedAt": "2023-07-13T15:00:48Z"
+        "videoId": "tt1ZuyoPcFc"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
@@ -760,56 +673,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1Pe2BS3jTb26sxbBJUja0IkLIGE",
+      "etag": "b4NgyYPImKZ4EZJMYBHExHD2oUU",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2023-07-13T08:28:12Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Ran Wahle @ ReactNext '23 | Let's look at the virual DOM",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nLet’s look at the virual DOM\n\nAdvanced | English\n\nHaving to write without worrying about change detection is great, but how does it actually work? In our session, we'll take a look at the virtual DOM mechanism, what happens when changing state, what is the useEffect callback, etc,\n\nThe session will be accompanied by looking at react source code.\n\n\nRan Wahle\nFrontend Developer\n\nFront end developer & Consultant that is passionate about going into legacy code and (carefully) change it, until it dies.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/he2l6xtAnkE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "he2l6xtAnkE"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "he2l6xtAnkE",
-        "videoPublishedAt": "2023-07-13T15:00:36Z"
+        "videoId": "he2l6xtAnkE"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
@@ -1084,110 +968,52 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OMpV-AN2_2GWZoxJ66OE2qKFjd4",
+      "etag": "qxq2_rvZ7xg7N_1kPh6o7oWPFm4",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2023-07-13T08:40:25Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Noam Rosenthal @ ReactNext '23 | React and/or Web Components?",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nReact and/or Web Components?\n\nIntermediate | English\n\nAre Web-Components a React \"killer\" (alternative)? Or are the two technologies meant to work together?\n\nWe will explore what web components are, what they're useful and not useful for, where they can be an alternative and where React & Web Components can work together.\n\n\nNoam Rosenthal\nBrowsers & Standards Engineer\n\nA seasoned software engineer, who spent many years in both the web-development world and in developing browsers & standards.\n\nCurrently a Software Engineer for Google Chrome Speed Metrics, the team behind Core Web Vitals and the performance APIs.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jBJ7eoPtmY8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jBJ7eoPtmY8"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "jBJ7eoPtmY8",
-        "videoPublishedAt": "2023-07-13T15:00:37Z"
+        "videoId": "jBJ7eoPtmY8"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7sZmvxXGYPg4iJDl7LkCmf4ZS-c",
+      "etag": "_DgkauTluFAnEaK9pzgg3rbDaRs",
       "id": "UExNWVZxM3oxUXhTb3RWanBaSUtiSGhmb2dieUFiMG9Bbi4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2023-07-14T07:59:48Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Dan Shappir @ ReactNext '23 | Overcoming the Performance Cost of Hydration",
-        "description": "ReactNext 2023\nwww.react-next.com\nIsrael's Annual React & React-Native conference\n\nPowered by EventHandler\n\nOvercoming the Performance Cost of Hydration\n\nIntermediate | English\n\nModern JavaScript frameworks overcame the rendering performance limitations of Single-Page Applications (SPAs) by introducing Server-Side Rendering (SSR) and Static Site Generation (SSG). Unfortunately at the same time they created a potentially worse problem: unresponsive user interfaces. This is due to the requirement to hydrate UIs provided by SSR / SSG using client-side JavaScript before they can respond to user interactions. Recently frameworks have started to tackle this issue using a variety of different approaches. These approaches include: islands of hydration, selective hydration, server-side components, progressive enhancement, render slicing, edge computing, and resumability. In this talk I will describe these approaches, and highlight their benefits and limitations. Together we will try to determine which approach is likely to win out.\n\n\nDan Shappir\nPerformance Tech Lead\n\nDan Shappir is the Performance Tech Lead at NEXT Insurance. Dan has over 25 years of software development experience, and has worked on systems ranging from multiuser games to missile trajectory simulations to designing and building large-scale Web applications used by hundreds of millions of users. He is a frequent speaker at technical conferences, a host and panelist on the JavaScript Jabber podcast, and an Invited Expert on the W3C Web Performance Working Group. Dan holds an MSc in Computer Science.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kd0fT1W0PL8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSotVjpZIKbHhfogbyAb0oAn",
         "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kd0fT1W0PL8"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "kd0fT1W0PL8",
-        "videoPublishedAt": "2023-07-14T08:04:24Z"
+        "videoId": "kd0fT1W0PL8"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "private"
       }
     },
     {
