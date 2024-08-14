@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "obVaurqRdotcSLvzXAtt4SxiI_o",
+  "etag": "9RjQpr3c7xPBfidbwJMnYQpSzfs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "oPii71PxaJ1IOtKEb57XPOZMPZs",
+      "etag": "X3QsG-iqMCo6oJuCEGxG6-hdKks",
       "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-08-08T17:13:20Z",
@@ -13,27 +13,27 @@
         "description": "The content of React Rally Live Stream is owned solely by the speakers, presenters, musicians, and instructors who have created and recorded the material presented. Recording, recreating, or redistributing any content without the explicit consent of the owner is expressly forbidden.\n\nReact Rally is a community conference about React and topics interesting to React developers. We focus on a friendly, welcoming atmosphere, engaging talks from new and established speakers, and plenty of hallway-track time to chat with interesting people.\n\nClosed captioning options:\n1. Click CC in this player to enable YouTube's automated closed captions.\n2. Follow this link to view closed captions by Deepgram in a separate window:\nhttps://event-captioner.deepgram.com/events/reactrally/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/M0lv_9u5Qi8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -53,12 +53,12 @@
         "videoPublishedAt": "2024-08-08T17:12:16Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hrqH1amNkiIHzSvNvbYZQ1s3XXI",
+      "etag": "RET1FJH-C4MGtR6CmfssTGmTiCs",
       "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-08-08T17:10:44Z",
@@ -67,27 +67,27 @@
         "description": "The content of React Rally Live Stream is owned solely by the speakers, presenters, musicians, and instructors who have created and recorded the material presented. Recording, recreating, or redistributing any content without the explicit consent of the owner is expressly forbidden.\n\nReact Rally is a community conference about React and topics interesting to React developers. We focus on a friendly, welcoming atmosphere, engaging talks from new and established speakers, and plenty of hallway-track time to chat with interesting people.\n\nClosed captioning options:\n1. Click CC in this player to enable YouTube's automated closed captions.\n2. Follow this link to view closed captions by Deepgram in a separate window:\nhttps://event-captioner.deepgram.com/events/reactrally/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/DGG6xpllTiE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -107,7 +107,7 @@
         "videoPublishedAt": "2024-08-08T16:07:31Z"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     }
   ],
