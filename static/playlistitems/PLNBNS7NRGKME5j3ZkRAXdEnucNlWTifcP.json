@@ -1,0 +1,575 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "uI5m5_GIpoWg2kicihWNH8KaRTI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vHeZFWxOXM9ZqXzVn_KAAx-pMv4",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Kent C Dodds -  And Now You Understand React Server Components, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets \n\nTalk: And Now You Understand React Server Components\n \nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4S5m5Jhneds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4S5m5Jhneds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4S5m5Jhneds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4S5m5Jhneds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4S5m5Jhneds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4S5m5Jhneds"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "4S5m5Jhneds",
+        "videoPublishedAt": "2024-06-25T08:34:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-6QyHW6u_iXuUnsRi-3IHfgs-3o",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Ryan Carniato - Facing Frontend's Existential Crisis, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: Facing Frontend's Existential Crisis\nThe state of frontend development last couple years is in an odd place for the uninitiated web developer and expert alike. Server Components? Resumability? Hydration? Waterfalls? Islands? Why so much focus on water? And why are we even talking about this? In this talk, SolidJS creator Ryan Carniato explores the landscape of modern web development to understand how we got here and what these solutions really solve.\n\nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nzbV0YgSBuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nzbV0YgSBuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nzbV0YgSBuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nzbV0YgSBuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nzbV0YgSBuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nzbV0YgSBuo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "nzbV0YgSBuo",
+        "videoPublishedAt": "2024-06-25T08:36:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kE4SgXsuKNDt2wzI2O69shg-tdc",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Evan Bacon - Fetch Once, Render Everywhere: React Server Components in Expo Router React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets \n\nTalk: Fetch Once, Render Everywhere: React Server Components in Expo Router\nWe’ve been hard at work to create a first-look at data fetching, server rendering, and streaming in universal Expo Router apps.\n\nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rFHOO-ixWp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rFHOO-ixWp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rFHOO-ixWp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rFHOO-ixWp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rFHOO-ixWp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rFHOO-ixWp0"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "rFHOO-ixWp0",
+        "videoPublishedAt": "2024-06-25T09:03:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a8kvfw5TxiDm40tIiK3512lsyP4",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Solange Gueiros - Frontend Access Control Using Digital Assets, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: Frontend Access Control Using Digital Assets\nWe'll delve into the intersection of web development and NFT (Non-Fungible Token) technology. As the digital landscape continues to evolve, developers are constantly seeking innovative ways to enhance user experience and security. From authentication to user permissions. NFTs offer a decentralized and secure solution that can reshape the way we interact with web applications.\n\nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4JTv6ol7U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4JTv6ol7U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4JTv6ol7U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4JTv6ol7U4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i4JTv6ol7U4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i4JTv6ol7U4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "i4JTv6ol7U4",
+        "videoPublishedAt": "2024-06-25T09:03:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "82j9-yxf6xakIMXzy-m-YdWpUUE",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Michal Srb - Applying React Principles to a Cloud Database, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: Applying React Principles to a Cloud Database\nWhat would a backend look like if it was designed with modern React applications in mind? What could the database do if it followed core React principles? Learn about a new approach to building fullstack apps with a reactive database in this lightning talk.\n \nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5Byc9nVLR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5Byc9nVLR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5Byc9nVLR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c5Byc9nVLR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c5Byc9nVLR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c5Byc9nVLR8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "c5Byc9nVLR8",
+        "videoPublishedAt": "2024-06-25T09:03:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D5bj9zlqXErm2SJMCX16SjnWWrQ",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Ray Luxembourg - Cross-Framework Libraries with Native Experiences Using React, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: Cross-Framework Libraries with Native Experiences Using React\nWe will explore a unified development strategy that enables software to be used across multiple frameworks without sacrificing the native experience for any user group. This approach not only extends the reach of software solutions but also optimizes development processes by allowing teams to write code in React—our framework of choice—and deploy it seamlessly across Angular, Vue, and others.\n\nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eKx_KdkYZUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eKx_KdkYZUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKx_KdkYZUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eKx_KdkYZUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eKx_KdkYZUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eKx_KdkYZUc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "eKx_KdkYZUc",
+        "videoPublishedAt": "2024-06-25T08:36:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nL1lDYIC8Xq-_Z7DMNUbGRPOz8I",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Mana Peirov - The Path to High-Performance Canvas Rendering, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: The Path to High-Performance Canvas Rendering\nAn overview of the top 3 approaches you can apply to boost the rendering performance of HTML Canvas in your React application, based on the lessons we learned during the development of AG Charts. \n\nThis event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VDtkm869Bfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VDtkm869Bfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VDtkm869Bfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VDtkm869Bfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VDtkm869Bfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VDtkm869Bfs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "VDtkm869Bfs",
+        "videoPublishedAt": "2024-06-25T08:36:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iIy6AlwRMXt7N4Uljz0bcTPt038",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Doug Drechsel - Full Stack Development using Oracle 23ai, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: Full Stack Development using Oracle 23ai\nThis 20 min talk will discuss how to use Oracle 23ai in a full stack development environment. It will discuss the different layers of the stack, Oracle 23ai as the database, Parse Server as the Backend and React Native for Front End development. The talk will also discuss the new features offered to developers such as Vector Search, Property Graphs, JSON Duality and JavaScript Stored Procedures.\n\n This event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZNtCmXuOl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZNtCmXuOl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZNtCmXuOl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EZNtCmXuOl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EZNtCmXuOl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EZNtCmXuOl4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "EZNtCmXuOl4",
+        "videoPublishedAt": "2024-06-25T08:35:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QjPDz8r-YZ57umYiozwSJ81fPoM",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Alexandra Spalato - AI for React Developers: Opportunities, Learning, and Innovation, React Summit",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets\n\nTalk: AI for React Developers: Opportunities, Learning, and Innovation\nAs a React developer, it is a good chance to grow and expand. Many React developers might wonder: “What do I need to know about AI? and do I have what it takes?” With AI reshaping industries, the pressure to adapt and expand our skillisets is palpable. The question isn’t just about staying relevant; it’s about seizing unprecedented opportunities in development and automation. What if learning AI could help you do more with React? Think about using AI to help with coding, or to make smarter apps faster. This talk will show you how to start. in this talk, we’ll demystify the role of an AI engineer and outline the essential skills React developers need to transition into this evolving field.\n\n This event would not take place without the support of sponsors:\n \n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQxCBjzxWs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQxCBjzxWs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQxCBjzxWs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NQxCBjzxWs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NQxCBjzxWs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NQxCBjzxWs4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "NQxCBjzxWs4",
+        "videoPublishedAt": "2024-06-25T08:35:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZvGtqR0r2RjCsNAKhjxGXgNMuFY",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Theo Browne - RSCs In Production: 1 Year Later, React Summit 2024",
+        "description": "React Summit 2024  #ReactSummit #GitNation\nWebsite – https://reactsummit.com/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://reactsummit.com/#tickets \n\nTalk: RSCs In Production: 1 Year Later\n\nThis event would not take place without the support of sponsors:\n\n🏆 Platinum Sponsors\nAG Grid → https://ag-grid.com/\nMUI → https://mui.com/\nCodux → https://www.codux.com/\nChainlink → https://chain.link/\nOracle Database → https://www.oracle.com/database/\n \n🥇 Gold Sponsors\nFocus Reactive → https://focusreactive.com/\nStoryblock → https://app.storyblok.com/\nCKEditor → https://ckeditor.com/\nsisense → https://www.sisense.com/\nMongoDB → https://www.mongodb.com/\nDATASTAX → https://www.datastax.com/\nConvex → https://www.convex.dev/\nJetBrains → https://www.jetbrains.com/\n\n\n🥈 Silver Sponsors\npicnic → https://jobs.picnic.app/en\nchromatic → https://www.chromatic.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e8iG-8OV1vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e8iG-8OV1vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e8iG-8OV1vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e8iG-8OV1vU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e8iG-8OV1vU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e8iG-8OV1vU"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "e8iG-8OV1vU",
+        "videoPublishedAt": "2024-06-25T08:34:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wEkLmGtKBSOl9p4ddIJoyS-ddXw",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-08-16T11:16:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HNA-auHvQrk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HNA-auHvQrk"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}
