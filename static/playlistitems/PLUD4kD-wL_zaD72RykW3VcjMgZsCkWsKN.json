@@ -1,10 +1,820 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "9RjQpr3c7xPBfidbwJMnYQpSzfs",
+  "etag": "6g-PLY92W83YCzvqp1SqM7IqFmY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "X3QsG-iqMCo6oJuCEGxG6-hdKks",
+      "etag": "Vp6N8lcC-GS89IlzcJj7NwbJzPE",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Unlocking Value with AI Today - Tejas Kumar",
+        "description": "Explore how we can leverage GenAI for value generation in our applications and business today by exploring powerful techniques like RAG, and open-source tooling like Langflow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uMksIqpbVoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uMksIqpbVoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMksIqpbVoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uMksIqpbVoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uMksIqpbVoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uMksIqpbVoY"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "uMksIqpbVoY",
+        "videoPublishedAt": "2024-09-04T02:24:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JP9NmQoZZyW4clLlf0Hlix9f6qI",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "The Call-up: Making it to the Data Viz Big Leagues - Rebekah Callari Kaczmarczyk",
+        "description": "It’s a well-known fact that the flexibility of D3 comes with a steep learning curve and some added considerations in React, but, for many, the ability to build highly customized data viz is essential.\n\nOver the past year, I have transitioned my team from using high-level plotting tools in React to a low-level D3 wrapper, visx. In this talk, we’ll explore the rationale for this transition, how to approach the process and how to empower a team to take the leap to D3 with you. We’ll also discuss some of the challenges you might face along the way and how to address them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDhalfhqZR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDhalfhqZR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDhalfhqZR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RDhalfhqZR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RDhalfhqZR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RDhalfhqZR4"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "RDhalfhqZR4",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6LHlyQEdByF3Djowr91Ghy8ElYQ",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Harness the Power of Durable, Event-Driven Workflows - Joel Hooks",
+        "description": "Orchestrating complex workflows and background jobs can be a nightmare, but it doesn't have to be.\n\nWe will look at how to level up your React apps regardless of framework with portable efficient durable event-driven workflows and background jobs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwYgDP7obDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwYgDP7obDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwYgDP7obDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwYgDP7obDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwYgDP7obDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iwYgDP7obDI"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "iwYgDP7obDI",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8kEUxoplKIafyEP9tgEhaWaUgZY",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Conducting React's Ensemble: Mastering Complex State with Advanced Hooks and Context Techniques",
+        "description": "By: Renaldi Gondosubroto\n\nAs React applications grow in complexity, so does the challenge of managing their state in a way that is both efficient and maintainable. \"Conducting React's Ensemble: Mastering Complex State with Advanced Hooks and Context Techniques\" offers a deep dive into sophisticated patterns and practices that push the boundaries of what's possible with React's state management tools.\n\nThis session will begin with a brief review of the fundamental concepts of Hooks and the Context API, setting the stage for a journey into their more advanced applications. We will explore the composition of custom Hooks to encapsulate and reuse stateful logic across components, ensuring a cleaner, more modular codebase.\n\nDelving deeper, we will dissect the intricate dance between the Context API and Hooks to manage global state in a React application. Through detailed code walkthroughs and real-life case studies, attendees will learn how to leverage Context in tandem with custom Hooks to create a lightweight yet powerful state management system, rivaling traditional solutions like Redux in both simplicity and efficiency.\n\nThis talk promises to arm you with the advanced skills and innovative techniques needed to tackle the most complex state scenarios, turning challenging state management tasks into harmonious solutions that enhance the performance and maintainability of your React applications.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H64EAqqvBnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H64EAqqvBnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H64EAqqvBnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H64EAqqvBnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H64EAqqvBnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H64EAqqvBnU"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "H64EAqqvBnU",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5A80mlvki4u392C-gAb3uOECzUo",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "And Now You Understand React Server Components - Kent C  Dodds",
+        "description": "You want to keep up with the future of React. React has evolved over the years and continues to push the component model further and further. Out of all the evolutions of React, server components are certainly the biggest advancement. It expands the component model further than ever before and as a result, requires some rethinking. Seasoned React developers need to unlearn the way we used to do things to be able to understand the improvements that React Server Components offer.\n\nIn this talk, Kent will guide you through React Server Components start to finish so you can understand how React Server Components work and set you off on your journey into the future of components everywhere!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B4wr-kDdBAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B4wr-kDdBAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4wr-kDdBAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B4wr-kDdBAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B4wr-kDdBAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B4wr-kDdBAs"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "B4wr-kDdBAs",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QFW9mgRQAXU4tjjToavNr5MWu1U",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "AI and Our Marriage Kapehe & Chris Sev",
+        "description": "Let's talk about building React apps with AI. AI is notoriously unreliable. Join Kap and Chris as they talk about important tactics when adding AI to your apps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5rzqDvDiPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5rzqDvDiPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5rzqDvDiPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5rzqDvDiPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5rzqDvDiPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J5rzqDvDiPA"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "J5rzqDvDiPA",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B3vrq5GsUUWUO481Rg_BHUtvjiI",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Bubbles, Booms and Blobs: Fun with HTML Canvas! - Shruti Kapoor",
+        "description": "Ever wanted to create a mini firework show on your webpage? Or maybe just some bouncing bubbles? Spoiler alert: you don't need CSS or fancy libraries to make it happen! In this hands-on session, I'll show you how to unleash the magic of HTML Canvas and plain old JavaScript to create quirky animations that'll have your users saying \"Whoa, cool!\" So, let's make some fun happen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTyZMcxcHqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTyZMcxcHqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTyZMcxcHqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTyZMcxcHqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTyZMcxcHqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qTyZMcxcHqg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "qTyZMcxcHqg",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lPjfIrcGHfWB8dMzMgwkDfLhjFk",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Build your own React Metaframework - Dev Agrawal",
+        "description": "This session will explore what exactly a metaframework like Next.js or Remix is, what responsibilities they take on, and how they differ from each other, all by building a custom metaframework live on stage.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4V_Wz_k35C8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4V_Wz_k35C8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4V_Wz_k35C8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4V_Wz_k35C8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4V_Wz_k35C8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4V_Wz_k35C8"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "4V_Wz_k35C8",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zen-CC13KoEVjKaZx8LFhzh-vAY",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "AI for React Developers: Opportunities, Learning, and Innovation - Alexandra Spalato",
+        "description": "Artificial Intelligence (AI) is now a must-have in software development, and the demand for AI engineers is rising through the roof. As a React developer, it is a good chance to grow and expand.\n\nMany React developers might wonder: \"What do I need to know about AI? and do I have what it takes?\" With AI reshaping industries, the pressure to adapt and expand our skillsets is palpable. The question isn't just about staying relevant; it's about seizing unprecedented opportunities in development and automation.\n\nWhat if learning AI could help you do more with React? Think about using AI to help with coding, or to make smarter apps faster. This talk will show you how to start.\n\nin this talk, we'll demystify the role of an AI engineer and outline the essential skills React developers need to transition into this evolving field.\n\nYou'll leave knowing how to use AI in your React projects and the exciting things you can do with it. Whether it's getting a new job or making your own AI-driven apps, there's a lot to look forward to for React developers who are ready to learn AI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/plT6TG7XA68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/plT6TG7XA68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/plT6TG7XA68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/plT6TG7XA68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/plT6TG7XA68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "plT6TG7XA68"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "plT6TG7XA68",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P12OXzbWvmeaW9RVJoq3egXHe0o",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:16:05Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "TypeScript, the hard way - Adam Thompson",
+        "description": "Is it possible to build a type-safe React component that can be rendered as any other component? We'll dive into lesser-used, but powerful TypeScript features while building a polymorphic react component.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cGQMaAxolQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cGQMaAxolQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cGQMaAxolQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-cGQMaAxolQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-cGQMaAxolQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-cGQMaAxolQ"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "-cGQMaAxolQ",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y-9LpMW7z0a-FLghUx0Ud3_dvcg",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React and the Art of Gamification - Courtney Yatteau",
+        "description": "Unlock the power of gamification in your React applications to enhance user engagement and enjoyment. Dive into React's versatile architecture and component-based approach, ideal for seamlessly integrating game mechanics like scoring, achievements, and interactive challenges. Drawing on principles from educational settings, discover the psychology behind gamification and learn how to apply these concepts in React to create compelling user experiences that keep users coming back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0PlZwFdToVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0PlZwFdToVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0PlZwFdToVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0PlZwFdToVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0PlZwFdToVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0PlZwFdToVQ"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "0PlZwFdToVQ",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uv--km_JebPkTu_btS5j68PR5pU",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "React 19 for the Rest of Us - Corbin Crutchley",
+        "description": "React 19 for the Rest of Us\nCorbin Crutchley\n\nReact 19 introduces a lot of stuff, including server-side behaviors like cache, server form actions, and more. How's a newcomer expected to learn all of this? In this talk!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zvSvBMljkZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zvSvBMljkZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zvSvBMljkZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zvSvBMljkZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zvSvBMljkZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zvSvBMljkZ8"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "zvSvBMljkZ8",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S7vs0efYCaQv8l5EfJoiqUMGgh4",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Data Fetching Strategies with React Server Components - Tyler Clark",
+        "description": "Data Fetching Strategies with React Server Components\nTyler Clark\n\nLet's dive into data fetching techniques and strategies in the context of React Server Components. We'll learn how to minimize over-fetching, reduce latency, and improve user experience through data retrieval and caching mechanisms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTm3XVmqH0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTm3XVmqH0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTm3XVmqH0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xTm3XVmqH0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xTm3XVmqH0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xTm3XVmqH0Q"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "xTm3XVmqH0Q",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cU5VQ2yQUpONXrXZ180zzpYfDi0",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Let's Fight: React Framework Showdown 🥊 - Ankita Kulkarni",
+        "description": "Choosing the best framework is tough, isn't it? We've got Next.js, Remix, and a bunch of others thrown into the mix. So, let's keep it real in this talk—I'll be comparing three of the big contenders: Next.js, Remix, and one surprise package.\n\nWe'll be looking at some key stuff like Data fetching, Routing, SEO, Performance, Server-side Rendering, and more. Think of it like a friendly showdown where these frameworks go head-to-head in a fair and square matchup.\n\nWe'll dish out points and see who comes out on top, highlighting which framework rocks for different uses and helping you out with your next project. And hey, no favoritism here—I'll be keeping it neutral and backing it all up with real-world examples.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cKGgzwWZZGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cKGgzwWZZGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKGgzwWZZGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cKGgzwWZZGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cKGgzwWZZGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cKGgzwWZZGg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "cKGgzwWZZGg",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0EJATgmDkkimpMZYyXfWvMnt4TU",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2024-09-04T02:23:51Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "A nerdy guide to the web trending concepts - Daniel Afonso",
+        "description": "The web! A vast container of knowledge, concepts, and things we do not always understand.\n\nTerms like Server Components, Hydration, Fine-Grained Reactivity, Resumability, and many others are thrown around daily, but often, we don't fully grasp them.\n\nJoin this interactive adventure straight from the pages of a comic book as your favorite heroes and villains help you understand some of the most discussed topics on the web now.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zt6Ycce7dlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zt6Ycce7dlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zt6Ycce7dlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zt6Ycce7dlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zt6Ycce7dlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zt6Ycce7dlg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "zt6Ycce7dlg",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qCD9VPTKEFHRe8_c2gtOeKZeQ9c",
       "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-08-08T17:13:20Z",
@@ -40,7 +850,7 @@
         },
         "channelTitle": "ReactRally",
         "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
-        "position": 0,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "M0lv_9u5Qi8"
@@ -58,7 +868,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RET1FJH-C4MGtR6CmfssTGmTiCs",
+      "etag": "3GqjGIhD4NREuaK6wBXsXj34HQA",
       "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-08-08T17:10:44Z",
@@ -94,7 +904,7 @@
         },
         "channelTitle": "ReactRally",
         "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
-        "position": 1,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DGG6xpllTiE"
@@ -109,10 +919,226 @@
       "status": {
         "privacyStatus": "unlisted"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PHJGcP4VYEXcTSfF4rfAVj0EF-k",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-09-03T16:10:01Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Building Your Front-End with Intention: Architecture and Tooling for your next Front-End project!",
+        "description": "Building Your Front-End with Intention: Architecture and Tooling for your next Front-End project!\nBy Chad Stewart\n\n\nBuilding Your Front-End with Intention: Architecture and Tooling for your next Front-End project!\nChad Stewart\nFront-End code bases can quickly become really difficult to maintain or add new features to. This mainly comes from our Front-End components being highly coupled either through poorly written CSS or components having too many responsibilities.\n\nBut there is a way we can avoid these such code bases.\n\nWe will learn in this talk how building your Front-End Architecture with intention will keep code bases manageable and easy to reason about, allowing for rapid development and easily responding to changing requirements. And we will also learn how this also leads to code bases that’s easier for new people to onboard and contribute to, allowing them to learn the code base at their own pace.\n\nThis is done by leveraging Component-Driven Design and Brad’s Frost’s Atomic Design to promote component isolation. With the attributes these architectural decisions promote, we can leverage techniques such as Functional CSS to further promote component isolation by inverting the flow of control of our CSS. These and other tools and techniques will allow us to build a code base of loosely coupled components, where Engineers only need to understand the component they are working in to start providing value.\n\nBy the end of this talk, those in attendance will have the tools they’ll need to build or migrate their code bases to something more loosely coupled, decreasing Engineering time for tasks, promoting rapid iteration and simply making a Front-End code base much more of a joy to work in.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJjih8bisig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJjih8bisig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJjih8bisig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJjih8bisig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VJjih8bisig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VJjih8bisig"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "VJjih8bisig",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j6cOxkWbWEc3i_n3K884SLHafmA",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-09-03T16:12:15Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Creating Custom DevTools for Your React App - Cory House",
+        "description": "Creating Custom DevTools for Your React App\nCory House\n\nModern React apps authenticate users, make HTTP calls, interact with third parties, contain feature toggles, and handle errors. But how do we reliably recreate and configure all these behaviors? In this session, I'll share a pattern for implementing custom dev tools to support automated testing and rapid feedback development. After this session, you'll understand how to design and implement custom tools, so you can run your application in a variety of configurations, quickly.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TbrOopPWzWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TbrOopPWzWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TbrOopPWzWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TbrOopPWzWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TbrOopPWzWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TbrOopPWzWY"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "TbrOopPWzWY",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "it2YwrdTnh-X2AQuBbgxv9br0Vw",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-09-03T16:15:10Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Pixels, Promises, and Panic: Horror Stories of Production Nightmares - Dan Neciu",
+        "description": "Pixels, Promises, and Panic: Horror Stories of Production Nightmares\nDan Neciu\n\nJoin me for \"Pixels, Promises, and Panic\" as we delve into the world of frontend mishaps. We'll share 4-5 real-life horror stories from the trenches of web development. From baffling browser bugs to cringe-worthy code catastrophes, these tales are a mix of humor and caution. Whether you're a seasoned developer or just starting out, these stories will entertain, enlighten, and remind us all of the unexpected twists and turns in the world of coding.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRNzRQsRh5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRNzRQsRh5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRNzRQsRh5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bRNzRQsRh5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bRNzRQsRh5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bRNzRQsRh5o"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "bRNzRQsRh5o",
+        "videoPublishedAt": "2024-09-04T02:24:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fb4HabvsBMq3A1ayDzbyURY_XHQ",
+      "id": "UExVRDRrRC13TF96YUQ3MlJ5a1czVmNqTWdac0NrV3NLTi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-09-03T16:16:28Z",
+        "channelId": "UCXBhQ05nu3L1abBUGeQ0ahw",
+        "title": "Level Up Your React Development: Unveiling the Gems of ECMAScript 2024 (ES15) - Frank Visaggio",
+        "description": "Level Up Your React Development: Unveiling the Gems of ECMAScript 2024 (ES15)\nFrank Visaggio\n\nCalling all React developers! Buckle up for a dive into the treasure trove of ECMAScript 2024 (ES15)! This session unlocks the secrets of this latest JavaScript iteration, empowering you to write cleaner, more efficient, and powerful code.\n\nGet ready to supercharge your JavaScript skills! We'll embark on a thrilling journey through ES15's most valuable features. We'll crack open the mysteries of well-formed Unicode strings, atomic waitSync, and the pipeline operator, all designed to streamline your code and boost readability.\n\nNext, we'll unveil a brand new data storage approach: records and tuples. Discover how these innovative structures can help you organize your data like a pro and write tighter code.\n\nPrepare to be amazed by decorators and pattern matching! We'll show you how decorators can sprinkle extra functionality onto your code without messing with its core. Pattern matching, on the other hand, equips you with a powerful tool to handle various data types and conditions with ease.\n\nThe Temporal API is another gem waiting to be unearthed in ES2024. This API equips you with a robust toolkit for handling dates and times, making those pesky date-time operations a breeze.\n\nBy the end of this session, you'll be a bonafide ES2024 champion, ready to take your JavaScript development to the next level!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_4jmDe4CRvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_4jmDe4CRvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_4jmDe4CRvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_4jmDe4CRvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_4jmDe4CRvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactRally",
+        "playlistId": "PLUD4kD-wL_zaD72RykW3VcjMgZsCkWsKN",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_4jmDe4CRvg"
+        },
+        "videoOwnerChannelTitle": "ReactRally",
+        "videoOwnerChannelId": "UCXBhQ05nu3L1abBUGeQ0ahw"
+      },
+      "contentDetails": {
+        "videoId": "_4jmDe4CRvg",
+        "videoPublishedAt": "2024-09-04T02:24:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 21,
     "resultsPerPage": 50
   }
 }
