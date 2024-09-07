@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "_rCZp_-6eRbvOWjf67KeKVZqZSg",
+  "etag": "hAO5fA5ftVtYgi8oGDSd83JAlTU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -328,13 +328,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qE_9H0_D1uxXulEs1Z0VbWQxyJo",
+      "etag": "8ax5r9nknUaquCrd6O-aW8QQy5g",
       "id": "UExOQk5TN05SR0tNSDhwT1YxYUgyWHFWWUc1M2VIVV9QTC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2020-11-03T10:31:59Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Nx + Next.js = ❤️ - Adam L Barrett",
-        "description": "Find the latest React.js talks & workshops at https://portal.gitnation.org\n \n  🗓 Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Nx + Next.js = ❤️\nNx is a next generation suite of build tools.\nNext.js is state-of-the-art framework for building web applications.\nTogether they bring order to the chaos of building multiple web applications across many teams.\nThis talk is a quick rundown of how Nx can help you maintain multiple Next.js apps, with multiple teams, while sharing components and libraries for consistent user experience.",
+        "description": "Check out FAQ on this content, shortened version and extra resources for this talk at https://gitnation.com/contents/nx-nextjs\n\nFind the latest React talks & workshops at https://gitnation.com\n \n  🗓 Talk recording from React Summit 2020\n\nWebsite - https://reactsummit.com/\n\n# Nx + Next.js = ❤️\nNx is a next generation suite of build tools.\nNext.js is state-of-the-art framework for building web applications.\nTogether they bring order to the chaos of building multiple web applications across many teams.\nThis talk is a quick rundown of how Nx can help you maintain multiple Next.js apps, with multiple teams, while sharing components and libraries for consistent user experience.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/chBOFzpGpyo/default.jpg",
