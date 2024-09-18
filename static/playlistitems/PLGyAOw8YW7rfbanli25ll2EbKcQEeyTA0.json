@@ -1,226 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "DHuCq-wQqyEJzrp5CcGGuLsRYG0",
+  "etag": "SsOPNItrLWwc96JQdcmLTdNQAcI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "_hcHy_5M9JiUDIRj47V9_qFTp4E",
-      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2024-09-03T08:29:05Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "The Power of Suspense: Lazy Loading, Prefetching and Streaming SSR explained - React Pune Meetup",
-        "description": "The Power of Suspense: Lazy Loading, Prefetching and Streaming SSR explained by Garima Mittal and Jyoti Gupta\n\n​This meetup is brought to you by React India in collaboration with Equal Experts Pune and React JS and friends\n\n​​Follow us for more updates\n\n​https://x.com/react_india\n\n​https://x.com/ReactPune\n\n​​Follow and subscribe for more info!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "dziZ57hYRGE"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "dziZ57hYRGE",
-        "videoPublishedAt": "2024-09-03T08:32:34Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "waOYmBitCEWhkfghy_KtIrwFxZY",
-      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4yODlGNEE0NkRGMEEzMEQy",
-      "snippet": {
-        "publishedAt": "2024-09-02T20:33:33Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Signals Vs States in React by Shrinivas Shah | React Pune Meetup",
-        "description": "​This meetup is brought to you by React India in collaboration with Equal Experts Pune and React JS and friends. \n\nSignals Vs States in React by Shrinivas Shah\n\n​​Follow us for more updates\n\n​https://x.com/react_india\n\n​https://x.com/ReactPune\n\n​​Follow and subscribe for more info!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XJLRhx4wiog"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "XJLRhx4wiog",
-        "videoPublishedAt": "2024-09-02T20:36:27Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Nxz0Wh3BpwYtLCoMzXQVcCm5mn4",
-      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2024-05-08T07:27:41Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India - Chennai Meetup April 2024",
-        "description": "​This meetup is brought to you in collaboration with the Chennai React Community.\n\n​Agenda\n\n​Talk #1: Augmented Reality with React Native using Viro SDK\n\n​Arun Kumar N, Senior Analyst @Tiger Analytics\n\n​Talk #2: Exploring the World of Microfrontend Architecture with React\n\nShanthi P, Senior Engineer @Talentship\n\n​Talk #3: Building web components with React\n\n​Dani Akash, Frontend Engineer @Clarifai\n\n​Follow us for more updates\n\n​https://twitter.com/chennaireact\n\n​https://www.linkedin.com/company/chennaireact/\n\n​https://www.meetup.com/chennai-reactjs-meetup-group/\n\n\n​Follow and subscribe for more info!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "_hVbeInTQKU"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "_hVbeInTQKU",
-        "videoPublishedAt": "2024-05-08T15:43:51Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Qr3oxq3C2U89GQvXTJSPxvmUzoA",
-      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2024-09-06T18:40:21Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Enhancing User Experience with In-App Nudging: A State Machine and Server-Driven UI Approach",
-        "description": "Enhancing User Experience with In-App Nudging: A State Machine and Server-Driven UI Approach\" by Kunal Ravindra Chavhan\n\n\n​This meetup is brought to you buy React India in collaboration with React Mumbai! 🎉 The event is free of cost and open for anyone to join!\n\nSpeaker Details \nKunal Ravindra Chavhan\nPrincipal Engineer  @Dream11\nWorking on India’s largest fantasy sports platform powered by \n@reactnative\nhttps://x.com/kunal5692\n\n​React Mumbai: https://x.com/react_mumbai\n\n​React India: https://x.com/react_india",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ohKH5U2k590/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ohKH5U2k590/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ohKH5U2k590/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ohKH5U2k590/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ohKH5U2k590/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ohKH5U2k590"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "ohKH5U2k590",
-        "videoPublishedAt": "2024-09-06T18:46:39Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "XRb59Lcra-c2AH50y4x7RpJgVXM",
+      "etag": "t0akp5CFEBUo7y5OG9KfdlsL0Rg",
       "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2024-09-06T19:07:00Z",
@@ -256,7 +40,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 4,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "MAX4E25agP4"
@@ -274,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "g_j4b_dagMSHTvgT9X3Ewl-Wkgc",
+      "etag": "-v3-xkjse1OYr3c6ruPDP-xaXqk",
       "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2024-09-06T19:14:07Z",
@@ -310,7 +94,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
-        "position": 5,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xPvIyGZmZNY"
@@ -321,6 +105,222 @@
       "contentDetails": {
         "videoId": "xPvIyGZmZNY",
         "videoPublishedAt": "2024-09-06T19:43:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IfQp5hE5uPm7fjuv1OzzveOdXHg",
+      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-09-06T18:40:21Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Enhancing User Experience with In-App Nudging: A State Machine and Server-Driven UI Approach",
+        "description": "Enhancing User Experience with In-App Nudging: A State Machine and Server-Driven UI Approach\" by Kunal Ravindra Chavhan\n\n\n​This meetup is brought to you buy React India in collaboration with React Mumbai! 🎉 The event is free of cost and open for anyone to join!\n\nSpeaker Details \nKunal Ravindra Chavhan\nPrincipal Engineer  @Dream11\nWorking on India’s largest fantasy sports platform powered by \n@reactnative\nhttps://x.com/kunal5692\n\n​React Mumbai: https://x.com/react_mumbai\n\n​React India: https://x.com/react_india",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohKH5U2k590/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohKH5U2k590/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohKH5U2k590/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ohKH5U2k590/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ohKH5U2k590/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ohKH5U2k590"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "ohKH5U2k590",
+        "videoPublishedAt": "2024-09-06T18:46:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mh7M7qCLFf3nPGMZsK5HJX8qCk0",
+      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-09-03T08:29:05Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Power of Suspense: Lazy Loading, Prefetching and Streaming SSR explained - React Pune Meetup",
+        "description": "The Power of Suspense: Lazy Loading, Prefetching and Streaming SSR explained by Garima Mittal and Jyoti Gupta\n\n​This meetup is brought to you by React India in collaboration with Equal Experts Pune and React JS and friends\n\n​​Follow us for more updates\n\n​https://x.com/react_india\n\n​https://x.com/ReactPune\n\n​​Follow and subscribe for more info!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dziZ57hYRGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dziZ57hYRGE"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "dziZ57hYRGE",
+        "videoPublishedAt": "2024-09-03T08:32:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9rdQzCL7AidPexYLWitbFi9pPig",
+      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-09-02T20:33:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Signals Vs States in React by Shrinivas Shah | React Pune Meetup",
+        "description": "​This meetup is brought to you by React India in collaboration with Equal Experts Pune and React JS and friends. \n\nSignals Vs States in React by Shrinivas Shah\n\n​​Follow us for more updates\n\n​https://x.com/react_india\n\n​https://x.com/ReactPune\n\n​​Follow and subscribe for more info!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XJLRhx4wiog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XJLRhx4wiog"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XJLRhx4wiog",
+        "videoPublishedAt": "2024-09-02T20:36:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYyy5ewstHMNObVwe5pdxpVOL90",
+      "id": "UExHeUFPdzhZVzdyZmJhbmxpMjVsbDJFYktjUUVleVRBMC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-05-08T07:27:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India - Chennai Meetup April 2024",
+        "description": "​This meetup is brought to you in collaboration with the Chennai React Community.\n\n​Agenda\n\n​Talk #1: Augmented Reality with React Native using Viro SDK\n\n​Arun Kumar N, Senior Analyst @Tiger Analytics\n\n​Talk #2: Exploring the World of Microfrontend Architecture with React\n\nShanthi P, Senior Engineer @Talentship\n\n​Talk #3: Building web components with React\n\n​Dani Akash, Frontend Engineer @Clarifai\n\n​Follow us for more updates\n\n​https://twitter.com/chennaireact\n\n​https://www.linkedin.com/company/chennaireact/\n\n​https://www.meetup.com/chennai-reactjs-meetup-group/\n\n\n​Follow and subscribe for more info!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_hVbeInTQKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfbanli25ll2EbKcQEeyTA0",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_hVbeInTQKU"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "_hVbeInTQKU",
+        "videoPublishedAt": "2024-05-08T15:43:51Z"
       },
       "status": {
         "privacyStatus": "public"
