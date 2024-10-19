@@ -1,10 +1,226 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hXY_lNofHLvn8B60ie9z9JgpJ-8",
+  "etag": "YCbe83IPwJVjLVxNZGTnMCR7Ck0",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "fxsWM_c5yBdz78t9iyZqqfeQWhQ",
+      "etag": "2Z8IXeKTj8cDhu3sekXxZ9JlLnM",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-10-19T02:30:40Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Day 2 2024 - 5th Edition",
+        "description": "React India   Day  2 2024 | Online Conference | 19th Oct 2024\n\nhttps://www.reactindia.io/schedule\n\n📅 Date: 19th October 2024\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.\nhttps://www.reactindia.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fEU8wcKBbsI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "fEU8wcKBbsI",
+        "videoPublishedAt": "2024-10-19T02:30:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mauc4pgzME2H9SyeUH3Q8bLTLcw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-10-18T02:26:59Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Day 1 2024 - 5th Edition",
+        "description": "React India   Day  1 2024 | Online Conference | 18th Oct 2024\n\nhttps://www.reactindia.io/schedule\n\n📅 Date: 18th October 2024\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.\nhttps://www.reactindia.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6L50-44sBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6L50-44sBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6L50-44sBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p6L50-44sBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p6L50-44sBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p6L50-44sBs"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "p6L50-44sBs",
+        "videoPublishedAt": "2024-10-18T13:59:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BPIiJBXcQgwQEz-XIbr0fAwBzf8",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-10-18T06:31:44Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "What's next for the React Compiler?  - Sathya Gunasekaran",
+        "description": "The React Compiler was open-sourced at React Conf earlier this year, marking a significant milestone. Since then, we've implemented numerous improvements and optimizations. This talk will examine the valuable community feedback that has shaped these enhancements and explore the new optimizations that improve both performance and developer experience. We'll also discuss the next steps in the evolution of the React Compiler and the open source release process.\n\nSathya is a software engineer on the React core team at Meta. Previously, he worked on the V8 JavaScript compiler at Google.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qd5yk2gxbtg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "qd5yk2gxbtg",
+        "videoPublishedAt": "2024-10-18T08:02:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TPIsi9ZZ7aTZh6dGxk9TTFKo2I8",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-10-16T19:20:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Workshop Day 2024 - 5th Edition",
+        "description": "React India Workshop  Day 2024 | Online Conference | 17th Oct 2024\n\n\nWorkshops at React India 2024\nOn October 17th 2024, to start your conference experience, we'll host multiple workshops targeted both at the React, React Native freshers and professionals. Take the full advantage of your conference visit and get training at both basic and advanced level from our industry experts.\n\nhttps://www.reactindia.io/workshops\n\n📅 Date: 17th October 2024\n🌍 Where: Online\n\nFrom building scalable applications to mastering new frameworks, the event will cover everything developers need to know to stay ahead in the React ecosystem. Get ready for a day full of learning, networking, and inspiration!\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aW1TWEAosVk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "aW1TWEAosVk",
+        "videoPublishedAt": "2024-10-17T10:35:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sOEwBp5hGcJHz_nQOyLdKQ2g5jg",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-10-14T20:04:46Z",
@@ -40,7 +256,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 0,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eRMmvXcCLwU"
@@ -55,10 +271,35 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P13o8plOEbKpZoO0UgnFvff_wkg",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-10-18T02:24:27Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DBbWUiIxnUM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DBbWUiIxnUM"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }
