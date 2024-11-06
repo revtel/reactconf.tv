@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Or852AlzVV-VyfH7nW1bndpVJf0",
+  "etag": "M8in49tmwab2d3vsN3-oUsNxwHU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1280,10 +1280,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iaBOXPsEtfN22R-DfDjOj1cEWOg",
+      "id": "UExaM013RC1zb1RURW01S3RCMkFvWnVNN2ZpWVJSNjlrOC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2024-11-05T14:25:45Z",
+        "channelId": "UCbvLih553T7f5OAGTfbsJkQ",
+        "title": "React Universe Conf Through Tech Leaders' Eyes",
+        "description": "Delve into the enriching experience of React Universe Conf 2024 ✨\nHear from tech leaders from Amazon, Hinge Health, and Thriva about how this event offers unique opportunities to learn from industry experts, gain insights into the latest innovations, and take your entire organization to the next level. \n\nDon't miss out on the chance to bring valuable knowledge back to your team and have some fun with great networking opportunities.\n\nGet your ticket now at https://hubs.li/Q02DmrBv0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fve5YbdTV4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fve5YbdTV4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fve5YbdTV4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fve5YbdTV4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fve5YbdTV4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Callstack Engineers",
+        "playlistId": "PLZ3MwD-soTTEm5KtB2AoZuM7fiYRR69k8",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fve5YbdTV4g"
+        },
+        "videoOwnerChannelTitle": "Callstack Engineers",
+        "videoOwnerChannelId": "UCbvLih553T7f5OAGTfbsJkQ"
+      },
+      "contentDetails": {
+        "videoId": "fve5YbdTV4g",
+        "videoPublishedAt": "2024-06-26T06:59:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 26,
+    "totalResults": 27,
     "resultsPerPage": 50
   }
 }
