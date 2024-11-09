@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "-T4Xk-7IujuZOy8GN_PHDJa4OQw",
+  "etag": "RtF3qtXa8Og7pCbJHI-Uawpta0I",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -296,10 +296,64 @@
       "status": {
         "privacyStatus": "privacyStatusUnspecified"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lDdJVFdowgjdh1y36xVli0Lc8bs",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-11-08T21:35:39Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2024  Official Aftermovie 🇮🇳 - 5th Edition",
+        "description": "React India is a community-led not-for-profit initiative with an international flavor. \n\nSee you soon at React India 2025.\nhttps://www.reactindia.io/\n\nFollow us on X -   / react_india  \n\n\nProduced and Curated  by React India Team\nhttps://www.reactindia.io/team\n\nConference Organiser \nhttp://geekabyte.tech/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r9b9vgfgy0U"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "r9b9vgfgy0U",
+        "videoPublishedAt": "2024-11-08T21:33:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 6,
+    "totalResults": 7,
     "resultsPerPage": 50
   }
 }

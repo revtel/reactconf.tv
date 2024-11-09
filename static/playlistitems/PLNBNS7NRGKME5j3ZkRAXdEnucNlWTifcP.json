@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "1A5HHFjm-QvAeLYbGRXrMda9hl4",
+  "etag": "tkoD875ysFGgicxcTZ1WzGSttdc",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -58,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AZ5YgZnf8q6Q4qsURmKvZ9usri0",
+      "etag": "7S1T5zJu3wrwH1RFQ6BRitcr_gY",
       "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2024-08-16T11:16:41Z",
@@ -566,10 +566,64 @@
       "status": {
         "privacyStatus": "private"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LjM9h3nIgVe3NrcGK1hdzu1t5do",
+      "id": "UExOQk5TN05SR0tNRTVqM1prUkFYZEVudWNObFdUaWZjUC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-11-07T12:23:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit 2024 Aftermovie - The Biggest React Conference Worldwide",
+        "description": "React Summit is an annual conference on all things React, gathering thousands of front-end and full-stack engineers from around the world.\n\nOriginally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.\n\nThe first day to be streamed from the Amsterdam venue including hybrid networking features and interactive entertainment; and second day, as well as the numerous free workshops, streamed to the global audience online.\n\n🎫  Grab your tickets for the 2025 edition 👉 https://reactsummit.com/#tickets?utm_source=YT&utm_medium=rs24aftermovie \n\nReact Summit on X: https://x.com/reactsummit\nReact Summit on Instagram: https://www.instagram.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Blue Sky: https://bsky.app/profile/reactsummit.bsky.social\n\nMore GitNation events: https://gitnation.com/events?utm_source=YT&utm_medium=rs24aftermovie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0sccCu-Grs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0sccCu-Grs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0sccCu-Grs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v0sccCu-Grs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v0sccCu-Grs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME5j3ZkRAXdEnucNlWTifcP",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v0sccCu-Grs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "v0sccCu-Grs",
+        "videoPublishedAt": "2024-11-07T12:30:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 12,
     "resultsPerPage": 50
   }
 }
