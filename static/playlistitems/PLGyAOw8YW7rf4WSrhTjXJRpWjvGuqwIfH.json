@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "_ZLt59Xz8sT7UEmL4bbEiWcuuAg",
+  "etag": "OZZVdr1CKMCsTq2D7_tqzaGNcUo",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bw_OM-nbvqauTBWkSNIg5PUWj6o",
+      "etag": "eG4bEp8kQc7L6eIlwHU22x4DHf0",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-10-16T19:20:45Z",
@@ -274,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fPXplpMf5hs3RWR7aP4vMX7ZeD0",
+      "etag": "jCsm3Z8ssKhJGzFUOZbDTXOKAoo",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-10-14T20:04:46Z",
@@ -325,35 +325,10 @@
       "status": {
         "privacyStatus": "public"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "RaSkdfrDxJoVoY9tl9ClNFNfOVA",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2024-10-18T02:24:27Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "DBbWUiIxnUM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "DBbWUiIxnUM"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }
