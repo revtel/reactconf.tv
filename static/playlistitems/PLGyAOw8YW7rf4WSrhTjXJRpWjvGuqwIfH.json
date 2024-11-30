@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "2UUZUkpYVWBehHzPhOnV9O2eBdY",
+  "etag": "eqPeXWRiIdhNMa4U15JflCc60Go",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -325,10 +325,118 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vS-74tkTphHaSdCtInycyGG5mo0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-11-29T21:35:52Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Abracadabra: The Vanishing Network | Kent C Dodds @KentCDodds-vids | React India 2024",
+        "description": "⁠Kent C. Dodds( @KentCDodds-vids  ) is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. He is the creator of EpicWeb.dev, the Epic Stack, EpicReact.Dev and TestingJavaScript.com. He's an instructor on egghead.io and Frontend Masters. He's also a live streamer, podcaster, and conference organizer. Kent is married and the father of five kids.\n\nAbout the session\n\nAbracadabra: The Vanishing Network\n\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\n⁠What would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk, we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\n\nMore details on our website - www.reactindia.io",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q4cF-ftxpbk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "q4cF-ftxpbk",
+        "videoPublishedAt": "2024-11-29T21:44:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b_g8RL8SHMfUEHF7Nx6l2uwnO_k",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-11-29T22:32:29Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Navigating the Shift SDLC’s Transformation into AI-Driven Engineering  | Rakesh Ravuri",
+        "description": "Navigating the Shift: SDLC’s Transformation into AI-Driven Engineering\n\nThe topic revolves around the transformative impact of Generative AI on the traditional Software Development Life Cycle (SDLC). As we step into an era where AI is not just a tool but a collaborator, the entire landscape of software engineering is undergoing a seismic shift.\n\nThis theme underscores the need for a paradigm shift in our approach to software development, embracing AI as an integral part of the engineering process and preparing for a future where AI and human ingenuity work in tandem to push the boundaries of what’s possible in technology.\n\n\nAbout the Speaker \n\nRakesh Ravuri is a CTO & SVP in Publicis Sapient's Engineering Capability. As the CTO for Publicis Sapient, Rakesh heads engineering strategy and engineering capability development in India. Rakesh also plays the role of engineering lead globally for all Publicis Sapient's Retail engagements. This is Rakesh's second innings at Sapient. He has served in various engineering roles for Publicis Sapient's partners in Retail & Financial industries, delivering internet scale e-commerce solutions, high frequency trading and real time risk evaluation systems. He has experience leading cross geography teams and proven track record of enabling business outcomes working in a GDD model. Prior to joining Sapient, Rakesh worked as Director of Technology at Amazon led the team to help roll out Amazon Shipping product in four countries and was Chief Architect at Tesco for their online systems and helped rollout their international groceries ecommerce platform in nine countries. He holds a Bachelor's Degree in Engineering from NIT Surathkal and a Master's Degree specializing in robotics from Texas A&M.\n\nMore on the React India Website - https://www.reactindia.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YOiWRdFqC50"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "YOiWRdFqC50",
+        "videoPublishedAt": "2024-11-29T22:38:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 6,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
