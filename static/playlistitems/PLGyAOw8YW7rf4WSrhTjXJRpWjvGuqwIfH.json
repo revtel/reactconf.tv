@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "eqPeXWRiIdhNMa4U15JflCc60Go",
+  "etag": "dzXA0Nu8edKr-tiMJVd7TdTlrdY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "XBIr58QPh7wYz14Kd-XCcWGaNWI",
+      "etag": "yxEh5YcRO3YbXj8k7ZUHDW-Xs4E",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-12-01T14:18:20Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Web Workers - Little Minions At Work for Optimizing Performance | Nida Shaikh",
+        "description": "React’s single-threaded-ness is very unnoticeable in our day-to-day applications since the UI renders really fast. However, our UI can be easily stumped if our app is computationally heavy. We'll see how web workers can boost your application’s performance, offering multithreading capabilities.\n\n\nAbout Speaker \n\nHi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for elegant and scalable solutions. I dive head-first into everything web and my goal is to make development a little bit easier for us all devs. When I'm not coding, I love to read, journal, explore new places, make specialty coffee and pet my cats.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0HEvee2iWao"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0HEvee2iWao",
+        "videoPublishedAt": "2024-12-01T14:02:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6576yXnae7s7ZeJ3oGwnLVZtzlg",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2024-11-08T21:35:39Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "r9b9vgfgy0U"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "N05z8zx3BAdoair-OD9l4YP_LiY",
+      "etag": "nec20t5WUZZAnIwgJSnv-IvMTKI",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2024-10-19T02:30:40Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fEU8wcKBbsI"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4ClxK9u8NaAA9PB3Lv8CE3KyJuM",
+      "etag": "M6PWJv5N6I-gHi5G27bU0Wc0lpw",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2024-10-18T02:26:59Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "p6L50-44sBs"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3DsDg_SWLd5DQ6HNm-YeUKG5Z0I",
+      "etag": "lgYmV1ljGMxl0lfAUxQ_P6FE3kU",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2024-10-18T06:31:44Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qd5yk2gxbtg"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eG4bEp8kQc7L6eIlwHU22x4DHf0",
+      "etag": "q4Eb8qJwu6IEZVSpNyybzrlM3j8",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-10-16T19:20:45Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aW1TWEAosVk"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jCsm3Z8ssKhJGzFUOZbDTXOKAoo",
+      "etag": "FQ7Y_kR1qyw4NpG03OpcMLGfhUQ",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-10-14T20:04:46Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eRMmvXcCLwU"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vS-74tkTphHaSdCtInycyGG5mo0",
+      "etag": "x4btx40JpO3kON5ev6S8BQPNStw",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2024-11-29T21:35:52Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q4cF-ftxpbk"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b_g8RL8SHMfUEHF7Nx6l2uwnO_k",
+      "etag": "iEDNzrzJkvm36yTkwEQVNbN9IJc",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2024-11-29T22:32:29Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YOiWRdFqC50"
@@ -433,10 +487,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bMgW-cvlg45NmlTZ-loiXRDIT90",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-12-01T12:58:13Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Encrypting Data in the Browser - Exploring Web Crypto APIs | Aakansha Doshi",
+        "description": "Encrypting data in the Browser - Exploring Web Crypto APIs\n\nIn this talk Aakansha will be deep-diving into the world of Web Crypto APIs, starting from key generation, various encryption algorithms, implementation techniques, and more. The session will include live demos, coding examples, and a fun side project as well.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OMuZ4UvKppg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "OMuZ4UvKppg",
+        "videoPublishedAt": "2024-12-01T13:18:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 10,
     "resultsPerPage": 50
   }
 }
