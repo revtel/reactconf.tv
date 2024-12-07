@@ -1,0 +1,172 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DmclswlNwcmfwbDiTHZSp1XU5W8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EKO43bWndR9BIcN4f-5lKBuHn-Q",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:25:29Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Future of React - Tom Occhino, Kent C Dodds, Mark Erikson, Theo Browne, etc. - React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1ScGXrYZKYg"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "1ScGXrYZKYg",
+        "videoPublishedAt": "2024-11-29T08:58:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "izMtox0p1VR1p7wHBTXe07ENLkI",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:25:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Theo Browne - Out Of Order Streaming (The Secret Powering Modern React), React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Out Of Order Streaming (The Secret Powering Modern React)\nEver wonder how React can \"update\" a page while it's still loading? We've gotten so lost in the discussion of things like Next.js, Suspense, Signals, Server Components, and Server Actions, that most React devs have totally missed one of React's most recent pieces of magic: Out Of Order Streaming.\n\nTimestamps:\n\n00:00 Introduction to Streaming in React\n02:11 Exploring Partial HTML Rendering with Streams\n03:36 Challenges with Server-Side Loading\n04:59 Solving the Server-Side Loading Issue\n06:30 Streaming HTML in a Different Order\n08:32 Exploring HTML Streaming and the Magic Script\n10:30 Optimizing HTML Streaming with Suspense\n13:50 Introduction to Dynamic I.O.\n15:26 Exploring Partial Pre-rendering\n17:47 Enhancing Web Browsing with Suspense",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CDYov2gE1A"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "4CDYov2gE1A",
+        "videoPublishedAt": "2024-11-29T08:48:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RyMd58iWrZ0XD23eD6DNWv2n1Ig",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:23:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Addy Osmani - Chrome DevTools: State of the Union 2024 - Debugging React & Beyond",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Chrome DevTools: State of the Union 2024 - Debugging React & Beyond\nGet ready for an exciting journey through the latest in Chrome DevTools and React DevTools as we dive into the State of the Union for 2024. We'll explore the powerful tools and features that continue to empower developers to craft high-performance web experiences. We’ll also touch on the latest in React debugging including updates like React Compiler support. Whether you're a veteran user or new to the DevTools magic, this session will equip you with actionable tips and insights to level up your development process.\n\nTimestamps:\n\n00:00 Introduction to React and Chrome DevTools\n03:36 AI in the Console & React DevTools Extensibility\n05:49 Server Logging & React DevTools Features\n07:28 Experimenting with Browser DevTools\n09:50 Advanced Overrides and Header Control\n11:00 Advanced Network Panel and Performance Tooling\n13:18 Enhancing Performance Analysis and Collaboration\n15:38 Analyzing JavaScript Bundles and Optimizing Pages\n16:39 Core Web Vitals and Input Responsiveness\n17:51 Veo Case Study: Optimizing React App\n19:57 Debugging UI with DevTools\n21:19 Enhancing Animations with DevTools\n23:10 Debugging Tools and Fun Logging Tips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q8l74jlRFtc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "q8l74jlRFtc",
+        "videoPublishedAt": "2024-11-29T08:46:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 50
+  }
+}
