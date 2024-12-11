@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "DmclswlNwcmfwbDiTHZSp1XU5W8",
+  "etag": "ofwjyAri4tahEI_QrUw73LAco1Y",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -58,7 +58,61 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "izMtox0p1VR1p7wHBTXe07ENLkI",
+      "etag": "jR5sLDqNlXfWIE4bBVVZfO8Z2is",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-12-09T12:27:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Kent C. Dodds – Abracadabra: The Vanishing Network, React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Abracadabra: The Vanishing Network\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\nWhat would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\nTimestamps:\n\n00:00 Introduction to React and the Vanishing Network\n03:09 Exploring the Multi-Page App Paradigm\n05:29 Adding JavaScript for Client Functionality\n07:04 Adding Progressive Enhancement to the Form\n09:48 Enhancing User Experience and Transitioning to SPA\n12:29 Eliminating Duplication and Transition to JSON API\n13:40 React Code and User Actions\n15:46 React Era and Pespa Architecture\n18:02 Progressive Enhancement with Remix\n20:00 Moving to Modern React with Server Components\n22:45 Enhancing Server-Client Communication and UI\n25:06 Server-Client Code Separation and Epic React",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J7GMRHFIztA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "J7GMRHFIztA",
+        "videoPublishedAt": "2024-11-29T08:54:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8zoYiEcrM9v_CZfr8vqteXLWMUw",
       "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-12-06T12:25:16Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4CDYov2gE1A"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RyMd58iWrZ0XD23eD6DNWv2n1Ig",
+      "etag": "A-CTqp6RLERhJsi6TAaoSHd2hE0",
       "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-12-06T12:23:42Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q8l74jlRFtc"
@@ -166,7 +220,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 3,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }
