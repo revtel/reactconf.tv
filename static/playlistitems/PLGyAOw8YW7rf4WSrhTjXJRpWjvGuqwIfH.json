@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "Lr08RNp1SvI1atlGwf3DApDcvd8",
+  "etag": "0FVKcf28TM-OKVK5GlKSlkR4T-g",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -58,7 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8z_JvgPl_eilUutiTb2Htq9umdg",
+      "etag": "Zc6PDk1oDaTq0NDHJH7o0PQv56M",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2024-12-01T12:58:13Z",
@@ -112,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hFRb7uW2IDIgJtn7BTCWxGBLWRI",
+      "etag": "l-ckwIMRv_m-CV8So0aYh-_INa4",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2024-11-29T22:32:29Z",
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-ci3qQZeHcmVnERSSqwyp7STVN4",
+      "etag": "8wPGLPtZXOUcF6uqq_cbUiTW-DU",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2024-11-29T21:35:52Z",
@@ -220,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zA3JbhajFLQI81omvMi1fQecEBY",
+      "etag": "LI8aD8aHzS-tNsFP44jEwiOzokM",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2024-11-08T21:35:39Z",
@@ -328,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ekLnW_FSxItMfcUR4LUbFFnHqds",
+      "etag": "ZAVpQcshLsyblELQxWCc4KarcN0",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2024-10-18T02:26:59Z",
@@ -382,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OkGO5HjkSTY7fRpJJdtVMgDgOTA",
+      "etag": "CZMbELMTJ4ZDUTbUV7XAIBhnSpE",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2024-10-18T06:31:44Z",
@@ -436,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ejh4g8FMydLhm3J0tburn1anF1o",
+      "etag": "InpvoTecTfV2hDARbNicMPNZtKI",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2024-10-16T19:20:45Z",
@@ -490,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gdRWlSVbOWDpwhTykIHDsFm6UfA",
+      "etag": "gHyuvBzpztzA3y0bF5lVIRHDOBE",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2024-10-14T20:04:46Z",
@@ -541,10 +541,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DrREZb_zLl_TIQ6Qz9D5WyVHRX4",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-12-25T05:49:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Automate Performance Monitoring for Micro Frontend Apps - Amit Batra",
+        "description": "Automate Performance Monitoring for Micro Frontend Apps\n\nLeveraging lighthouse CI and Puppeteer to build a tool that continuously monitors the performance of applications behind authentication. At Brevo we build a culture where performance is not an afterthought. This talk will detail our journey of improving performance over the year and how you can set up your own CI/CD pipeline to monitor page performance before it goes into production.\n\nSpeaker Details \n\nAmit Batra Lead Engineer Frontend, Brevo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EPEUK8s71Yc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "EPEUK8s71Yc",
+        "videoPublishedAt": "2024-12-25T05:51:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 11,
     "resultsPerPage": 50
   }
 }
