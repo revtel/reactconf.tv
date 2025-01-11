@@ -1,226 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hSeXvGNni3z9i1BTW9pUf862mho",
+  "etag": "XPV_KdHcG4G78a2cGYpZ8mGGCoQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "yMduJuIFI9p9pesj2caqbVl0L_0",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2024-12-25T05:49:41Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Automate Performance Monitoring for Micro Frontend Apps - Amit Batra",
-        "description": "Automate Performance Monitoring for Micro Frontend Apps\n\nLeveraging lighthouse CI and Puppeteer to build a tool that continuously monitors the performance of applications behind authentication. At Brevo we build a culture where performance is not an afterthought. This talk will detail our journey of improving performance over the year and how you can set up your own CI/CD pipeline to monitor page performance before it goes into production.\n\nSpeaker Details \n\nAmit Batra Lead Engineer Frontend, Brevo",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "EPEUK8s71Yc"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "EPEUK8s71Yc",
-        "videoPublishedAt": "2024-12-25T05:51:04Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "3V0Ii0dyg0uy8p8PLfBFaWY4kH8",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2024-12-01T14:18:20Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Web Workers - Little Minions At Work for Optimizing Performance | Nida Shaikh",
-        "description": "React’s single-threaded-ness is very unnoticeable in our day-to-day applications since the UI renders really fast. However, our UI can be easily stumped if our app is computationally heavy. We'll see how web workers can boost your application’s performance, offering multithreading capabilities.\n\n\nAbout Speaker \n\nHi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for elegant and scalable solutions. I dive head-first into everything web and my goal is to make development a little bit easier for us all devs. When I'm not coding, I love to read, journal, explore new places, make specialty coffee and pet my cats.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0HEvee2iWao/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0HEvee2iWao/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0HEvee2iWao/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0HEvee2iWao/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0HEvee2iWao/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0HEvee2iWao"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "0HEvee2iWao",
-        "videoPublishedAt": "2024-12-01T14:02:35Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "BexOamLRCJrrhTdAizwbAJA8DGc",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2024-12-01T12:58:13Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Encrypting Data in the Browser - Exploring Web Crypto APIs | Aakansha Doshi",
-        "description": "Encrypting data in the Browser - Exploring Web Crypto APIs\n\nIn this talk Aakansha will be deep-diving into the world of Web Crypto APIs, starting from key generation, various encryption algorithms, implementation techniques, and more. The session will include live demos, coding examples, and a fun side project as well.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "OMuZ4UvKppg"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "OMuZ4UvKppg",
-        "videoPublishedAt": "2024-12-01T13:18:59Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "3ZHhh58Luzznjs7RyyPlBzNCcqA",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2024-11-29T22:32:29Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Navigating the Shift SDLC’s Transformation into AI-Driven Engineering  | Rakesh Ravuri",
-        "description": "Navigating the Shift: SDLC’s Transformation into AI-Driven Engineering\n\nThe topic revolves around the transformative impact of Generative AI on the traditional Software Development Life Cycle (SDLC). As we step into an era where AI is not just a tool but a collaborator, the entire landscape of software engineering is undergoing a seismic shift.\n\nThis theme underscores the need for a paradigm shift in our approach to software development, embracing AI as an integral part of the engineering process and preparing for a future where AI and human ingenuity work in tandem to push the boundaries of what’s possible in technology.\n\n\nAbout the Speaker \n\nRakesh Ravuri is a CTO & SVP in Publicis Sapient's Engineering Capability. As the CTO for Publicis Sapient, Rakesh heads engineering strategy and engineering capability development in India. Rakesh also plays the role of engineering lead globally for all Publicis Sapient's Retail engagements. This is Rakesh's second innings at Sapient. He has served in various engineering roles for Publicis Sapient's partners in Retail & Financial industries, delivering internet scale e-commerce solutions, high frequency trading and real time risk evaluation systems. He has experience leading cross geography teams and proven track record of enabling business outcomes working in a GDD model. Prior to joining Sapient, Rakesh worked as Director of Technology at Amazon led the team to help roll out Amazon Shipping product in four countries and was Chief Architect at Tesco for their online systems and helped rollout their international groceries ecommerce platform in nine countries. He holds a Bachelor's Degree in Engineering from NIT Surathkal and a Master's Degree specializing in robotics from Texas A&M.\n\nMore on the React India Website - https://www.reactindia.io/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "YOiWRdFqC50"
-        },
-        "videoOwnerChannelTitle": "React India",
-        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
-      },
-      "contentDetails": {
-        "videoId": "YOiWRdFqC50",
-        "videoPublishedAt": "2024-11-29T22:38:48Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "-AuKXhRVZcGPrqK5Kakr0TQxweQ",
+      "etag": "F6TgQj9D-c38Z7IbyGSFuT8rgko",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2024-11-29T21:35:52Z",
@@ -256,7 +40,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 4,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "q4cF-ftxpbk"
@@ -274,36 +58,252 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j_pe_aDMHNyqy8IiThOznAXg114",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MzJCQjBCNDIyRkJDN0VD",
+      "etag": "N9YAH8OKDfpLcR5JqYKZ8v0-6CU",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC44QzVGQUU2QjE2NDgxM0M4",
       "snippet": {
-        "publishedAt": "2024-11-08T21:35:39Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India 2024  Official Aftermovie 🇮🇳 - 5th Edition",
-        "description": "React India is a community-led not-for-profit initiative with an international flavor. \n\nSee you soon at React India 2025.\nhttps://www.reactindia.io/\n\nFollow us on X -   / react_india  \n\n\nProduced and Curated  by React India Team\nhttps://www.reactindia.io/team\n\nConference Organiser \nhttp://geekabyte.tech/",
+        "title": "Decentralise to Protect: Start your shift away from centralised storage today - Adam Larter",
+        "description": "Data breaches and privacy concerns are a major problem for consumers, businesses and of course, developers. The traditional model of centralised user data storage is setting you up for failure, but the good news is, it is easy to make the shift towards decentralised\ndata storage for consumer data. Find out how Affinidi is leveraging open standards to put data ownership back in control of consumers, how we are building protocols and abstractions to make it safe and easy to access decentralised user data with consent, and\nhow you can take your first steps toward building with digital trust to safeguard privacy in your React applications. Revolutionize how you think about building React applications, in just a few lines of code! \n\nSpeaker Details:\nAdam Larter\nCTO, Affinidi",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/default.jpg",
+            "url": "https://i.ytimg.com/vi/eWjwGxT5PZ8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eWjwGxT5PZ8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eWjwGxT5PZ8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/eWjwGxT5PZ8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/r9b9vgfgy0U/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eWjwGxT5PZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eWjwGxT5PZ8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "eWjwGxT5PZ8",
+        "videoPublishedAt": "2025-01-10T12:40:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kkA4oruhxz6oJBzKRdLGydl5CV0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Smart Apps: Machine Learning in React Native - Sweta Tanwar",
+        "description": "Explore how to integrate machine learning models into React Native apps using TensorFlow.js, enabling intelligent features like image recognition and natural language processing.\n\nSpeaker Details:\nSweta Tanwar\nReact Native Developer, Rippling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZmTXJUgPzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZmTXJUgPzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZmTXJUgPzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZmTXJUgPzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZmTXJUgPzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZmTXJUgPzQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "sZmTXJUgPzQ",
+        "videoPublishedAt": "2025-01-10T12:30:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GJ2hmYDSi8bpDXq5zNYH7-4UEq0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Two memory leak stories in the story of flipkart.com - Kashyap Kondamudi",
+        "description": "I've been fortunate(?) enough to tackle lots of performance issues as part of my job. There were two specific issues that were tricky to debug and fix. Both of these required me to use whatever I knew about memory profiling to find the root cause. I'll be sharing these fun(?) stories in this talk.\n\nSpeaker Details:\nKashyap Kondamudi\nSenior Engineer, Flipkart",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6jqYfllHbew"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "6jqYfllHbew",
+        "videoPublishedAt": "2025-01-10T12:30:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B_7xBXbTMRmmqO2wg-DC0VBRWH8",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Panel Discusson: Road To Staff/Principal Engineer - Shruti K., Santosh Y., Kamlesh C., Suvish T.",
+        "description": "Panel Discussion with Shruti Kapoor, Kamlesh Chandnani, Santosh Yadav & Suvish Thoovamalayil\n\nSpeaker Details:\nShruti Kapoor\nLead Member of Technical Staff, Slack\n\nSantosh Yadav:\nSenior Software Engineer, Celonis\n\nKamlesh Chandnani\nPrincipal Frontend Engineer - III, Razorpay\n\nSuvish Thoovamalayil\nAssociate Director of Engineering, Contentstack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A0XZtC6WI6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A0XZtC6WI6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A0XZtC6WI6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A0XZtC6WI6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A0XZtC6WI6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A0XZtC6WI6o"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "A0XZtC6WI6o",
+        "videoPublishedAt": "2025-01-10T12:30:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PDuIQZqSK2wicH8-lfi_1o6_2xA",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: Turbocharging the UIs @ Zomato - Rohan Gupta",
+        "description": "Explore how Zomato delivers seamless user experiences on a large scale. Dive into the strategies and techniques we use, which can help you craft high-quality product experiences.\n\nSpeaker Details:\nRohan Gupta\nSoftware Engineer, Zomato",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrgFGJCCGlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrgFGJCCGlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrgFGJCCGlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QrgFGJCCGlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QrgFGJCCGlM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -313,14 +313,14 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "r9b9vgfgy0U"
+          "videoId": "QrgFGJCCGlM"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "r9b9vgfgy0U",
-        "videoPublishedAt": "2024-11-10T10:30:26Z"
+        "videoId": "QrgFGJCCGlM",
+        "videoPublishedAt": "2025-01-10T14:20:06Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -328,36 +328,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KeDNvHL-atTAyWufPY-7GQ62jjQ",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4xMkVGQjNCMUM1N0RFNEUx",
+      "etag": "h_L4z7gMXCwHm_YPfLwCOj4REMo",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41QUZGQTY5OTE4QTREQUU4",
       "snippet": {
-        "publishedAt": "2024-10-19T02:30:40Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India Day 2 2024 - 5th Edition",
-        "description": "React India   Day  2 2024 | Online Conference | 19th Oct 2024\n\nhttps://www.reactindia.io/schedule\n\n📅 Date: 19th October 2024\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.\nhttps://www.reactindia.io/",
+        "title": "Remote Talk: Decoding StyleX: Meta's Cutting-Edge Styling System - Supriya Minnasandram",
+        "description": "This talk emphasises how Meta has adopted it as their main styling library - StyleX. We will discuss its merits, how it can fix CSS-in-JS problems in big React apps. Leveraging globally accessible CSS variables for static CSS power, StyleX allows atomic inline CSS in React components.\n\nSpeaker Details:\nSupriya Minnasandram\nSoftware Engineer III, Cisco",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/default.jpg",
+            "url": "https://i.ytimg.com/vi/1_XUsk2cQ5Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1_XUsk2cQ5Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1_XUsk2cQ5Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/1_XUsk2cQ5Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/fEU8wcKBbsI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1_XUsk2cQ5Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -367,14 +367,14 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "fEU8wcKBbsI"
+          "videoId": "1_XUsk2cQ5Y"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "fEU8wcKBbsI",
-        "videoPublishedAt": "2024-10-19T13:42:07Z"
+        "videoId": "1_XUsk2cQ5Y",
+        "videoPublishedAt": "2025-01-10T14:00:26Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -382,36 +382,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bqZmPeftkapV841zMZTVGqvIhwc",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41MjE1MkI0OTQ2QzJGNzNG",
+      "etag": "SM0ouZjzSs0SkTWBe6sZlfidfGA",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zRDBDOEZDOUM0MDY5NEEz",
       "snippet": {
-        "publishedAt": "2024-10-18T02:26:59Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India Day 1 2024 - 5th Edition",
-        "description": "React India   Day  1 2024 | Online Conference | 18th Oct 2024\n\nhttps://www.reactindia.io/schedule\n\n📅 Date: 18th October 2024\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.\nhttps://www.reactindia.io/",
+        "title": "Remote Talk: Tracing: Frontend Issues With Backend Solutions - Sarah Guthals",
+        "description": "Frontend issues that affect your users are often triggered by backend problems. But traditional monitoring and observability tools just give you too much data to sift through to be able to effectively debug issues quickly. Join us for a quick demo into Sentry, the debuggability platform that supports real developers tracing issues across their entire system. Learn how to leverage tracing, session replays, error monitoring, and performance insights to debug the trickiest of issues.\n\nSpeaker Details:\nSarah Guthals\nDirector of Developer Relations, Sentry",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/p6L50-44sBs/default.jpg",
+            "url": "https://i.ytimg.com/vi/4FaXbaV5KC0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/p6L50-44sBs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4FaXbaV5KC0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/p6L50-44sBs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4FaXbaV5KC0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/p6L50-44sBs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/4FaXbaV5KC0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/p6L50-44sBs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4FaXbaV5KC0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -421,14 +421,14 @@
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "p6L50-44sBs"
+          "videoId": "4FaXbaV5KC0"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "p6L50-44sBs",
-        "videoPublishedAt": "2024-10-18T13:59:45Z"
+        "videoId": "4FaXbaV5KC0",
+        "videoPublishedAt": "2025-01-10T13:45:06Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -436,36 +436,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PbywjV_9B_G8LG2hYEhPIgN8xT4",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wOTA3OTZBNzVEMTUzOTMy",
+      "etag": "T09N267zw6-GSrOCI58_lMFauwg",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC42MTI4Njc2QjM1RjU1MjlG",
       "snippet": {
-        "publishedAt": "2024-10-18T06:31:44Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "What's next for the React Compiler?  - Sathya Gunasekaran",
-        "description": "The React Compiler was open-sourced at React Conf earlier this year, marking a significant milestone. Since then, we've implemented numerous improvements and optimizations. This talk will examine the valuable community feedback that has shaped these enhancements and explore the new optimizations that improve both performance and developer experience. We'll also discuss the next steps in the evolution of the React Compiler and the open source release process.\n\nSathya is a software engineer on the React core team at Meta. Previously, he worked on the V8 JavaScript compiler at Google.",
+        "title": "Remote Talk: Turbocharging React Grid Performance - Ravi Teja",
+        "description": "With JavaScript, achieving reliable performance is difficult due to factors like dynamic type system and garbage collection pauses, among others. This poses a challenge when scaling JavaScript-based data grids for real-time applications. We overcame this challenge by leveraging a host of technologies in innovative ways to build a feature-rich React Grid that can scale for real-time use cases.\n\nThrough this session, we’ll demonstrate our capability to develop feature-rich performant data grids by utilizing available technologies in innovative ways. We’ll showcase this by using a simple example of how we have effectively leveraged the combination of WebAssembly and Web Workers to address performance issues in real-time web applications.\n\nSpeaker Details:\nRavi Teja\nPrincipal Tech, D. E. Shaw India",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/default.jpg",
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -475,14 +475,14 @@
         "position": 8,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "qd5yk2gxbtg"
+          "videoId": "94y0elgEpBc"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "qd5yk2gxbtg",
-        "videoPublishedAt": "2024-10-18T08:02:37Z"
+        "videoId": "94y0elgEpBc",
+        "videoPublishedAt": "2025-01-10T13:30:06Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -490,36 +490,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0zafubOZcogxSdfgn6gf9TlzzVI",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yODlGNEE0NkRGMEEzMEQy",
+      "etag": "6OaosUAvOvPKLfq_WJlNFSmyML0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4xOTEzQzhBQzU3MDNDNjcz",
       "snippet": {
-        "publishedAt": "2024-10-16T19:20:45Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India Workshop Day 2024 - 5th Edition",
-        "description": "React India Workshop  Day 2024 | Online Conference | 17th Oct 2024\n\n\nWorkshops at React India 2024\nOn October 17th 2024, to start your conference experience, we'll host multiple workshops targeted both at the React, React Native freshers and professionals. Take the full advantage of your conference visit and get training at both basic and advanced level from our industry experts.\n\nhttps://www.reactindia.io/workshops\n\n📅 Date: 17th October 2024\n🌍 Where: Online\n\nFrom building scalable applications to mastering new frameworks, the event will cover everything developers need to know to stay ahead in the React ecosystem. Get ready for a day full of learning, networking, and inspiration!\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\nCheck on website.",
+        "title": "Remote Talk: Inside the Decision: Why Groww Chose NATS Over WebSockets - Swati Jha",
+        "description": "In this keynote, we will explore the decision-making process behind Groww's choice of NATS over WebSockets for implementing live price updates. We will delve into the technical and architectural considerations that influenced Groww's decision as choosing the right technology becomes critical\n\nSpeaker Details:\nSwati Jha\nSDE 2 - Frontend, Wayfair",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/default.jpg",
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/aW1TWEAosVk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -529,14 +529,14 @@
         "position": 9,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "aW1TWEAosVk"
+          "videoId": "HIPsDTP1GYw"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "aW1TWEAosVk",
-        "videoPublishedAt": "2024-10-17T10:35:49Z"
+        "videoId": "HIPsDTP1GYw",
+        "videoPublishedAt": "2025-01-10T13:20:06Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -544,36 +544,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oCuJVRN3uThk08VMNOd390W6c1g",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41NkI0NEY2RDEwNTU3Q0M2",
+      "etag": "LHIqjh3-q5mVYajtRcW6uVXJf90",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5ENjI1QUI0MDI5NEQzODFE",
       "snippet": {
-        "publishedAt": "2024-10-14T20:04:46Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React India Remote Day 2024 - 5th Edition",
-        "description": "React India Remote Day 2024 | Online Conference | 15th Oct 2024\n\nJoin us for React India Remote Day 2024, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This remote edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 15th October 2024\n🌍 Where: Online\n\nFrom building scalable applications to mastering new frameworks, the event will cover everything developers need to know to stay ahead in the React ecosystem. Get ready for a day full of learning, networking, and inspiration!\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nPlatinum Sponsor\n\nPublicis Sapient\nPublicis Sapient is a digital transformation consulting partner powered by AI, helping established organizations get to their digitally-enabled future.\n\nContentstack\n\nAs pioneers in headless CMS and leaders in composable digital experiences, Contentstack empowers developers to reshape digital experiences without the limitations of traditional CMS.\n\nGold Sponsors\n\nEpam\nAffinidi\nD.E. Shaw & Co\n\n\nSilver Sponsors\n\nBrevo\nSentry\nTalentship\nRemote.com\nImagekit.io\nAuth0 by Okta\nBronze Sponsors\n\nRemotion\nCometa.rocks\nExpedia Group\nDream11\nRippling\nCerta\nDatastax\nTata 1MG\nDon’t miss out on the latest insights and trends in React development. See you there!\n\n#ReactIndia #RemoteDay #ReactDevelopers #ReactConference #PublicisSapient #Contentstack #Epam #Affinidi #DEShaw #Sentry #Brevo #Remotion\n\nSchedule Highlights 🗒️\n\n❇ 12:00 PM - 12:30 PM IST: Concurrent Rendering in React\nSpeakers: Mithun Devarajulu & Alok Kumar \n\n❇ 12:30 PM - 01:00 PM IST: Color Theming Made Easy: The Razorpay's Checkout Story\nSpeaker: \n@smileguptaaa\n\n\n❇ 01:00 PM - 01:30 PM IST: User-friendly video playback on the web\nSpeaker: Jay Parekh\n\n❇ 01:30 PM - 02:00 PM IST: Design Systems Mastery\nSpeaker: Shambhavi Sivan\n\n❇ 02:00 PM - 02:30 PM IST: Nuances of Iframe\nSpeaker: \n@deepak_kharah\n\n\n❇ 02:30 PM - 03:00 PM IST: Designing React Interfaces\nSpeaker: Arsalan Ahmed\n\n❇ 03:00 PM - 03:30 PM IST: Bridging Worlds with React Three Fiber\nSpeaker: \n@Megha_Pathak_\n\n\n❇ 03:30 PM - 04:00 PM IST: Decentralise to Protect\nSpeaker: Adam Larter \n\n❇ 04:00 PM - 04:30 PM IST: Data Fetching Done Right\nSpeaker: \n@nextdoorcoder\n\n\n❇ 04:30 PM - 05:00 PM IST: Inside the Decision on NATS vs. WebSockets\nSpeaker: \n@jhaswati0604\n\n\n❇ 05:00 PM - 05:30 PM IST: Turbocharging React Grid Performance\nSpeaker: Ravi Teja\n\n❇ 05:30 PM - 06:00 PM IST: Tracing Frontend Issues with Backend Solutions\nSpeaker: Sarah Guthals\n\n❇ 06:00 PM - 06:30 PM IST: Decoding StyleX\nSpeaker: \n@supminn\n\n\n❇ 06:30 PM - 07:00 PM IST: Turbocharging UIs at Zomato\nSpeaker: \n@WINOFFRG\n\n\n❇ 07:00 PM - 07:30 PM IST: Custom Dev Tools for Productivity\nSpeaker: Brendan Morrell",
+        "title": "⁠Remote Talk: Data Fetching Done Right - Vishal Sharma",
+        "description": "In this talk I will cover how we achieved parallel data and chunk fetching by moving data fetching logic to the top of app but also making sure that bundle size of app does not grow with app by creating a custom plugin to chunk out data fetchers. Finally how we linked it with predictive prefetching.\n\nSpeaker Details:\nVishal Sharma\nSDE-III Frontend, Tata 1mg",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eRMmvXcCLwU/default.jpg",
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eRMmvXcCLwU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eRMmvXcCLwU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eRMmvXcCLwU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/eRMmvXcCLwU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -583,14 +583,14 @@
         "position": 10,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eRMmvXcCLwU"
+          "videoId": "d_x_fGtUBHI"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "eRMmvXcCLwU",
-        "videoPublishedAt": "2024-10-15T14:23:24Z"
+        "videoId": "d_x_fGtUBHI",
+        "videoPublishedAt": "2025-01-10T13:10:06Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -598,36 +598,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "29kg2bG-bVkQsI9Y74oTumT_jJE",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45ODRDNTg0QjA4NkFBNkQy",
+      "etag": "rnfETn2V2-jTRKkwmhqhYxA6OqM",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
-        "publishedAt": "2025-01-06T09:11:14Z",
+        "publishedAt": "2025-01-07T07:43:16Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Building a video editor with React - Jonny Burger",
-        "description": "Using React and Remotion, we can create a simple web video editor that allows for uploading clips, generating captions and exporting them. Learn about all the high-level concepts needed to build your own video editor.\n\nSpeaker Details :\nJonny Burger\nChief Hacker, Remotion",
+        "title": "Remote Talk: Design Systems Mastery: From Patterns & Principles to Product Excellence - Shambhavi S.",
+        "description": "Is a Design System all about creating and adding common UI components on the fly, or does it require a more strategic approach? Are your components lightweight, scalable, and reusable enough? Component design patterns and principles are often not emphasized when designing and developing new components for a Design System. Let’s take a quick dive into some insights about why patterns and principles should be the prime focus while building your component library, rather than the components themselves, and how this could, in turn, boost productivity, thereby accelerating product growth while keeping it robust and performant!\n\nSpeaker Details:\nShambhavi Sivan\nSenior Software Engineer, Brevo",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/default.jpg",
+            "url": "https://i.ytimg.com/vi/zL2--XeAPCs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zL2--XeAPCs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zL2--XeAPCs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zL2--XeAPCs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zL2--XeAPCs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -637,14 +637,14 @@
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "gYf_FWZGHng"
+          "videoId": "zL2--XeAPCs"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "gYf_FWZGHng",
-        "videoPublishedAt": "2025-01-07T12:30:40Z"
+        "videoId": "zL2--XeAPCs",
+        "videoPublishedAt": "2025-01-09T12:31:04Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -652,36 +652,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ryy3bUZoVgCl8pAHd1Yg82lQpYw",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zMDg5MkQ5MEVDMEM1NTg2",
+      "etag": "bZO0aW4gbX7C_qD3E8PQafQg0N8",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
-        "publishedAt": "2025-01-06T09:13:36Z",
+        "publishedAt": "2025-01-07T07:34:32Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Making AI better with React - Tejas Kumar",
-        "description": "⁠Most people are tired of chatbots. Without React, GPT-3 would never have been successful. In this talk, we will explore how we can all create better experiences with AI using React Server Components.\n\nSpeaker Details:\nTejas Kumar\nAI, Datastax",
+        "title": "Remote Talk: Color Theming Made Easy: The Razorpay's Checkout Story - Smile Gupta",
+        "description": "Speaker Details:\nSmile Gupta\nSenior Frontend Engineer, Razorpay",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/default.jpg",
+            "url": "https://i.ytimg.com/vi/lBqtLcCS6Sc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lBqtLcCS6Sc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lBqtLcCS6Sc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lBqtLcCS6Sc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lBqtLcCS6Sc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -691,14 +691,14 @@
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ajmYc6OkJrI"
+          "videoId": "lBqtLcCS6Sc"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "ajmYc6OkJrI",
-        "videoPublishedAt": "2025-01-07T12:30:03Z"
+        "videoId": "lBqtLcCS6Sc",
+        "videoPublishedAt": "2025-01-09T12:30:49Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -706,113 +706,195 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uFKraeC_fK2cf2SFBz8oINSZaM8",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41Mzk2QTAxMTkzNDk4MDhF",
+      "etag": "oq5PuITTqEScH9W9I6DD6fid2dg",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DNkMwRUI2MkI4QkI4NDFG",
       "snippet": {
-        "publishedAt": "2025-01-06T09:15:25Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "A practical approach to building truly native cross-platform applications at scale - Samrith Shankar",
+        "description": "Discover how Dream11 scaled with React Native, streamlining cross-platform development. Learn their migration journey and adoption insights, optimizing speed while maintaining feature parity across iOS and Android platforms.\n\nSpeaker Details:\nSamrith Shankar\nEngineering Director, Dream11",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q4KWLH0ucLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q4KWLH0ucLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q4KWLH0ucLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q4KWLH0ucLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q4KWLH0ucLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "6jqYfllHbew"
-        }
+          "videoId": "Q4KWLH0ucLQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "6jqYfllHbew"
+        "videoId": "Q4KWLH0ucLQ",
+        "videoPublishedAt": "2025-01-09T12:30:21Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YyMHBEeRAvXERytZ6XQw-7eTgik",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5EQUE1NTFDRjcwMDg0NEMz",
+      "etag": "liPBW1wmDwCYtR4RY_XkKhmA8lw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zQzFBN0RGNzNFREFCMjBE",
       "snippet": {
-        "publishedAt": "2025-01-06T09:18:28Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Everything You Need to Know About React 19 - Shruti Kapoor @shrutikapoor08",
+        "description": "React 19 is in the RC stage! This new release brings a suite of exciting updates for front-end developers. From new hooks and Actions to changing the way we use refs, React 19 is set to revolutionize how we build forms and utilize hooks. In this talk, we will explore the new features of React 19. Learn everything you need to know about Form Actions, the React Compiler, and the latest hooks. \n\nAbout the Speaker:\nShruti Kapoor\nLead Member of Technical Staff, Slack",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nuz1hWCibZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nuz1hWCibZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nuz1hWCibZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nuz1hWCibZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nuz1hWCibZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "WuDTRt07mmM"
-        }
+          "videoId": "Nuz1hWCibZI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "WuDTRt07mmM"
+        "videoId": "Nuz1hWCibZI",
+        "videoPublishedAt": "2025-01-08T17:38:27Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ArMsLhtLoJv01ctk826rqHihBkw",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41QTY1Q0UxMTVCODczNThE",
+      "etag": "BCb_pO2wwyXwJaLr8ECCYFJRL-I",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yQUJFNUVCMzVDNjcxRTlF",
       "snippet": {
-        "publishedAt": "2025-01-06T09:20:17Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Design Language on Autopilot: How Figma and Code Can Automate Your Workflow - Kamlesh Chandnani",
+        "description": "Maintaining a unified design language contract between Figma and code is crucial in today's fast-paced product development environment. Without this alignment, the disconnect between designers and developers can lead to inconsistencies in product design, failing to achieve pixel-perfect precision.\n\nSpeaker Details:\nKamlesh Chandnani\nPrincipal Frontend Engineer - III, Razorpay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_qmBdUFtw6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_qmBdUFtw6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_qmBdUFtw6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_qmBdUFtw6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_qmBdUFtw6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_qmBdUFtw6E"
-        }
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "_qmBdUFtw6E"
+        "videoId": "_qmBdUFtw6E",
+        "videoPublishedAt": "2025-01-08T12:30:37Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fSEf_RdSolQnCPycyt9YSNHv6A0",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yMUQyQTQzMjRDNzMyQTMy",
+      "etag": "K3HrApwy4UyBuN7MbzVmtw_5w-A",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
-        "publishedAt": "2025-01-06T09:22:36Z",
+        "publishedAt": "2025-01-06T09:18:28Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Success of your framework depends on your API - Saurav Varma",
-        "description": "API (noun) - Absolutely Predictable Interfaces. Libraries often claim to be swiss army knives, but they can be overwhelming. At 1mg, we wanted to our librar…err, framework to be intuitive and empower developers. This talk covers our journey, focuses on clean design, good APIs, and React in 2024.\n\nSpeaker Details:\nSaurav Varma\nSenior Engineering Manager, Tata 1mg",
+        "title": "Experiments with React Compiler in Production Code - Rajat Vijay",
+        "description": "Explore our journey of integrating the React Compiler into the production codebase, focusing on the challenges faced and lessons learned. I’ll discuss approach of selectively enabling the compiler in performance-critical areas, and share practical strategies to overcome obstacles.\n\nSpeaker Details:\nRajat Vijay\nDirector of Engineering, Certa",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/default.jpg",
+            "url": "https://i.ytimg.com/vi/WuDTRt07mmM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WuDTRt07mmM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WuDTRt07mmM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/WuDTRt07mmM/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "React India",
@@ -820,14 +902,14 @@
         "position": 16,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "aN8PYLOXuJU"
+          "videoId": "WuDTRt07mmM"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "aN8PYLOXuJU",
-        "videoPublishedAt": "2025-01-07T12:30:00Z"
+        "videoId": "WuDTRt07mmM",
+        "videoPublishedAt": "2025-01-08T12:30:35Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -835,36 +917,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c0sC2sSBhWYqjGV7f2E4m_YSo54",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45RTgxNDRBMzUwRjQ0MDhC",
+      "etag": "MisyWK0gj1Rl4plGoJdTWBUaevw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NkVENTkxRDdCQUFBMDY4",
       "snippet": {
-        "publishedAt": "2025-01-06T09:25:27Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "React's Odyssey: Harnessing the Titans of Animation and Performance - Puru Vijayvargia",
-        "description": "Flipping the multi-framework approach, we'll integrate Svelte's animations and Vue's reactivity into React, turning it into a metaframework playground for peak performance and flexibility.\n\nSpeaker Details:\nPuru Vijayvargia\nOpen Sourceror, Compressionist, Performance freak",
+        "title": "Remote Talk: Nuances of Iframe: Lessons from Contentstack Live Preview - Deepak Kharah",
+        "description": "This talk will explore the practical use of iframes in React applications, drawing from the experience of building a Live Preview feature at Contentstack. It will cover the core reasons for using iframes, security best practices, inter-frame communication with postMessage API, iframe navigation, and the sandbox attribute.\n\nSpeaker Details:\nDeepak Kharah\nSenior Engineer II, Contentstack",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/default.jpg",
+            "url": "https://i.ytimg.com/vi/PPgJ7Q4kAa8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PPgJ7Q4kAa8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PPgJ7Q4kAa8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PPgJ7Q4kAa8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PPgJ7Q4kAa8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -874,14 +956,14 @@
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "qZsK3GyMISA"
+          "videoId": "PPgJ7Q4kAa8"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "qZsK3GyMISA",
-        "videoPublishedAt": "2025-01-06T12:30:47Z"
+        "videoId": "PPgJ7Q4kAa8",
+        "videoPublishedAt": "2025-01-08T12:30:30Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -889,7 +971,115 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iJTw5muY5Hslp9fEShaJN8g3t-k",
+      "etag": "UHFcQi6yBmC8tBWM6jBmZVsbDT8",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: User-friendly video playback on the web - Jay Parekh",
+        "description": "Planning to do the talk + demo for playback of a simple video file via HTTP range requests, and how exactly the video element generates Range requests on different browsers. Then, introducing ABS, and how to bring universal support for it in React applications using ImageKit for the backend and SDK, and the video.js library.\n\nSpeaker Details:\nJay Parekh\nSoftware Engineer III, ImageKit.io",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FXvJkgxPOSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FXvJkgxPOSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXvJkgxPOSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FXvJkgxPOSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FXvJkgxPOSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FXvJkgxPOSI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "FXvJkgxPOSI",
+        "videoPublishedAt": "2025-01-08T12:30:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ghzqBSiqDDTAEt-cw6VLQUsOHtk",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2025-01-07T07:57:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Bridging Worlds: From React Developer to 3D Web Innovator with React Three Fiber - Megha Pathak",
+        "description": "This talk introduces React Three Fiber, showing React developers how to create immersive 3D web experiences. It covers key concepts, demos, and real-world applications, inspiring developers to explore 3D web development and highlighting its growing importance in the future of web technology.\n\nSpeaker Details:\nMegha Pathak\nUI 2, Flipkart",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kC5vLdUFuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kC5vLdUFuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kC5vLdUFuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0kC5vLdUFuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0kC5vLdUFuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0kC5vLdUFuA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0kC5vLdUFuA",
+        "videoPublishedAt": "2025-01-08T12:30:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "apbC6Q7AJkuFTkQGvSLl4PaiJNg",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2025-01-06T09:28:55Z",
@@ -925,7 +1115,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 18,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "n5Czgk8iuEk"
@@ -943,53 +1133,53 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uK_OgemR-zzGVc7UO9V16sCKBlU",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yMDhBMkNBNjRDMjQxQTg1",
+      "etag": "FSR6-TLfzA7crdnTj57FgTWn2iw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
-        "publishedAt": "2025-01-06T09:34:03Z",
+        "publishedAt": "2025-01-06T09:11:14Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Panel Discussion: Winning Web and Native Apps - Apoorva S., Vinod K., Sumit M., Harshal P.",
-        "description": "Panel Details:\nApoorva Srivastava\nSenior Experience Engineer\n\nVinod Kumar\nSr. Manager Technology\n\nSumit Mishra\nTech Lead Frontend\n\nHarshal Patel\nFront End Architect",
+        "title": "Building a video editor with React - Jonny Burger",
+        "description": "Using React and Remotion, we can create a simple web video editor that allows for uploading clips, generating captions and exporting them. Learn about all the high-level concepts needed to build your own video editor.\n\nSpeaker Details :\nJonny Burger\nChief Hacker, Remotion",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYf_FWZGHng/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 19,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "r3DZ_bTohcQ"
+          "videoId": "gYf_FWZGHng"
         },
         "videoOwnerChannelTitle": "React India",
         "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "r3DZ_bTohcQ",
-        "videoPublishedAt": "2025-01-06T12:30:51Z"
+        "videoId": "gYf_FWZGHng",
+        "videoPublishedAt": "2025-01-07T12:30:40Z"
       },
       "status": {
         "privacyStatus": "public"
@@ -997,7 +1187,61 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "A3dimV-lV1onnO8ZAI7N7OHBbOI",
+      "etag": "sL4NWYAreHuXWpJhnlC-NlK7oG4",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: Designing React Interfaces: A Journey Through Modern Styling Techniques - Arsalan Ahmed",
+        "description": "This talk offers a comprehensive guide to modern styling approaches in React, from traditional techniques to cutting-edge theming solution. Through live code demos, developers will learn how to implement themes, leverage the power of component props, and explore the advantages and drawbacks of various styling methods. Additionally, we'll introduce the Atomic Design methodology, showcasing how to build scalable, maintainable UIs in React. Perfect for React developers at all levels, this session will help you create more dynamic, efficient, and visually appealing applications.\n\nSpeaker Details:\nArsalan Ahmed\nLead Experience Engineer, Publicis Sapient",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NlgaZendDoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NlgaZendDoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NlgaZendDoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NlgaZendDoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NlgaZendDoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NlgaZendDoI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "NlgaZendDoI",
+        "videoPublishedAt": "2025-01-07T12:30:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wkMhZbrVc7nFDvEBokF8l5_5Sms",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2025-01-07T07:29:38Z",
@@ -1033,7 +1277,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 20,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H55ogdJWzvM"
@@ -1051,107 +1295,925 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_0doA16qjDTv9gUVql-RGZPeZXk",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zRjM0MkVCRTg0MkYyQTM0",
+      "etag": "oSAwKjr6E6b5ZIoyJ29bEsK0xPg",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5BRjJDODk5REM0NjkzMUIy",
       "snippet": {
-        "publishedAt": "2025-01-07T07:34:32Z",
+        "publishedAt": "2025-01-10T12:53:57Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 21,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "lBqtLcCS6Sc"
-        }
-      },
-      "contentDetails": {
-        "videoId": "lBqtLcCS6Sc"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "9oegOCchWHq6pfFZShgvLqXqwWY",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NzUwQkI1M0UxNThBMkU0",
-      "snippet": {
-        "publishedAt": "2025-01-07T07:38:24Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 22,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "FXvJkgxPOSI"
-        }
-      },
-      "contentDetails": {
-        "videoId": "FXvJkgxPOSI"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "JqPhL7Bx9krikBQsTp0m2D94ec0",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DNzE1RjZEMUZCMjA0RDBB",
-      "snippet": {
-        "publishedAt": "2025-01-07T07:43:16Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React India",
-        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
-        "position": 23,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "zL2--XeAPCs"
-        }
-      },
-      "contentDetails": {
-        "videoId": "zL2--XeAPCs"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "gQ4f-uheGnbPKby9s7IaxtHP5lM",
-      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC43MTI1NDIwOTMwQjIxMzNG",
-      "snippet": {
-        "publishedAt": "2025-01-07T07:57:57Z",
-        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Remote Talk: Concurrent Rendering in React - Mithun Devarajulu & Alok Kumar",
+        "description": "Discover how React's concurrent rendering feature improves application responsiveness and efficiency. By allowing React to handle multiple tasks simultaneously, concurrent rendering ensures that high-priority interactions are addressed immediately, keeping the interface fluid during intensive operations. We'll cover key concepts like interruptible rendering, which pauses tasks to prioritize user actions and optimizes performance. Additionally, features like Suspense and transitions help manage asynchronous data loading and non-urgent updates, delivering a smoother and responsive user experience in modern web applications.\n\nSpeaker Details:\nMithun Devarajulu\nSoftware Architect, Epam\n\nAlok Kumar\nSenior Software Engineer, Epam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H55ogdJWzvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H55ogdJWzvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H55ogdJWzvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H55ogdJWzvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H55ogdJWzvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
         "position": 24,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0kC5vLdUFuA"
-        }
+          "videoId": "H55ogdJWzvM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "0kC5vLdUFuA"
+        "videoId": "H55ogdJWzvM",
+        "videoPublishedAt": "2025-01-07T12:30:12Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ewOyuz9fZT_VJh41UeDynYjWXhw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2025-01-06T09:22:36Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Success of your framework depends on your API - Saurav Varma",
+        "description": "API (noun) - Absolutely Predictable Interfaces. Libraries often claim to be swiss army knives, but they can be overwhelming. At 1mg, we wanted to our librar…err, framework to be intuitive and empower developers. This talk covers our journey, focuses on clean design, good APIs, and React in 2024.\n\nSpeaker Details:\nSaurav Varma\nSenior Engineering Manager, Tata 1mg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aN8PYLOXuJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aN8PYLOXuJU"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "aN8PYLOXuJU",
+        "videoPublishedAt": "2025-01-07T12:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GboUzJbFOoXlg1HRaG5_t8syVcA",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "I tried to host Next.js on Cloudflare (and lived to regret it) - Vinay Raghu",
+        "description": "This talk distills a year's worth of lessons learned from battling unexpected bugs while hosting a production-grade Next JS app on Cloudflare. From complex cache invalidation issues to the bizarre limitations of the platform, learn from my mistakes and save yourself the frustration. \n\nSpeaker Details \nVinay Raghu\nStaff Engineer, Whoop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yPjsNwe8KCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yPjsNwe8KCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPjsNwe8KCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yPjsNwe8KCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yPjsNwe8KCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yPjsNwe8KCY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "yPjsNwe8KCY",
+        "videoPublishedAt": "2025-01-06T12:30:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vlLNBzHxUsEOgkQ5OziSjULMmAM",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:53:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Give superpower to your React workspace with Nx - Santosh Yadav",
+        "description": "The default templates provided by React or Next can be a great starting point for most projects, but as soon as your app grows, you may want to customize the workspace to fit your needs.\nBut the question is how to do it; also, what if you want to introduce new tooling to your workspace like Cypress or Playwright? How about keeping your workspace evergreen? It's manual work. The current answer for your team must be a custom script.\nAdding more tools means increasing your build time. Does it all sound relatable to you?\nJoin me in this talk to see how you can give superpowers to your React/Next or Remix workspace and make your team more productive.\n\nKey Takeaways:\n- Customizing your workspace\n- Nx generators\n- Nx Executors\n- Adding your own tooling\n\nAbout the speaker:\nSantosh Yadav\nSenior Software Engineer, Celonis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v-7ladzilMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v-7ladzilMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-7ladzilMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v-7ladzilMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v-7ladzilMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v-7ladzilMA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "v-7ladzilMA",
+        "videoPublishedAt": "2025-01-06T12:30:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K6w7DTuLwi_Q1_cFTi15D3Qkaso",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2025-01-06T09:34:03Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Panel Discussion: Winning Web and Native Apps - Apoorva S., Vinod K., Sumit M., Harshal P.",
+        "description": "Panel Details:\nApoorva Srivastava\nSenior Experience Engineer\n\nVinod Kumar\nSr. Manager Technology\n\nSumit Mishra\nTech Lead Frontend\n\nHarshal Patel\nFront End Architect",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3DZ_bTohcQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r3DZ_bTohcQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "r3DZ_bTohcQ",
+        "videoPublishedAt": "2025-01-06T12:30:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MEwoPpfsqfEE-0z58I_ZKhWmYzU",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2025-01-06T09:25:27Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React's Odyssey: Harnessing the Titans of Animation and Performance - Puru Vijayvargia",
+        "description": "Flipping the multi-framework approach, we'll integrate Svelte's animations and Vue's reactivity into React, turning it into a metaframework playground for peak performance and flexibility.\n\nSpeaker Details:\nPuru Vijayvargia\nOpen Sourceror, Compressionist, Performance freak",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qZsK3GyMISA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qZsK3GyMISA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "qZsK3GyMISA",
+        "videoPublishedAt": "2025-01-06T12:30:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-A4O9KORi6nANBs8ZdqzSqr3Xxc",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-12-25T05:49:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Automate Performance Monitoring for Micro Frontend Apps - Amit Batra",
+        "description": "Automate Performance Monitoring for Micro Frontend Apps\n\nLeveraging lighthouse CI and Puppeteer to build a tool that continuously monitors the performance of applications behind authentication. At Brevo we build a culture where performance is not an afterthought. This talk will detail our journey of improving performance over the year and how you can set up your own CI/CD pipeline to monitor page performance before it goes into production.\n\nSpeaker Details \n\nAmit Batra Lead Engineer Frontend, Brevo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EPEUK8s71Yc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EPEUK8s71Yc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "EPEUK8s71Yc",
+        "videoPublishedAt": "2024-12-25T05:51:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eSbZZAlBe1qem1Kcumtw874CwHw",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-12-01T14:18:20Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Web Workers - Little Minions At Work for Optimizing Performance | Nida Shaikh",
+        "description": "React’s single-threaded-ness is very unnoticeable in our day-to-day applications since the UI renders really fast. However, our UI can be easily stumped if our app is computationally heavy. We'll see how web workers can boost your application’s performance, offering multithreading capabilities.\n\n\nAbout Speaker \n\nHi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for elegant and scalable solutions. I dive head-first into everything web and my goal is to make development a little bit easier for us all devs. When I'm not coding, I love to read, journal, explore new places, make specialty coffee and pet my cats.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0HEvee2iWao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0HEvee2iWao"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0HEvee2iWao",
+        "videoPublishedAt": "2024-12-01T14:02:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wlWe2812gC7yOliVHICLSUJkhck",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-12-01T12:58:13Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Encrypting Data in the Browser - Exploring Web Crypto APIs | Aakansha Doshi",
+        "description": "Encrypting data in the Browser - Exploring Web Crypto APIs\n\nIn this talk Aakansha will be deep-diving into the world of Web Crypto APIs, starting from key generation, various encryption algorithms, implementation techniques, and more. The session will include live demos, coding examples, and a fun side project as well.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OMuZ4UvKppg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OMuZ4UvKppg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "OMuZ4UvKppg",
+        "videoPublishedAt": "2024-12-01T13:18:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RW339o5SGBI-pgLUsQBVen3tH8o",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-11-29T22:32:29Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Navigating the Shift SDLC’s Transformation into AI-Driven Engineering  | Rakesh Ravuri",
+        "description": "Navigating the Shift: SDLC’s Transformation into AI-Driven Engineering\n\nThe topic revolves around the transformative impact of Generative AI on the traditional Software Development Life Cycle (SDLC). As we step into an era where AI is not just a tool but a collaborator, the entire landscape of software engineering is undergoing a seismic shift.\n\nThis theme underscores the need for a paradigm shift in our approach to software development, embracing AI as an integral part of the engineering process and preparing for a future where AI and human ingenuity work in tandem to push the boundaries of what’s possible in technology.\n\n\nAbout the Speaker \n\nRakesh Ravuri is a CTO & SVP in Publicis Sapient's Engineering Capability. As the CTO for Publicis Sapient, Rakesh heads engineering strategy and engineering capability development in India. Rakesh also plays the role of engineering lead globally for all Publicis Sapient's Retail engagements. This is Rakesh's second innings at Sapient. He has served in various engineering roles for Publicis Sapient's partners in Retail & Financial industries, delivering internet scale e-commerce solutions, high frequency trading and real time risk evaluation systems. He has experience leading cross geography teams and proven track record of enabling business outcomes working in a GDD model. Prior to joining Sapient, Rakesh worked as Director of Technology at Amazon led the team to help roll out Amazon Shipping product in four countries and was Chief Architect at Tesco for their online systems and helped rollout their international groceries ecommerce platform in nine countries. He holds a Bachelor's Degree in Engineering from NIT Surathkal and a Master's Degree specializing in robotics from Texas A&M.\n\nMore on the React India Website - https://www.reactindia.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YOiWRdFqC50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YOiWRdFqC50"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "YOiWRdFqC50",
+        "videoPublishedAt": "2024-11-29T22:38:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UuEV1P5MuJto9nkZaoJ1hLyS3K4",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-10-18T06:31:44Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "What's next for the React Compiler?  - Sathya Gunasekaran",
+        "description": "The React Compiler was open-sourced at React Conf earlier this year, marking a significant milestone. Since then, we've implemented numerous improvements and optimizations. This talk will examine the valuable community feedback that has shaped these enhancements and explore the new optimizations that improve both performance and developer experience. We'll also discuss the next steps in the evolution of the React Compiler and the open source release process.\n\nSathya is a software engineer on the React core team at Meta. Previously, he worked on the V8 JavaScript compiler at Google.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qd5yk2gxbtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qd5yk2gxbtg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "qd5yk2gxbtg",
+        "videoPublishedAt": "2024-10-18T08:02:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tIaKh-XDi0qa2BoOhpu9H211tNc",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2025-01-06T09:15:25Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Two memory leak stories in the story of flipkart.com - Kashyap Kondamudi",
+        "description": "I've been fortunate(?) enough to tackle lots of performance issues as part of my job. There were two specific issues that were tricky to debug and fix. Both of these required me to use whatever I knew about memory profiling to find the root cause. I'll be sharing these fun(?) stories in this talk.\n\nSpeaker Details:\nKashyap Kondamudi\nSenior Engineer, Flipkart",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6jqYfllHbew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6jqYfllHbew"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "6jqYfllHbew",
+        "videoPublishedAt": "2025-01-10T12:30:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N4hqgS8FsyprQs_vDGn2bpINEnc",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:14:28Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "⁠Remote Talk: Data Fetching Done Right - Vishal Sharma",
+        "description": "In this talk I will cover how we achieved parallel data and chunk fetching by moving data fetching logic to the top of app but also making sure that bundle size of app does not grow with app by creating a custom plugin to chunk out data fetchers. Finally how we linked it with predictive prefetching.\n\nSpeaker Details:\nVishal Sharma\nSDE-III Frontend, Tata 1mg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d_x_fGtUBHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d_x_fGtUBHI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "d_x_fGtUBHI",
+        "videoPublishedAt": "2025-01-10T13:10:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8bZxgW2ou3XSifzmAdj411ahFc0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:25:54Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: Inside the Decision: Why Groww Chose NATS Over WebSockets - Swati Jha",
+        "description": "In this keynote, we will explore the decision-making process behind Groww's choice of NATS over WebSockets for implementing live price updates. We will delve into the technical and architectural considerations that influenced Groww's decision as choosing the right technology becomes critical\n\nSpeaker Details:\nSwati Jha\nSDE 2 - Frontend, Wayfair",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HIPsDTP1GYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HIPsDTP1GYw"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "HIPsDTP1GYw",
+        "videoPublishedAt": "2025-01-10T13:20:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "--rEvd5a-SoJMV4EzIsHKEy2LL0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:30:12Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: Turbocharging React Grid Performance - Ravi Teja",
+        "description": "With JavaScript, achieving reliable performance is difficult due to factors like dynamic type system and garbage collection pauses, among others. This poses a challenge when scaling JavaScript-based data grids for real-time applications. We overcame this challenge by leveraging a host of technologies in innovative ways to build a feature-rich React Grid that can scale for real-time use cases.\n\nThrough this session, we’ll demonstrate our capability to develop feature-rich performant data grids by utilizing available technologies in innovative ways. We’ll showcase this by using a simple example of how we have effectively leveraged the combination of WebAssembly and Web Workers to address performance issues in real-time web applications.\n\nSpeaker Details:\nRavi Teja\nPrincipal Tech, D. E. Shaw India",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/94y0elgEpBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "94y0elgEpBc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "94y0elgEpBc",
+        "videoPublishedAt": "2025-01-10T13:30:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JzVvqnCqCYDjReY6YMW4lYLSMNY",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2025-01-10T12:49:07Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Remote Talk: Custom Dev Tools to Supercharge Your Team's Productivity - Brendan Morrell",
+        "description": "Harness the power of custom dev tools built into your application. I walk you through the setup I put into place at multiple companies which greatly increased my teams’ debugging and development productivity, outlining four of the most unique, powerful, and accessible tools to benefit any team.\n\nSpeaker Details:\nBrendan Morrell\nPrincipal Frontend Engineer, Asprey Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rmlz7vrdve4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rmlz7vrdve4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rmlz7vrdve4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rmlz7vrdve4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rmlz7vrdve4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rmlz7vrdve4"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "Rmlz7vrdve4",
+        "videoPublishedAt": "2025-01-10T14:30:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cpxsqI-iesmNgUd_riphutWyyv0",
+      "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2025-01-06T09:13:36Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Making AI better with React  feat @tejask",
+        "description": "⁠Most people are tired of chatbots. Without React, GPT-3 would never have been successful. In this talk, we will explore how we can all create better experiences with AI using React Server Components.\n\nSpeaker Details:\nTejas Kumar\nAI, Datastax",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ajmYc6OkJrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rf4WSrhTjXJRpWjvGuqwIfH",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ajmYc6OkJrI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "ajmYc6OkJrI",
+        "videoPublishedAt": "2025-01-07T12:30:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 25,
+    "totalResults": 41,
     "resultsPerPage": 50
   }
 }
