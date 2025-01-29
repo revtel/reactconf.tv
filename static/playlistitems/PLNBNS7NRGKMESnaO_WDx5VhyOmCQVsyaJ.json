@@ -1,442 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "F5e6N2YphJOBIyVFVDPbofNKX7Y",
+  "etag": "X36tVHgZ53TlQLakWbPpROl6kGI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "OwduIIWgYOX6jYghP0-DIvNDlSY",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2025-01-20T12:10:09Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "What React Refs Can Do for You",
-        "description": "Talk: Stephen Cooper – \"What Refs Can Do for You\", React Summit US 2024\n \nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/what-refs-can-do-for-you\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTimestamps:\n\n00:00 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks\n\nReact Summit website: https://reactsummit.com\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TgpTG5XYoz4"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "TgpTG5XYoz4",
-        "videoPublishedAt": "2025-01-20T14:15:32Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "RdeJ-vfB1odFcOvRjePx0PZ6Ujc",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2024-12-12T11:15:27Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Tom Redman - Supercharge Your Full-stack App with a Reactive Database, React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTalk: Supercharge Your Full-stack App with a Reactive Database\nIf you suffer from: Writing SQL to express your product logic, trying to remember esoteric authorization DSLs, fighting your frontend cache, fighting your backend cache, slow backend deployments, inconsistent or stale UI state, lack of end-to-end type safety, lack of transactional guarantees, low database write throughput, database cold starts or unpredictable database read performance - then tune in to this talk and let me show you the light at the end of the tunnel.\n\nTimestamps:\n\n00:00 Introduction to Convex\n01:49 Overview of Convex\n04:32 Web Socket Interaction and Global App State\n06:33 Real-time Data and Live Demonstration\n08:00 Real-time Behavior and Querying Messages\n10:24 Execution and Philosophy\n13:15 Tooling, Scalability, and Message Options\n16:05 Smooth Concurrency and Reduced Friction\n18:42 Final Remarks",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "HGmHvicjKSE"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "HGmHvicjKSE",
-        "videoPublishedAt": "2024-11-29T09:02:05Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Pr3WwejCx60jJv5mwJj7CXcUJOk",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2024-12-12T09:43:23Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Stephen Cooper - What Refs Can Do for You, React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTalk: What Refs Can Do for You\nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nTimestamps:\n\n00:00 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "2BSunyCZ5qg"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "2BSunyCZ5qg",
-        "videoPublishedAt": "2024-11-29T09:00:15Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "I7JTvbxJD18fesB-KvqapOSCfK8",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2024-12-06T12:25:29Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Future of React - Tom Occhino, Kent C Dodds, Mark Erikson, Theo Browne, etc. - React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "1ScGXrYZKYg"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "1ScGXrYZKYg",
-        "videoPublishedAt": "2024-11-29T08:58:17Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZdcQnqXQFEvlD1xPIyXW0BjQkdI",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2024-12-11T12:46:55Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Michael Chan - An App Developer's Guide to React 19, React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: An App Developer's Guide to React 19: What You Need to Know and Everything You Can Safely Ignore\nReact 19 introduces a huge number of new capabilities and APIs. So, what do you need? What can you implement today? And what should leave for framework authors to integrate?\n\nEven if you don't plan to embrace Server Components, there are new capabilities in React 19 to improve speed, clarify code, and even eliminate long standing dependencies.\n\nIn this practical and progressive overview, you'll learn everything you need to be prepared for a React 19 upgrade.\n\nTimestamps:\n\n00:00 Introduction to React Migration\n01:37 React 19 Features\n04:04 React 19 APIs and Integration\n06:43 React 19 Changes and Type Safety\n09:37 React 19 API Improvements\n11:15 React 19 Reacting to User Actions\n15:28 React 19 Optimistic Count\n16:34 React 19 Real-Time Updates",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "3BYGO-nOUbI"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "3BYGO-nOUbI",
-        "videoPublishedAt": "2024-11-29T08:56:28Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "TX2vuO7PYfMOmaOasBDP-ihAteA",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2024-12-09T12:27:59Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Kent C. Dodds – Abracadabra: The Vanishing Network, React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Abracadabra: The Vanishing Network\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\nWhat would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\nTimestamps:\n\n00:00 Introduction to React and the Vanishing Network\n03:09 Exploring the Multi-Page App Paradigm\n05:29 Adding JavaScript for Client Functionality\n07:04 Adding Progressive Enhancement to the Form\n09:48 Enhancing User Experience and Transitioning to SPA\n12:29 Eliminating Duplication and Transition to JSON API\n13:40 React Code and User Actions\n15:46 React Era and Pespa Architecture\n18:02 Progressive Enhancement with Remix\n20:00 Moving to Modern React with Server Components\n22:45 Enhancing Server-Client Communication and UI\n25:06 Server-Client Code Separation and Epic React",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "J7GMRHFIztA"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "J7GMRHFIztA",
-        "videoPublishedAt": "2024-11-29T08:54:32Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "V_Xxnl_5t3JM_UZdEPlrJ6p5MHk",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4yODlGNEE0NkRGMEEzMEQy",
-      "snippet": {
-        "publishedAt": "2024-12-06T12:25:16Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Theo Browne - Out Of Order Streaming (The Secret Powering Modern React), React Summit US 2024",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Out Of Order Streaming (The Secret Powering Modern React)\nEver wonder how React can \"update\" a page while it's still loading? We've gotten so lost in the discussion of things like Next.js, Suspense, Signals, Server Components, and Server Actions, that most React devs have totally missed one of React's most recent pieces of magic: Out Of Order Streaming.\n\nTimestamps:\n\n00:00 Introduction to Streaming in React\n02:11 Exploring Partial HTML Rendering with Streams\n03:36 Challenges with Server-Side Loading\n04:59 Solving the Server-Side Loading Issue\n06:30 Streaming HTML in a Different Order\n08:32 Exploring HTML Streaming and the Magic Script\n10:30 Optimizing HTML Streaming with Suspense\n13:50 Introduction to Dynamic I.O.\n15:26 Exploring Partial Pre-rendering\n17:47 Enhancing Web Browsing with Suspense",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4CDYov2gE1A"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "4CDYov2gE1A",
-        "videoPublishedAt": "2024-11-29T08:48:22Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZHIcKN4I5sZeZ8wo0n03kTtPu14",
-      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2024-12-06T12:23:42Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Addy Osmani - Chrome DevTools: State of the Union 2024 - Debugging React & Beyond",
-        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Chrome DevTools: State of the Union 2024 - Debugging React & Beyond\nGet ready for an exciting journey through the latest in Chrome DevTools and React DevTools as we dive into the State of the Union for 2024. We'll explore the powerful tools and features that continue to empower developers to craft high-performance web experiences. We’ll also touch on the latest in React debugging including updates like React Compiler support. Whether you're a veteran user or new to the DevTools magic, this session will equip you with actionable tips and insights to level up your development process.\n\nTimestamps:\n\n00:00 Introduction to React and Chrome DevTools\n03:36 AI in the Console & React DevTools Extensibility\n05:49 Server Logging & React DevTools Features\n07:28 Experimenting with Browser DevTools\n09:50 Advanced Overrides and Header Control\n11:00 Advanced Network Panel and Performance Tooling\n13:18 Enhancing Performance Analysis and Collaboration\n15:38 Analyzing JavaScript Bundles and Optimizing Pages\n16:39 Core Web Vitals and Input Responsiveness\n17:51 Veo Case Study: Optimizing React App\n19:57 Debugging UI with DevTools\n21:19 Enhancing Animations with DevTools\n23:10 Debugging Tools and Fun Logging Tips",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "q8l74jlRFtc"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "q8l74jlRFtc",
-        "videoPublishedAt": "2024-11-29T08:46:07Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "3uk5eZ-UWoIBQ7QDWy_vnI7KDgg",
+      "etag": "XfZxrHCl_HkEM1zlS_hZlcQtcy8",
       "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2025-01-23T16:38:15Z",
@@ -472,7 +40,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
-        "position": 8,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QPaNgUBIXSE"
@@ -483,6 +51,438 @@
       "contentDetails": {
         "videoId": "QPaNgUBIXSE",
         "videoPublishedAt": "2025-01-23T16:41:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UGyZJRWMjONqsnXeFse2LL7wvIM",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-01-20T12:10:09Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "What React Refs Can Do for You",
+        "description": "Talk: Stephen Cooper – \"What Refs Can Do for You\", React Summit US 2024\n \nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/what-refs-can-do-for-you\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTimestamps:\n\n00:00 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks\n\nReact Summit website: https://reactsummit.com\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TgpTG5XYoz4"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "TgpTG5XYoz4",
+        "videoPublishedAt": "2025-01-20T14:15:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4HUe5J14SJXUkDJ_uPwSbieXwR4",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-12-12T11:15:27Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Tom Redman - Supercharge Your Full-stack App with a Reactive Database, React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTalk: Supercharge Your Full-stack App with a Reactive Database\nIf you suffer from: Writing SQL to express your product logic, trying to remember esoteric authorization DSLs, fighting your frontend cache, fighting your backend cache, slow backend deployments, inconsistent or stale UI state, lack of end-to-end type safety, lack of transactional guarantees, low database write throughput, database cold starts or unpredictable database read performance - then tune in to this talk and let me show you the light at the end of the tunnel.\n\nTimestamps:\n\n00:00 Introduction to Convex\n01:49 Overview of Convex\n04:32 Web Socket Interaction and Global App State\n06:33 Real-time Data and Live Demonstration\n08:00 Real-time Behavior and Querying Messages\n10:24 Execution and Philosophy\n13:15 Tooling, Scalability, and Message Options\n16:05 Smooth Concurrency and Reduced Friction\n18:42 Final Remarks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HGmHvicjKSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HGmHvicjKSE"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "HGmHvicjKSE",
+        "videoPublishedAt": "2024-11-29T09:02:05Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "udmx4E-yfzby5T4_NMQUy6kvuSg",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-12-12T09:43:23Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Stephen Cooper - What Refs Can Do for You, React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTalk: What Refs Can Do for You\nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nTimestamps:\n\n00:00 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2BSunyCZ5qg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2BSunyCZ5qg"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "2BSunyCZ5qg",
+        "videoPublishedAt": "2024-11-29T09:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fbBHYcE0eaKuuZAbEdGsb2Cbkqg",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:25:29Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Future of React - Tom Occhino, Kent C Dodds, Mark Erikson, Theo Browne, etc. - React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1ScGXrYZKYg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1ScGXrYZKYg"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "1ScGXrYZKYg",
+        "videoPublishedAt": "2024-11-29T08:58:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-kIAV60AdQ-6_tdx5VIfM6x6EiI",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-12-11T12:46:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Michael Chan - An App Developer's Guide to React 19, React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: An App Developer's Guide to React 19: What You Need to Know and Everything You Can Safely Ignore\nReact 19 introduces a huge number of new capabilities and APIs. So, what do you need? What can you implement today? And what should leave for framework authors to integrate?\n\nEven if you don't plan to embrace Server Components, there are new capabilities in React 19 to improve speed, clarify code, and even eliminate long standing dependencies.\n\nIn this practical and progressive overview, you'll learn everything you need to be prepared for a React 19 upgrade.\n\nTimestamps:\n\n00:00 Introduction to React Migration\n01:37 React 19 Features\n04:04 React 19 APIs and Integration\n06:43 React 19 Changes and Type Safety\n09:37 React 19 API Improvements\n11:15 React 19 Reacting to User Actions\n15:28 React 19 Optimistic Count\n16:34 React 19 Real-Time Updates",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3BYGO-nOUbI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3BYGO-nOUbI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "3BYGO-nOUbI",
+        "videoPublishedAt": "2024-11-29T08:56:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FjEEwCPErQ6HMPJSQ5lVmze1geM",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-12-09T12:27:59Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Kent C. Dodds – Abracadabra: The Vanishing Network, React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Abracadabra: The Vanishing Network\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\nWhat would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\nTimestamps:\n\n00:00 Introduction to React and the Vanishing Network\n03:09 Exploring the Multi-Page App Paradigm\n05:29 Adding JavaScript for Client Functionality\n07:04 Adding Progressive Enhancement to the Form\n09:48 Enhancing User Experience and Transitioning to SPA\n12:29 Eliminating Duplication and Transition to JSON API\n13:40 React Code and User Actions\n15:46 React Era and Pespa Architecture\n18:02 Progressive Enhancement with Remix\n20:00 Moving to Modern React with Server Components\n22:45 Enhancing Server-Client Communication and UI\n25:06 Server-Client Code Separation and Epic React",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J7GMRHFIztA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J7GMRHFIztA"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "J7GMRHFIztA",
+        "videoPublishedAt": "2024-11-29T08:54:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A9G3NsfHsLABTlz2a4i58RUKGEw",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:25:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Theo Browne - Out Of Order Streaming (The Secret Powering Modern React), React Summit US 2024",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Out Of Order Streaming (The Secret Powering Modern React)\nEver wonder how React can \"update\" a page while it's still loading? We've gotten so lost in the discussion of things like Next.js, Suspense, Signals, Server Components, and Server Actions, that most React devs have totally missed one of React's most recent pieces of magic: Out Of Order Streaming.\n\nTimestamps:\n\n00:00 Introduction to Streaming in React\n02:11 Exploring Partial HTML Rendering with Streams\n03:36 Challenges with Server-Side Loading\n04:59 Solving the Server-Side Loading Issue\n06:30 Streaming HTML in a Different Order\n08:32 Exploring HTML Streaming and the Magic Script\n10:30 Optimizing HTML Streaming with Suspense\n13:50 Introduction to Dynamic I.O.\n15:26 Exploring Partial Pre-rendering\n17:47 Enhancing Web Browsing with Suspense",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CDYov2gE1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CDYov2gE1A"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "4CDYov2gE1A",
+        "videoPublishedAt": "2024-11-29T08:48:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZiwJ_LVVa_ABZxSVPcx2t-Ac90Q",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-12-06T12:23:42Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Addy Osmani - Chrome DevTools: State of the Union 2024 - Debugging React & Beyond",
+        "description": "React Summit US 2024 #ReactSummitUS #GitNation\nWebsite – https://reactsummit.us/ \n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024 \n\nTalk: Chrome DevTools: State of the Union 2024 - Debugging React & Beyond\nGet ready for an exciting journey through the latest in Chrome DevTools and React DevTools as we dive into the State of the Union for 2024. We'll explore the powerful tools and features that continue to empower developers to craft high-performance web experiences. We’ll also touch on the latest in React debugging including updates like React Compiler support. Whether you're a veteran user or new to the DevTools magic, this session will equip you with actionable tips and insights to level up your development process.\n\nTimestamps:\n\n00:00 Introduction to React and Chrome DevTools\n03:36 AI in the Console & React DevTools Extensibility\n05:49 Server Logging & React DevTools Features\n07:28 Experimenting with Browser DevTools\n09:50 Advanced Overrides and Header Control\n11:00 Advanced Network Panel and Performance Tooling\n13:18 Enhancing Performance Analysis and Collaboration\n15:38 Analyzing JavaScript Bundles and Optimizing Pages\n16:39 Core Web Vitals and Input Responsiveness\n17:51 Veo Case Study: Optimizing React App\n19:57 Debugging UI with DevTools\n21:19 Enhancing Animations with DevTools\n23:10 Debugging Tools and Fun Logging Tips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q8l74jlRFtc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q8l74jlRFtc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "q8l74jlRFtc",
+        "videoPublishedAt": "2024-11-29T08:46:07Z"
       },
       "status": {
         "privacyStatus": "public"
