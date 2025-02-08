@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "NylJmjVMDwHFn3uH9dv8Ev86BOw",
+  "etag": "XArf48LhIZgTAkHUBRv5tLlLToM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "rzAPuF0UvTJJ-T7XsbzeL_DpmnA",
+      "etag": "C6U6-l1ZvdfhjF0JaOEA6o13fWs",
       "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2025-01-23T16:38:15Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Why Your App Needs a Reactive Database",
-        "description": "Talk: Tom Redman - Supercharge Your Full-stack App with a Reactive Database, React Summit US 2024\n \nIf you suffer from: Writing SQL to express your product logic, trying to remember esoteric authorization DSLs, fighting your frontend cache, fighting your backend cache, slow backend deployments, inconsistent or stale UI state, lack of end-to-end type safety, lack of transactional guarantees, low database write throughput, database cold starts or unpredictable database read performance - then tune in to this talk and let me show you the light at the end of the tunnel.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/supercharge-your-full-stack-app-with-a-reactive-database\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\n🔥 Join us this June for React Summit 2025: https://reactsummit.com\n\nTimestamps:\n\n00:00 Introduction to Convex\n01:49 Overview of Convex\n04:32 Web Socket Interaction and Global App State\n06:33 Real-time Data and Live Demonstration\n08:00 Real-time Behavior and Querying Messages\n10:24 Execution and Philosophy\n13:15 Tooling, Scalability, and Message Options\n16:05 Smooth Concurrency and Reduced Friction\n18:42 Final Remarks\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
+        "description": "Talk: Tom Redman - Supercharge Your Full-stack App with a Reactive Database, React Summit US 2024\n \nIf you suffer from: Writing SQL to express your product logic, trying to remember esoteric authorization DSLs, fighting your frontend cache, fighting your backend cache, slow backend deployments, inconsistent or stale UI state, lack of end-to-end type safety, lack of transactional guarantees, low database write throughput, database cold starts or unpredictable database read performance - then tune in to this talk and let me show you the light at the end of the tunnel.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/supercharge-your-full-stack-app-with-a-reactive-database\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\n🔥 Join us this June for React Summit 2025: https://reactsummit.com\n\nTimestamps:\n\n00:00 Intro\n00:31 Introduction to Convex\n01:49 Overview of Convex\n04:32 Web Socket Interaction and Global App State\n06:33 Real-time Data and Live Demonstration\n08:00 Real-time Behavior and Querying Messages\n10:24 Execution and Philosophy\n13:15 Tooling, Scalability, and Message Options\n16:05 Smooth Concurrency and Reduced Friction\n18:42 Final Remarks\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/QPaNgUBIXSE/default.jpg",
@@ -58,13 +58,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sSIEgwdRvx-NR6Gy8t7o2COGwoM",
+      "etag": "YBNRc6emABgimlGrdvsfH0Yszf8",
       "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-01-20T12:10:09Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "What React Refs Can Do for You",
-        "description": "Talk: Stephen Cooper – \"What Refs Can Do for You\", React Summit US 2024\n \nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/what-refs-can-do-for-you\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTimestamps:\n\n00:00 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks\n\nReact Summit website: https://reactsummit.com\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
+        "description": "Talk: Stephen Cooper – \"What Refs Can Do for You\", React Summit US 2024\n \nWhile Refs are considered an escape hatch there are times when you might just need to use them.In this talk, with the help of real world examples, we will look at what Refs can do for us in terms of code clarity and also performance gains. Think along the lines of minimising renders and avoiding flickering UIs. We will cover the restrictions for safe usage and for those of you already using these patterns make sure you are prepared for the changes coming in React 19.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/what-refs-can-do-for-you\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\nTimestamps:\n\n00:00 Intro\n00:31 Introduction to Refs and Profiling Agigrid\n02:46 Optimizing Custom Cell Components and Performance\n05:28 Improving Performance with Manual Style Updates\n08:34 Refactoring the Use of useEffect\n10:24 Improving Performance with Ref Callback\n13:49 React 19 and Using Ref Callbacks\n\nReact Summit website: https://reactsummit.com\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/TgpTG5XYoz4/default.jpg",
@@ -487,10 +487,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pAWF5ylG4tUc5V3jy9_wtPkYZ-8",
+      "id": "UExOQk5TN05SR0tNRVNuYU9fV0R4NVZoeU9tQ1FWc3lhSi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2025-02-05T13:30:12Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Developers, Stop Fighting With Designers – Try This Instead!",
+        "description": "Talk: Jake Albaugh - Aligning Patterns Across Design and Development, React Summit US 2024\n \nDesign workflows can sometimes be at odds with development—but establishing common patterns between disciplines can set the foundation for automation and enable teams to design and ship faster. Figma allows you to get what you need from design and get back to writing code—whether that’s building front-end for the first time, or building with a reusable design system in your code base.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/aligning-patterns-across-design-and-development\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2024  \n\n🔥 Join us this June for React Summit 2025: https://reactsummit.com\n\nTimestamps:\n\n00:00 Intro\n00:32 Introduction to Aligning Patterns\n03:01 Optimal Path and Consistency\n05:42 Figma's Code Connect and Simple Design System\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4EQnDTYFfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4EQnDTYFfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4EQnDTYFfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4EQnDTYFfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i4EQnDTYFfI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMESnaO_WDx5VhyOmCQVsyaJ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i4EQnDTYFfI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "i4EQnDTYFfI",
+        "videoPublishedAt": "2025-02-05T13:41:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 9,
+    "totalResults": 10,
     "resultsPerPage": 50
   }
 }
