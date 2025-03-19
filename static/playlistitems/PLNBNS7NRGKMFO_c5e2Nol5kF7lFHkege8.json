@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "2lOwmAsdtRKDb12oEjQaZy3MHoQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "97bwOCEbUaSCcJg2qd8VPPd2Nf0",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-03-19T11:36:31Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Summit US 2025 - The biggest React conference in the US - November 18 & 21, 2025",
+        "description": "The biggest React conference – React Summit – has come to the USA!\n\nNetwork with fellow front-end and full-stack engineers, learn from industry experts, and promote your ideas all while experiencing the exciting vistas of Manhattan!\n\nReact Summit offers a hybrid format with both remote and in-person participation. The first day will be streamed from the New York venue including hybrid networking features and interactive entertainment; and the second day, as well as the numerous free workshops, will be streamed to the global audience online.\n\nTake advantage of being a part of the React Summit US conference!\nStay tuned!\n\n🎫  Grab your tickets 👉 https://reactsummit.us?utm_source=YT&utm_medium=videoannouncement\n\nReact Summit on X: https://x.com/reactsummit\nReact Summit on Instagram: https://www.instagram.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.bsky.social\n\nMore GitNation events: https://gitnation.com/events?utm_source=YT&utm_medium=rsusannouncement\n\n#ReactSummit #ReactSummitUS #ReactConference #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UxKrqSf5sEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UxKrqSf5sEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UxKrqSf5sEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UxKrqSf5sEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UxKrqSf5sEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UxKrqSf5sEM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "UxKrqSf5sEM",
+        "videoPublishedAt": "2025-03-19T11:41:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
