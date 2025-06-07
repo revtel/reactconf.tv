@@ -1,13 +1,1463 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "mBLP94HpmaVMt8yXaQz1U6XCKSw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QMEwnPDbC2pIHxXzlW-XFrYP-Vo",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2019-10-31T02:40:09Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Day 1 Keynote | Tom Occhino",
+        "description": "Tom shares the React team's primary goal and an important message for the community.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnZHO7QvjaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QnZHO7QvjaM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "QnZHO7QvjaM",
+        "videoPublishedAt": "2019-10-31T02:38:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xXKOtSh6o_z4FuaZY3tPj2y-AQY",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2019-10-31T02:40:09Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Day 1 Keynote | Yuzhi Zheng",
+        "description": "Yuzhi discusses some details about what the React Core team has been working on for the past year including projects like Selective Hydration, Suspense, Concurrent Mode, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uXEEL9mrkAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uXEEL9mrkAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uXEEL9mrkAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uXEEL9mrkAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uXEEL9mrkAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uXEEL9mrkAQ"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "uXEEL9mrkAQ",
+        "videoPublishedAt": "2019-10-31T02:39:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qUGQjAgyJ086QVP35EMtULpWY24",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Building the New Facebook with React and Relay | Frank Yan",
+        "description": "Ashley and Frank discuss some of the technologies and strategies powering FB5, the new facebook.com. Topics covered include Facebook's approach to CSS-in-JS, data-driven dependencies, phased code downloading, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9JZHodNR184/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9JZHodNR184/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9JZHodNR184/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9JZHodNR184/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9JZHodNR184/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9JZHodNR184"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "9JZHodNR184",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dCkINF6fQP4RSG_ZXqKKB1XBzSQ",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Building The New Facebook With React and Relay | Ashley Watkins",
+        "description": "Ashley discusses some of the technologies and strategies powering FB5, the new facebook.com. Topics covered include Facebook's approach to CSS-in-JS, data-driven dependencies, phased code downloading, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KT3XKDBZW7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KT3XKDBZW7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KT3XKDBZW7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KT3XKDBZW7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KT3XKDBZW7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KT3XKDBZW7M"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "KT3XKDBZW7M",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UWdwzhMqo-zod3xrSBBiYr4Kx_k",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2019-11-08T16:57:53Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "How Our Team is Using React Native to Save the World | Tania Papazafeiropoulou",
+        "description": "Food waste is one of the biggest environmental and social challenges facing the planet. OLIO helps people connect and share surplus food. And it's built in React Native!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVHWugBPGBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVHWugBPGBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVHWugBPGBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zVHWugBPGBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zVHWugBPGBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zVHWugBPGBE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "zVHWugBPGBE",
+        "videoPublishedAt": "2019-11-08T16:53:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xekr876SF3R6e02wC6eEr7VYWUo",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2019-11-04T17:52:16Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Using Hooks and Codegen | Tejas Kumar",
+        "description": "As a startup that integrates with larger, often older enterprises, we have to integrate with a number of RESTful services (against our will). This technical talk will outline how we are able to bring type-soundness, autocompletion, and powerful developer tooling to our internal workflows using hooks and TypeScript.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdsnzfJUqm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdsnzfJUqm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdsnzfJUqm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdsnzfJUqm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cdsnzfJUqm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cdsnzfJUqm0"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "cdsnzfJUqm0",
+        "videoPublishedAt": "2019-11-04T17:43:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CEMzNsBQ4Mpg9rjkAJ_vvB83J0Y",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Building a Custom React Renderer | Sophie Alpert",
+        "description": "There's a little-known npm package named react-reconciler that lets you build your own React renderer. React DOM and React Native themselves are built on top of it. And with it, you can build your own. In this talk, we'll build a simple version of React DOM. With any luck, you'll walk away with a better understanding of React.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGpMlWVcHok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGpMlWVcHok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGpMlWVcHok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CGpMlWVcHok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CGpMlWVcHok"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "CGpMlWVcHok",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l9Dz9BwOjqg0oeY6Dci5XF6Y-Xs",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Codemod-ing away 4MB of JavaScript | Spencer Miskoviak",
+        "description": "\"Tree shaking (dead code elimination) can be an invaluable feature in modern build tools to keep bundle sizes slim. Unfortunately, it's can also be easy to \"\"break\"\" and overlook with a single import star (import *). Imagine this slips in and is overlooked for months, only to later realize it adds over 4 megabytes. But now, its implicitly relied upon in hundreds of places.\n\nThis is a story about creating a custom codemod transform to update hundreds of implicit usages to be explicit imports to \"\"fix\"\" tree shaking and remove nearly 97% of the unused code.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDkcBC-vmgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDkcBC-vmgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDkcBC-vmgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDkcBC-vmgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDkcBC-vmgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hDkcBC-vmgM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "hDkcBC-vmgM",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QZlVYyZtgNxmhL2J0zQzd1_vtAE",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Git is Hard but Time Traveling in Git Isn't | Monica Powell",
+        "description": "This talk will cover how I accidentally discovered time travel in git, how to change the auto-detected language of your GitHub repositories and other Git related hacks to make working with Git and GitHub more delightful (or maybe just make your commit history less embarrassing git hooks).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wbYAr7-c_tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wbYAr7-c_tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wbYAr7-c_tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wbYAr7-c_tk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wbYAr7-c_tk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wbYAr7-c_tk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "wbYAr7-c_tk",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9j6_0tbkx59bWXGCdjYVXKN-yNA",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Automagic TypeScript Codegen for GraphQL | Salvatore Aiello",
+        "description": "Using codegen sorcery I will show you how to scaffold an entire type safe api layer, client and server, by only defining your graphql schema.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UpFEtKkHxn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UpFEtKkHxn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UpFEtKkHxn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UpFEtKkHxn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UpFEtKkHxn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UpFEtKkHxn4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "UpFEtKkHxn4",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KU_CL-ntQj3un-uRi6DDLtd1H7c",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Why React is Eating the World | Adam Wolff",
+        "description": "Not long ago, most companies looked down on front-end engineering. They thought the real engineers programmed the server in Java, while the script kiddies played around with it's wannabe little brother, JavaScript. But, in the last several years, React and its ilk have proven that sophisticated approaches to immutability and asynchrony allow for unprecedented scale and complexity in the front-end. Now, the tables have turned, and back-end frameworks are starting to wake up to the benefits of asynchronous processes and event sourcing patterns, following the trail that React has blazed.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRAavzrjh7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRAavzrjh7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRAavzrjh7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GRAavzrjh7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GRAavzrjh7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GRAavzrjh7g"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "GRAavzrjh7g",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E5gYvtyKVn_I4vx_lTyzxBAiYjs",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Is React Translated Yet? | Nat Alison",
+        "description": "From around the world, voices sounded out in a multitude of languages: is React Translated Yet? With the efforts of hundreds of contributors, I can finally say: ¡Sí! Sim! はい Over the course of a month, I helped the React team kick off translations of reactjs.org into 40 languages. Join me for a behind-the-scenes look at what it takes to get the docs for a massively popular library translated. We'll talk about GitHub rate limits, managing a global community, amateur bot-building and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLE4Jqaek5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLE4Jqaek5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLE4Jqaek5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lLE4Jqaek5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lLE4Jqaek5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lLE4Jqaek5k"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "lLE4Jqaek5k",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RD7HZBOXLZbuUpB3LBaS8PZxXLg",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Building (And Re-Building) the Airbnb Design System | Maja Wichrowska & Tae Kim",
+        "description": "When building a design system, many implicit choices are made in a component’s architecture that can end up crushing the dreams of a productivity-boosting frontend utility and turning a shared component library into a vessel for friction, factions, and forking. Join us as we take you through the journey of Airbnb’s experience creating an effective, widely-adopted design system and the decisions and trade-offs that were made to get there.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fHQ1WSx41CA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fHQ1WSx41CA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fHQ1WSx41CA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fHQ1WSx41CA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fHQ1WSx41CA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fHQ1WSx41CA"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "fHQ1WSx41CA",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tB6tG3NA6cEpLdp5p1hKCoBeNPw",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Accessibility Is a Marathon, not a Sprint | Brittany Feenstra",
+        "description": "Accessibility standards are often first on the chopping block in the face of deadlines. We've all been on projects where we write that dreaded TODO comment leaving an accessibility audit for later. Let's unpack why that is and start changing it! We'll look at common tools, patterns and starter-tips that can help us shed light on accessibility in a new, less daunting way. In this talk we'll discuss how to get started with accessibility—the metaphorical salad and power walking of a11y that can prepare us to run an accessibility marathon, if you will.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONSD-t4gBb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONSD-t4gBb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONSD-t4gBb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ONSD-t4gBb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ONSD-t4gBb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ONSD-t4gBb8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "ONSD-t4gBb8",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9GKRzId-opsLdeQ3dCJlbX0whNo",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "The State of React State in 2019 | Becca Bailey",
+        "description": "Redux? Render props? Context? Apollo? And what are these hooks that everyone is talking about? If you have ever gotten lost in the multitude of ways to manage state in your React application in 2019, you’re not alone. Let’s compare the options, and talk about the state of state management today.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wUMMUyQtMSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wUMMUyQtMSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wUMMUyQtMSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wUMMUyQtMSg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wUMMUyQtMSg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wUMMUyQtMSg"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "wUMMUyQtMSg",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lFiC-th1ks9isPTuB96-pr5zszQ",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Let's Program Like It's 1999 | Lee Byron",
+        "description": "The mental model for building for the web largely hasn’t changed in the last 20 years, but we’ve incorporated complexity, richness, grown our community a thousand fold, and scaled to billions. This year the web turns 30, and we look back at the steady march forward of better abstractions, better syntax, and better mental models that brought us here.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vG8WpLr6y_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vG8WpLr6y_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vG8WpLr6y_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vG8WpLr6y_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vG8WpLr6y_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vG8WpLr6y_U"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "vG8WpLr6y_U",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tabZdpXJWGEF-c2AhyNzo00J8pI",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "React Developer tooling | Brian Vaughn",
+        "description": "Brian talks about developer tooling improvements the React team has been working on for the past year. Topics covered include Fast Refresh, the new React DevTools extension, and codemods to automate API changes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mjrfb1r3XEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mjrfb1r3XEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mjrfb1r3XEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mjrfb1r3XEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mjrfb1r3XEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mjrfb1r3XEM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "Mjrfb1r3XEM",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w6PdyK0Y-AkxOWX1f6ftCMW3fb8",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Data Fetching With Suspense In Relay | Joe Savona",
+        "description": "In this talk we’ll explore some of the ways Suspense can help improve the loading experience in our apps, and the best-practices that we’ve identified for using Suspense for data-fetching, based on our experience using these features in production.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tl0S7QkxFE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tl0S7QkxFE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tl0S7QkxFE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tl0S7QkxFE4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tl0S7QkxFE4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tl0S7QkxFE4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "Tl0S7QkxFE4",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XaWPdpEgQJUNfKq4fiLUXhi3a34",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Automatic Visualizations of the Frontend | Cameron Yick",
+        "description": "Visualization isn't just for charts. Developers spend most of their time trying to understand existing code, which often lacks documentation about design-level concepts. Handcrafted diagrams are useful but get out of date, and traditional code search only helps if you know what words to look for. We don't navigate the real world by examining every sector of a geographic map, so why should we scan code line-by-line? This talk will showcase the past, present, and future of visual tools for automatically generating maps of code, using inspiration from older typed languages and HCI research.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SbreAPNmZOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SbreAPNmZOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbreAPNmZOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SbreAPNmZOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SbreAPNmZOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SbreAPNmZOk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "SbreAPNmZOk",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lIZ1hjOZY1d9PEWpRlFLRVcXCV4",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "React is Fiction | Jenn Creighton",
+        "description": "You don't know it but you are an author. You write stories every day. You build narratives, characters and plots — but you aren’t writing a novel, you’re writing components. I came to engineering from the world of creative writing and what surprised me the most is how similar code is to fiction. React itself follows tenants of creative writing and when you lean into those rules, you create solid component architecture. Inn this talk you’ll learn how to write React like its fiction and what you can gain by doing so.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kqh4lz2Lkzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kqh4lz2Lkzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kqh4lz2Lkzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kqh4lz2Lkzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kqh4lz2Lkzs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kqh4lz2Lkzs"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "kqh4lz2Lkzs",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eIcLWCg1-L745xFWbpG5VElOQyI",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Progressive Web Animations | Alexandra Holachek",
+        "description": "As the technology to create Progressive Web Apps continues to mature, React developers have the opportunity to write web apps that in some cases can rival native ones in terms of speed and convenience. However, one barrier to feature parity is the difficulty of creating a native-like UI transition and interaction experience on the mobile web, especially on lower-end devices. I’ll be discussing various considerations, tips and techniques to create a web app in React that looks, moves, and feels as close to a native mobile app as possible.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/laPsceJ4tTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/laPsceJ4tTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/laPsceJ4tTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/laPsceJ4tTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/laPsceJ4tTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "laPsceJ4tTY"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "laPsceJ4tTY",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G9vVjc3jPtigC5pK80qTq-rzrf0",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2019-11-07T20:20:19Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "React and the Music Industry | Jameyel \"J. Dash\" Johnson\"",
+        "description": "As a multi-platinum selling music producer, recording artist, songwriter and award-winning film composer, I have seen the inner-working of the entertainment industry from several perspectives. Alternatively, as a lead software engineer with over 12 years experience, I have helped companies increase sales, conversion rate, customer lifetime value and develop efficiency all over the stack. There are several binds that tie the two seemingly opposite industries together. Let's take a few minutes and talk about them!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DVQTGidS1yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DVQTGidS1yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DVQTGidS1yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DVQTGidS1yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DVQTGidS1yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DVQTGidS1yk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "DVQTGidS1yk",
+        "videoPublishedAt": "2019-11-07T20:19:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4MwT4l6KvkqAEQWjTJNonQZvydo",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Comonads on your everyday UI | Juan Paucar",
+        "description": "Terms like Monad or Comonad might sound like alien abstractions for every day when using React. However, these abstractions are more common than we might have previously thought. State on our UIs and environmental requirements for computations like calculating a Virtual DOM or how our components should look like can be \"intuitively\" modeled with a Comonad. Join me on a short journey to demystify these concepts and get to know them a bit more",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r-HREDna2fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r-HREDna2fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r-HREDna2fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r-HREDna2fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r-HREDna2fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r-HREDna2fM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "r-HREDna2fM",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FMRn6C3xQPddq13wtXXebD7u3yI",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Creating Games, Animations and Interactions with the Wick Editor: A UX Talk | Luca Damasco",
+        "description": "Always test your project with users, even if they’re 4 years old. We built the Wick Editor, a free, open-source, Mozilla supported tool for creating games, animations and interactive projects, using React.js. Over three years, we transformed our student project into a tool used by over 10,000 beginner animators and game designers a month. Getting to this point took dozens of workshops, after school sessions, game jams, and professional development sessions. Learn how we refined our design and development approach, and stayed motivated, by working with students and teachers of all ages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XDvRlJE-G4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XDvRlJE-G4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XDvRlJE-G4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XDvRlJE-G4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XDvRlJE-G4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2XDvRlJE-G4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "2XDvRlJE-G4",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dL5B_fIYpIpP8T8BqvfWtSx2tyI",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Building React-Select | Jed Watson",
+        "description": "How I accidentally built the most popular React component, experienced death by a hundred props, got buried under hundreds of PRs, invented a component extension API, learned that styles are also a function of state, influenced some major design systems and finally got some sleep.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yS0jUnmBujE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yS0jUnmBujE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yS0jUnmBujE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yS0jUnmBujE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yS0jUnmBujE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yS0jUnmBujE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "yS0jUnmBujE",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fk3WJUjSWjwhWh_Ak1_RNUW0EEw",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Promoting Transparency in Government Spending with React | Lizzie Salita",
+        "description": "Learn about the role of React in fulfilling the Digital Accountability and Transparency Act (DATA Act), which makes federal spending data publicly accessible, searchable, and more reliable. As the basis for the frontend of USAspending.gov, React has shown that a combination of modern web technologies, open source, and agile practices can not only be successful, but transformative in the government IT sphere.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CVfXICcNfHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CVfXICcNfHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CVfXICcNfHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CVfXICcNfHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CVfXICcNfHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CVfXICcNfHE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "CVfXICcNfHE",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SbBSjGYg3m6GdJEd7k2_LYtWTNI",
+      "id": "UExQeGJiVHFDTGJHSFB4WnB3NHhqX1d3ZzgtZmROeEpSaC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-10-31T01:42:47Z",
+        "channelId": "UCz5vTaEhvh7dOHEyd1efcaQ",
+        "title": "Wonder-driven Development: Using React to make a Spaceship | Alex Anderson",
+        "description": "Have you ever wanted to soar the stars? Have you ever gazed into the sky and wondered what was up there? Well now you can know, with Thorium - a first of its kind open-source starship bridge simulator, built entirely with React and web technologies. Thorium is the product of wonder-driven development, or making something because you wonder if you can. Let me tell you about some of the things I wondered and how you can use this attitude in your own code.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aV0uOPWHKt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aV0uOPWHKt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aV0uOPWHKt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aV0uOPWHKt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aV0uOPWHKt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aV0uOPWHKt4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UCz5vTaEhvh7dOHEyd1efcaQ"
+      },
+      "contentDetails": {
+        "videoId": "aV0uOPWHKt4",
+        "videoPublishedAt": "2019-10-31T01:37:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 27,
+    "resultsPerPage": 50
   }
 }
