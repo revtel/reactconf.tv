@@ -1,0 +1,164 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "IQfPs-Z_TIYDGZ8h9CEw-3A3wb4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SBgE9hxyM9Wmjrt_aeExMiprH_M",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-06-20T10:57:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Ido Moshe - Efficient Data Visualisation with React and SVG",
+        "description": "Talk: Ido Moshe - \"Efficient Data Visualisation with React and SVG\", React Summit 2025\n\nSee how far simple charts in React and SVG can take you, and where their limits start to surface. We'll explore the sweet spot of using React's declarative model with plain SVG elements and a touch of D3 for utility functions like scaling and path generation, before reaching the performance and complexity ceilings that call for something more robust.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/efficient-data-visualisation-with-react-and-svg\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings →  gitnation.com/events/react-summit-2025 \n\nReact Summit website: https://reactsummit.com/\nReact Summit on X: https://x.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummit025 #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lcQ-d2oII8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lcQ-d2oII8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lcQ-d2oII8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0lcQ-d2oII8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0lcQ-d2oII8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0lcQ-d2oII8"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "0lcQ-d2oII8",
+        "videoPublishedAt": "2025-06-21T09:02:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u4nI552X2EGd80QY0vRS68TepFw",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:08:58Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jbcEeRqjc6w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jbcEeRqjc6w"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-TzZSr4tSCe9sn9KylPD_Q55pN4",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:14:07Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ms0HywJztnM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Ms0HywJztnM"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tl8O7APfrn4exxD6q5ltkS3Hat8",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:27:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "axfcwzgWcOQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "axfcwzgWcOQ"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fxwk1NknWVjNTo490QOXYGx2aZ4",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:31:48Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aw81OYWKCQc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "aw81OYWKCQc"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 50
+  }
+}
