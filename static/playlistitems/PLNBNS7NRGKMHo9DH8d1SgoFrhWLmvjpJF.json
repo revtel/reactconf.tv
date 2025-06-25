@@ -1,10 +1,226 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "IQfPs-Z_TIYDGZ8h9CEw-3A3wb4",
+  "etag": "6TpRZhvwMYad-KexjiznOc_tBLE",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "SBgE9hxyM9Wmjrt_aeExMiprH_M",
+      "etag": "-7o65h2fEHapIo8bD5xDLMk2Q1U",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:31:48Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Mateusz Jagodziński - Zero-Styling Development: Utopia or the Future of Frontend?",
+        "description": "Talk: Mateusz Jagodziński - \"Zero-Styling Development: Utopia or the Future of Frontend?\", React Summit 2025\n\nWhat if you never had to touch styles in your code again? This lightning talk presents a real-world approach to fully automated design implementation — where changes in Figma are automatically reflected in the app via tokens and a CI pipeline. A practical look at what happens when you give full visual control to designers, and why that might be a good thing for developers, too.\n\nAudience Takeaways:\n\n- A provocative perspective: does a frontend dev really need to write styles?\n- Tools and techniques to sync Figma → GitHub → CSS → Web app.\n- A rethink of responsibilities between designers and developers.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/zero-styling-development-utopia-or-the-future-of-frontend\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings →  gitnation.com/events/react-summit-2025 \n\nTimecodes:\n\n00:00 Zero Styling Development Challenges\n01:54 Zero Styling Automation Benefits\n\nReact Summit website: https://reactsummit.com/\nReact Summit on X: https://x.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummit025 #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aw81OYWKCQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aw81OYWKCQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aw81OYWKCQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aw81OYWKCQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aw81OYWKCQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aw81OYWKCQc"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "aw81OYWKCQc",
+        "videoPublishedAt": "2025-06-23T07:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FNWJxfvawfEBEkA0LCe_5xlNrzg",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:27:11Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "JJ Kasper - Next.js Adapters: Build Once, Deploy Everywhere",
+        "description": "Talk: JJ Kasper - \"Next.js Adapters: Build Once, Deploy Everywhere\", React Summit 2025\n\nTired of bending your deployment process to fit Next.js? With the power of adapters, you can now deploy your app seamlessly to a variety of platforms — from the cloud to your local dev cave. In this talk, we’ll explore how adapters simplify the deployment pipeline and make Next.js feel right at home, no matter where it’s hosted.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/nextjs-adapters-build-once-deploy-everywhere\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings →  gitnation.com/events/react-summit-2025 \n\nTimecodes:\n\n00:00 Next.js Adapters Overview\n01:39 Next.js Adapters Evolution\n02:50 Next.js Adapter Interface\n05:04 Next.js Deployments and Benefits\n\nReact Summit website: https://reactsummit.com/\nReact Summit on X: https://x.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummit025 #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/axfcwzgWcOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/axfcwzgWcOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/axfcwzgWcOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/axfcwzgWcOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/axfcwzgWcOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "axfcwzgWcOQ"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "axfcwzgWcOQ",
+        "videoPublishedAt": "2025-06-22T15:06:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XtT5NApvkBjP19R3KyBCQEKTmlk",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:14:07Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Rahul Nanwani - Delivering High-Quality Videos on Your ReactJS Website",
+        "description": "Talk: Rahul Nanwani  - \"Delivering High-Quality Videos on Your ReactJS Website\", React Summit 2025\n\nVideo is the most powerful and engaging content format currently on the web. With mobile-first experiences becoming the norm, users expect high-quality, smooth video playback, whether they're watching on a fast Wi-Fi connection or a spotty mobile network.\n\nHowever, delivering optimized video content is not easy. Challenges like adaptive streaming, efficient compression, fast loading times, and responsive playback make it tricky to balance quality and performance. This lightning talk will focus on implementing adaptive bitrate streaming in ReactJS to ensure videos play seamlessly on mobile and on-the-fly thumbnail generation to enhance user experience — all with minimal setup!\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/delivering-high-quality-videos-on-your-reactjs-website\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings →  gitnation.com/events/react-summit-2025 \n\nTimecodes:\n\n00:00 Optimizing and Streaming Videos in React Apps\n01:52 Streamlining Video Hosting with ImageKit\n02:53 Connecting and Optimizing Videos with ImageKit\n\nReact Summit website: https://reactsummit.com/\nReact Summit on X: https://x.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummit025 #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ms0HywJztnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ms0HywJztnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ms0HywJztnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ms0HywJztnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ms0HywJztnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ms0HywJztnM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Ms0HywJztnM",
+        "videoPublishedAt": "2025-06-22T09:30:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zYI1e24CV_GNYq1uZXx1hpGWYEI",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-06-20T11:08:58Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Edoardo Dusi - Server Components Wars: PHP Strikes Back",
+        "description": "Talk: Edoardo Dusi - \"Server Components Wars: PHP Strikes Back\", React Summit 2025\n\nServer Components is a new pattern for the JavaScript world, but in this lightning talk, you'll see how easy it is to understand if we compare it to another old web language, one that shaped web development as we know it: PHP!\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/server-components-wars-php-strikes-back\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings →  gitnation.com/events/react-summit-2025 \n\nTimecodes:\n\n00:00 Understanding Server Components and PHP Evolution\n02:17 Evolution from PHP Empire to React\n03:19 Transition from PHP to Isomorphic JavaScript\n05:01 Introduction to React Server Components\n\nReact Summit website: https://reactsummit.com/\nReact Summit on X: https://x.com/reactsummit\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummit025 #GitNation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jbcEeRqjc6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jbcEeRqjc6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jbcEeRqjc6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jbcEeRqjc6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jbcEeRqjc6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jbcEeRqjc6w"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "jbcEeRqjc6w",
+        "videoPublishedAt": "2025-06-21T15:15:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d3iRMDRXMbwteCuZxTC6JwlC9HY",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-06-20T10:57:11Z",
@@ -40,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 0,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0lcQ-d2oII8"
@@ -54,106 +270,6 @@
       },
       "status": {
         "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "u4nI552X2EGd80QY0vRS68TepFw",
-      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
-      "snippet": {
-        "publishedAt": "2025-06-20T11:08:58Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "jbcEeRqjc6w"
-        }
-      },
-      "contentDetails": {
-        "videoId": "jbcEeRqjc6w"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "-TzZSr4tSCe9sn9KylPD_Q55pN4",
-      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2025-06-20T11:14:07Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Ms0HywJztnM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Ms0HywJztnM"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "tl8O7APfrn4exxD6q5ltkS3Hat8",
-      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2025-06-20T11:27:11Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "axfcwzgWcOQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "axfcwzgWcOQ"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "fxwk1NknWVjNTo490QOXYGx2aZ4",
-      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2025-06-20T11:31:48Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "aw81OYWKCQc"
-        }
-      },
-      "contentDetails": {
-        "videoId": "aw81OYWKCQc"
-      },
-      "status": {
-        "privacyStatus": "private"
       }
     }
   ],
