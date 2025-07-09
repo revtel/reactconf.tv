@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "I8zty1RG2636s2PYJNmbhcon-es",
+  "etag": "j5As_PzkyP3z_pmq62tj9DKHKgY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "LMpQ5J2Pdss3Qw16i149Djc96us",
+      "etag": "LsZ1bn3dQcAuiAvNhknZsQyEccg",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-07-08T10:53:37Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Creator of Bun Explains Why It’s Perfect for Full-Stack React Apps",
+        "description": "Talk: Jarred Sumner - \"Building Full Stack React Apps with Bun\", React Summit 2025\n\nBun is a fast JavaScript runtime aiming to improve Node.js compatibility and streamline the development toolchain. It offers seamless full-stack development capabilities with features like WebSocket support and code-splitting. The efficient package management in Bun optimizes production processes by reducing parsing time and system calls. Bun's collaboration plans include enhancing monorepo support and integrating with frameworks and routers for improved functionality and runtime efficiency.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/building-full-stack-react-apps-with-bun\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-2025\n\nTimestamps:\n\n00:00 JavaScript Tooling with Bun\n02:23 Full-Stack Development with Bun\n05:47 Optimizing Package Management with Bun\n\n🔥 Want to hear talks like this live? Join us at React Summit US 2025 in New York: https://reactsummit.us/?utm_source=youtube&utm_medium=jarredsumner\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #TechTalks #GitNation #ReactSummit2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOM644IRoGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOM644IRoGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOM644IRoGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aOM644IRoGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aOM644IRoGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aOM644IRoGo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "aOM644IRoGo",
+        "videoPublishedAt": "2025-07-08T10:59:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IQWu9iTXkUMcZLzUIduHKHZD_Xk",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-07-01T12:00:43Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l2dByiwiQcM"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KJD04-X35C158yFC5nRVFPSFTmg",
+      "etag": "QxoC10o9369gQBO0sPgupNRIQi4",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-06-20T11:31:48Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aw81OYWKCQc"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DxdJxh6B1nPBmtaOnoXVOGeom8g",
+      "etag": "oiezJFQuST7RMnacFjQK_6RrSCI",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-06-20T11:27:11Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "axfcwzgWcOQ"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F9_lDfjUOOD4LPo0rVVXrrl6n3M",
+      "etag": "qM_1OvqLnrJn_SXRZ5bwNznB-H8",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-06-20T11:14:07Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ms0HywJztnM"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IhSmVFBhU9NzjkIsuutWJMJnBFk",
+      "etag": "eWjiniwWb_ejLxc16Wa5Zk6f1FY",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-06-20T11:08:58Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jbcEeRqjc6w"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PsNSz90DW68OOO0KW1KpHixiPVU",
+      "etag": "1PF30Td2koq4bO3cqind4ChCfPc",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-06-20T10:57:11Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0lcQ-d2oII8"
@@ -328,7 +382,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 6,
+    "totalResults": 7,
     "resultsPerPage": 50
   }
 }
