@@ -1,15 +1,2332 @@
 {
-  "error": {
-    "code": 404,
-    "message": "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.",
-    "errors": [
-      {
-        "message": "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.",
-        "domain": "youtube.playlistItem",
-        "reason": "playlistNotFound",
-        "location": "playlistId",
-        "locationType": "parameter"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "YiGIAxelQ91buuWgA_jne2CtiEE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EHPySl2qwIPCuxydTyOC14p3oKE",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-10-05T18:09:07Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2023  - DAY 1",
+        "description": "Day One live stream for the most awaited. \n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Qj2YsbWDB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Qj2YsbWDB4"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "8Qj2YsbWDB4",
+        "videoPublishedAt": "2023-10-06T19:02:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7DMCUgvZlE6QAuIDsNYmClQdrR4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-10-07T02:44:11Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2023  - DAY 2",
+        "description": "After Epic Day 1 we are back for a super epic Day 2 live stream for the most awaited. \n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuedZFbhyL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JuedZFbhyL0"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "JuedZFbhyL0",
+        "videoPublishedAt": "2023-10-07T16:09:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HVESsw9MaQyzkDWeImpqgdYgu_s",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-10-02T08:21:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Remote 2023",
+        "description": "React India is an international conference that provides a platform for developers to share and discuss their insights and experiences with React! It Provides developers from India an opportunity meet, listen, and network with React Developers and Open Source Contributors all around the world!\n\nThanks to our 2023 Sponsors\n\nPlatinum sponsors \n\nPublicis Sapient India \nhttps://www.publicissapient.com/\n\nGold Sponsor \nEpam India\nhttps://welcome.epam.in/\n\nDeepgram\nhttps://deepgram.com/\n\nSilver Sponsor \n\nAffinidi\nhttps://affinidi.com/\n\nLuxoft \nhttps://www.luxoft.com/\n\nThoughtworks\nhttps://thoughtworks.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2fvoGbkG2eo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2fvoGbkG2eo"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "2fvoGbkG2eo",
+        "videoPublishedAt": "2023-10-03T14:08:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mTVKJmMhbjSmvGi9muxKNXc18Ys",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-10-05T04:13:37Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Master the Next Wave of Identity Management: Leveraging Decentralized Auth with Affinidi Login",
+        "description": "Join this workshop to delve into the world of privacy preserving passwordless authentication where First sign-in acts as registration, collecting essential onboarding data in a seamless process, fostering trust and improving user experience. Users have complete control, ensuring transparent and user-friendly consent for information sharing.Empowering developers to craft efficient, secure, and privacy-conscious user experiences with data integrity and industry-standard compatibility.\n\nAffinidi - https://affinidi.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P91D3CIlKbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P91D3CIlKbQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "P91D3CIlKbQ",
+        "videoPublishedAt": "2023-10-05T10:09:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "62g_Q1ifMiYF6AqB_hDS_ilwVzk",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-10-14T18:51:59Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "AI Vision with React - Gant Laborde",
+        "description": "It's no secret that AI is the hot new thing, but what does that mean for React and React Native? It means we're going to build new features and apps that have never been seen before, and I'm going to help you do it! Join me in an adventure into AI vision, Machine Learning concepts, and React.\n\nGant Laborde is an owner of Infinite Red, mentor, adjunct professor, published author, and award-winning speaker. For 20 years, he has been involved in software development and continues strong today. He is recognized as a Google Developer Expert in Web and Machine Learning, but informally he is an “open sourcerer” and aspires to one day become a mad scientist. He blogs, videos, and maintains popular repositories for the community.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ktkecEXv7mQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ktkecEXv7mQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ktkecEXv7mQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ktkecEXv7mQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ktkecEXv7mQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ktkecEXv7mQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "ktkecEXv7mQ",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GNLTiVbFjWFouuwReGySVsw8imo",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:15:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Scaling Creativity: A Deep Dive into Generative AI and React Integration - Rakesh Ravuri",
+        "description": "Taking a technical exploration into the implementation and challenges of combining Generative AI with React.\n\n\nRakesh Ravuri  - CTO, Publicis Sapient\n\nRakesh Ravuri is a CTO & SVP in Publicis Sapient's Engineering Capability. As the CTO for Publicis Sapient, Rakesh heads engineering strategy and engineering capability development in India. Rakesh also plays the role of engineering lead globally for all Publicis Sapient's Retail engagements.\\nThis is Rakesh's second innings at Sapient. He has served in various engineering roles for Publicis Sapient's partners in Retail & Financial industries, delivering internet scale e-commerce solutions, high frequency trading and real time risk evaluation systems. He has experience leading cross geography teams and proven track record of enabling business outcomes working in a GDD model.\\nPrior to joining Sapient, Rakesh worked as Director of Technology at Amazon led the team to help roll out Amazon Shipping product in four countries and was Chief Architect at Tesco for their online systems and helped rollout their international groceries ecommerce platform in nine countries. He holds a Bachelor's Degree in Engineering from NIT Surathkal and a Master's Degree specializing in robotics from Texas A&M.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QVS5-L2hd5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QVS5-L2hd5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QVS5-L2hd5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QVS5-L2hd5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QVS5-L2hd5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QVS5-L2hd5o"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "QVS5-L2hd5o",
+        "videoPublishedAt": "2023-10-14T20:11:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6U9Jm8IVKpokiENjfGvwE5ABd-k",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:15:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Roasting your Non Accessible Websites - Agney Menon",
+        "description": "About the session Roasting your Non Accessible Websites\n\nAre you tired of bland talks about web accessibility? Well, get ready for a roasting like no other! In this fun and engaging talk, we will roast common accessibility issues that website owners often overlook, and provide practical tips and tools for improving website accessibility. From lack of alternative text for images to inaccessible forms, we will roast it all! But fear not, we will also provide you with the knowledge and tools to make your own websites more inclusive and accessible to all users. So, come join the roast and learn why web accessibility matters!\n\n\nAgney Menon is a Computer Science Engineer deeply in love with Ideas and Storytelling. I build user interfaces for the web as a career and hobby. I'm committed to working towards a positive experience for everyone on the web. I have 6 years of professional experience in building web applications targeting both consumer and enterprise platforms. I have worked with small and medium sized startups closely communicating and improving on technical specifications and modelling user experiences for products.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZHVy3Bsnkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZHVy3Bsnkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZHVy3Bsnkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eZHVy3Bsnkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eZHVy3Bsnkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eZHVy3Bsnkg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "eZHVy3Bsnkg",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M_LbUiqgVA5tKAKlFfIki09IAwY",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-10-14T18:59:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Understanding the new Suspense SSR architecture in React 18 - Kirti Vernekar",
+        "description": "About the session\nUnderstanding the new Suspense SSR architecture in React 18\n\nReact's server-side rendering (SSR) is preferred by many developers to improve performance & SEO. SSR involves 4 steps i.e. fetching your app data & rendering to HTML on the server and loading the JavaScript code & hydration on the client-side. Before React 18, each of these steps had to be completed one after other for the entire app. This could cause the bigger & slower part of your app to block the other parts, affecting the UX.Current optimisations in React 18 allow you to use Suspense to split your app into smaller parts that will go through these steps independently. Users can now view the content sooner and start interacting with it much faster.\n\n\nKirti Vernekar is a web developer and product design enthusiast. She love designing and building digital experiences. She is a huge believer in the idea of simplifying UI and maximising UX! When not juggling with tabs, She enjoy making 3D art and talking about fiction.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QlHGEkuJz-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QlHGEkuJz-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QlHGEkuJz-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QlHGEkuJz-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QlHGEkuJz-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QlHGEkuJz-Y"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "QlHGEkuJz-Y",
+        "videoPublishedAt": "2023-10-14T20:11:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FRssjBXVf6wCJg9IBnee-tcfy9o",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:15:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Oops! You’ve chunked too hard! - Saurav Varma",
+        "description": "About the session  Oops! You’ve chunked too hard!\n\nWouldn’t it be really nice if we could get a warning message from the browser that tells us when we’ve gone overboard with our enthusiastic code splitting?\n\nFrom the years we’ve spent optimising performance at 1mg, we quickly learned that chasing objective improvements in the web vital scores not only start giving diminishing return post a threshold, but instead starts creating artefacts that can be very jarring for the user. Yes, your app is now really fast but is it pleasant for the user?\n\nTalk contains: Understanding user psychology, perceived performance hacks, how important INP is, code splitting approaches, react server components, leveraging web APIs to tie it all in together.\n\n\nSaurav Varma aka Chaos agent @ 1mg. Always trying to stir up ideas and ensuring that things that can have a large impact on people's lives are done and done with care.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0VheFG8MMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0VheFG8MMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0VheFG8MMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k0VheFG8MMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k0VheFG8MMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k0VheFG8MMQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "k0VheFG8MMQ",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rV0p46BhR6feGnOzwc5Lv4NCfcw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:15:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building a Notion-like editor for the masses - Rajat Kapoor",
+        "description": "About the session Building a Notion-like editor for the masses\n\nIn this talk, we will examine the process of building a Notion-like editor experience in React applications using open-source libraries such as tiptap and slate. The focus will be on the practical steps to integrate these libraries into React projects and how to customize the editor to meet specific requirements. Attendees can expect a detailed walkthrough of utilizing tiptap and slate to create a familiar, user-friendly text editor within their React applications, along with insights into potential customizations and optimizations. The goal of this presentation is to provide a comprehensive understanding of the tools and techniques necessary to implement a powerful and intuitive editor experience in React-based projects.\n\nRajat Kapoor identify as Product engineer and IndieHacker with over 7+ years of experience working with early-mid stage startups. I like working in smaller teams creating delightlful products that immediately solve the users problem in an intuitive way I am currently working as the Product Engineering Lead @ Hashnode and have been building rich text editors for the past 6 years I am open source evangelist, hihgly unopinionated and try to choose the best tech for the problem at hand. I am a strong believer in creating things quickly, then getting them right and then optimizing it. I also have created side projects that are being used by 200,000+ people, and have single handledly created launched products to #1 on product hunt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uCSN5D_BLnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uCSN5D_BLnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uCSN5D_BLnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uCSN5D_BLnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uCSN5D_BLnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uCSN5D_BLnI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "uCSN5D_BLnI",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gZGzFqNb91lIm4tP0yEWzowNzTQ",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-10-14T18:38:26Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Alexa, How can I make my site accessible - Sailesh Raghavan | Gautam Chadha",
+        "description": "Alexa, How can I make my site accessible  talk by Sailesh Raghavan | Gautam Chadha",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jaiGlSoFCK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jaiGlSoFCK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jaiGlSoFCK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jaiGlSoFCK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jaiGlSoFCK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jaiGlSoFCK0"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "jaiGlSoFCK0",
+        "videoPublishedAt": "2023-10-14T20:11:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z26I422FA5un2lVNpC1aGP1mJoI",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:15:41Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Fortify and Defend: Mastering React App Security in the Wild - K Srinivas Rao",
+        "description": "Abstract:\n\nIn a digital landscape rife with lurking threats, the onus falls on developers to fortify their React applications against cunning adversaries. Join us in this exhilarating session as we unveil the secrets to mastering production-grade security in React apps. Through a captivating exploration of web security vulnerabilities, the enigmatic world of JWTs, cookies, and sessions, and battle-tested authentication techniques, we'll equip you with the skills and knowledge needed to protect your code and users. Brace yourself for an adrenaline-fueled journey that will revolutionize the way you defend your React apps.\n\nDescription:\n\nSection 1: Unveiling the Shadows of Web Security\nPrepare to enter a world where danger lurks at every corner. In this gripping opening section, we'll shed light on the menacing web security vulnerabilities that haunt React apps. Through riveting real-life examples and shocking demonstrations, we'll expose the lurking threats of Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and other malevolent attacks. Feel the tension rise as we unravel the techniques employed by adversaries to exploit vulnerabilities and gain unauthorized access. With heart-pounding intensity, you'll gain a deep understanding of the risks and threats that plague React apps, arming you with the knowledge needed to combat them.\n\nSection 2: Demystifying the Enigma: JWTs, Cookies, and Sessions\nPrepare to be captivated as we demystify the complex world of JWTs, cookies, and sessions. These enigmatic entities play a pivotal role in authentication and security, but their inner workings often remain a mystery. Through a spellbinding exploration of their anatomy and purpose, we'll unlock the secrets that lie within. Witness the rise and fall of tokens, the interplay between client and server, and the mechanisms that underpin secure communication. Brace yourself for mind-bending revelations that will unravel the mysteries surrounding authentication in React apps.\n\nSection 3: The Arsenal of the Guardian: Achieving Production-Grade Security\nStep into the shoes of a guardian as we equip you with an arsenal of battle-tested techniques to achieve production-grade security in your React apps. Feel the weight of responsibility as we guide you through the implementation of robust authentication mechanisms, including multi-factor authentication, OAuth, and role-based access control. Unleash the power of encryption and secure communication protocols, fortifying your app's defenses against prying eyes. Witness cutting-edge techniques such as content security policies, input validation, and security headers, transforming your React app into an impenetrable fortress. Through exhilarating case studies and hands-on demonstrations, we'll empower you to navigate the ever-changing security landscape and emerge victorious in the relentless battle against malicious threats.\n\nKey Takeaways:\n\n- A deep understanding of web security vulnerabilities and how they impact React apps.\nClarity on the intricate workings of JWTs, cookies, and sessions, and their role in authentication.\n\n- Battle-tested techniques for achieving production-grade security, including multi-factor authentication, encryption, and secure communication protocols.\n\n- Strategies to fortify your React app against attacks such as XSS, CSRF, and unauthorized access.\n\n- Insights into cutting-edge security measures, including content security policies, input validation, and security headers.\n\n- Empowerment to safeguard your code and protect your users from relentless threats in the wild.\n\nGet ready to embark on an adrenaline-fueled journey that will revolutionize the way you defend your React apps. Arm yourself with knowledge, embrace the challenges, and emerge as a guardian of production-grade security. The time has come to fortify and defend your creations. Will you accept the challenge?\n\nAbout K Srinivas Rao\n\n'm Srini, an experienced React developer and passionate advocate for secure coding practices. With a focus on production-grade security, I aim to equip developers with the knowledge and tools needed to protect their React apps from malicious attacks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1VIZFA3QqFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1VIZFA3QqFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1VIZFA3QqFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1VIZFA3QqFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1VIZFA3QqFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1VIZFA3QqFQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "1VIZFA3QqFQ",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vTloV3ISXTJrFqTbJcsnUhm39lw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-10-14T18:32:03Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Lights, Camera, React! Unveiling the Power of Remotion for Video Creation - Aaishik Dutta",
+        "description": "Aaishik is a Software Engineer at Publicis Sapient. He is an experienced Full Stack Web Developer and a Data Science Enthusiast\n\nAbout the session\nLights, Camera, React! Unveiling the Power of Remotion for Video Creation\n\nIn this keynote, I'll dive into the exciting world of video creation using the power of React and Remotion. Traditionally, video production has been a complex and time-consuming process requiring specialized tools. However, with the combination of React and Remotion, we can revolutionize this workflow.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/voZ_aDTMCFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/voZ_aDTMCFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/voZ_aDTMCFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/voZ_aDTMCFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/voZ_aDTMCFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "voZ_aDTMCFk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "voZ_aDTMCFk",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eTqZeTHSUg3oxRBlcREko_VtaIQ",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2023-10-15T08:15:49Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The state of Augmented Reality and React Native in 2023 - Vladimir Novick",
+        "description": "AR is a fascinating topic as more and more AR apps hit the stores. React Native is also really popular, but there is a problem in combining the two. Developing AR apps with React Native has been always a challenge. Few years back solution was ViroReact, but it mostly provided a way to develop really simple apps. What if we want to develop full blown AR app and integrate it into existing React Native app? Is it possible at all? And if so how we can do that? In this talk Vladimir will explain how you can create AR app using 3D engine such as Unity and integrate into existing React Native app.\n\nAbout Vladimir \n\nIndependent consultant, software architect, worldwide speaker, trainer, published author. On a daily basis, Vladimir works in Web and Mobile fields advocating the usage of GraphQL, React Native, Cloud-native and Serverless architectures with emphasis on scalability, code quality and best practices.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1V1Gq4LHcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1V1Gq4LHcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1V1Gq4LHcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1V1Gq4LHcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1V1Gq4LHcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K1V1Gq4LHcA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "K1V1Gq4LHcA",
+        "videoPublishedAt": "2023-10-15T05:44:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i4KQcnZFJ27uSBQlCzsXRR-LbDc",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2023-10-15T08:17:00Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Reimagine Digital Onboarding with Identity-based Passwordless solution powered by Affinidi Login",
+        "description": "Reimagine Digital Onboarding with Identity-based Passwordless solution powered by Affinidi Login\n\nJoin our lightning talk for a glimpse into the future of customer onboarding. Delve into emerging standards such as Decentralised Identifiers (DIDs), Verifiable Credentials, and OpenID for Verifiable Presentations (OID4VP). These form the foundational building blocks for a seamless digital identity across diverse platforms. \n\nDiscover the innovative approach of Affinidi Login, which not only supports the familiar social login method but flips the script: instead of users logging into applications, applications request to log into users' holistic identities. This shift drastically reduces repetitive user sign-ups, elevating the overall experience. \n\nWith Affinidi Login, we're redefining the role of Identity Provider and advancing the groundbreaking idea: \"The User is the API.\" This consent-driven data-sharing model grants developers the tools to design experiences that prioritise data accuracy, enhanced security, and user privacy, all while aligning with prevailing industry norms for swift adoption. \n\nThe future of UX is here! Say goodbye to endless forms and tedious data inputs. Join us to pioneer a user experience that is built on open standards, combining strong security with seamless user interactions.\n\nGiriraj is Head of Solutions Architecture at Affinidi. He leads a global team of architects who help customers take more control of their data using decentralized technology and well-architected products and solutions. With over 17 years of experience in software development, cloud computing, enterprise architecture, and business transformation, working with clients from various industries such as insurance, retail, and entertainment, Giri is passionate about solving hard problems, getting things done, and creating value for customers and stakeholders. His goal is to change data ownership for good and enable new business models and opportunities with emerging technologies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJwG6XJgRe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJwG6XJgRe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJwG6XJgRe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WJwG6XJgRe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WJwG6XJgRe8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WJwG6XJgRe8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "WJwG6XJgRe8",
+        "videoPublishedAt": "2023-10-15T05:44:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EL-UR3oA6mk3KH7UF4Wxb35XyOY",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:36:51Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React Native: 3D and Canvas Animation Using react-skia - Vilva Athiban",
+        "description": "In this talk, we will delve into the exciting world of 3D and canvas animation in React Native using the powerful react-skia library. React Native has revolutionized mobile app development, and with the emergence of react-skia, developers now have the ability to create stunning, immersive animations that were once limited to native apps. Join me as we explore the capabilities of react-skia and learn how to unleash the full potential of React Native for your animation needs.\n\n\nOutline:\nThis talk includes Live coding and demo.\nIntroduction to React Native and Animation:\nBrief overview of React Native and its advantages for cross-platform development.\nThe role of animation in enhancing user experience and engagement.\nMeet react-skia: A Gateway to 3D and Canvas Animation:\nUnderstanding the react-skia library and its integration with React Native.\nKey features and benefits of using react-skia for animations.\nGetting Started with react-skia:\nSetting up a React Native project with react-skia.\nExploring the basics of canvas animation using react-skia primitives.\nBuilding 3D Animations:\nIntroducing 3D concepts in react-skia.\nCreating and manipulating 3D objects in a React Native app.\nImplementing lighting and shading for realistic 3D effects.\nComplex Canvas Animations:\nLeveraging react-skia to build complex canvas animations.\nIncorporating user interactions and gesture-based animations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G50c3SAJLoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G50c3SAJLoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G50c3SAJLoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G50c3SAJLoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G50c3SAJLoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G50c3SAJLoY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "G50c3SAJLoY",
+        "videoPublishedAt": "2023-10-15T05:44:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BRoi4cpLPSp0LzFS4-XFXpgih38",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:41:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "INP at Disney+ Hotstar - Ayush Singh",
+        "description": "Hotstar understands the importance of user experience and takes proactive measures to address high Interaction to Next Paint (INP). This talk will explore our journey in measuring and improving INP to ensure a seamless user experience. It will outline the significance of INP measurement, the challenges faced in maintaining optimal responsiveness, and the tools and techniques employed for INP analysis. The talk will discuss specific issues encountered in the living room environment and the innovative solutions implemented to accurately attribute INP. Additionally, it will highlight the strategies used to prevent INP regressions at scale and the various avenues explored to optimize INP in the Hotstar web app.\n\nAbout Ayush singh \n\nI am a professional Frontend Engineer with a sense of UI design. With ~4 years of industry experience, mostly solving problem statements related to Web Performance, Server Driven UI, and Web Animations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iAluIQw2vTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iAluIQw2vTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAluIQw2vTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iAluIQw2vTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iAluIQw2vTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iAluIQw2vTw"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "iAluIQw2vTw",
+        "videoPublishedAt": "2023-10-15T05:45:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2vJYB4e9R-aQ51Udw5Opms8xoeM",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:45:07Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building Interactive 3D Scenes with Three.js - Ritesh Kumar",
+        "description": "This proposal calls for a step-by-step talk on the use of three.js, in which the speaker will walk through each stage of developing a web application that allows users to create various human poses using 3D models. The talk will go over the technical details of the implementation, as well as the advantages and disadvantages of using three.js in web development and the difficulties encountered when doing 3D on the web. The finished product will be a reference web application hosted at reference.riteshkr.com.\n\nRitesh is a software developer, musician, and artist with a passion for creating innovative solutions. He is very involved in the open source community and has made important contributions to projects in the fields of tooling, art, and music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M9XXqlsHEY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M9XXqlsHEY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M9XXqlsHEY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M9XXqlsHEY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M9XXqlsHEY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M9XXqlsHEY8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "M9XXqlsHEY8",
+        "videoPublishedAt": "2023-10-15T05:51:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q7QgyXpVep8cTBuEvkWxAdl0mlU",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:13:40Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React Forget: React for developers and compilers - Sathya Gunasekaran",
+        "description": "Sathya is a software engineer on the React core team at Meta. Previously, he worked on the V8 JavaScript compiler at Google.\n\nAbout the session Statically analysing react components for fun and profit.\nHis talk will dive into what makes the react programming model be such a great target for compilers and static analysis.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kjOacmVsLSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kjOacmVsLSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kjOacmVsLSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kjOacmVsLSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kjOacmVsLSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kjOacmVsLSE"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "kjOacmVsLSE",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bl5yPXbhGne9IOM6X0z9-NzsBb0",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:54:10Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The journey from tags to pixels - Siddhant",
+        "description": "In this talk, we will take a deep dive on understanding Blink the renderer that powers the chrome!\n\nWe will talk about various trees.\nC++ bindings\nHow glyphs work\nHow the CSS style pipeline works\nHow compositer works\nHow GPU works\n\nSiddhant is Frontend Engineer with a knack for web performance!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CRfsz5j3oww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CRfsz5j3oww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CRfsz5j3oww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CRfsz5j3oww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CRfsz5j3oww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CRfsz5j3oww"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "CRfsz5j3oww",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OFvbhDF-fB0OvuFU2xNGwP1wBa4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:18:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "WordPress-like plugins, but for Next.js - Sanket Sahu",
+        "description": "About the session WordPress-like plugins, but for Next.js\n\nJoin me on my journey of creating the Next.js WordPress-like Plugin System, an experiment that enhances Next.js applications by allowing easy installation and customization of plugins for features like Google Analytics, Social Login, and E-commerce. I'll showcase the unique features of the file-based plugin system, such as persistent storage per plugin, registration of components, routes, and functions, and a cross-plugin event system. The talk also shares the story of how and why I solved this problem to make developers' lives easier. Check out the experiment at https://github.com/gluestack/next-wordpress-plugins.\n\n\nAbout Sanket \n\nHe found my love for computers at the age of 8 and haven’t looked back ever since. He built a bunch of products (builderX) and OSS (NativeBase) and lead a consulting company of 500+ folks. He is very fortunate to combine my two passions, design and code, into what he does for a living. Sanket is founder at GeekyAnts and still a developer at heart. Currently, he spend my days in his self designed caravan, learning what it’s like to live as a digital nomad and I can’t wait to share my stories with you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pfXzmUAw1dI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pfXzmUAw1dI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pfXzmUAw1dI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pfXzmUAw1dI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pfXzmUAw1dI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pfXzmUAw1dI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "pfXzmUAw1dI",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mRvxfzSuM19K-lbBatXk_tUSlRw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:20:21Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Supercharging User Experience with Predictive Prefetching - Vishal Sharma",
+        "description": "In this talk we will explore the concept of predictive prefetching and how it increases the web performance and INP(Interaction to Next Paint) score.\nAs we at 1mg always focus on enhancing user experience and setting new benchmarks for performance, we believe that by anticipating user actions and proactively fetching the necessary resources in advance, we can drastically improve the user experience and achieve performance similar to that of native applications.\n\nAs we built the prefetching module, we built it as a standalone library so that you can plug it into any project. Also we fine tuned the package to handle most of the things on its own like not fetching too many resources as it's a waste of user’s data bandwidth and clearing existing data fetching processes on user navigation. Optimize the prefetching process to work seamlessly across different devices and network conditions.\n\nWhat have we built:\n- Route prefetching package which you can integrate to any JS framework. This package accepts either the routes for which we want to prefetch bundles or direct link to the resource.\n- React hooks over the package to easily integrate with a React Project.\n- A webpack plugin which reads your projects routes file and generates routes(navigation links) to JS bundles mapping. It supports both Loadable and React Lazy chunking.\n- A client to fetch next routes based on the user's current journey and also push the events data to your AI model.\n- Also we have built another layer if you don’t want to use the AI model to get routes you can use this layer to fetch resources for the links available in the current view of the page which we are updating as user scroll using JS Intersection Observer API.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NPQwzKP6OMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NPQwzKP6OMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NPQwzKP6OMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NPQwzKP6OMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NPQwzKP6OMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NPQwzKP6OMQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "NPQwzKP6OMQ",
+        "videoPublishedAt": "2023-10-14T20:11:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lcs417mV8oZpn5uOQO7Kv83bDCU",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:57:50Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building an Image Component for Web Powered by Edge: Enhancing Image Experience and Performance",
+        "description": "In today's web landscape, delivering high-quality images efficiently is crucial for providing an exceptional user experience. We will dive into creating an Image Component for the web that harnesses the power of Edge to optimise image delivery, resulting in enhanced performance and improved user experience.\n\nAkshay Ashok building frontend and Web infra at Razorpay. Loves to go on trekking and binge anime when not coding.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_6FFj3599Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_6FFj3599Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_6FFj3599Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_6FFj3599Pk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_6FFj3599Pk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_6FFj3599Pk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "_6FFj3599Pk",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f7v1iT_devX_8ERw-vfKhYfWy_E",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:47:48Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "TypeScript Patterns for Better React Components - Glenn Reyes",
+        "description": "Ever got frustrated typing the as prop in React components? How about this in combination with forwardRef? To put it short: It's not easy. Let's delve into strategies for constructing Compound Components, Polymorphic Components, and Components wrapped in forwardRef, while avoiding the use of type casts and ensure precise TypeScript typings.\n\nGlenn is a software engineer, tech speaker and workshop instructor with a passion for building innovative products and beautiful user interfaces using cutting edge web technologies and open source software such as React, GraphQL and TypeScript. Aside from tech, you’ll find him either traveling, on a road bike or playing the guitar.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-S1XgjLKFF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-S1XgjLKFF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-S1XgjLKFF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-S1XgjLKFF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-S1XgjLKFF8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-S1XgjLKFF8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "-S1XgjLKFF8",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CLjHiU1aLOH6sRu--uT39CO_prM",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:36:49Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Unit Testing Accessibility - Vishal Sharma",
+        "description": "About Vishal Sharma \n\nVishal serves Thoughtworks as an Lead Frontend Developer with over a decade of experience in building high-performance, pixel-perfect, SEO-optimized and accessible front-end applications. He has been involved in bootstrapping multiple projects starting from the inception phase to delivery by following the Agile methodologies like Extreme programming, TDD, Continuous Integration and Deployments etc.\\nWith Micro Frontend space picking up pace, he has already helped kick start different projects using Micro Frontends and have been sharing the experience around the same with the community by delivering different talks, writing blogs and conducting architecture workshops.\\nVishal is also working as India frontend community lead at ThoughtWorks where he is responsible for driving the frontend community wide initiatives across India and synchronizing with global community members. Apart from this, he has been a curator of different courses/workshops within the ThoughtWorks community.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yLLlIV7kzBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yLLlIV7kzBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yLLlIV7kzBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yLLlIV7kzBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yLLlIV7kzBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yLLlIV7kzBI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "yLLlIV7kzBI",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YcJ7_XptBLPOwHgUkwHki-yZvWo",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2023-10-14T20:10:37Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "In the World of JS Frameworks, It’s an HTML Framework - Saurabh Daware",
+        "description": "What if we had HTML instead of JavaScript at the center of frontend libraries? Would it be more performant? Would it be more beginner friendly?Presenting an open-source HTML framework I built that lets you add custom routing, React (and other framework) components, NPM libraries, Vite plugins, and much more while keeping the setup close to the vanilla HTML, CSS, and JS setup that we all know of.Spoiler Alert: Building static-sites is going to get more fun!\n\nAbout Saurabh Daware\n\nSenior Frontend Engineer @Razorpay, Creator of Text-to-Handwriting, Abell, Projectman. Loves web tooling and building random projects ✨",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/brbOW--PEKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/brbOW--PEKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/brbOW--PEKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/brbOW--PEKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/brbOW--PEKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "brbOW--PEKM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "brbOW--PEKM",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "naWnStp5g8-xgBDTRmMJohKe_Po",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:56:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Home Screen Widgets with React Native - Menahi Shayan",
+        "description": "Home Screen Widgets with React Native\n\nThis talk looks into Home Screen Widgets and how they can benefit your React Native app. Further, it discusses how widgets can be implemented in a React Native app and the various functionality you can achieve. It also provides glimpses of upcoming feature to widgets and shares some tips & advice on how you can improve your widget game so your users will love it!\n\n\nAbout Menahi Shayan\n\nHi, I'm Shayan, a Senior Frontend Engineer at Zenduty and a critical thinker who loves leveraging the power of code to solve real-world issues. As someone who enjoys building nifty little tools and snippets that make my (and other people's) lives easier, I'm always thinking about my next big project and how much simpler it'll make my day. I've served as CTO of an ed-tech venture and have led several teams over the years to build scalable production-grade React and React Native projects. I also enjoy actively participating in UX decisions and aim to build products that are intuitively effortless to use.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOmvSDH8seI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOmvSDH8seI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOmvSDH8seI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fOmvSDH8seI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fOmvSDH8seI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fOmvSDH8seI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "fOmvSDH8seI",
+        "videoPublishedAt": "2023-10-14T20:11:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-zMM4i0ONU6zZ-iJzJ9mAruFQzw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:59:35Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Exploring React Edge Side Rendering powered by WebAssembly   -Apoorva Srivastava",
+        "description": "We will discuss the benefits of using ESR and Web Assembly, including faster load times and improved user experience.\n\n\nApoorva is a Senior Associate eXperience Technology, with an experience of over 5 years on front-end development. She has worked on building hybrid mobile apps and web apps for Insurance and Banking. She is enthusiastic about inclusive front-end solutions and believes that simple design makes a great user experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aWzDBJHgiEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aWzDBJHgiEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aWzDBJHgiEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aWzDBJHgiEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aWzDBJHgiEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aWzDBJHgiEc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "aWzDBJHgiEc",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "az-SIVjOR9LONoBfkyOm1zUUcUc",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2023-10-15T08:21:11Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Combining AI and React for stand-out CX Stories - Ashish Yadav",
+        "description": "About  Ashish Yadav\n\nAccomplished Solution Architect offering 14 years experience in comprehensive design and development of infrastructure and architecture for software projects. Attentive collaborator and communicator from project conception to completion. Creative in devising solutions to improve business operations and meet clients' technical needs. Seasoned team leader possessing the technical and interpersonal skills to provide exceptional project deliverables.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnDuZZhOWjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnDuZZhOWjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnDuZZhOWjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnDuZZhOWjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnDuZZhOWjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnDuZZhOWjg"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "jnDuZZhOWjg",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ik9jv7bgap1x8geEY9jFo9Ml6mU",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:32:06Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building yet another fullstack javascript framework - Vidhi Kataria",
+        "description": "This talk revolves around a new fullstack framework gluestack, it goes about how and why we build it and its functioning challenges and the whole case study.\n\nAbout Vidhi Kataria\n\nI'm a Software Engineer III @Geekyants who finds solace in the beauty of nature and the thrill of traveling. With a genuine love for exploring new technologies, I've had the opportunity to contribute to remarkable projects like NativeBase, DSX, NativeBase Builder, apibeats and the ongoing development of the Gluestack Framework.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ivZAsyVLhR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ivZAsyVLhR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ivZAsyVLhR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ivZAsyVLhR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ivZAsyVLhR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ivZAsyVLhR8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "ivZAsyVLhR8",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLD3NsJgZ_dHK_yrAbtrZwTDrAc",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2023-10-14T19:43:33Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Empathy-Driven Innovation: Building a Culture of Technical Empathy in the Software Industry",
+        "description": "In the software industry, cultivating a culture of technical empathy is essential for driving innovation, fostering collaboration, and delivering user-centric solutions. This session explores the significance of empathy in the software industry and its impact on product success and customer satisfaction. We will delve into the challenges faced by software professionals in understanding diverse user needs and the importance of cultural sensitivity in a global market. Through practical strategies and real-world examples, this talk aims to equip individuals and organizations in the software industry with the tools to build a culture of technical empathy, resulting in more inclusive, impactful, and empathetic software solutions.\n\n\nAbout Reefa \n\nReefa Dias is a Technical Project Manager at Red Hat. She has 7+ years of experience with an extensive background in software engineering and has gained an intimate understanding of what makes a technical projects successful. She is a solution-oriented professional equipped with problem solving, strategic and analytical skills, and Passionate about innovation and technology.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xx3fmr5htZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xx3fmr5htZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xx3fmr5htZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xx3fmr5htZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xx3fmr5htZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xx3fmr5htZ8"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "xx3fmr5htZ8",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GY-Tv2Ariv-4ptFtsppNF2dAZ0c",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2023-10-14T20:02:23Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Introduction to Qwik - Sanyam Kamat",
+        "description": "Intro to Qwik: A superfast JavaScript framework\n\nQwik is a new kind of framework that is resumable (no eager JS execution and no hydration), built for the edge and familiar to React developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XoMgzPxJdKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XoMgzPxJdKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoMgzPxJdKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XoMgzPxJdKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XoMgzPxJdKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XoMgzPxJdKw"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XoMgzPxJdKw",
+        "videoPublishedAt": "2023-10-14T20:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GNqxx0EYY-LEFThFKIZmiWv0qEw",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:49:32Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Sharing logic & state between universal web and mobile apps - Mo Khazali",
+        "description": "Nowadays, you can write web, mobile, and server side code in Javascript/Typescript. There's a lot of excitement brewing around using React Native to build a single universal web & (native) mobile app - write once, ship everywhere. It's an exciting idea, but does it hold up in reality? Let's explore the benefits and challenges of building universal mobile & web apps with React Native.\n\nMo is the Head of Mobile and a Tech Lead at Theodo UK, having worked on several projects with startups and established enterprises to create cross-platform mobile application in React Native. He's passionate about React Native, MobileDevOps, and pushing the boundaries of combining code across web and mobile. Before joining Theodo, Mo was a full-stack developer at Nasdaq. He is a graduate from the University of Edinburgh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SvrDM_ARJBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SvrDM_ARJBk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "SvrDM_ARJBk",
+        "videoPublishedAt": "2023-10-15T05:59:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eLW0m83o1A6tSQpyDAW1C9hBkwA",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:47:48Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Unlock Holistic Identity and Elevate Digital Onboarding with Affinidi - Adam Larter",
+        "description": "Adam Larter is the Chief Technology Officer (CTO) of Affinidi, a technology company with a mission to change data ownership for good. As CTO, Adam oversees the progress and development of decentralised technology that will pave the way for the next generation of digital identity. His focus lies in establishing end-to-end trust in data, fostering a privacy-preserving and enriching data exchange experiences. Under his leadership, he spearheaded the development of the Affinidi Trust Network (ATN), the company’s technology stack. The ATN suite of products aims to empower individuals to take control of their data, enabling them to present a comprehensive representation of themselves, and actively engage in safeguarding their privacy within the digital realm. Previously, Adam spent 8 years as the Head of Developer Acceleration at Amazon Web Services, and previously held the position of CTO at Dubsat where he was chief architect for all media and metadata-related systems globally. He graduated from Monash University with a Master’s in Information Technology, Computer Software Engineering.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rw6BBleyZjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rw6BBleyZjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rw6BBleyZjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rw6BBleyZjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rw6BBleyZjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rw6BBleyZjc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "Rw6BBleyZjc",
+        "videoPublishedAt": "2023-10-15T05:59:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-4tlB2-jBHub78ZP5jAP3_7BhMo",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2023-10-15T05:50:45Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Measuring Coverage of React Design System - Karan Kiri",
+        "description": "Design systems are becoming increasingly popular in modern front-end development. However, measuring the usage and coverage of these design systems is often challenging. In this lightning talk, I'll discuss about a tool that we're working on which uses react-scanner and Abstract Syntax Tree (AST) with custom scripts to generate component usage data for a React design system.\n\nThe talk will cover how we generate this data and how it is rendered in a dashboard to provide valuable insights on the coverage of the design system.\n\n- Introduction to react-scanner\n- Measuring Component Usage\n- Identifying Native HTML elements and Styled Components\n- Showing Tree structure of Page in terms of Components\n- Highlighting Anti Patterns\n- Benefits / Use Cases for this tool",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3IVX8sTu15E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3IVX8sTu15E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IVX8sTu15E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3IVX8sTu15E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3IVX8sTu15E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3IVX8sTu15E"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "3IVX8sTu15E",
+        "videoPublishedAt": "2023-10-15T05:59:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-y74icAbKpP_K7qrKJxq8w1JHAM",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "IUI (Intelligent User Interface) - Trishanth Naidu",
+        "description": "Hi there, I'm Trishanth Naidu. I am a Software Developer at Paypal. I spend most of the time practically everyday experimenting with React, JavaScript for making apps work better, faster and less troublesome. I have currently started up with my liking towards the world of ML and CI / AI and looking forward to add a lot of them to my upcoming projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aojWZIwZkSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aojWZIwZkSY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "aojWZIwZkSY",
+        "videoPublishedAt": "2023-10-23T09:50:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dwoyBf1XadLLBA2O3CAFXl1CGS8",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Type-Safe Style Systems: The Future of CSS - Josh Goldberg",
+        "description": "Hi, I'm Josh! I'm a frontend developer with a passion for open source, static analysis, and the web. I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as typescript-eslint and TypeStat. I'm also the author of the Learning TypeScript book, published by O'Reilly.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XDw2yr0KqzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XDw2yr0KqzQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XDw2yr0KqzQ",
+        "videoPublishedAt": "2023-10-23T09:51:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C0ei_TRyUb4OD7NjIiFzgQ65NR8",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2023-10-23T06:29:43Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Relay Magic: Revisited - Dipak Ingole",
+        "description": "About Dipak Ingole \n\nWeb developer with over 9+ years of experience working on UI frameworks and libraries ranging from jQuery, DOJO to modern SPA world frameworks like Angular to React. Hands on experience working with Wepack, Rollup, GitWeb developer with over 9+ years of experience working on UI frameworks and libraries ranging from jQuery, DOJO to modern SPA world frameworks like Angular to React. Hands on experience working with Wepack, Rollup, Git",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z-oA_QcreAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z-oA_QcreAs"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "z-oA_QcreAs",
+        "videoPublishedAt": "2023-10-23T06:30:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-RDOC7aK4js4Ef4tAUQ6PFD9MY0",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Computer Science of Fibers - Matheus Albuquerque",
+        "description": "Matheus is a Sr. Front-End Engineer at Medallia, building their surveys platform and helping them shape the customer experience market with React, and a Google Developer Expert in Web Performance. His areas of interest include React and its ecosystem, JS and compile-to-JS languages, DX, and perceived performance optimization. Aside from public speaking about these, he also volunteers at TechLabs, teaching front-end development.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Q6dclJGHjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0Q6dclJGHjA"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "0Q6dclJGHjA",
+        "videoPublishedAt": "2023-10-23T09:51:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5wBV7GYIBVf7cTj0TmzIbb6OWX4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "A nerdy guide to the web trending concepts - Daniel Afonso",
+        "description": "Daniel Afonso is a Developer Advocate with a full-stack background, having worked with different languages and frameworks on various projects from IoT to Fraud Detection. He is passionate about learning and teaching and has spoken at multiple conferences related to React, JavaScript, and testing. In his free time, when he's not learning new technologies or writing about them, he's probably reading comics or watching superhero movies and shows.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t304OkG7siM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t304OkG7siM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "t304OkG7siM",
+        "videoPublishedAt": "2023-10-23T09:51:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ud7LJDm1FIuIQlpQD-PmU8Kg9S4",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "How does Netflix build software to streamline organizational operations - Ruchi Agarwal",
+        "description": "Ruchi is a senior software engineer at Netflix with over 12 years of experience in building full-stack web applications. She has led and architected many projects at Netflix and has been a key player in the success of these applications. Prior to Netflix, Ruchi worked at Apple where she worked with the iPhone h/w team, building tools that are used for performance testing of different iPhone configurations. Ruchi has a Bachelor's and Master’s degree in Computer Science. In her free time, she enjoys reading and painting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XA8tCQtpVhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XA8tCQtpVhk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "XA8tCQtpVhk",
+        "videoPublishedAt": "2023-10-23T09:50:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OUzm-tZ2HCVvZFzUmlOWFu1SWIA",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2023-10-23T09:52:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React Server Components: The next paradigm - Shaswat Prabhat",
+        "description": "About Shaswat: Passionate technologist with over eight years of experience in software engineering and Web. Striving to make the world a better place one commit at a time.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WE-oVpoYnoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WE-oVpoYnoQ"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "WE-oVpoYnoQ",
+        "videoPublishedAt": "2023-10-23T09:50:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vxXS9uJIPt14XtQUL9O94pJ_WeY",
+      "id": "UExHeUFPdzhZVzdyZktlUTBfNnpNMzBGc0RsQnpXOWhnUC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2023-10-15T09:01:15Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2023 - Official Aftermovie 🇮🇳",
+        "description": "React India is a community-led not-for-profit initiative with an international flavor. See you soon at React India 2024.\n\nhttps://www.reactindia.io/\n\nFollow us on X - https://twitter.com/react_india\n\n\nVisuals and Motion Graphics - \nShirish Waghmare - https://instagram.com/shirishkebab\nAshish Kataria - https://instagram.com/ashishart.tv\n\n\nPhotography  and videography credits  - Artnest Photography and Films\n\nMusic Credits - Brij dalvi \nhttps://soundcloud.com/brijdalvi/popular-tracks\n\n\nProduced and Curated  by React India Team\nhttps://www.reactindia.io/team\n\nConference Organiser \nhttp://geekabyte.tech/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bsIlJfozdJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bsIlJfozdJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bsIlJfozdJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bsIlJfozdJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bsIlJfozdJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rfKeQ0_6zM30FsDlBzW9hgP",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bsIlJfozdJw"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "bsIlJfozdJw",
+        "videoPublishedAt": "2023-10-15T14:30:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 43,
+    "resultsPerPage": 50
   }
 }
