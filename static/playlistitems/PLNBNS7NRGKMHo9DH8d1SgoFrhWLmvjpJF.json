@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "2rKKw5m_rv48b0CWuYqXizT1DAM",
+  "etag": "vJxr5JUETS-IW53bLkfW0U-Qj7k",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "3Cpmx86mTGSylCG0KvYiVbnCxnU",
+      "etag": "NBvh3b4nvhueMJ900xYidBqhrrQ",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-07-14T15:03:21Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "React Compiler Internals",
+        "description": "Talk: Lydia Hallie - \"React Compiler Internals\", React Summit 2025\n\nReact Compiler was introduced back in 2024 as a way to automatically handle performance optimizations in your apps—but how does it work? \n\nIn this talk, I’ll walk you through some of React Compiler’s internals. We’ll explore its full process, from parsing to Abstract Syntax Tree (AST) transformation, along with its key technologies, benefits, trade-offs, and a practical example of how it transforms your code to prevent unnecessary re-renders.\n\nThe good news: you (luckily) don’t need to master its internals to integrate it into your codebase. That said, a solid grasp of its internals will significantly enhance your ability to apply the optimization techniques it unlocks!\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/react-compiter-internals\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-2025\n\nTimestamps:\n\n00:00 React Compiler and Memoization\n01:49 React Performance Optimization\n03:41 Compiler Optimization Process\n06:12 Single Static Assignment in Compiler\n09:17 Compiler Effect Analysis and Reactive Detection\n12:38 Compiler Scope Discovery and Code Generation\n17:11 Compiler Memoization Optimization\n\n\n🔥 Want to hear talks like this live? Join us at React Summit US 2025 in New York: https://reactsummit.us/?utm_source=youtube&utm_medium=lydiahallie\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactCompiler #GitNation #ReactSummit2025 #ReactJS #TechTalks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pw8w2O5Y0no/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pw8w2O5Y0no/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pw8w2O5Y0no/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pw8w2O5Y0no/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pw8w2O5Y0no/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pw8w2O5Y0no"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "Pw8w2O5Y0no",
+        "videoPublishedAt": "2025-07-14T15:07:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KD0m9tEuM0bwUzkKHHDVpenUTvY",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-07-08T10:53:37Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aOM644IRoGo"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IQWu9iTXkUMcZLzUIduHKHZD_Xk",
+      "etag": "-fJ51VKpy9iywPvhWdOCeknY-OM",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-07-01T12:00:43Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l2dByiwiQcM"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QxoC10o9369gQBO0sPgupNRIQi4",
+      "etag": "JbP7ZCuP5VeyeNHZAcNKqHkpWmw",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-06-20T11:31:48Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aw81OYWKCQc"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oiezJFQuST7RMnacFjQK_6RrSCI",
+      "etag": "OhM2U2M5eO1jLMQbtSC3xAcNoMc",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-06-20T11:27:11Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "axfcwzgWcOQ"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qM_1OvqLnrJn_SXRZ5bwNznB-H8",
+      "etag": "d6GKfZhDxU1qD3LahWjXbXUNeeE",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-06-20T11:14:07Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ms0HywJztnM"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eWjiniwWb_ejLxc16Wa5Zk6f1FY",
+      "etag": "Lkn_8n7XtbJVDvy6tmsdN-0-N44",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-06-20T11:08:58Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jbcEeRqjc6w"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1PF30Td2koq4bO3cqind4ChCfPc",
+      "etag": "sbfOHhTQMC15EFS-IxYj_tmYeLY",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-06-20T10:57:11Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0lcQ-d2oII8"
@@ -382,7 +436,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
