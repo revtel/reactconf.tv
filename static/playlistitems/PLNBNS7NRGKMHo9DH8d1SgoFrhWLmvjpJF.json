@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "vJxr5JUETS-IW53bLkfW0U-Qj7k",
+  "etag": "Xy4rrQXwVI8liq30kAh7ET7EFY8",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "NBvh3b4nvhueMJ900xYidBqhrrQ",
+      "etag": "yQWPzcNdXeB_ufTon7GGpYA2DNs",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-07-18T10:54:46Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "SPA to SSR and Everything in Between",
+        "description": "Talk: Tanner Linsley - \"SPA to SSR and Everything in Between\", React Summit 2025\n\nReact's transformative impact, community support, and server-side evolution highlighted. Exciting developments from static site generators like Next.js and Gatsby to server-side rendering evolution, including React Fiber, Hooks, and server components. The pressure on servers in 2020 led to the announcement of server components, a complex but transformative idea. New challenges arise with weaving server and client, requiring adaptation and file organization. Evaluation of React server components' worth based on server-side needs and bundle issues. SPAs are prevalent and valued, despite the focus on client-side apps. TanStack Router offers unparalleled URL state management and type safety, enhancing SPA development. Exciting developments ahead with the DaVinci release, supported by sponsors for TanStack's full-time commitment and core contributors.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/spa-to-ssr-and-everything-in-between\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-2025\n\nTimestamps:\n\n00:00 React's Evolution and Impact\n02:38 React's Server-Side Evolution\n04:22 React's Server Component Revolution\n05:23 Exploring React Server Component Functionality\n07:23 Challenges of Implementing React Server Components\n09:20 New Frontiers in React Server Components\n11:59 React Server Components: Worth and Reality\n13:36 SPA Importance and Development Commitment\n15:34 Advanced Tool for SPA Development\n16:34 Enhanced Type Safety and URL Management\n18:04 Enhanced State Management and Server Integration\n19:44 Exciting Developments and Acknowledgments\n\n🔥 Want to hear talks like this live? Join us at React Summit US 2025 in New York: https://reactsummit.us/?utm_source=youtube&utm_medium=tannerlinsley\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #TanStack #GitNation #ReactSummit2025 #ReactJS #TechTalks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Y-klH9kkko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Y-klH9kkko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Y-klH9kkko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Y-klH9kkko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Y-klH9kkko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Y-klH9kkko"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "9Y-klH9kkko",
+        "videoPublishedAt": "2025-07-18T11:05:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "APY1F3br3wZmomagW6-MdS4ytA8",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-07-14T15:03:21Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Pw8w2O5Y0no"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KD0m9tEuM0bwUzkKHHDVpenUTvY",
+      "etag": "nPvuQYPw_M0bu-XoqgfUYFSoS9o",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-07-08T10:53:37Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aOM644IRoGo"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-fJ51VKpy9iywPvhWdOCeknY-OM",
+      "etag": "pwlNu-fNq-ijj7Pd70KSg0K28N4",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-07-01T12:00:43Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l2dByiwiQcM"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JbP7ZCuP5VeyeNHZAcNKqHkpWmw",
+      "etag": "N1o2a0dvmBhz2QCxBdKYWcCF3eg",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-06-20T11:31:48Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aw81OYWKCQc"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OhM2U2M5eO1jLMQbtSC3xAcNoMc",
+      "etag": "NbQ-MndkkBMDNpA7_86dtsts5XM",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-06-20T11:27:11Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "axfcwzgWcOQ"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "d6GKfZhDxU1qD3LahWjXbXUNeeE",
+      "etag": "ACt167hDrId1R8D6tyuokHKZROI",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-06-20T11:14:07Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ms0HywJztnM"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Lkn_8n7XtbJVDvy6tmsdN-0-N44",
+      "etag": "Kvw6mzX8KEE8r08ed6Rz70LwQJE",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-06-20T11:08:58Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jbcEeRqjc6w"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sbfOHhTQMC15EFS-IxYj_tmYeLY",
+      "etag": "naiT5lLIX2kABuuVJXxDSqN4UkY",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-06-20T10:57:11Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0lcQ-d2oII8"
@@ -436,7 +490,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }
