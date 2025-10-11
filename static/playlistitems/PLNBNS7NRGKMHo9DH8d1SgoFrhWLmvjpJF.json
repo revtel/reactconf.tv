@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "zBCPC_rYJwgxpGjIaTEj8ZuURaY",
+  "etag": "fBN2xmzrBG425FEKi60Aopfx_AY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "yX6o8DApxFQ2-mF_x2wyITsECEY",
+      "etag": "oPTSVOUIt4WP-5-fg7zChFMyD94",
+      "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2025-10-08T13:10:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Deploy Everywhere with Expo Router",
+        "description": "Talk: Evan Bacon - \"Deploy Everywhere with Expo Router\", React Summit 2025\n\nThanks to Expo Router it's easier than ever to build a beautiful app that runs on iOS, Android, and web. With the addition of AI tooling, it's now easier to build an app than it is to deploy one, but it doesn't have to be. Learn about how we've improved Expo Router and how we're making it easier to ship apps everywhere.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/deploy-everywhere-with-expo-router\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-2025\n\nTimestamps:\n\n00:00 Exploring the Evolution of ExpoGo\n01:41 Revolutionizing Native App Development with CNG\n03:43 Empowering React Framework with Expo for Web\n05:04 Join us for GitNation Conferences\n05:47 Empowering React Framework with Expo for Web\n06:34 Innovating Navigation with Expo Router\n07:56 Enhancing React Migration with Expo DOM\n10:02 Effortless Migration with Expo DOM Components\n11:45 Seamless Server Integration with Expo Platform\n13:51 Unlocking Full Stack Capabilities with Expo Server\n15:15 Streamlining App Deployment with Expo\n17:17 Improving User Onboarding Efficiency\n18:38 Accelerating App Deployment Efficiency\n19:32 Simplifying App Deployment and Onboarding\n20:26 Advancing Native App Development with Expo\n23:09 Simplified React Migration with Expo Router\n25:12 Expo's Magic in Migration and Accessibility\n\n🔥 Want to hear talks like this live? Join us at React Summit US 2025 in New York: https://reactsummit.us/?utm_source=youtube&utm_medium=evanbacon\n\n❗ We’ve hidden a secret code for 10% off your React Summit US or JSNation US ticket — only for our most attentive viewers 🤫 You’ll find it inside the talk. Hope to see you there!👋\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ExpoRouter #GitNation #ReactSummit2025 #ReactJS #TechTalks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-uPiBHuagVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-uPiBHuagVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-uPiBHuagVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-uPiBHuagVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-uPiBHuagVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-uPiBHuagVk"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "-uPiBHuagVk",
+        "videoPublishedAt": "2025-10-08T13:32:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lb1-Bw0GfIVE4TCbuMLFahIjB1c",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2025-07-25T11:34:14Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1io7_n38RIw"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "C-0mURDToqtyhnxEBlEaHBip__4",
+      "etag": "2wrXrqCoWvUUtBXXU3Sz-bUgsTo",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2025-07-18T10:54:46Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9Y-klH9kkko"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "H3hGBa5gWQpLQSTV5Bh1Jg1HyvY",
+      "etag": "O0VF868vb2TZpMp7GZYLCXvdFqI",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-07-14T15:03:21Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Pw8w2O5Y0no"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "US_a7Bxfrulqaiz92tWMkXE9A4Y",
+      "etag": "hE_xbTKTLJaxvci0f0GIUiEWNwQ",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-07-08T10:53:37Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aOM644IRoGo"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RaZnyZPVfRC63rI9YMFva8rM3Aw",
+      "etag": "JtfEZI1Mh7GFb_OD8ZjlHfjSJAM",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-07-01T12:00:43Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l2dByiwiQcM"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V84m3JepsPMnpY0ykSxJxZlSNSs",
+      "etag": "UrImQvykaHxuxX994wGN_okphZo",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-06-20T11:31:48Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aw81OYWKCQc"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "B_LUsliF4fshXK001Oldxw0ZeRo",
+      "etag": "R7StVQPiUVPZ0RO91tXbU3iwMA0",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-06-20T11:27:11Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "axfcwzgWcOQ"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UsJ-DQxys1lAgrDi1K2e9UYrkdM",
+      "etag": "EWFNKkvsv0lWZGgyPHY4dThn0eo",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-06-20T11:14:07Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ms0HywJztnM"
@@ -436,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Liq_LJ7ZzSrGPTQaY_tSQ-vzLb4",
+      "etag": "vjiU6D1tCbqrdIqin173qs8wBSA",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-06-20T11:08:58Z",
@@ -472,7 +526,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jbcEeRqjc6w"
@@ -490,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6R38UJ4litVWXdllTnyB1LQ82qQ",
+      "etag": "eQ992fU7rEqFarwoRk7jNOYYKbA",
       "id": "UExOQk5TN05SR0tNSG85REg4ZDFTZ29GcmhXTG12anBKRi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-06-20T10:57:11Z",
@@ -526,7 +580,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMHo9DH8d1SgoFrhWLmvjpJF",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0lcQ-d2oII8"
@@ -544,7 +598,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 11,
     "resultsPerPage": 50
   }
 }
