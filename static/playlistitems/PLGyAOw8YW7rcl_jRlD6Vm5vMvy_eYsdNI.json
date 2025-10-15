@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "-oQYtg8DwkaUvlqwV0Zdi_F_RAs",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LAUnpj44xjBj0FusoMkbgxxYwVk",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-10-14T23:51:04Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Remote Day 2025 - 6th Edition",
+        "description": "React India Remote Day 2025 | Online Conference | 15th Oct 2025\n\nJoin us for React India Remote Day 2025, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This remote edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 15th October 2025\n🌍 Where: Online\n\nFrom building scalable applications to mastering new frameworks, the event will cover everything developers need to know to stay ahead in the React ecosystem. Get ready for a day full of learning, networking, and inspiration!\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nAWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of developers—from startups to enterprises and the public sector—use AWS to prototype faster, reduce operational overhead, and innovate with AI, powered by foundational services across compute, storage, databases, and serverless.\n\n\nGold Sponsors\n\nBrevo \nFirebase \nD.E. Shaw & Co\n\nSilver Sponsors\n\nTalentship\nArcesium \n\nBronze Sponsors\n\nSynchrony\nPattern\nAnyWhereWorks\nCarestack\nGreatfrontend\nHarness\nAuth0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UiD-l25z2A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UiD-l25z2A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UiD-l25z2A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8UiD-l25z2A/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8UiD-l25z2A/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8UiD-l25z2A"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "8UiD-l25z2A",
+        "videoPublishedAt": "2025-10-14T23:51:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
