@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "pWMJkUjbLP9o03d2c7p7yDH26VU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a0PfHFoTEmZDvuDW6g_dOLZihjc",
+      "id": "UExOR18xajNjUENhWUY0QWtFT2ZCTGVsVmxmTTBfa0c3Ui41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-10-22T21:08:51Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2025 Day 1",
+        "description": "React Conf 2025 Day 1\n\nLive from Henderson, Nevada, USA. October 7, 2025\n\n0:00:00 Welcome & Opening\n0:17:47 React Keynote\n1:21:10 View Transitions and Activity\n1:43:35 Break\n2:17:56 Profiling with React Performance Tracks\n2:38:54 In Case You Missed the Memo\n3:01:47 Async React\n3:27:13 Lunch Break\n5:12:21 React and AI Panel\n5:37:54 Exploring React Performance\n6:03:03 Break\n6:30:00 The Invisible Craft of Great UX\n6:43:24 Building an MCP Server for a React Component\n6:55:17 Why React Native Apps Make All the Money\n7:05:21 Modern Emails Using React\n7:18:24 React Team Q&A",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyVRg2QR6LA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyVRg2QR6LA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyVRg2QR6LA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zyVRg2QR6LA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zyVRg2QR6LA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaYF4AkEOfBLelVlfM0_kG7R",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zyVRg2QR6LA"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "zyVRg2QR6LA",
+        "videoPublishedAt": "2025-10-08T00:59:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jjMZqRFAB6Ao0OmqfwDIWDq8_W0",
+      "id": "UExOR18xajNjUENhWUY0QWtFT2ZCTGVsVmxmTTBfa0c3Ui4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-10-22T21:08:51Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2025 Day 2",
+        "description": "React Conf 2025 Day 2\n\nLive from Henderson, Nevada, USA. October 8 2025\n\n0:00:00 Welcome to React Conf 2025 Day 2\n0:38:19 React Native Keynote\n1:35:37 React Native, Amplified\n2:30:26 React Strict DOM\n2:53:02 Reimagining Lists in React Native\n3:17:05 Break\n5:03:33 React Everywhere: Bringing React Into Native Apps\n5:25:38 How Parcel Bundles React Server Components\n5:44:00 Designing Page Transitions\n5:55:50 Build Fast, Deploy Faster — Expo in 2025\n6:12:47 The React Router Take on RSC\n6:56:32 RedwoodSDK: Web Standards Meet Full-Stack React\n7:14:25 TanStack Start\n7:26:52 Framework Panel: What's The Framework of the React Future?\n8:04:33 Async React (continued)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9OcztRyDl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9OcztRyDl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9OcztRyDl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9OcztRyDl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9OcztRyDl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaYF4AkEOfBLelVlfM0_kG7R",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p9OcztRyDl0"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "p9OcztRyDl0",
+        "videoPublishedAt": "2025-10-09T01:08:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
