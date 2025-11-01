@@ -1,10 +1,172 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "vgjHyDG1z1GrJhUlQwYrSoxgM_A",
+  "etag": "GNuODzRE1n7U4jIgqHcUMBF0r8U",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "nfhFWgCIZDyNSB95bH2_dIqGxxY",
+      "etag": "yV4pPaESwvSSO26mZ1y_d623BAo",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-11-01T03:09:34Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2025 - 6th Edition - Day 02",
+        "description": "React India Day 02 | 2025 | Online Conference | 31st Oct 2025\n\nJoin us for React India Remote Day 2025, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This remote edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 30th October 2025\n🌍 Where: Online\n\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nAWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of developers—from startups to enterprises and the public sector—use AWS to prototype faster, reduce operational overhead, and innovate with AI, powered by foundational services across compute, storage, databases, and serverless.\n\n\nBuild an AI-Powered Photo Editor with React\n\nAbstract - Creating image editing applications traditionally requires complex infrastructure, specialized ML expertise, and ongoing maintenance—making it costly and time-consuming for developers to build and scale.\n\nIn this hands-on workshop, you'll build a complete AI-powered image editing application without managing a single server or ML model. Users can transform images with simple text prompts like \"make this sunset more dramatic\" or \"remove the background and replace with mountains.\"\n\nWhat You'll Build\n\nA production-ready web application where users can:\n\nUpload images securelyEdit photos using natural language instructionsTransform images with AI without coding complex algorithmsAccess their edited images from anywhere\n\nGold Sponsors\n\nBrevo \nFirebase \nD.E. Shaw & Co\n\nSilver Sponsors\n\nTalentship\nArcesium",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W15yIFbBOJI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W15yIFbBOJI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W15yIFbBOJI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W15yIFbBOJI/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W15yIFbBOJI/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W15yIFbBOJI"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "W15yIFbBOJI",
+        "videoPublishedAt": "2025-11-01T03:09:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NLXyfKpXcbuAPw7-_FCniY3lCUA",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-10-30T03:33:14Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India Workshop Day 2025 - 6th Edition",
+        "description": "React India Workshop Day 2025 | Online Conference | 30th Oct 2025\n\nJoin us for React India Remote Day 2025, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This remote edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 30th October 2025\n🌍 Where: Online\n\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nAWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of developers—from startups to enterprises and the public sector—use AWS to prototype faster, reduce operational overhead, and innovate with AI, powered by foundational services across compute, storage, databases, and serverless.\n\n\nBuild an AI-Powered Photo Editor with React\n\nAbstract - Creating image editing applications traditionally requires complex infrastructure, specialized ML expertise, and ongoing maintenance—making it costly and time-consuming for developers to build and scale.\n\nIn this hands-on workshop, you'll build a complete AI-powered image editing application without managing a single server or ML model. Users can transform images with simple text prompts like \"make this sunset more dramatic\" or \"remove the background and replace with mountains.\"\n\nWhat You'll Build\n\nA production-ready web application where users can:\n\nUpload images securelyEdit photos using natural language instructionsTransform images with AI without coding complex algorithmsAccess their edited images from anywhere\n\nGold Sponsors\n\nBrevo \nFirebase \nD.E. Shaw & Co\n\nSilver Sponsors\n\nTalentship\nArcesium",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAhUoBAtgxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAhUoBAtgxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAhUoBAtgxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oAhUoBAtgxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oAhUoBAtgxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oAhUoBAtgxM"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "oAhUoBAtgxM",
+        "videoPublishedAt": "2025-10-30T23:20:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7bYAhMjy8KkG7oKcAOTTchu8Izo",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-10-30T08:39:09Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Build your own V0 with Server Driven UI and AI |  React India Remote Workshop - Ameer Saimi",
+        "description": "Ameer is a Senior Software Engineer with 15+ years of experience. Behind the keyboard he is passionate about developer experience, design systems, React, and building cool stuff. AFK he loves to bake and pick up heavy circles.\n\n\nWorkshop:\n⁠Build your own V0 with Server Driven UI and AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sbo8uNBAiII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sbo8uNBAiII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sbo8uNBAiII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sbo8uNBAiII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sbo8uNBAiII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sbo8uNBAiII"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "sbo8uNBAiII",
+        "videoPublishedAt": "2025-10-30T22:11:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WPcgTXVYDsMScWtNy8Iw-_chrAA",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-10-14T23:51:04Z",
@@ -40,7 +202,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 0,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8UiD-l25z2A"
@@ -58,7 +220,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }
