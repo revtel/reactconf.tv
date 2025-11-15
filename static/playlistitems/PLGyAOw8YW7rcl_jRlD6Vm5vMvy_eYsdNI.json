@@ -1,10 +1,118 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "S6HA0jxlrGxKfEaFvlcU4gwg2NU",
+  "etag": "9IkW0D_bHC7yAm3egXNrvpVP3k0",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "-6HchiTDS-8p92CAvfZESuHAAGo",
+      "etag": "dNDkbrT9e2Okw5h1xH3YAVx1ntA",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2025-11-15T09:17:16Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2025 Official Aftermovie 🇮🇳 - 6th Edition",
+        "description": "React India is a community-led not-for-profit initiative with an international flavor. \n\nSee you soon in Goa for  React India Final Edition 2026.\nhttps://www.reactindia.io/\n\nFollow us on X -   \n\nProduced and Curated  by React India Team\nhttps://www.reactindia.io/team\n\nConference Organiser \nhttp://geekabyte.tech/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0Jf5yDPW7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0Jf5yDPW7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0Jf5yDPW7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0Jf5yDPW7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0Jf5yDPW7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m0Jf5yDPW7U"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "m0Jf5yDPW7U",
+        "videoPublishedAt": "2025-11-15T09:13:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p3zDQSDhFjCIxzcpvTTo9C55VcM",
+      "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-11-13T11:13:18Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "🎬 React India 2025 Opening",
+        "description": "The official Opening video for the Sixth edition of India’s favourite Beach Conf React India, hosted in the vibrant Planet Hollywood in Goa.\n\nFor 2025, React India brings together front-end engineers, full-stack developers, React enthusiasts, open-source maintainers, and industry leaders for an exciting journey of pure learning and community.\n\nAs always this opening marks the beginning of an incredible Two full days of talks from top engineers and global tech speakers. Come join us into the future of front-end development.\n\nSubscribe to stay updated with upcoming talk recordings, highlights, speaker intros, and behind-the-scenes moments.\n\nAll talks will be uploaded on our youtube channel so make sure to 🔔 Hit the bell to never miss an update!\n\n\n🌟 What to Expect\n\nDeep-dive sessions on React, React Native, GraphQL & modern web architecture\nCutting-edge demos, case studies & best practices\nGlobal community networking\nInsights from leading companies & OSS contributors\nThe energy and spirit of India’s biggest React gathering\n\n\n🌐 Learn more: reactindia.io\n\n#ReactIndia2025 #Goa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHVX0UuZ7oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHVX0UuZ7oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHVX0UuZ7oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dHVX0UuZ7oc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dHVX0UuZ7oc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dHVX0UuZ7oc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "dHVX0UuZ7oc",
+        "videoPublishedAt": "2025-11-13T12:01:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fgzAuuO5SpAYcxSlIUCd7fDpfaE",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-11-05T20:45:51Z",
@@ -40,7 +148,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 0,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HNWbSti1HXA"
@@ -58,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aQmG4gigA2p9tUpzS5I9qKleK60",
+      "etag": "wGU9iH0m3LbFV1ZAgXK3udmj41c",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-11-05T19:57:32Z",
@@ -94,7 +202,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 1,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "b2T7jzPwJu8"
@@ -112,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qGsqqSxjFy7R-JwSFbkgUWinp_g",
+      "etag": "iFsBAIxW1dY_l04nJu3tomVj9Xo",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-11-01T03:09:34Z",
@@ -148,7 +256,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 2,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "W15yIFbBOJI"
@@ -166,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RcqWtHgQtCS0nUKeVW24lpa4BzQ",
+      "etag": "IiNdSC0ga2SAOje2oH4QnOujEIo",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-11-05T20:39:54Z",
@@ -202,7 +310,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 3,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-Iwa_o6dQcA"
@@ -220,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2BDFOkNTryi1zdKeZGxqpr7JFsg",
+      "etag": "bOf6U0bgdZn4j4Oy7DpPAGU28Lg",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-10-30T03:33:14Z",
@@ -256,7 +364,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 4,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oAhUoBAtgxM"
@@ -274,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QpHOukmlrAlrhIJG6siagvORoxk",
+      "etag": "ns0_6d1oyQYHFLQzM3Hrc4232fk",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-10-30T08:39:09Z",
@@ -310,7 +418,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 5,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sbo8uNBAiII"
@@ -328,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6pyFEAWtM_TauDLiyFOeUSY1vAk",
+      "etag": "qvvNkp-lsbPSIvm6anL8zPPDSfw",
       "id": "UExHeUFPdzhZVzdyY2xfalJsRDZWbTV2TXZ5X2VZc2ROSS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-10-14T23:51:04Z",
@@ -364,7 +472,7 @@
         },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rcl_jRlD6Vm5vMvy_eYsdNI",
-        "position": 6,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8UiD-l25z2A"
@@ -382,7 +490,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }

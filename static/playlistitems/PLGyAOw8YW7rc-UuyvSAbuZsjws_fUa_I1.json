@@ -1,0 +1,658 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "j-kYFgdiEPn76DCtoBYkeMmimBs",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lUQc-0W21IS5M_h1lS2MUcxDCkE",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:45:15Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "When your React App is too Big to Ship: Solving the Monolithic Frontend Crisis - Ashita Prasad",
+        "description": "React monoliths slow development & complicate deployments. Micro frontends offer a solution through strategic UI architecture. This talk explores key patterns for building resilient micro-frontend apps: dependency sharing, inter-app communication, state management, routing & UI consistency.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2WhnaM9W0ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2WhnaM9W0ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2WhnaM9W0ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2WhnaM9W0ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2WhnaM9W0ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2WhnaM9W0ao"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "2WhnaM9W0ao",
+        "videoPublishedAt": "2025-11-12T15:45:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bpCWnCJiQ4BAzJVzLRKFAwWG5GI",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:45:25Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Story of Two World Cups! - Ankeet Maini",
+        "description": "How Disney+ Hotstar rewrote its entire stack just months before the Cricket World Cup—then scaled to handle record-breaking traffic. No extra infra, no silver bullets—just raw engineering, sleepless nights, and a team that refused to break.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8IOy5DXXzgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8IOy5DXXzgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IOy5DXXzgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8IOy5DXXzgk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8IOy5DXXzgk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8IOy5DXXzgk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "8IOy5DXXzgk",
+        "videoPublishedAt": "2025-11-12T16:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T-4bhdiiz-jgIRQ_ECsyiw9RWDk",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:45:35Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Framework Design Lessons: Building Catalyst-Core for 260 Million Users - Mayank Mahavar",
+        "description": "Building custom React frameworks is risky business. At Tata 1mg, we bet our mobile strategy on Catalyst-Core serving 260+ million users. I'll share framework design wins, spectacular failures, and why \"API design determines framework success.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sDY0fCNr5TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sDY0fCNr5TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sDY0fCNr5TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sDY0fCNr5TU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sDY0fCNr5TU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sDY0fCNr5TU"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "sDY0fCNr5TU",
+        "videoPublishedAt": "2025-11-12T16:01:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V4k6p7-p5uAimOxk6offOGA127s",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:45:57Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Interfaces for Humans and Machines - Designing React Component SDK - Naveen Chand",
+        "description": "In this talk, we’ll explore how to design React-based UI SDKs that bridge the gap between human developers and machine copilots. Learn how to make components schema-driven, override-friendly, and renderable by both code and prompts.\n\nSpeaker Details:\nNaveen chand\nSenior Software Engineer, Auth0 by Okta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CuhS_R9Ma0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CuhS_R9Ma0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CuhS_R9Ma0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CuhS_R9Ma0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CuhS_R9Ma0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CuhS_R9Ma0"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "4CuhS_R9Ma0",
+        "videoPublishedAt": "2025-11-12T16:15:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mFI12WcpWg3nIZ5VOANU9D27lRw",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:45:46Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Cache Your Data, Not Only HTML - Udhayaprakasha R V",
+        "description": "See how Setmore slashed hosting costs 50% and achieved 10x faster loads by replacing Next.js ISR with Redis data caching. Real production insights from millions of daily bookings with a short live demo.\n\nSpeaker Details:\nUdhayaprakasha R V\nSoftware Engineer, Full Creative Private Limited",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fMAETYcyhOE"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "fMAETYcyhOE",
+        "videoPublishedAt": "2025-11-13T12:30:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R7HA7fiW3jo1-hM6fQivsD1doeA",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:46:23Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Smarter Filtering in React – How We Built a Reusable Component for Complex Data - Sayantan Mondal",
+        "description": "Discover how we transformed a clunky, inconsistent filtering UI into a powerful, reusable React system at Harness. From failed OOP patterns to a sleek, context-powered design, this talk shares hard-earned lessons on building scalable, intuitive components for complex real-world apps.\n\n\nSpeaker Details:\nSayantan Mondal\nSoftware Engineer, Harness",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-sqn22FEbMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-sqn22FEbMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-sqn22FEbMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-sqn22FEbMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-sqn22FEbMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-sqn22FEbMk"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "-sqn22FEbMk",
+        "videoPublishedAt": "2025-11-13T12:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lVXb7rpldiTvNevG-We0_U4A8_Q",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:46:31Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Langnostic by Nitesh - Nitesh Seram",
+        "description": "In the past, translating web applications was a herculean effort as text is often scattered across code, Markdown content, and more. The talk introduces Langnostic, a fast, scalable, and efficient translation system to continuously translate thousands of strings within React components + Markdown documents using AI, built by the team at GreatFrontEnd, which was used to translate all of GreatFrontEnd's online contents.\n\nSpeaker Details:\nNitesh Seram\nFounding Engineer, GreatFrontEnd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4WawRIS85yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4WawRIS85yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WawRIS85yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4WawRIS85yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4WawRIS85yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4WawRIS85yo"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "4WawRIS85yo",
+        "videoPublishedAt": "2025-11-13T13:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oeG-Ivw69soNvk2PkbzePaqXhfU",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:46:39Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Future of Real-Time React: A Developer’s Guide to WebTransport & QUIC - Sulagna Ghosh",
+        "description": "WebSockets are showing their age. Enter WebTransport: a QUIC-powered browser API made for modern React. Learn how it enables instant, multiplexed streams—and why it fits perfectly with Suspense, Server Components, and the real-time future of React.\n\nSpeaker Details:\nSulagna Ghosh\nSoftware Engineer, Stockedge",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__krLeRpVhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__krLeRpVhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__krLeRpVhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/__krLeRpVhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/__krLeRpVhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "__krLeRpVhs"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "__krLeRpVhs",
+        "videoPublishedAt": "2025-11-13T13:15:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYXnWMHMbcg1TUtvh7T9pyYyWtg",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:54:38Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React DevTools + AI: Smarter Code Suggestions & Bug Detection - Aarathy Muraleedharan",
+        "description": "What if React DevTools could do more than visualise components? This talk explores adding AI to DevTools for smarter code suggestions and bug detection—helping developers spot issues like re-renders and prop drilling, with AI-powered insights directly inside their debugging workflow.\n\nSpeaker Details:\nAarathy Muraleedharan\nAssociate Technical Lead, Keyvalue Software Systems",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/babeV89OI-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/babeV89OI-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/babeV89OI-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/babeV89OI-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/babeV89OI-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "babeV89OI-o"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "babeV89OI-o",
+        "videoPublishedAt": "2025-11-14T12:31:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hrWJJ9AxcLi_xc7frZ23VWTslcE",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:54:52Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Building best-in-class apps, faster - using Browser DevTools and it’s super-powers! - Naman Sancheti",
+        "description": "This talk covers the most useful Browser DevTools capabilities you need to know - to maximize productivity, enhance DX and ensure a best-in-class customer experience.\n\nSpeaker Details:\nNaman Sancheti\nSr. Frontend Engineer, AWS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/deamxXX0ivY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/deamxXX0ivY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/deamxXX0ivY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/deamxXX0ivY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/deamxXX0ivY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "deamxXX0ivY"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "deamxXX0ivY",
+        "videoPublishedAt": "2025-11-14T12:45:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nht_w5VLSrdYLJIXec7l851KIQw",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:55:07Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Dynamically update your Firebase AI Logic app with Firebase Remote Config - Dushyant & Siddhant",
+        "description": "Use Firebase Remote Config to dynamically update generative AI parameters, such as models and system instructions, in your Firebase AI Logic application without requiring a new app release.\n\nSpeaker Details:\nDushyant Jadaun\nSenior Software Engineer, Google\n\nSiddhant Jain\nProduct Manager, Google",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdZNL7JwCGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdZNL7JwCGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdZNL7JwCGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdZNL7JwCGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cdZNL7JwCGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cdZNL7JwCGo"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "cdZNL7JwCGo",
+        "videoPublishedAt": "2025-11-14T13:01:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mx5zF1v-81f12AdLzswNp0rYonA",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:55:30Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "The Great React Migration: Tales from The Monorepo Frontier - Vishrut Reddi",
+        "description": "What happens when dozens of teams, thousands of components, and a legacy React setup walk into a monorepo? Join this session to find out how Microsoft Intune modernized its UI stack and boosted dev velocity - plus what you can steal for your team.\n\nSpeaker Details:\nVishrut Reddi\nPrincipal Software Engineer, Microsoft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZrxN7ydq7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZrxN7ydq7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZrxN7ydq7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HZrxN7ydq7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HZrxN7ydq7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HZrxN7ydq7Q"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "HZrxN7ydq7Q",
+        "videoPublishedAt": "2025-11-14T13:15:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 50
+  }
+}
