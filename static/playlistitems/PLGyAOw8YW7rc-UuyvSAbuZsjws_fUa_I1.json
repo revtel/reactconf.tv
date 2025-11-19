@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "j-kYFgdiEPn76DCtoBYkeMmimBs",
+  "etag": "pZx5f77sZVNaT_q6skG7lJEKSMk",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -649,10 +649,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D3HQ3iuotRk6SNARZJ8SB0z5ow0",
+      "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2025-11-15T21:48:49Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Supercharged React Development: Harnessing AI from Prototyping to Production - Kaiser Perwez",
+        "description": "Explore how AI can supercharge every stage of modern React development—from gathering requirements, enforcing clean code principles, to refactoring, automated testing, performance optimization, accessibility, and post-release support. Using real-world demos, see how AI improves quality & speed\n\nSpeaker Details:\nKaiser Perwez\nTech lead, CodeWalnut",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yhGXDTWIjaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yhGXDTWIjaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yhGXDTWIjaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yhGXDTWIjaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yhGXDTWIjaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yhGXDTWIjaw"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "yhGXDTWIjaw",
+        "videoPublishedAt": "2025-11-16T10:30:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 12,
+    "totalResults": 13,
     "resultsPerPage": 50
   }
 }
