@@ -1,10 +1,172 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "PLbWJDeeSmh37uxcfBUiLG1h77c",
+  "etag": "SKJrz4VmPwKLvTvUdnvcNWmTuzY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "wHPTcoyu0FiUQQka9R5sIpDjFxw",
+      "etag": "HSCufCdnxHQ30tGxir_leNTXB7M",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:36:26Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Why Writing a Pinch-to-Zoom Component Is Harder Than You Think",
+        "description": "Talk: Oli Legat - \"Why Writing a Pinch-to-Zoom Component Is Harder Than You Think\", React Summit US 2025\n\nAt first glance, building a pinch-to-zoom and pan component in React seems simple. After all, the browser’s gesture events are already there. But when you need realistic, design-friendly motion and the ability to zoom axes independently, the problem gets much trickier. In this talk, I’ll share how we approached this challenge in our AG Charts React component: from the pitfalls of naïve implementations, to the realisation that pan and zoom are mathematically identical problems. You’ll see how some pen & paper algebra unlocked a precise and intuitive gesture system where X and Y scales update independently—kept in sync with React state—delivering smooth interactions beyond what you get in maps or images.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/why-writing-a-pinch-to-zoom-component-is-harder-than-you-think\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Pinch-to-Zoom Component Challenge\n01:23 Independent X and Y-axis Control\n03:41 Unified Touch Interactions\n06:10 Interpolated Touch Coordinates\n08:56 Equation Implementation and Event Handling\n10:28 React Integration and CSS Transform\n11:58 Component Integration and Math Solver\n13:51 CSS Transformation Calculation\n14:42 Normalized Coordinate Space and Scale Calculation\n15:37 Realistic Touch Gestures and Caveats\n17:16 Pinch-to-Zoom Implementation Features\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=olilegat\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9vOfLsWvEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9vOfLsWvEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9vOfLsWvEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x9vOfLsWvEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x9vOfLsWvEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x9vOfLsWvEM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "x9vOfLsWvEM",
+        "videoPublishedAt": "2025-12-03T11:23:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BZLD3NahDKaOvZtMTDLwTg7bJmU",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:23:53Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Plug and Play Design: Building Extendable React Applications",
+        "description": "Talk: Mateusz Jagodziński - \"Plug and Play Design: Building Extendable React Applications\", React Summit US 2025\n\nIn large React projects, feature toggles and conditional builds can quickly become messy. What if entire features could be added—or removed—just by dropping a folder in or out of your project? In this talk, I’ll show how a plugin architecture makes React applications more modular and easier to maintain, with practical code examples from our product.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/plug-and-play-design-building-extendable-react-applications\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Insights on Plug and Play Design\n01:49 Challenges with Feature Flags and Modular Design\n04:43 Flexible Configuration with Plugin Design\n07:34 Plug and Play Design Explanation\n10:48 Adapters and Build Setup for Plugins\n13:36 Enforcing Plugin Import Restrictions\n15:07 Pros and Cons of Self-contained Plugins\n18:09 Managing Plugin Shipments and Scalability\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=mateuszjagodzinski\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nof5pFeWQ0w"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "nof5pFeWQ0w",
+        "videoPublishedAt": "2025-12-01T17:14:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gwnCvGW1i6LThSG_UTC-f-Sul-4",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-12-01T08:52:58Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Fixing React full-stack with zero-syntax type safety | by Tanner Linsley, creator of React Query",
+        "description": "Tired of \"meta-framework fatigue\"? Tanner Linsley, creator of React Query, reveals a “client-first\" architecture that finally fixes full-stack React.\n\nExperience end-to-end type safety with zero boilerplate. In this deep dive, Tanner demonstrates how TanStack Start leverages the Router to merge the speed of SPAs with the power of Server Functions. Learn how to build type-safe, isomorphic apps that scale.\n\n🔗 Follow the link to watch the full version of all the conference talks, Q&A’s with speakers and hands-on workshop recordings: https://gitnation.com/events/react-summit-us-2025utm_source=youtube&utm_medium=react-summit-US-talks-post-1-12-2025\n\n⏱️ Video Navigation:\n00:00 - 01:20 | Intro: What is TanStack Start?\n01:20 - 04:36 | Zero-Syntax type safety: inference vs. annotations\n04:36 - 06:00 | Client-first architecture: keeping the SPA mental model\n06:00 - 07:45 | Why TanStack Router is 90% of the framework\n07:45 - 09:39 | Live coding: CLI setup & project structure\n09:39 - 13:02 | Demo: switching between SSR, SPA, and data-only modes\n13:02 - 15:02 | Understanding isomorphic code & server functions (RPC)\n15:02 - 18:31 | Demo: end-to-end type safety for Routes & Search Params\n18:31 - 20:23 | The problem with current meta-frameworks\n\nTalk: TanStack Start 1.0 — A new Full Stack Framework for React and Friends Event: React Summit US website: https://reactsummit.us/?utm_source=youtube&utm_medium=react-summit-US-post-1-12-2025\nConference 2025 #ReactSummitUS #GitNation\n\n🚀 Don't miss the next big update in the React ecosystem. Subscribe to our channel for more expert talks and join us at the next GitNation event to network with creators like Tanner in person!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEDIYWZYKCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEDIYWZYKCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEDIYWZYKCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TEDIYWZYKCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TEDIYWZYKCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TEDIYWZYKCo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "TEDIYWZYKCo",
+        "videoPublishedAt": "2025-12-01T09:00:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kLvm9He6eyVSlPDTkoNBj_qsnJw",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-03-19T11:36:31Z",
@@ -40,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 0,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UxKrqSf5sEM"
@@ -55,10 +217,85 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XjQ6SnJ6CJ9PsHXPIcrn_lKgq2w",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:43:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SrSqkyZ76Vs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SrSqkyZ76Vs"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZDV392QbBcVPAJC5Yl7FM2ILgcg",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:49:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CHk9b8uPDOs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CHk9b8uPDOs"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "spVRj8FyabAiaO5FUHzuW_hZ3x8",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:56:15Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G0ZynrqM7sQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "G0ZynrqM7sQ"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 7,
     "resultsPerPage": 50
   }
 }
