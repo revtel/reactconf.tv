@@ -1,10 +1,172 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SKJrz4VmPwKLvTvUdnvcNWmTuzY",
+  "etag": "mdspTJ7wXMSw5c2iuO00vVU3hsI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "HSCufCdnxHQ30tGxir_leNTXB7M",
+      "etag": "06oS1M5vJqpJn71l1-eEfh5xXv0",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:56:15Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Optimizing the Path From Design to Production in Engineering Workflows",
+        "description": "Talk: Akbar Mirza - \"Optimizing the Path From Design to Production in Engineering Workflows\", React Summit US 2025\n\nIn this talk we will cover how using design patterns in Figma can optimize agentic coding workflows, allowing you to stay in the driver seat while deferring the tedium to LLMs.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/optimizing-the-path-from-design-to-production-in-engineering-workflows\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Exploring Product Development Stages\n02:12 Efficient Transition to Production\n04:55 Seamless Integration with Design Systems\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=akbarmirza\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0ZynrqM7sQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0ZynrqM7sQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0ZynrqM7sQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0ZynrqM7sQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G0ZynrqM7sQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G0ZynrqM7sQ"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "G0ZynrqM7sQ",
+        "videoPublishedAt": "2025-12-06T11:13:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pSPdj9Wo_ihd6QJnX2zjFZrRGeY",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:49:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "How To Get The Most Out Of the Cloud As A Front-End Developer",
+        "description": "Talk: Erik Hanchett - \"How To Get The Most Out Of the Cloud As A Front-End Developer\", React Summit US 2025\n\nCloud providers like AWS offers a lot of services. Cognito, S3, Hosting, Bedrock, and Lambda functions to name a few. As a front end developer what services should you learn? Do you need to learn devops, and security rules? What about AI like large language models (LLM)? How do you integrate LLMs into your front end workflow from a cloud provider?\n\nIn this talk I'll discuss some core services and tooling, like Kiro, Amazon Bedrock and Lambda and best practices and approaches to using them as a front end developer.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/how-to-get-the-most-out-of-the-cloud-as-a-front-end-developer\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Cloud Services for Front-end Developers\n02:43 AWS Services for Front-end Developers\n04:20 AWS Amplify for Front-end Development\n04:44 AWS Amplify Front-end Development Overview\n06:45 AWS Amplify Front-end Development Wrap-Up\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=erikhanchett\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CHk9b8uPDOs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "CHk9b8uPDOs",
+        "videoPublishedAt": "2025-12-05T09:47:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cMGd3zhULTvAZ9m6J2qGB7Tvnuk",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2025-12-01T13:43:16Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Video Optimization for the Web: The Missing Piece in Lighthouse",
+        "description": "Talk: Rahul Nanwani - \"Video Optimization for the Web: The Missing Piece in Lighthouse\", React Summit US 2025\n\nVideo is everywhere on the web, from hero banners to product videos to full-blown streaming. However, while Lighthouse reports issues related to images, scripts, and more, it doesn't really address video performance. That means streaming can suffer for end users, resulting in buffering and slow starts, while businesses incur huge data transfer costs due to unoptimized delivery.\n\nIn this lightning talk, we'll explore some quick wins every developer should know: optimizing video size and format, optimizing streaming for every device and network, and different video loading strategies to improve performance. In just seven minutes, you'll leave with a toolkit to make your videos load faster, play smoother, and feel as polished as the rest of your app, closing a significant gap that performance audits often overlook.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/video-optimization-for-the-web-the-missing-piece-in-lighthouse\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Video Optimization Principles\n01:44 Optimizing Video Loading and User Interactions\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=rahulnanwani\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SrSqkyZ76Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SrSqkyZ76Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SrSqkyZ76Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SrSqkyZ76Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SrSqkyZ76Vs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SrSqkyZ76Vs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "SrSqkyZ76Vs",
+        "videoPublishedAt": "2025-12-04T10:34:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eeMGAl3CbhmiocmwiBFCk1rYeWo",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-12-01T13:36:26Z",
@@ -40,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 0,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x9vOfLsWvEM"
@@ -58,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BZLD3NahDKaOvZtMTDLwTg7bJmU",
+      "etag": "dcy5yETdRrmee4I5E7ujtMNGgHY",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-12-01T13:23:53Z",
@@ -94,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 1,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nof5pFeWQ0w"
@@ -112,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gwnCvGW1i6LThSG_UTC-f-Sul-4",
+      "etag": "6r_Xyh7ukpdWyBwraR0vzehmldc",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-12-01T08:52:58Z",
@@ -148,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 2,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TEDIYWZYKCo"
@@ -166,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kLvm9He6eyVSlPDTkoNBj_qsnJw",
+      "etag": "s4fdzyBrS6E2eiyJc-OPo_ZuuV8",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-03-19T11:36:31Z",
@@ -202,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 3,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UxKrqSf5sEM"
@@ -216,81 +378,6 @@
       },
       "status": {
         "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "XjQ6SnJ6CJ9PsHXPIcrn_lKgq2w",
-      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2025-12-01T13:43:16Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SrSqkyZ76Vs"
-        }
-      },
-      "contentDetails": {
-        "videoId": "SrSqkyZ76Vs"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZDV392QbBcVPAJC5Yl7FM2ILgcg",
-      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2025-12-01T13:49:55Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "CHk9b8uPDOs"
-        }
-      },
-      "contentDetails": {
-        "videoId": "CHk9b8uPDOs"
-      },
-      "status": {
-        "privacyStatus": "private"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "spVRj8FyabAiaO5FUHzuW_hZ3x8",
-      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2025-12-01T13:56:15Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "G0ZynrqM7sQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "G0ZynrqM7sQ"
-      },
-      "status": {
-        "privacyStatus": "private"
       }
     }
   ],
