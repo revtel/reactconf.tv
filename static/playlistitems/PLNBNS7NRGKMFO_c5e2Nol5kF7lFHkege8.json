@@ -1,10 +1,59 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "mdspTJ7wXMSw5c2iuO00vVU3hsI",
+  "etag": "GVud0tclMBxfDSUlKdcTLN146EM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "06oS1M5vJqpJn71l1-eEfh5xXv0",
+      "etag": "OHs1AnxjtDigKcM_jfaZMIVnQDE",
+      "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-12-10T15:58:00Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Vibe Coding Costs You 20% Productivity | Shawn Swyx Wang",
+        "description": "\"You are here expecting a talk on Generative UI. This is not that talk... because I failed.\" ©\nThis failure revealed a harsh reality: the \"productivity boost\" from AI coding agents is often an illusion.\n:point_right::skin-tone-2: Instead of speed, \"vibe coding\" is creating massive technical debt. Data shows that blind automation lowers actual productivity by 20%.\nIn this video, Shawn Swyx Wang reveals the data-backed way to fix this.\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-us-2025?utm_source=youtube&utm_medium=ShawnSwyxWangTalk\n\n🔥Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com/?utm_source=youtube&utm_medium=ShawnSwyxWangTalk\n\n00:00 - Why my Generative UI demo crashed (The Abstraction Trap)\n02:42 - Why you must keep the steering wheel (The \"Self-Driving\" Trap)\n05:06 - When AI deletes your Prod DB | and what is “2 Devs = 50 Devs of Debt”\n06:02 - The Illusion of Speed: Why actual productivity dropped by 20% in trials\n07:25 - Solution 1: Interactive Planning (Don't let the agent lock you out)\n09:46 - Solution 2: Solution 2: Escaping the \"Async Valley of Death\"\n12:26 - Solution 3: Code Maps (Understand the code before you generate it)\n15:46 - Stop being cheap with tokens (The \"$12/Day\" Math)\n17:53 - Conclusion: Don't let AI replace you\n\n✍️ Talk: Generative UI Beyond Calling Premade Components |  Shawn Swyx Wang\nReact Summit, website: \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=ShawnSwyxWangTalk\nConference 2025 #ReactSummitUS #gitnation \n\n📌 Network with the global community at the next edition of the worldwide React Conference (June 2026, Amsterdam)!\n📌 Get your Early-bird ticket:\n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=ShawnSwyxWangTalk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I7P3GTVNmQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I7P3GTVNmQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I7P3GTVNmQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I7P3GTVNmQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I7P3GTVNmQM"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "I7P3GTVNmQM",
+        "videoPublishedAt": "2025-12-10T19:33:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4WCQOorBLfHA_xLZWYIys9wLtrQ",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-12-01T13:56:15Z",
@@ -40,7 +89,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "G0ZynrqM7sQ"
@@ -58,13 +107,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pSPdj9Wo_ihd6QJnX2zjFZrRGeY",
+      "etag": "KhJHymBDQlL_RuZ3WXYyGgHe4Yw",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-12-01T13:49:55Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "How To Get The Most Out Of the Cloud As A Front-End Developer",
-        "description": "Talk: Erik Hanchett - \"How To Get The Most Out Of the Cloud As A Front-End Developer\", React Summit US 2025\n\nCloud providers like AWS offers a lot of services. Cognito, S3, Hosting, Bedrock, and Lambda functions to name a few. As a front end developer what services should you learn? Do you need to learn devops, and security rules? What about AI like large language models (LLM)? How do you integrate LLMs into your front end workflow from a cloud provider?\n\nIn this talk I'll discuss some core services and tooling, like Kiro, Amazon Bedrock and Lambda and best practices and approaches to using them as a front end developer.\n\nWatch the full talk in 1080p on GitNation website: https://gitnation.com/contents/how-to-get-the-most-out-of-the-cloud-as-a-front-end-developer\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Cloud Services for Front-end Developers\n02:43 AWS Services for Front-end Developers\n04:20 AWS Amplify for Front-end Development\n04:44 AWS Amplify Front-end Development Overview\n06:45 AWS Amplify Front-end Development Wrap-Up\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=erikhanchett\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "title": "Unlock Full End-to-End Development with CDK | Using AWS Directly",
+        "description": "🔗 Talk: Erik Hanchett - \"How To Get The Most Out Of the Cloud As A Front-End Developer\", React Summit US 2025\n\nStop wasting time managing servers and relying on third-party wrappers. 👉🏻 Provision AWS infrastructure directly using your TypeScript skills to unlock full end-to-end development.\n\nErik Hanchett, Senior Developer Advocate at Amazon and Author of Vue.js in Action explains ✅ how to bypass intermediaries and offload compute to Lambda without maintaining EC2 instances or VPNs. \n\n✅ You will learn to use the AWS Cloud Development Kit (CDK) and Amplify Gen 2 to define infrastructure as code, allowing you to build scalable, serverless applications efficiently.\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-us-2025?utm_source=youtube&utm_medium=ErikHanchettTalk\n\n🔥Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com/?utm_source=youtube&utm_medium=ErikHanchettTalk\n\n🗺 Timestamps:\n00:00 - Cloud for Front-End Developers\n00:30 - Why don’t we go directly to the source? \n01:36 - Amazon S3 (Object Storage) \n02:22 - AWS Lambda (Serverless Compute) \n02:51 - Amazon Cognito (Identity & Auth) \n03:12 - Amazon Bedrock: AI Models integration \n03:40 - Agentic IDE & Spec-Driven Development \n04:22 - Amplify Hosting (Next.js, Vue, Astro) \n04:53 -  AWS CDK: Infrastructure as Code in TypeScript \n05:24 - Amplify Gen 2: Quick Start \n05:41 - AWS Amplify Front-end Library \n06:03 - AWS SDK for Backend Connections \n06:27 - Connected Components: Add Auth & File Upload\n\n✍️ Talk: How To Get The Most Out Of the Cloud As A Front-End Developer |  Erik Hanchett\nReact Summit, website: \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=ErikHanchettTalk\nConference 2025 #ReactSummitUS #gitnation \n\n🔗  React Summit on X: https://twitter.com/ReactSummit\n🔗  React Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\n🔗  React Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\n🔗  React Summit on Instagram: https://www.instagram.com/reactsummit/\n🔗  GitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n☑️ Subscribe to the channel for more expert engineering talks!\n\nNetwork with the global community at the next edition of the worldwide React Conference (June 2026, Amsterdam)!\n📌 Get your Early-bird ticket:\n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=ErikHanchettTalk\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/default.jpg",
@@ -85,16 +134,11 @@
             "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CHk9b8uPDOs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CHk9b8uPDOs"
@@ -112,7 +156,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cMGd3zhULTvAZ9m6J2qGB7Tvnuk",
+      "etag": "8IVUcGPJ8b4Wrx0F4D98mUk-u64",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-12-01T13:43:16Z",
@@ -148,7 +192,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SrSqkyZ76Vs"
@@ -166,7 +210,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eeMGAl3CbhmiocmwiBFCk1rYeWo",
+      "etag": "U4zxAucwjvuxBqUjlvWyQK9wSLE",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-12-01T13:36:26Z",
@@ -202,7 +246,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x9vOfLsWvEM"
@@ -220,7 +264,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dcy5yETdRrmee4I5E7ujtMNGgHY",
+      "etag": "uH4o3Ye8uPmF3pQJbZYK8NlsQrM",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-12-01T13:23:53Z",
@@ -256,7 +300,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nof5pFeWQ0w"
@@ -274,7 +318,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6r_Xyh7ukpdWyBwraR0vzehmldc",
+      "etag": "xJdLDwPwzbm9tOP198BjdJfBZR4",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-12-01T08:52:58Z",
@@ -310,7 +354,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TEDIYWZYKCo"
@@ -328,7 +372,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s4fdzyBrS6E2eiyJc-OPo_ZuuV8",
+      "etag": "Vvx25KlPc6wFyNFSiBOEMRJp4NU",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-03-19T11:36:31Z",
@@ -364,7 +408,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UxKrqSf5sEM"
@@ -382,7 +426,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 7,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
