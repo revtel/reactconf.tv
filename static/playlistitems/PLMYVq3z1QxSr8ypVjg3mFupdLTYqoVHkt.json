@@ -1,0 +1,35 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "o-FjGdTVRILffyYjbGjWaJvK_Z8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R3nh4MIGNABXALxPSo5SciGIF8o",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-12-23T12:30:23Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sLBIrwQB-pw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sLBIrwQB-pw"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}
