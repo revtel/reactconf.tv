@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ZmOPwxZ3oIgZk2xFlKd9Fyp1qDs",
+  "etag": "SZ3BqBF4-omx564uCTuRlr2qS8E",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "3IENAxEUI0XooVjNawcn1gfHehM",
+      "etag": "Lx_OjPLWi0OByM6w0oCrMtarEiw",
       "id": "UExNWVZxM3oxUXhTcTFudFRCYUI3VHFlbXFGd0dIU1NCTC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2024-07-14T17:35:27Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
         "title": "Netta Bondy @ ReactNext 24` | Animate All the Things! (With View Transitions API)",
-        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nAnimate All the Things! (With View Transitions API)\n\nGenerally speaking, animations kinda suck. They require complicated CSS and JavaScript fine-tuning, often involve state management, and can sometimes break at the slightest touch. They do make for a delightful user experience though, so they’re worth getting really good at\nThe View Transitions API provides us with a mechanism to manage animations in single page applications. This native API not only handles transitions, but effectively manages the DOM state change under the hood. And it’s customizable with some straightforward CSS.\nIn this talk we’ll look at how to use the View Transitions API using a demo app, and also take a bit of a dive into how this works under the hood.\n\n\nNetta Bondy\nSenior Front End Developer\n\nNetta is a senior front end developer and a lover of all things JavaScript. She has two kids and two cats, one of whom is stopping her from writing this bio any further. Kerrergjlnkhjafë",
+        "description": "ReactNext 2024\nIsrael's largest Frontend Conference\n\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n\nAnimate All the Things! (With View Transitions API)\n\nGenerally speaking, animations kinda suck. They require complicated CSS and JavaScript fine-tuning, often involve state management, and can sometimes break at the slightest touch. They do make for a delightful user experience though, so they’re worth getting really good at\nThe View Transitions API provides us with a mechanism to manage animations in single page applications. This native API not only handles transitions, but effectively manages the DOM state change under the hood. And it’s customizable with some straightforward CSS.\nIn this talk we’ll look at how to use the View Transitions API using a demo app, and also take a bit of a dive into how this works under the hood.\n\n\nNetta Bondy\nSenior Front End Developer\n\nNetta is a senior front end developer and a lover of all things JavaScript. She has two kids and two cats, one of whom is stopping her from writing this bio any further.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/lDS-WruyBFo/default.jpg",
