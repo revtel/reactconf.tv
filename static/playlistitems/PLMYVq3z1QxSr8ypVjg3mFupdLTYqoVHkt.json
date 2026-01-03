@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "bv0VUh38EYh9WyRAs2gLEW8uUDg",
+  "etag": "SU2hV1ztwPvS7PY-H79CRmQ7a_M",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "DvQfizdvGfnG5nJGWtNpPwnKkFM",
+      "etag": "2xye107OD744SUKh6P7jHJDD-C8",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-12-30T17:39:41Z",
@@ -50,850 +50,15 @@
       },
       "contentDetails": {
         "videoId": "utkcyOr87o4",
-        "videoPublishedAt": "2025-12-30T14:12:47Z"
+        "videoPublishedAt": "2025-12-31T16:44:23Z"
       },
       "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5wWeGP-H6_V4ysN_AuS6g6jhSOk",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2025-12-30T17:55:03Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Hila Kraisler @ ReactNext '25 | Where Hackers Go Hunting: Frontend Storage Security",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat if a user could unlock premium content, get admin privileges, or skip your paywall — all with just a browser console?\n\nIn modern frontend development, we rely on browser storage for user experience, performance, session management, and more. But those same tools — localStorage, cookies, sessionStorage, and friends — can open the door to real-world security breaches.\n\nThis talk exposes the hidden risks of client-side storage through real examples of how attackers (and sometimes just curious users) took advantage of sloppy storage handling to hijack apps, steal data, and bend logic in unexpected ways.\n\nNo advanced skills required. Sometimes, all it takes is DevTools and a spare minute.\nAnd with AI becoming part of our frontends — the attack surface is only growing.\n\nBy the end, you’ll probably rush to check what your app is leaving behind in your users’ browsers.\n\nHila Kraisler is a Principal Software Engineer and Front-End Tech Lead at CyberArk.\nShe has over a decade of experience in front-end development and is passionate about mentoring and knowledge sharing.\nShe writes technical blog posts and actively supports women in tech. Hila is the co-founder and co-leader of CyberArk's technical women community, which fosters growth and collaboration among female professionals.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Pu35Hyfrlwc"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "Pu35Hyfrlwc",
-        "videoPublishedAt": "2025-12-30T14:10:48Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "pbIIJLyCXX2UVpIo330DbNfOBU8",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2025-12-23T12:30:23Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "sLBIrwQB-pw"
-        }
-      },
-      "contentDetails": {
-        "videoId": "sLBIrwQB-pw"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "1Rj9roWCSICYO59dHBXNxHXVg1M",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2025-12-30T17:44:47Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Itay Perry @From ReactNext '25 | Lottie to Rive, the Evolution of Rendering Animations in React",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nRendering high-quality animations has never been trivial, and in today’s world, when performance is key and file sizes might be hazardous when too big, a solid format and an efficient renderer must be used for these animations. Lottie has always been a wonderful solution, but it seems a new generation of formats was created! In this talk, we will dive into the evolution that started with Lottie and continued with Rive. We will see the advantages of Rive over Lottie as I have seen from my own experience as a Front-End Developer.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0EsMRyg0YZc"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "0EsMRyg0YZc",
-        "videoPublishedAt": "2025-12-30T14:09:28Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "qiQQlvM8GMjIftbEVvY_WTwrSF4",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:05:42Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Adir Kandel @ ReactNext '25 | How to Roll Your React Components Like a Good Inside-Out Sushi",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nIn React we typically manage component behavior using props and state. But what if we need to expose controlled access to a component’s internal logic? This is where useImperativeHandle comes in, probably one of React’s most underrated yet powerful hooks.\n\nIn this talk, we’ll take a culinary and technical journey to understand how to turn our components inside-out, just like Japanese chefs.\n\nWhat You’ll Learn:\n- Why useImperativeHandle exists and how it changes the way we design component APIs\n- Best practices and common pitfalls to avoid\n- Advanced use cases: building flex components, working with third-party libraries, and more\n\nJoin me to learn how to roll your React components just like a perfect Inside-Out Sushi - elegantly, efficiently, and with a well-balanced API.\n\nI'm a frontend developer with over a decade of experience, passionate about building scalable UI architectures and improving developer experience. I host \"Front Cast\", Israel’s largest frontend podcast, and co-host \"לא טכני ולא במקרה\", sharing insights and best practices with the developer community. I also run a frontend blog and multiple developer communities. As a speaker, mentor, and content creator, I love making complex topics accessible through storytelling and hands-on examples.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "8XPl9QLMfcQ"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "8XPl9QLMfcQ",
-        "videoPublishedAt": "2025-12-30T14:07:42Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "xqOrVNQ0No9ntAyC6aOJk9I4duU",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:10:19Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Naveh Sadeh @  ReactNext '25 | Never Wait for an API Again: Unlocking CacheStorage for Blazing Speed",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWe all know caching can speed up our apps - but most developers think of CacheStorage as a tool for storing assets like images, scripts, and stylesheets. What if I told you that the real power of CacheStorage lies in API response caching?\n\nBy intelligently storing and serving HTTP responses directly from the browser, we can significantly reduce server load, eliminate redundant network requests, and deliver near-instant data retrieval - all while keeping the cache fresh and up to date. This means faster page loads, better offline support, and a smoother user experience without sacrificing real-time data accuracy.\n\nAfter implementing this approach in three different companies - and seeing firsthand how it dramatically improved load times, reduced backend strain, and made the app feel instantly responsive - I want to share the key strategies that make it work.\n\nWhat You’ll Take Away:\n✅ How CacheStorage API works and why it’s better than LocalStorage or IndexedDB for API caching\n✅ How to cache API responses and serve data instantly without hitting the network\n✅ Smart strategies for cache invalidation, versioning, and dynamic updates\n✅ How to integrate CacheStorage with React Query / SWR for even better performance\n✅ Real-world examples of how caching API responses can make your app feel native-fast\n\nIf you’ve ever struggled with slow API responses or unnecessary network calls, this talk will show you how to take control of caching and make your React app feel lightning-fast.\n\nI'm a Full Stack Team Lead at Harmonya, where I lead the development of scalable, high-performance applications with a strong focus on JavaScript. I joined Harmonya after playing a key role at CyberSixgill, contributing to its successful exit, and after serving in 8200 in both mandatory and professional service. Along the way, I also worked as a freelancer, delivering end-to-end projects for a variety of clients and companies. Beyond tech, I'm a musician and guitarist, and in my free time, I’m passionate about education, working with teenagers to guide and inspire them. I also speak at meetups and write articles on JavaScript, sharing insights on development best practices, architecture, and performance improvements.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XHj-X5yCJ8o"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "XHj-X5yCJ8o",
-        "videoPublishedAt": "2025-12-30T14:05:24Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "VMc_OmGaw1xOpIh50M1OiBtwbm4",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:13:34Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Nir Tamir @  ReactNext '25 | Effortless 3D with react-three-fiber",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nThink 3D is complex? Not anymore! With react-three-fiber, adding 3D to your React projects is easier than you think. In this talk, I’ll show you how to get started with zero prior 3D experience, covering scene setup, essential concepts, and even adding physics. Whether you’re curious about 3D or want to enhance your UI with stunning visuals, this session will give you the tools—and confidence—to bring your ideas to life!\n\nNir Tamir is a passionate front-end developer who loves cutting-edge technologies, tools, and open-source.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SjDD14APhK0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SjDD14APhK0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SjDD14APhK0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SjDD14APhK0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SjDD14APhK0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SjDD14APhK0"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "SjDD14APhK0",
-        "videoPublishedAt": "2025-12-30T14:04:17Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "SFuXVGvI8jTm33MtidDTnxHhn7I",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:16:01Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Opher Vishnia @  ReactNext '25 | Quick Wins to Improve Your App’s Performance",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nYour React app is slow, and, yes, it’s kind of your fault. But don’t worry - you didn’t sabotage it all at once. You’re not in this alone though. To crack this case, we’ve invited some of the world’s greatest detectives to help uncover the culprits behind your app’s sluggish behavior.\nReact makes it all too easy to unknowingly sabotage performance, with sneaky pitfalls like over-rendered components, re-created references, and sneaky state updates lurking in your code. These issues are elusive and often invisible to the untrained eye - until your app grinds to a halt.\nIn this session, you’ll think like a detective, learning how to spot red flags, interrogate your codebase, and identify common causes of performance woes. With tools, methodologies, and actionable strategies at your disposal, you’ll solve the mystery of what’s slowing down your React app. Whether you’re an experienced developer or just getting started with React, you’ll walk away with practical techniques to stop sabotaging your app’s performance - and maybe even your sanity.\n\nOpher is a multidisciplinary creator, with expertise spanning web development, design, music, and game development.\n\nHe currently leads development as principal engineer at Hud.io, imbuing magic into the field of development tools and observability. Previously, as director of technical innovation and creative developer at Eko, Opher worked at the intersection of art and technology, collaborating with development teams as well as design, art, and film-making teams to redefine interactive media on the web. His notable work includes open source projects like react-animation-orchestrator, Lance JS multiplayer server and the VR film Broken Night, which was showcased at the Cannes Film Festival and Tribeca Film Festival in NYC.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "LRbmWMf-o2k"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "LRbmWMf-o2k",
-        "videoPublishedAt": "2025-12-30T14:01:46Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2_9ND_hddPckL2LxK5huCYz7Ltk",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:19:53Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Shahar Avigezer @  ReactNext '25 | AI Can End Your Career, But Not in the Way You Think",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nAI isn't here to steal your job—it’s here to make you rusty. The real threat isn't replacement; it's developers losing their edge by blindly trusting machine-generated code. AI code is like a junior developer with CEO-level confidence: bold but needing serious supervision. I'll share a real-world story of transforming a React component to React Native using AI, showing how to keep your skills sharp by tackling small, testable tasks while keeping code clean and on point. Want to stay relevant? Time to read, test, and critique code like a pro.\n\nI'm Shahar, a Full Stack Developer and former UX/UI designer .At Antidote, I lead feature development from concept to production across our React and React Native apps, as well as our Python server, all at a fast-paced startup tempo. When I’m off the clock, I’m navigating the beautiful mess of parenting three kids, sharing my thoughts on Twitter and bringing my creative ideas to life.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "YKQvi6nhCMQ"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "YKQvi6nhCMQ",
-        "videoPublishedAt": "2025-12-30T14:00:04Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "fO8fuDtUpwLJOSTZ8KKr-vEgnhM",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:24:07Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Evyatar Alush @  ReactNext '25 |",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nReact Server Actions change how we handle state and interactivity by shifting more work to the server. Join us for a live coding session where we'll take an existing React application and refactor it together to use Server Actions and Server Components, exploring a few different ways to implement them.\n\nWe'll cover both the underlying concepts and the practical stuff: initial data loading, managing client state, handling forms, and building interactive features. It’s a hands-on look at how these tools work and how to integrate them, improving our developer experience while keeping our UIs snappy.\n\nEvyatar Alush is a Front End Engineer at Meta who is passionate about open source development. He works on multiple open source projects, including the Vest Validations Framework, and volunteers as a mentor to support new engineers entering the open source community. Evyatar cares deeply about API design and improving the developer experience.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "kpuUFU0fLgs"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "kpuUFU0fLgs",
-        "videoPublishedAt": "2025-12-30T13:57:19Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2xipMkpHr71OkLqOA9iN7dta3B0",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:28:34Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Gal Schlezinger @  ReactNext '25 | Improving Performance using React Server Components!",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop adding \"use client\" prematurely!\n\nIn this live-coding session, we will see some advanced React Server Components patterns that will help us unlock the hidden new features of React, by streamlining server and client communication.\n\nWe'll consume paginated APIs, leverage Suspense and streaming to update already-rendered components without \"use client\", and granular client-side data fetching that is search-engine optimized with great performance.\n\nGal is a Staff Engineer at ▲ Vercel. fnm maintainer. Next.js Israel community co-manager. Works on developer and front-end infra for some time. A pretty nice dude overall.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TInTm-M5yBs"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "TInTm-M5yBs",
-        "videoPublishedAt": "2025-12-30T13:54:53Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "LpMKnkmC3Q-_ecq8cx5pAfpOPlY",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:31:35Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Yoni Goldberg @  ReactNext '25 | Testing React apps like it’s 2026",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat tremendous shifts might you have missed in the React testing world over the past two years? Allow me to walk you through colorful features that tell the story of a new world of testing. We’ll focus on important and exciting: Vitest 4 'browser mode', the new StoryBook test runner, new ways to check contracts and mock APIs (MSW source!), intriguing new testing libraries, mature AI-based tools, and everything else to prepare you for writing better tests in 2026. Don't like theoretical talks? This one is for you.\n\nYoni Goldberg is an independent consultant who works with 500 Fortune corporates and garage startups on polishing their applications. At the end of the day, he packs all the lessons learned and does what he likes more than anything else: write blog posts and talks. His articles were visited by more than 10 million people over the past 5 years. These visitors were also kind enough to leave 130,000 ⭐️ stars in his GitHub repositories.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "eBKkadd3IfI"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "eBKkadd3IfI",
-        "videoPublishedAt": "2025-12-30T13:52:09Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "jNS1Q8mos5xEcwt1fyEcRHDKOy0",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45ODRDNTg0QjA4NkFBNkQy",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:37:52Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Alex Sokol @  ReactNext '25 | No More Flash Cuts: Animating Between Pages",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nMost React apps still use hard cuts between pages — even in 2025.\n\nThe View Transitions API enables smooth, browser-native animations across routes, layout changes, and UI states without heavy animation libraries.\n\nThis talk shows how to bring View Transitions into React and Next.js apps, highlighting the challenges of integrating them into SPAs. You’ll come away with a clear understanding of how you can leverage the API to create the transitions, when and how to hook into navigation, and see how we can create smooth, polished UX using native web capabilities.\n\nI’m a web developer at Lightricks. I'm focused on frontend technologies, with a deep interest in browser capabilities — especially the lesser-known APIs that open up new creative possibilities. I enjoy exploring how modern web features can improve performance, UX, and developer experience.\n\nI also believe strongly in sharing knowledge and growing with the community. I’m always looking for the next thing to learn — and the clearest way to explain it.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "EQWoDjYdhpM"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "EQWoDjYdhpM",
-        "videoPublishedAt": "2025-12-30T13:48:31Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "IDsU6_16x-DLeJC2UAqKjZ05egg",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zMDg5MkQ5MEVDMEM1NTg2",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:40:21Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Amit Sheen @  ReactNext '25 | Disney’s 12 Basic Principles Of Animation – Done in CSS",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nDisney's legendary 12 principles of animation have shaped the way we bring characters and motion to life. But what if we applied them using only CSS? In this talk, we'll explore how these timeless animation techniques can be recreated with modern CSS. Through live examples and practical demos, you'll see how to add depth and personality to your transitions and interactions, and hopefully, you'll be inspired to push the boundaries of CSS animations!\n\n\nI'm an experienced web developer, specializing in CSS, design systems, animations, and creative coding. I have a pathological curiosity and a constant desire to learn new things, and I love sharing my experience and explorations with the community.\n\nI've been a speaker at a large number of local and international conferences, and countless meetups, talking about CSS and JavaScript, or doing some live-coding, and I'm a frequent guest at professional podcasts and various streams. I've also published a few professional articles, and my work is frequently featured on some of the most respectable websites and newsletters.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "OrSJNiNs40E"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "OrSJNiNs40E",
-        "videoPublishedAt": "2025-12-30T13:46:30Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "di1IhHifb_ZOK_2SHpps8FPJWfg",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41Mzk2QTAxMTkzNDk4MDhF",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:42:04Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Ariel Shulman @  ReactNext '25 |",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nReact has taken a strong turn in the direction of metaframeworks and SSR. These metaframeworks provide a layer of abstraction that aims at improving both DX and UX at the same time.\nThis abstraction is so good, maybe even too good. These days React devs can easily find themselves asking questions like \"where does my code run?\" or \"in what order does my code run?\".\nIn this talk we're not going to discuss a specific framework like Next.js or Tanstack Router- instead we're going to focus on React and React only.\nThe purpose of this talk is to walk through the small details to the big picture. From going under React’s hood- how do SSR and CSR really work, what HTTP limitations do we face, what are the common pitfalls and misconceptions.\nTo the big picture- WHY is React heading in this direction.\n\n\nMy stack includes TypeScript, React, Nextjs, Nestjs, Neo4j, PostgreSQL, FastAPI.\nI'm very passionate about public speaking, designing for scalability, graph theory, and understanding how do things work.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 14,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "tpKP0GpA9Tw"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "tpKP0GpA9Tw",
-        "videoPublishedAt": "2025-12-30T13:44:34Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "z8PF8fKSMCSON8GhQMj8cha7_HQ",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EQUE1NTFDRjcwMDg0NEMz",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:44:40Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Daniel Rosenwasser @  ReactNext '25 | TypeScript’s 10x Native Port",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nTypeScript has been tremendous in helping developers scale out for large codebases. But as more and more code has been written, build times, editor responsiveness, and memory usage have become a problem for large teams. The TypeScript team recently announced an ambitious new effort in porting the compiler and toolset to a natively compiled language: Go. The project is already far along! So how did we get here, how have we made such great strides, and when can people start using it? We'll showcase the current state of the project, answer those questions, and talk about what it means for you and your team.\n\nDaniel Rosenwasser is a TypeScript Product Manager at Microsoft",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 15,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "HIGja9ZTiRs"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "HIGja9ZTiRs",
-        "videoPublishedAt": "2025-12-30T13:41:52Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "JIlOjra-B4I846qmDfXs_a1zcFA",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41QTY1Q0UxMTVCODczNThE",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:46:49Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Dan Shappir @  ReactNext '25 | The Hidden Framework Revolution: The Comeback of RPC",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nA major shift is taking place in frontend programming that is mostly going unnoticed: the comeback of RPC (Remote Procedure Call). Leading frameworks, such as React, Qwik and Solid are embracing RPC as the preferred mechanism for accessing backend services and data from the frontend in the form of server components, server actions, and server functions. This is surprising because RPC used to be big in the 90s but fell out of favor when the Web took off, replaced by protocols such as REST and GraphQL. Now RPC is back and replacing these protocols instead. What’s driving this resurgence? Why is it happening now? What’s its impact on the way we implement frontends? In this talk I will answer these questions and explain how to achieve the benefits of RPC, avoid its limitations and make the most from this technological comeback.\n\nDan Shappir is Principal Engineer at Sisense. Previously he was Performance Tech Lead at NEXT Insurance and at Wix. Dan has over 25 years of software development experience, and has worked on systems ranging from multiuser games to missile trajectory simulations to designing and building very large scale Web applications. He is a frequent speaker at technical conferences, a host on the JavaScript popular Jabber podcast, and an Invited Expert on the W3C Web Performance Working Group. Dan holds an MSc in Computer Science.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 16,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "7ReuL3Npczw"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "7ReuL3Npczw",
-        "videoPublishedAt": "2025-12-30T13:39:19Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "0h8owggcHyHFQvWjHqDu80oc4kA",
+      "etag": "X2W4vD_RzfoBb6XO2Ugi2eoN3vs",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2025-12-30T18:48:42Z",
@@ -929,7 +94,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 17,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qw6AlWxkJ-0"
@@ -939,231 +104,15 @@
       },
       "contentDetails": {
         "videoId": "qw6AlWxkJ-0",
-        "videoPublishedAt": "2025-12-30T13:38:12Z"
+        "videoPublishedAt": "2025-12-31T16:44:23Z"
       },
       "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TFOCMmorhl0R3oCcmjum5C62_Pg",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:50:38Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "LzNYRw1ZVSM"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "LzNYRw1ZVSM",
-        "videoPublishedAt": "2025-12-30T13:35:24Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "vWrnnJwB5NPHrHqxvjGanTUfbok",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5ENDU4Q0M4RDExNzM1Mjcy",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:52:41Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Kevin Maes @  ReactNext '25 | Laying Foundations for Stateful React Game Development",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat would it take to build your own game from scratch? This case study will walk through the earliest phases of the game development process—from initial animation prototypes to custom character assets. Then we’ll dive deep into state machines, exploring why they’re ideally suited for coordinating gameplay mechanics, animations, audio, and overall game flow. You’ll learn practical strategies for managing XState v5 actors within a React app and testing them effectively. Join me as we blend familiar dev tools with creative design, stateful architecture, and a whole lot of fun!\n\nKevin got his start back in the Flash days, working at startups in Tel Aviv and New York City, and has specialized in React for the past decade. He currently lives in Spain, where he’s been building fintech applications at Lab49 and developer tools like Stately Studio at Stately.ai. He’s passionate about crafting engaging user experiences while continuously rehydrating his roots in creative coding.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k8HIwancH9k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k8HIwancH9k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k8HIwancH9k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/k8HIwancH9k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/k8HIwancH9k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "k8HIwancH9k"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "k8HIwancH9k",
-        "videoPublishedAt": "2025-12-30T13:32:08Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "wmSf0TFMnLMBxdkP1z0jV4Y0BfA",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMDhBMkNBNjRDMjQxQTg1",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:56:28Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Nir Parisian @  ReactNext '25 | Stop Memoizing with “React Forget”",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStep into the future of React development with the revolutionary React Compiler.\nIn this session, I’ll show how the compiler’s advanced optimizations eliminate the need for traditional performance hacks like useMemo, useCallback, and memo—allowing you to truly \"forget\" about them.\n\nLearn how compile-time transformations optimize rendering, reduce runtime overhead, and simplify your codebase, all while enhancing the overall developer experience.\n\nWhether you're curious about the inner workings of the compiler or eager to streamline your development process, this talk offers actionable insights into the transformative benefits of React Forget.\n\nKey Takeaways\n- Eliminate Boilerplate Optimizations: Discover how the React Compiler removes the need for useMemo, useCallback, and memo, reducing code complexity.\n- Enhanced Performance: Understand how compile-time optimizations translate into faster rendering and lower runtime overhead.\n- Streamlined Development: Learn how these innovations simplify debugging and testing, making your workflow more efficient.\n- Practical Integration: Get actionable strategies to integrate compiler-driven techniques into your projects.\n\nI've spent the last decade building and leading front-end solutions for companies of all sizes. I’ve been a full-stack engineer at Intel, a front-end team leader at Curv, and now I help startups through Enpitech, the front-end consulting company I founded 4 years ago. I also run a YouTube channel on front-end development (https://youtube.com/@nirparisian) and a community called Frontendistim, where I share knowledge and connect with fellow developers.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XurqEPkwwQ0"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "XurqEPkwwQ0",
-        "videoPublishedAt": "2025-12-30T13:27:26Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2Ys79aOY4N1lZs8Jm5rR8QNKyMw",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GM0Q3M0MzMzY5NTJFNTdE",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:59:12Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Shahar Zilberman @  ReactNext '25 | How Codemods Turned a Nightmare into a 3-Minute Migration",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nNavigating large-scale changes in a codebase can be daunting—hundreds of files, numerous breaking changes, and the ever-present risk of human error. But what if you could automate this process and transform it from a nightmare into a seamless operation?\n\nIn this session, we'll dive into the world of codemods and Abstract Syntax Trees (ASTs), powerful techniques that enable precise and efficient code transformations. Through a compelling real-world case study, I'll showcase how we tackled a major version upgrade involving 70 breaking API changes in a large React project—and completed the migration in just 3 whopping minutes (!), but the benefits of codemods extend beyond major upgrades. They can revolutionize your day-to-day development by automating repetitive tasks and ensuring code consistency at scale. By the end of this talk, you'll walk away with practical insights and tools to integrate codemods into your workflow, making large-scale changes faster, safer, and more reliable.\n\nShahar Zilberman is the Team Lead of the Vibe design system at monday.com, where she leads the development of the company’s design system and UI tools. She has seven years of experience in engineering, has worked on front-end infrastructure and foundations at both monday.com and eToro, building scalable systems and internal tools for developers, and her team maintains multiple open-source libraries used by the developer community at large. In addition to her work in engineering, she spent a year mentoring aspiring developers in a bootcamp, helping them transition into professional roles.\nIn her spare time, Shahar is a devoted Maccabi Tel Aviv fan and an animal lover with two very fluffy dogs.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 21,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "iC_uRJICjn4"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
-      },
-      "contentDetails": {
-        "videoId": "iC_uRJICjn4",
-        "videoPublishedAt": "2025-12-30T13:25:17Z"
-      },
-      "status": {
-        "privacyStatus": "unlisted"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Su2rJoziuRY7PdRx40bCYAwiSB4",
+      "etag": "LLTumEejNtJ1Sd40WarBhujFfjc",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2025-12-30T19:05:36Z",
@@ -1199,7 +148,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 22,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lxjSq5zYrz4"
@@ -1209,15 +158,1120 @@
       },
       "contentDetails": {
         "videoId": "lxjSq5zYrz4",
-        "videoPublishedAt": "2025-12-30T13:24:19Z"
+        "videoPublishedAt": "2025-12-31T16:44:23Z"
       },
       "status": {
-        "privacyStatus": "unlisted"
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89ewEzeyuyO5Xdg-AldWQWnd1WM",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:10:19Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Naveh Sadeh @  ReactNext '25 | Never Wait for an API Again: Unlocking CacheStorage for Blazing Speed",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWe all know caching can speed up our apps - but most developers think of CacheStorage as a tool for storing assets like images, scripts, and stylesheets. What if I told you that the real power of CacheStorage lies in API response caching?\n\nBy intelligently storing and serving HTTP responses directly from the browser, we can significantly reduce server load, eliminate redundant network requests, and deliver near-instant data retrieval - all while keeping the cache fresh and up to date. This means faster page loads, better offline support, and a smoother user experience without sacrificing real-time data accuracy.\n\nAfter implementing this approach in three different companies - and seeing firsthand how it dramatically improved load times, reduced backend strain, and made the app feel instantly responsive - I want to share the key strategies that make it work.\n\nWhat You’ll Take Away:\n✅ How CacheStorage API works and why it’s better than LocalStorage or IndexedDB for API caching\n✅ How to cache API responses and serve data instantly without hitting the network\n✅ Smart strategies for cache invalidation, versioning, and dynamic updates\n✅ How to integrate CacheStorage with React Query / SWR for even better performance\n✅ Real-world examples of how caching API responses can make your app feel native-fast\n\nIf you’ve ever struggled with slow API responses or unnecessary network calls, this talk will show you how to take control of caching and make your React app feel lightning-fast.\n\nI'm a Full Stack Team Lead at Harmonya, where I lead the development of scalable, high-performance applications with a strong focus on JavaScript. I joined Harmonya after playing a key role at CyberSixgill, contributing to its successful exit, and after serving in 8200 in both mandatory and professional service. Along the way, I also worked as a freelancer, delivering end-to-end projects for a variety of clients and companies. Beyond tech, I'm a musician and guitarist, and in my free time, I’m passionate about education, working with teenagers to guide and inspire them. I also speak at meetups and write articles on JavaScript, sharing insights on development best practices, architecture, and performance improvements.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XHj-X5yCJ8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XHj-X5yCJ8o"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "XHj-X5yCJ8o",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j7sMuMxuN_XtasqJLqJzSGuExHc",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:13:34Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Tamir @  ReactNext '25 | Effortless 3D with react-three-fiber",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nThink 3D is complex? Not anymore! With react-three-fiber, adding 3D to your React projects is easier than you think. In this talk, I’ll show you how to get started with zero prior 3D experience, covering scene setup, essential concepts, and even adding physics. Whether you’re curious about 3D or want to enhance your UI with stunning visuals, this session will give you the tools—and confidence—to bring your ideas to life!\n\nNir Tamir is a passionate front-end developer who loves cutting-edge technologies, tools, and open-source.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SjDD14APhK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SjDD14APhK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SjDD14APhK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SjDD14APhK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SjDD14APhK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SjDD14APhK0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "SjDD14APhK0",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z_ZlIO1wg8ftIH4Jc25KjxTU6OA",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:19:53Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Shahar Avigezer @  ReactNext '25 | AI Can End Your Career, But Not in the Way You Think",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nAI isn't here to steal your job—it’s here to make you rusty. The real threat isn't replacement; it's developers losing their edge by blindly trusting machine-generated code. AI code is like a junior developer with CEO-level confidence: bold but needing serious supervision. I'll share a real-world story of transforming a React component to React Native using AI, showing how to keep your skills sharp by tackling small, testable tasks while keeping code clean and on point. Want to stay relevant? Time to read, test, and critique code like a pro.\n\nI'm Shahar, a Full Stack Developer and former UX/UI designer .At Antidote, I lead feature development from concept to production across our React and React Native apps, as well as our Python server, all at a fast-paced startup tempo. When I’m off the clock, I’m navigating the beautiful mess of parenting three kids, sharing my thoughts on Twitter and bringing my creative ideas to life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YKQvi6nhCMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YKQvi6nhCMQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "YKQvi6nhCMQ",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bMUIKUnokQt5Vm4Az8KNpUSoah0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:24:07Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Evyatar Alush @  ReactNext '25 |",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nReact Server Actions change how we handle state and interactivity by shifting more work to the server. Join us for a live coding session where we'll take an existing React application and refactor it together to use Server Actions and Server Components, exploring a few different ways to implement them.\n\nWe'll cover both the underlying concepts and the practical stuff: initial data loading, managing client state, handling forms, and building interactive features. It’s a hands-on look at how these tools work and how to integrate them, improving our developer experience while keeping our UIs snappy.\n\nEvyatar Alush is a Front End Engineer at Meta who is passionate about open source development. He works on multiple open source projects, including the Vest Validations Framework, and volunteers as a mentor to support new engineers entering the open source community. Evyatar cares deeply about API design and improving the developer experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kpuUFU0fLgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kpuUFU0fLgs"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "kpuUFU0fLgs",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MGikFnYsMb1nWFeKhG5-xgwOQJ0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:28:34Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gal Schlezinger @  ReactNext '25 | Improving Performance using React Server Components!",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop adding \"use client\" prematurely!\n\nIn this live-coding session, we will see some advanced React Server Components patterns that will help us unlock the hidden new features of React, by streamlining server and client communication.\n\nWe'll consume paginated APIs, leverage Suspense and streaming to update already-rendered components without \"use client\", and granular client-side data fetching that is search-engine optimized with great performance.\n\nGal is a Staff Engineer at ▲ Vercel. fnm maintainer. Next.js Israel community co-manager. Works on developer and front-end infra for some time. A pretty nice dude overall.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TInTm-M5yBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TInTm-M5yBs"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "TInTm-M5yBs",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YhAr_-8nMH9vnLHSGdt8x_6arOQ",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:31:35Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yoni Goldberg @  ReactNext '25 | Testing React apps like it’s 2026",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat tremendous shifts might you have missed in the React testing world over the past two years? Allow me to walk you through colorful features that tell the story of a new world of testing. We’ll focus on important and exciting: Vitest 4 'browser mode', the new StoryBook test runner, new ways to check contracts and mock APIs (MSW source!), intriguing new testing libraries, mature AI-based tools, and everything else to prepare you for writing better tests in 2026. Don't like theoretical talks? This one is for you.\n\nYoni Goldberg is an independent consultant who works with 500 Fortune corporates and garage startups on polishing their applications. At the end of the day, he packs all the lessons learned and does what he likes more than anything else: write blog posts and talks. His articles were visited by more than 10 million people over the past 5 years. These visitors were also kind enough to leave 130,000 ⭐️ stars in his GitHub repositories.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eBKkadd3IfI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eBKkadd3IfI"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "eBKkadd3IfI",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kQZ-pFHJN3zJrvAF9TMNf6gLZ6g",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:52:41Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Kevin Maes @  ReactNext '25 | Laying Foundations for Stateful React Game Development",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat would it take to build your own game from scratch? This case study will walk through the earliest phases of the game development process—from initial animation prototypes to custom character assets. Then we’ll dive deep into state machines, exploring why they’re ideally suited for coordinating gameplay mechanics, animations, audio, and overall game flow. You’ll learn practical strategies for managing XState v5 actors within a React app and testing them effectively. Join me as we blend familiar dev tools with creative design, stateful architecture, and a whole lot of fun!\n\nKevin got his start back in the Flash days, working at startups in Tel Aviv and New York City, and has specialized in React for the past decade. He currently lives in Spain, where he’s been building fintech applications at Lab49 and developer tools like Stately Studio at Stately.ai. He’s passionate about crafting engaging user experiences while continuously rehydrating his roots in creative coding.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k8HIwancH9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k8HIwancH9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k8HIwancH9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k8HIwancH9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k8HIwancH9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k8HIwancH9k"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "k8HIwancH9k",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZTxWn49oSRwvosHtPec_9MjChe0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:56:28Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Parisian @  ReactNext '25 | Stop Memoizing with “React Forget”",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStep into the future of React development with the revolutionary React Compiler.\nIn this session, I’ll show how the compiler’s advanced optimizations eliminate the need for traditional performance hacks like useMemo, useCallback, and memo—allowing you to truly \"forget\" about them.\n\nLearn how compile-time transformations optimize rendering, reduce runtime overhead, and simplify your codebase, all while enhancing the overall developer experience.\n\nWhether you're curious about the inner workings of the compiler or eager to streamline your development process, this talk offers actionable insights into the transformative benefits of React Forget.\n\nKey Takeaways\n- Eliminate Boilerplate Optimizations: Discover how the React Compiler removes the need for useMemo, useCallback, and memo, reducing code complexity.\n- Enhanced Performance: Understand how compile-time optimizations translate into faster rendering and lower runtime overhead.\n- Streamlined Development: Learn how these innovations simplify debugging and testing, making your workflow more efficient.\n- Practical Integration: Get actionable strategies to integrate compiler-driven techniques into your projects.\n\nI've spent the last decade building and leading front-end solutions for companies of all sizes. I’ve been a full-stack engineer at Intel, a front-end team leader at Curv, and now I help startups through Enpitech, the front-end consulting company I founded 4 years ago. I also run a YouTube channel on front-end development (https://youtube.com/@nirparisian) and a community called Frontendistim, where I share knowledge and connect with fellow developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XurqEPkwwQ0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "XurqEPkwwQ0",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IoRq8-aokfIjKNz30M-kbqeVMOo",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:59:12Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Shahar Zilberman @  ReactNext '25 | How Codemods Turned a Nightmare into a 3-Minute Migration",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nNavigating large-scale changes in a codebase can be daunting—hundreds of files, numerous breaking changes, and the ever-present risk of human error. But what if you could automate this process and transform it from a nightmare into a seamless operation?\n\nIn this session, we'll dive into the world of codemods and Abstract Syntax Trees (ASTs), powerful techniques that enable precise and efficient code transformations. Through a compelling real-world case study, I'll showcase how we tackled a major version upgrade involving 70 breaking API changes in a large React project—and completed the migration in just 3 whopping minutes (!), but the benefits of codemods extend beyond major upgrades. They can revolutionize your day-to-day development by automating repetitive tasks and ensuring code consistency at scale. By the end of this talk, you'll walk away with practical insights and tools to integrate codemods into your workflow, making large-scale changes faster, safer, and more reliable.\n\nShahar Zilberman is the Team Lead of the Vibe design system at monday.com, where she leads the development of the company’s design system and UI tools. She has seven years of experience in engineering, has worked on front-end infrastructure and foundations at both monday.com and eToro, building scalable systems and internal tools for developers, and her team maintains multiple open-source libraries used by the developer community at large. In addition to her work in engineering, she spent a year mentoring aspiring developers in a bootcamp, helping them transition into professional roles.\nIn her spare time, Shahar is a devoted Maccabi Tel Aviv fan and an animal lover with two very fluffy dogs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iC_uRJICjn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iC_uRJICjn4"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "iC_uRJICjn4",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j1LimVwbstj_2qC2UkEhJTfJaj8",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-12-30T17:55:03Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hila Kraisler @ ReactNext '25 | Where Hackers Go Hunting: Frontend Storage Security",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhat if a user could unlock premium content, get admin privileges, or skip your paywall — all with just a browser console?\n\nIn modern frontend development, we rely on browser storage for user experience, performance, session management, and more. But those same tools — localStorage, cookies, sessionStorage, and friends — can open the door to real-world security breaches.\n\nThis talk exposes the hidden risks of client-side storage through real examples of how attackers (and sometimes just curious users) took advantage of sloppy storage handling to hijack apps, steal data, and bend logic in unexpected ways.\n\nNo advanced skills required. Sometimes, all it takes is DevTools and a spare minute.\nAnd with AI becoming part of our frontends — the attack surface is only growing.\n\nBy the end, you’ll probably rush to check what your app is leaving behind in your users’ browsers.\n\nHila Kraisler is a Principal Software Engineer and Front-End Tech Lead at CyberArk.\nShe has over a decade of experience in front-end development and is passionate about mentoring and knowledge sharing.\nShe writes technical blog posts and actively supports women in tech. Hila is the co-founder and co-leader of CyberArk's technical women community, which fosters growth and collaboration among female professionals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pu35Hyfrlwc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pu35Hyfrlwc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "Pu35Hyfrlwc",
+        "videoPublishedAt": "2025-12-31T16:44:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lzBqMFtb7ZxH-03NeRSUWfoUqX0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-12-30T17:44:47Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Itay Perry @From ReactNext '25 | Lottie to Rive, the Evolution of Rendering Animations in React",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nRendering high-quality animations has never been trivial, and in today’s world, when performance is key and file sizes might be hazardous when too big, a solid format and an efficient renderer must be used for these animations. Lottie has always been a wonderful solution, but it seems a new generation of formats was created! In this talk, we will dive into the evolution that started with Lottie and continued with Rive. We will see the advantages of Rive over Lottie as I have seen from my own experience as a Front-End Developer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0EsMRyg0YZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0EsMRyg0YZc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "0EsMRyg0YZc",
+        "videoPublishedAt": "2025-12-31T16:44:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uYsaC7Q39GzxnY7YYmONrFSK8jk",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:44:40Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Daniel Rosenwasser @  ReactNext '25 | TypeScript’s 10x Native Port",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nTypeScript has been tremendous in helping developers scale out for large codebases. But as more and more code has been written, build times, editor responsiveness, and memory usage have become a problem for large teams. The TypeScript team recently announced an ambitious new effort in porting the compiler and toolset to a natively compiled language: Go. The project is already far along! So how did we get here, how have we made such great strides, and when can people start using it? We'll showcase the current state of the project, answer those questions, and talk about what it means for you and your team.\n\nDaniel Rosenwasser is a TypeScript Product Manager at Microsoft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HIGja9ZTiRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HIGja9ZTiRs"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "HIGja9ZTiRs",
+        "videoPublishedAt": "2025-12-31T16:44:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HKtpt4PgmiFxXGaD_8SbeePRfuQ",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:46:49Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Dan Shappir @  ReactNext '25 | The Hidden Framework Revolution: The Comeback of RPC",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nA major shift is taking place in frontend programming that is mostly going unnoticed: the comeback of RPC (Remote Procedure Call). Leading frameworks, such as React, Qwik and Solid are embracing RPC as the preferred mechanism for accessing backend services and data from the frontend in the form of server components, server actions, and server functions. This is surprising because RPC used to be big in the 90s but fell out of favor when the Web took off, replaced by protocols such as REST and GraphQL. Now RPC is back and replacing these protocols instead. What’s driving this resurgence? Why is it happening now? What’s its impact on the way we implement frontends? In this talk I will answer these questions and explain how to achieve the benefits of RPC, avoid its limitations and make the most from this technological comeback.\n\nDan Shappir is Principal Engineer at Sisense. Previously he was Performance Tech Lead at NEXT Insurance and at Wix. Dan has over 25 years of software development experience, and has worked on systems ranging from multiuser games to missile trajectory simulations to designing and building very large scale Web applications. He is a frequent speaker at technical conferences, a host on the JavaScript popular Jabber podcast, and an Invited Expert on the W3C Web Performance Working Group. Dan holds an MSc in Computer Science.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7ReuL3Npczw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7ReuL3Npczw"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "7ReuL3Npczw",
+        "videoPublishedAt": "2025-12-31T16:44:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JE7bJlqfkFqPGT-GGTPyepF4Xe0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:05:42Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adir Kandel @ ReactNext '25 | How to Roll Your React Components Like a Good Inside-Out Sushi",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nIn React we typically manage component behavior using props and state. But what if we need to expose controlled access to a component’s internal logic? This is where useImperativeHandle comes in, probably one of React’s most underrated yet powerful hooks.\n\nIn this talk, we’ll take a culinary and technical journey to understand how to turn our components inside-out, just like Japanese chefs.\n\nWhat You’ll Learn:\n- Why useImperativeHandle exists and how it changes the way we design component APIs\n- Best practices and common pitfalls to avoid\n- Advanced use cases: building flex components, working with third-party libraries, and more\n\nJoin me to learn how to roll your React components just like a perfect Inside-Out Sushi - elegantly, efficiently, and with a well-balanced API.\n\nI'm a frontend developer with over a decade of experience, passionate about building scalable UI architectures and improving developer experience. I host \"Front Cast\", Israel’s largest frontend podcast, and co-host \"לא טכני ולא במקרה\", sharing insights and best practices with the developer community. I also run a frontend blog and multiple developer communities. As a speaker, mentor, and content creator, I love making complex topics accessible through storytelling and hands-on examples.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8XPl9QLMfcQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8XPl9QLMfcQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "8XPl9QLMfcQ",
+        "videoPublishedAt": "2025-12-31T16:44:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J6h0zrni29O_F89dgWKTSIuZpw4",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:16:01Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Opher Vishnia @  ReactNext '25 | Quick Wins to Improve Your App’s Performance",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nYour React app is slow, and, yes, it’s kind of your fault. But don’t worry - you didn’t sabotage it all at once. You’re not in this alone though. To crack this case, we’ve invited some of the world’s greatest detectives to help uncover the culprits behind your app’s sluggish behavior.\nReact makes it all too easy to unknowingly sabotage performance, with sneaky pitfalls like over-rendered components, re-created references, and sneaky state updates lurking in your code. These issues are elusive and often invisible to the untrained eye - until your app grinds to a halt.\nIn this session, you’ll think like a detective, learning how to spot red flags, interrogate your codebase, and identify common causes of performance woes. With tools, methodologies, and actionable strategies at your disposal, you’ll solve the mystery of what’s slowing down your React app. Whether you’re an experienced developer or just getting started with React, you’ll walk away with practical techniques to stop sabotaging your app’s performance - and maybe even your sanity.\n\nOpher is a multidisciplinary creator, with expertise spanning web development, design, music, and game development.\n\nHe currently leads development as principal engineer at Hud.io, imbuing magic into the field of development tools and observability. Previously, as director of technical innovation and creative developer at Eko, Opher worked at the intersection of art and technology, collaborating with development teams as well as design, art, and film-making teams to redefine interactive media on the web. His notable work includes open source projects like react-animation-orchestrator, Lance JS multiplayer server and the VR film Broken Night, which was showcased at the Cannes Film Festival and Tribeca Film Festival in NYC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LRbmWMf-o2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LRbmWMf-o2k"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "LRbmWMf-o2k",
+        "videoPublishedAt": "2025-12-31T16:44:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-L3VD6at3UdfMJMVkvdxVTw31gg",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:37:52Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Alex Sokol @  ReactNext '25 | No More Flash Cuts: Animating Between Pages",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nMost React apps still use hard cuts between pages — even in 2025.\n\nThe View Transitions API enables smooth, browser-native animations across routes, layout changes, and UI states without heavy animation libraries.\n\nThis talk shows how to bring View Transitions into React and Next.js apps, highlighting the challenges of integrating them into SPAs. You’ll come away with a clear understanding of how you can leverage the API to create the transitions, when and how to hook into navigation, and see how we can create smooth, polished UX using native web capabilities.\n\nI’m a web developer at Lightricks. I'm focused on frontend technologies, with a deep interest in browser capabilities — especially the lesser-known APIs that open up new creative possibilities. I enjoy exploring how modern web features can improve performance, UX, and developer experience.\n\nI also believe strongly in sharing knowledge and growing with the community. I’m always looking for the next thing to learn — and the clearest way to explain it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EQWoDjYdhpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EQWoDjYdhpM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "EQWoDjYdhpM",
+        "videoPublishedAt": "2025-12-31T16:44:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8S26QN5Kos0W8Kj1Z7euxEwrnu8",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:40:21Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Amit Sheen @  ReactNext '25 | Disney’s 12 Basic Principles Of Animation – Done in CSS",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nDisney's legendary 12 principles of animation have shaped the way we bring characters and motion to life. But what if we applied them using only CSS? In this talk, we'll explore how these timeless animation techniques can be recreated with modern CSS. Through live examples and practical demos, you'll see how to add depth and personality to your transitions and interactions, and hopefully, you'll be inspired to push the boundaries of CSS animations!\n\n\nI'm an experienced web developer, specializing in CSS, design systems, animations, and creative coding. I have a pathological curiosity and a constant desire to learn new things, and I love sharing my experience and explorations with the community.\n\nI've been a speaker at a large number of local and international conferences, and countless meetups, talking about CSS and JavaScript, or doing some live-coding, and I'm a frequent guest at professional podcasts and various streams. I've also published a few professional articles, and my work is frequently featured on some of the most respectable websites and newsletters.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OrSJNiNs40E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OrSJNiNs40E"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "OrSJNiNs40E",
+        "videoPublishedAt": "2025-12-31T16:44:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VYJsSIFyT3Ie9iZmphHykpInj5U",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:50:38Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LzNYRw1ZVSM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "LzNYRw1ZVSM",
+        "videoPublishedAt": "2025-12-31T16:44:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w6dSx5OOD_MV3RekHHBAj53KlR0",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2025-12-31T13:32:14Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "ReactNext 2025 Highlights",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nSee you next year on June 23th, 2026\n\nFor information regarding partnership with ReactNext contact us at office@eventhandler.co.il",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NC4fpl3OJFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NC4fpl3OJFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NC4fpl3OJFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NC4fpl3OJFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NC4fpl3OJFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NC4fpl3OJFY"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "NC4fpl3OJFY",
+        "videoPublishedAt": "2025-12-31T13:33:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dHykm0RyirFLgwsGrktg5ZE11Nk",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2025-12-30T18:42:04Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Ariel Shulman @  ReactNext '25 |",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nReact has taken a strong turn in the direction of metaframeworks and SSR. These metaframeworks provide a layer of abstraction that aims at improving both DX and UX at the same time.\nThis abstraction is so good, maybe even too good. These days React devs can easily find themselves asking questions like \"where does my code run?\" or \"in what order does my code run?\".\nIn this talk we're not going to discuss a specific framework like Next.js or Tanstack Router- instead we're going to focus on React and React only.\nThe purpose of this talk is to walk through the small details to the big picture. From going under React’s hood- how do SSR and CSR really work, what HTTP limitations do we face, what are the common pitfalls and misconceptions.\nTo the big picture- WHY is React heading in this direction.\n\n\nMy stack includes TypeScript, React, Nextjs, Nestjs, Neo4j, PostgreSQL, FastAPI.\nI'm very passionate about public speaking, designing for scalability, graph theory, and understanding how do things work.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpKP0GpA9Tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tpKP0GpA9Tw"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "tpKP0GpA9Tw",
+        "videoPublishedAt": "2025-12-31T13:29:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZpLONalBY1-BgMI19BIXNMmaTE8",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-12-23T12:30:23Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sLBIrwQB-pw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sLBIrwQB-pw"
+      },
+      "status": {
+        "privacyStatus": "privacyStatusUnspecified"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 23,
+    "totalResults": 24,
     "resultsPerPage": 50
   }
 }
