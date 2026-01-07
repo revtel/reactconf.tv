@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ARItDU_E-66pvHZcNGUZ9XWNN_Y",
+  "etag": "m-E7gYzMatZY1RGOci_lLc9BzrA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -814,46 +814,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "f4abC8Oy7eIq6YkQ17V4AdKwr54",
+      "etag": "h0TEadyZ02u6jfodWKxPJQV0e_U",
       "id": "UExOQk5TN05SR0tNRTg4MGxjWWR3OVF3a0NpRFlRRmdDSy5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2023-06-28T04:13:50Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Interview with Senna Parsa, React Summit 2023",
-        "description": "Senna is a Solutions Engineer at GitHub supporting our customers the EMEA MidMarket segment. She has a background in web application, iOS development, and accessibility. Originally working out of the HQ in San Francisco, she’s been working with GitHub customers for three years, passionate about empowering developers and helping organizations as they go through cultural and digital transformations.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/26hiYfExQz8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/26hiYfExQz8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/26hiYfExQz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "26hiYfExQz8"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+        }
       },
       "contentDetails": {
-        "videoId": "26hiYfExQz8",
-        "videoPublishedAt": "2023-06-28T04:15:22Z"
+        "videoId": "26hiYfExQz8"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "privacyStatusUnspecified"
       }
     },
     {

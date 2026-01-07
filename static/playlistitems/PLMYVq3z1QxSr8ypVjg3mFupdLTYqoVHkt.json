@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SU2hV1ztwPvS7PY-H79CRmQ7a_M",
+  "etag": "6kwdWZPRGDpCurrCGt6kJg9URCA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1084,56 +1084,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VYJsSIFyT3Ie9iZmphHykpInj5U",
+      "etag": "DmUvCh0o1CSrzwG25jBY2KWvtnY",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2025-12-30T18:50:38Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LzNYRw1ZVSM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
         "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LzNYRw1ZVSM"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+        }
       },
       "contentDetails": {
-        "videoId": "LzNYRw1ZVSM",
-        "videoPublishedAt": "2025-12-31T16:44:19Z"
+        "videoId": "LzNYRw1ZVSM"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "privacyStatusUnspecified"
       }
     },
     {
@@ -1246,7 +1217,61 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZpLONalBY1-BgMI19BIXNMmaTE8",
+      "etag": "kkIZ0PgmW1Ftlj5v5srl-QzrVSk",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2026-01-05T14:37:30Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CgUEE1i8ZW8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "CgUEE1i8ZW8",
+        "videoPublishedAt": "2026-01-05T14:38:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ETAbVEVz0_Y_ktyQbtzMLFwGOj0",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-12-23T12:30:23Z",
@@ -1256,7 +1281,7 @@
         "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 23,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sLBIrwQB-pw"
@@ -1271,7 +1296,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 24,
+    "totalResults": 25,
     "resultsPerPage": 50
   }
 }
