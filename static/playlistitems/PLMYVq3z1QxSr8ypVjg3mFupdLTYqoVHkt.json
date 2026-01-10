@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "6kwdWZPRGDpCurrCGt6kJg9URCA",
+  "etag": "2rzrHpbDlHSevzumX-blYIBpHqM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "2xye107OD744SUKh6P7jHJDD-C8",
+      "etag": "B33I7ShpiAEmZ1wYpspNCLj438I",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2026-01-05T14:37:30Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CgUEE1i8ZW8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "CgUEE1i8ZW8",
+        "videoPublishedAt": "2026-01-05T14:38:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PFa9BclkTBeWuDiqDoM4Vro4ajQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2025-12-30T17:39:41Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "utkcyOr87o4"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "X2W4vD_RzfoBb6XO2Ugi2eoN3vs",
+      "etag": "VYJHdUmF6iKfj66fqxzRtmmd_kQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2025-12-30T18:48:42Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qw6AlWxkJ-0"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LLTumEejNtJ1Sd40WarBhujFfjc",
+      "etag": "Bc6iahHztk4yY8AW5-yhNvWOxis",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
         "publishedAt": "2025-12-30T19:05:36Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lxjSq5zYrz4"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "89ewEzeyuyO5Xdg-AldWQWnd1WM",
+      "etag": "ZFUc7b0EECuM7MYaJcujuBOEWIk",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2025-12-30T18:10:19Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XHj-X5yCJ8o"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j7sMuMxuN_XtasqJLqJzSGuExHc",
+      "etag": "XxRnXavY6zzW6t7Yns3KA7OEbnQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2025-12-30T18:13:34Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SjDD14APhK0"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Z_ZlIO1wg8ftIH4Jc25KjxTU6OA",
+      "etag": "5qjpcJNLU1A6kjigsRSviUsGPIk",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2025-12-30T18:19:53Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YKQvi6nhCMQ"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bMUIKUnokQt5Vm4Az8KNpUSoah0",
+      "etag": "l_AH1igPOSrEJ_gfuJuyymy3q9c",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2025-12-30T18:24:07Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kpuUFU0fLgs"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MGikFnYsMb1nWFeKhG5-xgwOQJ0",
+      "etag": "dLiD_7fdMdhDuFpVn4IVJvdUjP4",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2025-12-30T18:28:34Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TInTm-M5yBs"
@@ -436,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YhAr_-8nMH9vnLHSGdt8x_6arOQ",
+      "etag": "EqMI7wcHQJdRI9KvQSbXwazrf4Q",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2025-12-30T18:31:35Z",
@@ -472,7 +526,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eBKkadd3IfI"
@@ -490,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kQZ-pFHJN3zJrvAF9TMNf6gLZ6g",
+      "etag": "aSj7SoQVBTLX0rub0wEMVpYhSoc",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
         "publishedAt": "2025-12-30T18:52:41Z",
@@ -526,7 +580,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "k8HIwancH9k"
@@ -544,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZTxWn49oSRwvosHtPec_9MjChe0",
+      "etag": "WfdnRxNKXYOJlr2Db7qwkthYti0",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2025-12-30T18:56:28Z",
@@ -580,7 +634,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XurqEPkwwQ0"
@@ -598,7 +652,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IoRq8-aokfIjKNz30M-kbqeVMOo",
+      "etag": "hGCmIOmBSC0y9xv6oRLeLoQL0jE",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
         "publishedAt": "2025-12-30T18:59:12Z",
@@ -634,7 +688,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 11,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iC_uRJICjn4"
@@ -652,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j1LimVwbstj_2qC2UkEhJTfJaj8",
+      "etag": "2LzPi3oTbzWvL1HxaX5pXFl6Rz0",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-12-30T17:55:03Z",
@@ -688,7 +742,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 12,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Pu35Hyfrlwc"
@@ -706,7 +760,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lzBqMFtb7ZxH-03NeRSUWfoUqX0",
+      "etag": "LbV7yOg39TqrP31-rlepRNudBgs",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-12-30T17:44:47Z",
@@ -742,7 +796,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0EsMRyg0YZc"
@@ -760,7 +814,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uYsaC7Q39GzxnY7YYmONrFSK8jk",
+      "etag": "pOhosRy_0lt8H79HZJqCqNBrdjM",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2025-12-30T18:44:40Z",
@@ -796,7 +850,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 14,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HIGja9ZTiRs"
@@ -814,7 +868,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HKtpt4PgmiFxXGaD_8SbeePRfuQ",
+      "etag": "rmC-Ap4Q8V5573ndBXJT4TyjGBw",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2025-12-30T18:46:49Z",
@@ -850,7 +904,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 15,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7ReuL3Npczw"
@@ -868,7 +922,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JE7bJlqfkFqPGT-GGTPyepF4Xe0",
+      "etag": "eRnFHawIohYb6mKPmv1xCRGzwmE",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-12-30T18:05:42Z",
@@ -904,7 +958,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 16,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8XPl9QLMfcQ"
@@ -922,7 +976,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J6h0zrni29O_F89dgWKTSIuZpw4",
+      "etag": "V8ZRQ9lAMWmtjbtgHEFTJ6FEkAg",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-12-30T18:16:01Z",
@@ -958,7 +1012,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 17,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LRbmWMf-o2k"
@@ -976,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-L3VD6at3UdfMJMVkvdxVTw31gg",
+      "etag": "TgzeOYbRhgUxrDVZoMvi0F1txDU",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2025-12-30T18:37:52Z",
@@ -1012,7 +1066,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 18,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EQWoDjYdhpM"
@@ -1030,7 +1084,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8S26QN5Kos0W8Kj1Z7euxEwrnu8",
+      "etag": "PMX8jWxy-TRR3Q0M2R4rQAe5XXA",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2025-12-30T18:40:21Z",
@@ -1066,7 +1120,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 19,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OrSJNiNs40E"
@@ -1084,32 +1138,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DmUvCh0o1CSrzwG25jBY2KWvtnY",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
-      "snippet": {
-        "publishedAt": "2025-12-30T18:50:38Z",
-        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {},
-        "channelTitle": "ReactNext",
-        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "LzNYRw1ZVSM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "LzNYRw1ZVSM"
-      },
-      "status": {
-        "privacyStatus": "privacyStatusUnspecified"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "w6dSx5OOD_MV3RekHHBAj53KlR0",
+      "etag": "bSBTjt2Znfrw-7Q-zTzDBEzEClQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2025-12-31T13:32:14Z",
@@ -1163,7 +1192,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dHykm0RyirFLgwsGrktg5ZE11Nk",
+      "etag": "9NuFljlD5OmnjJvViYqc34a3yRE",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2025-12-30T18:42:04Z",
@@ -1217,56 +1246,27 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kkIZ0PgmW1Ftlj5v5srl-QzrVSk",
-      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DNzE1RjZEMUZCMjA0RDBB",
+      "etag": "pW57IYdkj2dK0LKCOvwi_akTiXc",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
-        "publishedAt": "2026-01-05T14:37:30Z",
+        "publishedAt": "2025-12-30T18:50:38Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
-        "title": "Hadas Farhi @  ReactNext '25 | Scalable CSS Architecture with Design Tokens Shazam!",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStop coding CSS like a developer—the key to scalable CSS architecture is thinking like a designer!\n\nCSS architecture involves naming conventions, design patterns, and organization strategies that make CSS scalable and maintainable. Many developers mistakenly think that writing good CSS depends on the latest trendy framework, but the reality is much simpler. The key to maintaining CSS effectively—especially as teams grow—is leveraging design tokens.\nWhen design tokens are done correctly, you can achieve a better look and feel, seamless theming and white-labeling support, improved accessibility and responsiveness, and most importantly: implementations that actually match the original design with minimal friction.\n\nIn this session, I will cover:\n- What design tokens are and how they can improve your UI, including responsiveness, accessibility, theme support, and more.\n- Why shifting to a designer’s mindset helps implement more scalable CSS and, in turn, more maintainable components.\n- Examples from industry leaders design systems like IBM, Shopify, and monday.com on how they use design tokens in their CSS codebases\n- A take-home checklist for adopting the high-level concepts discussed into practical do’s and don’ts for your CSS codebase.\n\nOver the past 10 years, I’ve worked on frontend infrastructure teams at various companies—from Elbit Systems during my military service to being part of the founding team that developed Vibe, monday.com’s design system, and leading frontend development at Ownera, a fintech startup.\n\nRecently, I took a leap of faith and decided to chase my dream: starting my own Front-End consulting business.\nMy goal is to help organizations transform their UI infrastructure, creating a better frontend codebase to enhance user experience, scalability, and product consistency.\n\nI’m passionate about discussing the frameworks and tools that empower Front-End and Full-Stack developers to build scalable UIs—from design systems and CSS best practices to component testing.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CgUEE1i8ZW8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
         "position": 23,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "CgUEE1i8ZW8"
-        },
-        "videoOwnerChannelTitle": "ReactNext",
-        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+          "videoId": "LzNYRw1ZVSM"
+        }
       },
       "contentDetails": {
-        "videoId": "CgUEE1i8ZW8",
-        "videoPublishedAt": "2026-01-05T14:38:00Z"
+        "videoId": "LzNYRw1ZVSM"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "privacyStatusUnspecified"
       }
     },
     {

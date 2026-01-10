@@ -1,0 +1,1360 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ChTLeRi_hzS0YpEvnf0qhSMGnfg",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VXkZG8ejbm4HN_i6UMo62qF3CTA",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2025 Keynote",
+        "description": "https://conf.react.dev/\n\nSeth Webster, Head of React @ Meta\nGitHub: https://github.com/sethwebster\nX: https://twitter.com/sethwebster\nWebsite: https://sethwebster.com/\n\nJoe Savona, React Team @ Meta\nGitHub: https://github.com/josephsavona\nX: https://twitter.com/en_js\n\nLauren Tan, React Team @ Meta\nGitHub: https://github.com/poteto\nX: https://twitter.com/potetotes\nBluesky: https://bsky.app/profile/no.lol\n\nJack Pope, React Team @ Meta\nGitHub: https://github.com/jackpope\nWebsite: https://jackpope.me/\n\nMofei Zhang, React Team @ Meta\nGitHub: https://github.com/mofeiZ\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bf3rxc26cC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bf3rxc26cC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bf3rxc26cC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bf3rxc26cC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bf3rxc26cC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bf3rxc26cC4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "bf3rxc26cC4",
+        "videoPublishedAt": "2026-01-07T17:34:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s_-dQZjDZ-ZDExjJ1v0sU6Q67pg",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Exploring React Performance",
+        "description": "https://conf.react.dev/\n\nJoe Savona, React Team @ Meta\nGitHub: https://github.com/josephsavona\nX: https://x.com/en_js\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uAmRtE52mYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uAmRtE52mYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uAmRtE52mYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uAmRtE52mYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uAmRtE52mYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uAmRtE52mYk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "uAmRtE52mYk",
+        "videoPublishedAt": "2026-01-07T17:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XV_Xgr3EuLLEobpIOhcHBIvSLf4",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Async React",
+        "description": "https://conf.react.dev/\n\nRicky Hanlon, React Team @ Meta\nGitHub: https://github.com/rickhanlonii\nX: https://x.com/rickhanlonii\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tSO_tdnYprM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "tSO_tdnYprM",
+        "videoPublishedAt": "2026-01-07T17:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JluuawgKESXVg5bMdpfYiUZZlEY",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2025 React Native Keynote",
+        "description": "https://conf.react.dev/\n\nJorge Cohen, React Team @ Meta\nGitHub: https://github.com/hezi/\nX: https://x.com/JorgeWritesCode\n\nNicola Corti, React Team @ Meta\nGitHub: https://github.com/cortinico\nX: https://twitter.com/cortinico\n\nRuben Norte, React Team @ Meta\nGitHub: https://github.com/rubennorte\nX: https://twitter.com/rubennorte\nLinkedIn: https://www.linkedin.com/in/rubennorte/\n\nAlex Hunt, React Team @ Meta\nGitHub: https://github.com/huntie\nX: https://x.com/huntie\n\nRiccardo Cipolleschi, React Team @ Meta\nGitHub: https://github.com/cipolleschi\nX: https://twitter.com/CipolleschiR\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NiYwlvXsBKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NiYwlvXsBKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NiYwlvXsBKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NiYwlvXsBKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NiYwlvXsBKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NiYwlvXsBKw"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "NiYwlvXsBKw",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JfXnMq3YDu82IIpZ55oUDPCelLw",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React team Q&A",
+        "description": "https://conf.react.dev/\n\nShruti Kapoor, Software Engineer, Educator, YouTuber\nX: https://twitter.com/shrutikapoor08\nLinkedIn: https://www.linkedin.com/in/shrutikapoor08/\n\nSeth Webster, Head of React @ Meta\nGitHub: https://github.com/sethwebster\nX: https://twitter.com/sethwebster\nWebsite: https://sethwebster.com/\n\nJoe Savona, React Team @ Meta\nGitHub: https://github.com/josephsavona\nX: https://twitter.com/en_js\n\nLauren Tan, React Team @ Meta\nGitHub: https://github.com/poteto\nX: https://twitter.com/potetotes\nBluesky: https://bsky.app/profile/no.lol\n\nJack Pope, React Team @ Meta\nGitHub: https://github.com/jackpope\nWebsite: https://jackpope.me/\n\nMofei Zhang, React Team @ Meta\nGitHub: https://github.com/mofeiZ\n\nRicky Hanlon, React Team @ Meta\nGitHub: https://github.com/rickhanlonii\nX: https://x.com/rickhanlonii\n\nRuslan Lesiutin, React Team @ Meta\nGitHub: https://github.com/hoxyq\nX: https://x.com/ruslanlesiutin\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91TaHm5m7ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91TaHm5m7ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91TaHm5m7ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/91TaHm5m7ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/91TaHm5m7ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "91TaHm5m7ko"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "91TaHm5m7ko",
+        "videoPublishedAt": "2026-01-07T17:34:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DbTRxqrKqfMH4XjVQ9RD2KXyxHg",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Profiling with React Performance tracks",
+        "description": "https://conf.react.dev/\n\nRuslan Lesiutin, React Team @ Meta\nGitHub: https://github.com/hoxyq\nX: https://x.com/ruslanlesiutin\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CclO4tPoebs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CclO4tPoebs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CclO4tPoebs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CclO4tPoebs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CclO4tPoebs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CclO4tPoebs"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "CclO4tPoebs",
+        "videoPublishedAt": "2026-01-07T17:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eedToMxz615xuzxE3p3Wjt4hg7Y",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Reimagining Lists in React Native",
+        "description": "https://conf.react.dev/\n\nLuna Wei, React Team @ Meta\nGitHub: https://github.com/lunaleaps\nX: https://x.com/lunaleaps\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sR_9GnNPyU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sR_9GnNPyU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sR_9GnNPyU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sR_9GnNPyU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sR_9GnNPyU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sR_9GnNPyU4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "sR_9GnNPyU4",
+        "videoPublishedAt": "2026-01-07T17:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GRDEpi8NT-5VANxi853v4UUOaL8",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Strict DOM",
+        "description": "https://conf.react.dev/\n\nNicolas Gallagher, Software Engineer @ Meta\nCreator of React Strict DOM\nGitHub: https://github.com/necolas\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CNwF7JyB5is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CNwF7JyB5is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CNwF7JyB5is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CNwF7JyB5is/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CNwF7JyB5is/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CNwF7JyB5is"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "CNwF7JyB5is",
+        "videoPublishedAt": "2026-01-07T17:34:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d1Sck4DQuY46rsUU6zi3s0lUmtQ",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "How Parcel Bundles React Server Components",
+        "description": "https://conf.react.dev/\n\nDevon Govett, Software Architect @ Adobe\nCreator of the Parcel bundler\nGitHub: https://github.com/devongovett\nX: https://x.com/devonovett\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E6A2xzpKf7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E6A2xzpKf7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6A2xzpKf7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E6A2xzpKf7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E6A2xzpKf7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E6A2xzpKf7s"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "E6A2xzpKf7s",
+        "videoPublishedAt": "2026-01-07T17:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k6Gww7R1eyXTUB9KQShkbkOV5r0",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React and AI",
+        "description": "https://conf.react.dev/\n\nChristopher Chedeau, Software Engineer @ Meta\nCo-creator of React Native and Prettier. Creator of Excalidraw, \"CSS-in-JS\", Yoga and React Conf\nGitHub: https://github.com/vjeux\nX: https://www.twitter.com/vjeux\nBlog: https://vjeux.com/\n\nKent C. Dodds, Software Engineer Educator\nGitHub: https://github.com/kentcdodds\nX: https://x.com/kentcdodds\nLinkedIn: https://www.linkedin.com/in/kentcdodds/\nCompany: https://kentcdodds.com/\nBlog: https://kentcdodds.com/blog\n\nShawn (swyx) Wang, Cognition\nGitHub: https://github.com/swyxio\nX: https://twitter.com/swyx\nBlog: http://swyx.io/\n\nLee Robinson, VP of DX @ Cursor\nGitHub: https://github.com/leerob\nX: https://twitter.com/leerob\n\nTheo Browne, YouTuber & CEO @ T3 Chat\nGitHub: https://github.com/t3dotgg\nX: https://twitter.com/theo\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9Uwa2Wl1-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9Uwa2Wl1-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9Uwa2Wl1-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G9Uwa2Wl1-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G9Uwa2Wl1-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G9Uwa2Wl1-g"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "G9Uwa2Wl1-g",
+        "videoPublishedAt": "2026-01-07T17:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OBg0P9vas2mfmUkWHTV03A460ok",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "View Transitions and Activity",
+        "description": "https://conf.react.dev/\n\nChance Strickland, Software Engineer @ WorkOS\nGitHub: https://github.com/chaance\nLinkedIn: https://www.linkedin.com/in/chaance\nBlog: https://chance.dev/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9xD6lHgrMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9xD6lHgrMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9xD6lHgrMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G9xD6lHgrMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G9xD6lHgrMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G9xD6lHgrMM"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "G9xD6lHgrMM",
+        "videoPublishedAt": "2026-01-07T17:34:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1xR-npS152fhLur-QVqs-BD5_Lk",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Native, Amplified",
+        "description": "https://conf.react.dev/\n\nEric Fahsl, Principal Product Manager @ Amazon\nGitHub: https://github.com/efahsl\nX: https://x.com/efahsl\n\nGiovanni Laquidara, Sr Developer Evangelist @ Amazon\nGitHub: https://github.com/giolaq\nX: https://x.com/giolaq\nLinkedIn: https://www.linkedin.com/in/glaquidara/\nBlog: https://giolaq.dev/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKLwWf2G1-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKLwWf2G1-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKLwWf2G1-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NKLwWf2G1-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NKLwWf2G1-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NKLwWf2G1-8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "NKLwWf2G1-8",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v8tafBlj519Z6TrphjdHVfQVrHM",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "The React Router take on RSC",
+        "description": "https://conf.react.dev/\n\nKent C. Dodds, Software Engineer Educator\nGitHub: https://github.com/kentcdodds\nX: https://x.com/kentcdodds\nLinkedIn: https://www.linkedin.com/in/kentcdodds/\nCompany: https://kentcdodds.com/\nBlog: https://kentcdodds.com/blog\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQ6yT0zJA0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQ6yT0zJA0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQ6yT0zJA0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OQ6yT0zJA0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OQ6yT0zJA0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OQ6yT0zJA0A"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "OQ6yT0zJA0A",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dwzkyUEqOnSiK4WEenht1O4n9TU",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "In case you missed the memo",
+        "description": "https://conf.react.dev/\n\nCody Olsen, Staff Engineer @ Sanity Studio team\nGitHub: https://github.com/stipsan\nX: https://x.com/cody__olsen\nBluesky: https://bsky.app/profile/codey.bsky.social\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SnrSA8D11K8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SnrSA8D11K8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SnrSA8D11K8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SnrSA8D11K8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SnrSA8D11K8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SnrSA8D11K8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "SnrSA8D11K8",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nBRkXicnMGBji3jDN5BBNBh3nHA",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Designing Page Transitions",
+        "description": "https://conf.react.dev/\n\nDelba de Oliveira, DX Engineer @ Vercel\nGitHub: https://github.com/delbaoliveira\nX: https://twitter.com/delba_oliveira\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuUAeWpz2NA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuUAeWpz2NA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuUAeWpz2NA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UuUAeWpz2NA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UuUAeWpz2NA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UuUAeWpz2NA"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "UuUAeWpz2NA",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nOl2EZCQEE-UtDZtabfreHLq8mE",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "The invisible craft of great UX",
+        "description": "https://conf.react.dev/\n\nMichał Dudak, Base UI Developer @ MUI\nGitHub: https://github.com/michaldudak\nX: https://twitter.com/@michaldudak\nLinkedIn: https://www.linkedin.com/in/michaldudak/\nCompany: https://mui.com/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WIu5p-j8Mdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WIu5p-j8Mdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WIu5p-j8Mdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WIu5p-j8Mdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WIu5p-j8Mdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WIu5p-j8Mdg"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "WIu5p-j8Mdg",
+        "videoPublishedAt": "2026-01-07T17:34:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l6Cs8yF47tu5PMQimcVvAwrB4rA",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "RedwoodSDK: Web Standards Meet Full-Stack React",
+        "description": "https://conf.react.dev/\n\nPeter Pistorius, Co-creator @ RedwoodSDK\nGitHub: https://github.com/peterp\nX: https://x.com/appfactory\n\nAurora Scharff, Web developer and consultant @ Crayon Consulting\nGitHub: https://github.com/aurorascharff\nX: https://x.com/aurorascharff\nLinkedIn: https://www.linkedin.com/in/aurora-scharff-a86b88188/\nCompany: https://inmeta.no/\nBlog: https://aurorascharff.no/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQUI--qe9x4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQUI--qe9x4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQUI--qe9x4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQUI--qe9x4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQUI--qe9x4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WQUI--qe9x4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "WQUI--qe9x4",
+        "videoPublishedAt": "2026-01-07T17:34:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Y2qlxQw60UORDIR8vRaHFkqbDQ",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Build Fast, Deploy Faster—Expo in 2025",
+        "description": "https://conf.react.dev/\n\nEvan Bacon, Software Engineer @ Expo\nCreator of Expo Router\nX: https://twitter.com/baconbrix\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80qiS_cPkvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80qiS_cPkvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80qiS_cPkvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/80qiS_cPkvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/80qiS_cPkvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "80qiS_cPkvU"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "80qiS_cPkvU",
+        "videoPublishedAt": "2026-01-07T17:34:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B2Z3nMZnwzQDottSlUr1F_XbzK0",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "TanStack Start",
+        "description": "https://conf.react.dev/\n\nTanner Linsley, Owner @ TanStack\nGitHub: https://github.com/tannerlinsley\nX: https://twitter.com/tannerlinsley\nLinkedIn: https://www.linkedin.com/in/tannerlinsley/\nCompany: https://tanstack.com/\nBlog: https://tanstack.com/blog\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_3TbZtQ-9rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_3TbZtQ-9rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_3TbZtQ-9rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_3TbZtQ-9rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_3TbZtQ-9rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_3TbZtQ-9rg"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "_3TbZtQ-9rg",
+        "videoPublishedAt": "2026-01-07T17:34:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O91WdCZ9p1sqFt1YznWxTEPzE9o",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Modern emails using React",
+        "description": "https://conf.react.dev/\n\nZeno Rocha, Founder & CEO @ Resend\nGitHub: https://github.com/zenorocha\nX: https://twitter.com/zenorocha\nLinkedIn: https://linkedin.com/in/zenorocha\nCompany: https://resend.com/\nBlog: https://zenorocha.com/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQy24szSsBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQy24szSsBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQy24szSsBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cQy24szSsBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cQy24szSsBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cQy24szSsBw"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "cQy24szSsBw",
+        "videoPublishedAt": "2026-01-07T17:34:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j_6fCTzYSNqL88JfuBG8k1TX2bw",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Building an MCP Server for a React Component",
+        "description": "https://conf.react.dev/\n\nJames Swinton, Developer Relations Lead @ AG Grid\nGitHub: https://github.com/JamesSwinton\nX: https://x.com/jamesswintondev\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUXUJN3Suto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUXUJN3Suto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUXUJN3Suto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fUXUJN3Suto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fUXUJN3Suto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fUXUJN3Suto"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "fUXUJN3Suto",
+        "videoPublishedAt": "2026-01-07T17:34:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eC1LauEVgrNQtUQ1fbzplZHDre0",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Everywhere: Bringing React Into Native Apps",
+        "description": "https://conf.react.dev/\n\nMike Grabowski, Founder & CTO @ Callstack\nGitHub: https://github.com/grabbou\nX: https://twitter.com/grabbou\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRkCCTLpPlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRkCCTLpPlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRkCCTLpPlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRkCCTLpPlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kRkCCTLpPlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kRkCCTLpPlI"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "kRkCCTLpPlI",
+        "videoPublishedAt": "2026-01-07T17:34:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dRl-K3H_3SP_nYmbjyGwKddX9ck",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "What's The Framework of the React Future?",
+        "description": "https://conf.react.dev/\n\nJack Herrington, Blue Collar Coder\nGitHub: https://github.com/jherr\nX: https://x.com/jherr\nLinkedIn: https://www.linkedin.com/in/jherr/\nCompany: https://youtube.com/@jherr\nBlog: https://jackherrington.com/\n\nTanner Linsley, Owner @ TanStack\nGitHub: https://github.com/tannerlinsley\nX: https://twitter.com/tannerlinsley\nLinkedIn:  https://www.linkedin.com/in/tannerlinsley/\nCompany: https://tanstack.com/\nBlog: https://tanstack.com/blog\n\nPeter Pistorius, Co-creator @ RedwoodSDK\nGitHub: https://github.com/peterp\nX: https://x.com/appfactory\n\nDevon Govett, Software Architect @ Adobe\nCreator of the Parcel bundler\nGitHub: https://github.com/devongovett\nX: https://x.com/devonovett\n\nEvan Bacon, Software Engineer @ Expo\nCreator of Expo Router\nX: https://twitter.com/baconbrix\n\nKent C. Dodds, Software Engineer Educator\nGitHub: https://github.com/kentcdodds\nX: https://x.com/kentcdodds\nLinkedIn: https://www.linkedin.com/in/kentcdodds/\nCompany: https://kentcdodds.com/\nBlog: https://kentcdodds.com/blog\n\nJosh Story, Engineer @ Vercel\nGitHub: https://github.com/gnoff\n\nMichał Pierzchała, Principal Engineer @ Callstack\nGitHub: https://github.com/thymikee\nX: https://twitter.com/thymikee\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wSEUlS8WcQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wSEUlS8WcQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSEUlS8WcQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wSEUlS8WcQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wSEUlS8WcQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wSEUlS8WcQs"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "wSEUlS8WcQs",
+        "videoPublishedAt": "2026-01-07T17:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o-FtTh_yeNSmOEkDBV9WYiW_XS8",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS40MDNEMzA0QTBFRThFMzBE",
+      "snippet": {
+        "publishedAt": "2025-12-09T23:37:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Why React Native apps make all the money",
+        "description": "https://conf.react.dev/\n\nPerttu Lähteenlahti, Senior Developer Advocate @ RevenueCat\nGitHub: https://github.com/plahteenlahti\nX: https://x.com/plahteenlahti\nCompany: https://revenuecat.com/\nBlog: https://perttu.dev/\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7G_t0iraXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7G_t0iraXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7G_t0iraXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7G_t0iraXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7G_t0iraXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x7G_t0iraXc"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "x7G_t0iraXc",
+        "videoPublishedAt": "2026-01-07T17:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oI1ozk3A0MwvtkmUhYsNNbwscBs",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2026-01-04T22:38:24Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2025 Introduction",
+        "description": "https://conf.react.dev/\n\nSeth Webster, Head of React @ Meta\nGitHub: https://github.com/sethwebster\nX: https://twitter.com/sethwebster\nWebsite: https://sethwebster.com/\n\nThis is the introduction to React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IBfn3euBP8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IBfn3euBP8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IBfn3euBP8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IBfn3euBP8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IBfn3euBP8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IBfn3euBP8E"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "IBfn3euBP8E",
+        "videoPublishedAt": "2026-01-07T17:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 25,
+    "resultsPerPage": 50
+  }
+}
