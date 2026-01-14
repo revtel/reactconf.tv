@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "2rzrHpbDlHSevzumX-blYIBpHqM",
+  "etag": "lTXh0wz2RgT76eI3aZPjnarnNPY",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -706,7 +706,61 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2LzPi3oTbzWvL1HxaX5pXFl6Rz0",
+      "etag": "a7zBa2PZtDxPKPNifRSVESI1IbY",
+      "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2026-01-12T09:46:41Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Kaufman @  ReactNext '25 | The React Cookbook: Recipes They Don’t Teach You",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStep into the React kitchen for a live coding session that serves up the framework’s lesser-known ingredients. From forgotten hooks to underused core APIs, we’ll explore techniques that spice up your components in unexpected ways. No spoilers! just bring your curiosity and an appetite for surprises.\n\nSeasoned web developer & Fullstack Tech Lead at Tikal, specializing in modern JavaScript frameworks and web technologies. Google Developer Expert (Angular/Web) with a passion for knowledge sharing. Founder of “Tech a Hike” - where code meets off-road adventures. Active tech conference speaker, author, and dedicated community builder. When not crafting code, you'll find me producing electronic beats or experimenting with creative vegan food.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XrPxHrdnHXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XrPxHrdnHXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrPxHrdnHXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XrPxHrdnHXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XrPxHrdnHXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XrPxHrdnHXw"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "XrPxHrdnHXw",
+        "videoPublishedAt": "2025-12-31T16:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tKiQO10bJAvBNsQVstAEv1ixtuQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-12-30T17:55:03Z",
@@ -742,7 +796,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Pu35Hyfrlwc"
@@ -760,7 +814,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LbV7yOg39TqrP31-rlepRNudBgs",
+      "etag": "rdVz3DQ8NSptevjSIugrMpgLYu4",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2025-12-30T17:44:47Z",
@@ -796,7 +850,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 14,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0EsMRyg0YZc"
@@ -814,7 +868,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pOhosRy_0lt8H79HZJqCqNBrdjM",
+      "etag": "juHH1txYHNDkLbiHfiUvvpNe1_M",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2025-12-30T18:44:40Z",
@@ -850,7 +904,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 15,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HIGja9ZTiRs"
@@ -868,7 +922,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rmC-Ap4Q8V5573ndBXJT4TyjGBw",
+      "etag": "yqnx6CwgqRYfOB4nrEJOsGAmOh4",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41QTY1Q0UxMTVCODczNThE",
       "snippet": {
         "publishedAt": "2025-12-30T18:46:49Z",
@@ -904,7 +958,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 16,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7ReuL3Npczw"
@@ -922,7 +976,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eRnFHawIohYb6mKPmv1xCRGzwmE",
+      "etag": "F615qAbzQViIjQjXaseGUHG7xKs",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2025-12-30T18:05:42Z",
@@ -958,7 +1012,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 17,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8XPl9QLMfcQ"
@@ -976,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "V8ZRQ9lAMWmtjbtgHEFTJ6FEkAg",
+      "etag": "L32iyAvcEfwcJu2e-3-prhXKHm8",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2025-12-30T18:16:01Z",
@@ -1012,7 +1066,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 18,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LRbmWMf-o2k"
@@ -1030,7 +1084,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TgzeOYbRhgUxrDVZoMvi0F1txDU",
+      "etag": "j-wIFgYqCBfn_khnMvdc7KYCFbY",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2025-12-30T18:37:52Z",
@@ -1066,7 +1120,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 19,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EQWoDjYdhpM"
@@ -1084,7 +1138,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PMX8jWxy-TRR3Q0M2R4rQAe5XXA",
+      "etag": "qwW24SmZNEy6ihULFtZX3y3ZyZE",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2025-12-30T18:40:21Z",
@@ -1120,7 +1174,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 20,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OrSJNiNs40E"
@@ -1138,7 +1192,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bSBTjt2Znfrw-7Q-zTzDBEzEClQ",
+      "etag": "4eNzAcp198Ls7ytXbOY8RqmMmdQ",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
         "publishedAt": "2025-12-31T13:32:14Z",
@@ -1174,7 +1228,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 21,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NC4fpl3OJFY"
@@ -1192,7 +1246,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9NuFljlD5OmnjJvViYqc34a3yRE",
+      "etag": "QVT0m3qOe9uY9tI_MrK90PPyyKM",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41Mzk2QTAxMTkzNDk4MDhF",
       "snippet": {
         "publishedAt": "2025-12-30T18:42:04Z",
@@ -1228,7 +1282,7 @@
         },
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 22,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "tpKP0GpA9Tw"
@@ -1246,7 +1300,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pW57IYdkj2dK0LKCOvwi_akTiXc",
+      "etag": "Pl9SDfE-CwZIBBaEcRNhcXIwVPg",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2025-12-30T18:50:38Z",
@@ -1256,7 +1310,7 @@
         "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 23,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LzNYRw1ZVSM"
@@ -1271,7 +1325,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ETAbVEVz0_Y_ktyQbtzMLFwGOj0",
+      "etag": "bJdFj4FLsI94k2zfYZ_6xetnjB4",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2025-12-23T12:30:23Z",
@@ -1281,7 +1335,7 @@
         "thumbnails": {},
         "channelTitle": "ReactNext",
         "playlistId": "PLMYVq3z1QxSr8ypVjg3mFupdLTYqoVHkt",
-        "position": 24,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sLBIrwQB-pw"
@@ -1296,7 +1350,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 25,
+    "totalResults": 26,
     "resultsPerPage": 50
   }
 }
