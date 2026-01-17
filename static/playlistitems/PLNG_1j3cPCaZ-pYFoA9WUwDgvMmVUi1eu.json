@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "SD2kSCA7ZcXzqCBsMa4QAxHQjT8",
+  "etag": "82kZ1klUWzZBoYQ_aaKhiZlDCaA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -112,61 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XV_Xgr3EuLLEobpIOhcHBIvSLf4",
-      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5ERkUyQTM0MzEwQjZCMTY5",
-      "snippet": {
-        "publishedAt": "2025-12-09T23:37:56Z",
-        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
-        "title": "Async React",
-        "description": "https://conf.react.dev/\n\nRicky Hanlon, React Team @ Meta\nGitHub: https://github.com/rickhanlonii\nX: https://x.com/rickhanlonii\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tSO_tdnYprM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conf",
-        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "tSO_tdnYprM"
-        },
-        "videoOwnerChannelTitle": "React Conf",
-        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
-      },
-      "contentDetails": {
-        "videoId": "tSO_tdnYprM",
-        "videoPublishedAt": "2026-01-07T17:34:46Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "JluuawgKESXVg5bMdpfYiUZZlEY",
+      "etag": "hjGf2RrrCqTVOXYWzPPbjIf4r18",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41NTZEOThBNThFOUVGQkVB",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -202,7 +148,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 3,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NiYwlvXsBKw"
@@ -220,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "SGM8ePRL4MfyoAUJHkUai1CPQEY",
+      "etag": "fwLHpbx7pZrURSPY8Ugi1Wa27KI",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS40QzRDOEU0QUYwNUIxN0M1",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -256,7 +202,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 4,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "91TaHm5m7ko"
@@ -274,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q0EblTuLLagJM-IN1mZdfr-p4jI",
+      "etag": "ufwPxVt1yXAYVQb7watAwiXjkwE",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5ENjI1QUI0MDI5NEQzODFE",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -310,7 +256,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 5,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CclO4tPoebs"
@@ -328,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eedToMxz615xuzxE3p3Wjt4hg7Y",
+      "etag": "ErAhl22P8HmhBD6OX75ALivFec4",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CNTcxMDQ0NThBNzMxODYz",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -364,7 +310,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 6,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sR_9GnNPyU4"
@@ -382,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0tY87p1M9-Hm73ZBYzr0jWKjoV0",
+      "etag": "l09-WBPxpzjEVNnFlv7iVdNgeNA",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41RTNBREYwMkI5QzU3RkY2",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -418,7 +364,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CNwF7JyB5is"
@@ -436,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "d1Sck4DQuY46rsUU6zi3s0lUmtQ",
+      "etag": "1sag0c_RrMHmW5n2MKa_MzU4rjk",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS44QzVGQUU2QjE2NDgxM0M4",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -472,7 +418,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "E6A2xzpKf7s"
@@ -490,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k6Gww7R1eyXTUB9KQShkbkOV5r0",
+      "etag": "T5mLhrG1ivrRQAJTPKLnFQ1PdOg",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4xMzgwMzBERjQ4NjEzNUE5",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -526,7 +472,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 9,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "G9Uwa2Wl1-g"
@@ -544,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "OBg0P9vas2mfmUkWHTV03A460ok",
+      "etag": "O1sjRj13X0sWOt7Qnj_P0HquUMg",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4zMEQ1MEIyRTFGNzhDQzFB",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -580,7 +526,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 10,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "G9xD6lHgrMM"
@@ -598,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YNdX-4TVfghcOvTJvNvB-2O9uJU",
+      "etag": "oldCWVmm_rOlSnt9kOW9dCfhlT4",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42Qzk5MkEzQjVFQjYwRDA4",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -634,7 +580,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 11,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NKLwWf2G1-8"
@@ -652,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "v8tafBlj519Z6TrphjdHVfQVrHM",
+      "etag": "Z6cfji6GPZ0lf0QWsGXj-RaFsp8",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS43NERCMDIzQzFBMERCMEE3",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -688,7 +634,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 12,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OQ6yT0zJA0A"
@@ -706,7 +652,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "X5a2QbafD-6uHaydtYhPfv9oJyE",
+      "etag": "-qQ_Qnt_Q48kP85HWpkPHh_41TI",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5GNjAwN0Y0QTFGOTVDMEMy",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -742,7 +688,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 13,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SnrSA8D11K8"
@@ -760,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nBRkXicnMGBji3jDN5BBNBh3nHA",
+      "etag": "TzZ5G5l1HnwLYbqPYtVgHEt8fwc",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CQkEwRDA0MDkwNUM2MDY1",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -796,7 +742,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 14,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UuUAeWpz2NA"
@@ -814,7 +760,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5rwNs9mMZQjdVjnZqgOZSFyI0mQ",
+      "etag": "VEVoZaJ0r9VpbXET0DtfobfoDLQ",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wNEU1MTI4NkZEMzVBN0JF",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -850,7 +796,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 15,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WIu5p-j8Mdg"
@@ -868,7 +814,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "l6Cs8yF47tu5PMQimcVvAwrB4rA",
+      "etag": "SiRgJbrUS7kSyt4X2bqn_RdfEWI",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wMTYxQzVBRDI1NEVDQUZE",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -904,7 +850,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 16,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WQUI--qe9x4"
@@ -922,7 +868,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0qvvMbY94_Rn3zj2qOY3uKnN-A0",
+      "etag": "zvdYVxGRGzIFC1UJeiJiCDRoo-I",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4yQUJFNUVCMzVDNjcxRTlF",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -958,7 +904,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 17,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "80qiS_cPkvU"
@@ -976,7 +922,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FTVTse8PRAzCvUqDtwsUBJdSbak",
+      "etag": "iDVCx4xR72VzBMAL-vgN7q6bck8",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4zMUEyMkQwOTk0NTg4MDgw",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1012,7 +958,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 18,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_3TbZtQ-9rg"
@@ -1030,7 +976,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "O91WdCZ9p1sqFt1YznWxTEPzE9o",
+      "etag": "50gKSUYL-KSmMh-O5WPh2SEB5Tw",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS41OURENDc2NEM1MDI5Mjky",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1066,7 +1012,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 19,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cQy24szSsBw"
@@ -1084,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0JHxlk5GxuL8pXoIOnnL_Y9ajd0",
+      "etag": "ZJu0eOEZqnlWr27bZmmFEss1qQc",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wRjhFM0MxMTU1MEUzQ0VB",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1120,7 +1066,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 20,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fUXUJN3Suto"
@@ -1138,7 +1084,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JAYsy2jke83g_H0PX-PhcjWMFmU",
+      "etag": "lvqQSROWAMZiOAvEEpMcS6-8EuQ",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CNTZFOTNGQzZEODg1RUQx",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1174,7 +1120,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 21,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kRkCCTLpPlI"
@@ -1192,7 +1138,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dRl-K3H_3SP_nYmbjyGwKddX9ck",
+      "etag": "2IR_Td83_bg9xY__SlJtjEJEwaQ",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42MjYzMTMyQjA0QURCN0JF",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1228,7 +1174,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 22,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "wSEUlS8WcQs"
@@ -1246,7 +1192,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o-FtTh_yeNSmOEkDBV9WYiW_XS8",
+      "etag": "QXk48J-HcbE0NrVgKAvUvhu8UfY",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS40MDNEMzA0QTBFRThFMzBE",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1282,7 +1228,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 23,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x7G_t0iraXc"
@@ -1300,7 +1246,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oI1ozk3A0MwvtkmUhYsNNbwscBs",
+      "etag": "EotKt9D7IayU7BnX0rgp6T0IPFY",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS42RTNCOEMxREI3Q0VDMjU2",
       "snippet": {
         "publishedAt": "2026-01-04T22:38:24Z",
@@ -1336,7 +1282,7 @@
         },
         "channelTitle": "React Conf",
         "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
-        "position": 24,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "IBfn3euBP8E"
@@ -1347,6 +1293,60 @@
       "contentDetails": {
         "videoId": "IBfn3euBP8E",
         "videoPublishedAt": "2026-01-07T17:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2YUQGumwxwrX_iPrbth6AQdkl50",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2026-01-17T02:39:06Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Async React",
+        "description": "Async React Working Group: https://github.com/reactwg/async-react\nDemo app code: https://github.com/rickhanlonii/async-react\n\nhttps://conf.react.dev/\n\nRicky Hanlon, React Team @ Meta\nGitHub: https://github.com/rickhanlonii\nX: https://x.com/rickhanlonii\n\nThis talk was given at React Conf 2025, co-hosted by Meta (https://www.meta.com) and Callstack (https://www.callstack.com/). See more React Conf 2025 talks here: https://conf.react.dev/\n\nThank you to React Conf 2025's sponsors:\n\n🏆 Platinum Sponsor\nAmazon: https://www.developer.amazon.com/\n\n🥇 Gold Sponsors\nAG Grid: https://www.ag-grid.com/\nMUI: https://mui.com/\nResend: https://resend.com/\nRevenueCat: https://www.revenuecat.com/\nVercel: https://vercel.com/\nExpo: https://expo.dev/\nRedwoodSDK: https://rwsdk.com/\n\n📺 Livestream Sponsor\nMux: https://www.mux.com/\n\n🥈 Silver Sponsors\nOld Mission: https://www.oldmissioncapital.com/\nArcjet: https://arcjet.com/\nInfinite Red: https://infinite.red/\nRender ATL: https://renderatl.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_2E96URooA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_2E96URooA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_2E96URooA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B_2E96URooA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B_2E96URooA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B_2E96URooA"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "B_2E96URooA",
+        "videoPublishedAt": "2026-01-17T02:39:07Z"
       },
       "status": {
         "privacyStatus": "public"
