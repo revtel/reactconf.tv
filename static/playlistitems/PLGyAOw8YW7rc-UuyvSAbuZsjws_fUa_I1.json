@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "xFXOBN-qxQrU0L5LvY7aqKCzJkw",
+  "etag": "mYNeghR3NymFTNAONYedJf078AQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -220,27 +220,56 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "noK-62DR_58OeFqVExoR90lFuQM",
+      "etag": "65M3BvR-_3lyIWppTLzuHBYL7XM",
       "id": "UExHeUFPdzhZVzdyYy1VdXl2U0FidVpzandzX2ZVYV9JMS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-11-12T19:45:46Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
+        "title": "Cache Your Data, Not Only HTML - Udhayaprakasha R V",
+        "description": "See how Setmore slashed hosting costs 50% and achieved 10x faster loads by replacing Next.js ISR with Redis data caching. Real production insights from millions of daily bookings with a short live demo.\n\nSpeaker Details:\nUdhayaprakasha R V\nSoftware Engineer, Full Creative Private Limited",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMAETYcyhOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
         "channelTitle": "React India",
         "playlistId": "PLGyAOw8YW7rc-UuyvSAbuZsjws_fUa_I1",
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fMAETYcyhOE"
-        }
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
       },
       "contentDetails": {
-        "videoId": "fMAETYcyhOE"
+        "videoId": "fMAETYcyhOE",
+        "videoPublishedAt": "2025-11-13T12:30:59Z"
       },
       "status": {
-        "privacyStatus": "private"
+        "privacyStatus": "public"
       }
     },
     {
