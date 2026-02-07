@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ixZqfeoMiRK1Wf69cwqIjU7IItc",
+  "etag": "T_62wy8b8IOWvxEixYYsdArCuHA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -274,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dUZRXa4uSA1rjbJMby1AWBSKcnA",
+      "etag": "8A5WMjC6W-npKnP6ZSXkdiAiB5k",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CNTcxMDQ0NThBNzMxODYz",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -706,7 +706,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bfGKt9xwVL8r1tqV9BOz-74gpYc",
+      "etag": "xjc4AouHMBqO-eeuWP_qr-DCUgY",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS5CQkEwRDA0MDkwNUM2MDY1",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -760,7 +760,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wRXGVClpgofNj7bCKzgOS9LCOAs",
+      "etag": "36hAxLP5B_Eoe3K82_HsGqNbT78",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wNEU1MTI4NkZEMzVBN0JF",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1030,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mffU_rGdAwTSsKR8FDx-fPVaIZo",
+      "etag": "-um8HgT_GiLNOfvaQwAT8ALDR8o",
       "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4wRjhFM0MxMTU1MEUzQ0VB",
       "snippet": {
         "publishedAt": "2025-12-09T23:37:56Z",
@@ -1351,10 +1351,35 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u4SC8NSL1r27XtXdz7YzaRaZxKE",
+      "id": "UExOR18xajNjUENhWi1wWUZvQTlXVXdEZ3ZNbVZVaTFldS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2026-02-04T17:14:38Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZ-pYFoA9WUwDgvMmVUi1eu",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VAb8NnOg7KE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VAb8NnOg7KE"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 25,
+    "totalResults": 26,
     "resultsPerPage": 50
   }
 }

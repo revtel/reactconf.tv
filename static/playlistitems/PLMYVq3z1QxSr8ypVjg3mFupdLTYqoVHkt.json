@@ -1,7 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "GcDDU_vpbyDMIuLe_s2ezRR_y7M",
-  "nextPageToken": "EAAaBlBUOkNCaw",
+  "etag": "Dihmk6OiG0-373CdMa8bi6fi3Z4",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1326,7 +1325,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 26,
+    "totalResults": 25,
     "resultsPerPage": 50
   }
 }
