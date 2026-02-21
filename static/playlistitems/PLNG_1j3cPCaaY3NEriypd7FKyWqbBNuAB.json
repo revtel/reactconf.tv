@@ -1,13 +1,118 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "GV-f919_K2ojceZxWonwSSDeB-M",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Vfia1Q5JAGdUdsucrFZBcDHWa4",
+      "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-05-14T17:29:50Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2024 Day 2",
+        "description": "React Conf 2024 Day 2\n\nReact Conf 2024 Day 1: https://www.youtube.com/watch?v=T8TZQ6k4SLE\n\n00:00 Pre-stream\n28:36 Intro\n38:40 Keynote\n1:36:36 Extending React Native Beyond Mobile & Desktop Apps\n2:06:00 Break\n2:35:11 React Compiler Deep Dive\n3:07:35 And Now You Understand React Server Components\n3:32:08 React Rhythm & Blues\n3:53:08 Break\n5:31:21 Solve 100% of your errors\n5:44:16 Demystifying accessibility in React apps\n6:01:32 Pigment CSS, CSS in the server component age\n6:15:25 Spatial computing with React\n6:35:49 Break\n7:01:20 Enhancing Forms with React Server Components\n7:22:49 Cross Platform React\n7:45:35 React Native team Q&A\n8:15:40 Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ckOUBiuxVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaaY3NEriypd7FKyWqbBNuAB",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ckOUBiuxVY"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "0ckOUBiuxVY",
+        "videoPublishedAt": "2024-05-17T00:17:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OUnadYdRTjDA9NxBCqihOvN19m4",
+      "id": "UExOR18xajNjUENhYVkzTkVyaXlwZDdGS3lXcWJCTnVBQi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-05-14T17:25:32Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Conf 2024 Day 1",
+        "description": "React Conf 2024 Day 1\n\nReact Conf 2024 Day 2: https://www.youtube.com/watch?v=0ckOUBiuxVY\n\n00:00 Pre-stream\n16:13 Intro\n29:48 Keynote\n1:32:22 Vanilla React\n1:57:55 Break\n2:28:00 What's new in React 19\n2:48:32 React Unpacked: A Roadmap to React 19\n3:20:20 Forget About Memo\n3:53:25 Break\n5:13:45 React for Two Computers\n5:46:05 Introducing Universal React Server Components in Expo Router\n6:03:25 Break\n6:41:08 Real-time server components\n6:55:16 React 19 Deep Dive: Coordinating HTML\n7:11:07 Let’s break React’s rules\n7:26:55 RedwoodJS, now with React Server Components!\n7:38:38 React team Q&A\n8:30:22 Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8TZQ6k4SLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaaY3NEriypd7FKyWqbBNuAB",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T8TZQ6k4SLE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "T8TZQ6k4SLE",
+        "videoPublishedAt": "2024-05-16T00:49:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
   }
 }

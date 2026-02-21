@@ -1,13 +1,1468 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ggTRi-Id-A6J9hoXlIHa7Mhytqk",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0HyJ4V4rXYgnX7a0-Mb9QQGl4E",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-05-14T19:08:31Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReacteuropeOrgConf 2020",
+        "description": "We present an approach to state management that scales from a single component to highly complex apps. This boilerplate-free system makes it easy to support browser history and URLs and to manage asynchronous data dependencies, and works with modern React features. We use as a case-study a sophisticated data analysis tool developed at Facebook which led us to create this system.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ISAA_Jt9kI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ISAA_Jt9kI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ISAA_Jt9kI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ISAA_Jt9kI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ISAA_Jt9kI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_ISAA_Jt9kI"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "_ISAA_Jt9kI",
+        "videoPublishedAt": "2020-05-14T19:14:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qyr_TFzAcsITLseMcVXY4EESUmE",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-05-14T23:53:52Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Bringing webgl to react - Paul Henschel aka @0xca0a at @ReacteuropeOrgConf 2020",
+        "description": "This talk is about react-three-fiber, a reconciler that translates react components to threejs to spice up frontend dev with some canvas magic. we will get into the history of it, benefits, hooks and a small primer to get going.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyqBdN71nFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyqBdN71nFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyqBdN71nFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YyqBdN71nFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YyqBdN71nFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YyqBdN71nFs"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "YyqBdN71nFs",
+        "videoPublishedAt": "2020-05-14T23:52:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c0_Pj8-3SEb10Z5u_9WRj1Zeb1I",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-05-14T23:53:20Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "The Latest in Next.js 9.4 by Tim Neutkens (@timneutkens) co-creator of Next.js at @ReactEurope 2020",
+        "description": "Next.js 9.4:\n\n◆ React Fast Refresh\n◆ Incremental Static Regeneration (beta)\n◆ New Environment Variables Support\n◆ Built-in Fetch Support\n◆ Web Vitals Reporting\n◆ Absolute Imports and Aliases\n◆ Configurable Sass Support\n◆ Improved Log Output",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UD98x-2mido/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UD98x-2mido/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UD98x-2mido/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UD98x-2mido/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UD98x-2mido/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UD98x-2mido"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "UD98x-2mido",
+        "videoPublishedAt": "2020-05-14T23:58:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zX0CTB-kVyxIMrhF447YPOpvCcs",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-05-14T23:54:20Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Gatsby's roadmap and its future - Sid Chatterjee (@chatsidhartha) core-team gatsby @ReacteuropeOrgConf 2020",
+        "description": "The latest about Gatsby.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yHicxrK1HOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yHicxrK1HOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yHicxrK1HOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yHicxrK1HOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yHicxrK1HOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yHicxrK1HOI"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "yHicxrK1HOI",
+        "videoPublishedAt": "2020-05-15T00:00:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-uulAMhohpDxRV9dZEyjzXLgdKY",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-05-16T10:27:21Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Excalidraw: Cool JS Tricks Behind the Scenes by Excalidraw Creator Christopher Chedeau aka @vjeux",
+        "description": "Follow vjeux here https://twitter.com/vjeux\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fix2-SynPGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fix2-SynPGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fix2-SynPGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fix2-SynPGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fix2-SynPGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fix2-SynPGE"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "fix2-SynPGE",
+        "videoPublishedAt": "2020-05-16T10:48:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rjlplrh7Uhbi-L3PnOSB-XVGvWI",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-05-16T12:58:17Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Render Props are Not Dead - @Erik Rasmussen  (aka @erikras) at @ReactEurope 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nReact has a long and storied past of abstracting away state management. First it was mixins, then HOCs killed mixins, then render props killed HOCs, and now hooks have killed render props. Or have they? There is still some value that render props can provide that hooks cannot. This talk explores that use case so that you can learn to recognize the scenario and deploy render props intelligently.\n\nFollow Erik here https://twitter.com/erikras\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pn0pIgdQvhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pn0pIgdQvhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pn0pIgdQvhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pn0pIgdQvhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pn0pIgdQvhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pn0pIgdQvhU"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "pn0pIgdQvhU",
+        "videoPublishedAt": "2020-05-16T13:12:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C-XzeNgcja3NXzh_N6Pf6Uv2cOI",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-05-16T13:05:33Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Rejecting bongo kittens, achieving 3D blooms, and other lessons learned - Josh Comeau (@joshwcomeau)",
+        "description": "A talk about love, pain, and lightsabers.\n\nFollow Josh here https://twitter.com/joshwcomeau\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9u0VapB-AbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9u0VapB-AbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9u0VapB-AbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9u0VapB-AbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9u0VapB-AbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9u0VapB-AbE"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "9u0VapB-AbE",
+        "videoPublishedAt": "2020-05-16T13:04:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QwHKHLqnBw9jQ811B1FrvPjZ0aA",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-05-16T13:51:26Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Beyond Responsive Design: Building Mobile-Optimized Websites in React - Alex Holachek @alex_holachek",
+        "description": "If you’ve browsed the internet on your phone recently, you’ve probably noticed a common phenomenon: mobile websites often try to get the user away from the site and onto an app as quickly as possible. How can front end developers advocate for the strengths of the mobile web, and build experiences so good that it’s not always necessary to point the user to a native app? This practical talk will review HTML & CSS best practices and then have a look at implementing some more advanced techniques in React.\n\nStorybook mobile https://storybook-mobile.netlify.app\n\nbundle-wizard, a powerful tool to analyze your bundles https://github.com/aholachek/bundle-wizard\n\nFollow Alex here https://twitter.com/alex_holachek\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6_KxNvRxr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6_KxNvRxr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6_KxNvRxr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W6_KxNvRxr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W6_KxNvRxr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W6_KxNvRxr4"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "W6_KxNvRxr4",
+        "videoPublishedAt": "2020-05-16T13:52:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bo17llnp7bRq-dRHpu6yEBBBLOQ",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-05-16T14:18:18Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Transforming GraphQL: Full Stack Infrastructure as Code - @naderdabit aka @dabit3 @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Nader here https://twitter.com/dabit3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yR-gJ2hMIPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yR-gJ2hMIPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yR-gJ2hMIPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yR-gJ2hMIPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yR-gJ2hMIPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yR-gJ2hMIPk"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "yR-gJ2hMIPk",
+        "videoPublishedAt": "2020-05-16T14:18:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0rwcKII_c9XYO5eaRq3GuoPO2XY",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-05-16T18:51:26Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Expo: Universal React - @Baconbrix aka @Baconbrix at @ReacteuropeOrgConf 2020",
+        "description": "Watch Evan demo universal login, html elements, PWAs and more!\n\nFollow Evan on https://twitter.com/Baconbrix\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uyZslq7Jsno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uyZslq7Jsno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uyZslq7Jsno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uyZslq7Jsno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uyZslq7Jsno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uyZslq7Jsno"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "uyZslq7Jsno",
+        "videoPublishedAt": "2020-05-16T18:52:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6X6O7xrMdnDIojhG8CnDtJJC03E",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-05-16T19:27:37Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Building a Design Tool for React in React - Sanket Sahu aka @sanketsahu at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sanket here https://twitter.com/sanketsahu and builderx https://twitter.com/BuilderX\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/31pjm-ifL20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/31pjm-ifL20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/31pjm-ifL20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/31pjm-ifL20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/31pjm-ifL20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "31pjm-ifL20"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "31pjm-ifL20",
+        "videoPublishedAt": "2020-05-16T19:28:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DFF1bAFR88D2uZWLzQ6-Q02nNYA",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-05-16T19:34:39Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Hijacking CSS with tailwindCSS - Horacio Herrera aka @hhg2288 at @ReacteuropeOrgConf",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Horacio here https://twitter.com/hhg2288\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VfvTuw90QkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VfvTuw90QkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VfvTuw90QkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VfvTuw90QkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VfvTuw90QkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VfvTuw90QkA"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "VfvTuw90QkA",
+        "videoPublishedAt": "2020-05-16T19:34:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sNPrwR_kxb-LdtfV4QWYinxxUYQ",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-05-16T19:57:57Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Design system and accessibility - Devon Govett aka @devongovett at @ReacteuropeOrgConf 2020",
+        "description": "Follow Devon here https://twitter.com/devongovett\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dxDcBB7Xoxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dxDcBB7Xoxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dxDcBB7Xoxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dxDcBB7Xoxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dxDcBB7Xoxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dxDcBB7Xoxs"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "dxDcBB7Xoxs",
+        "videoPublishedAt": "2020-05-16T19:57:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C26RgKEmo6UFdABMtbIIq2jLE9s",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-05-16T22:50:05Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Flipper: The Extensible DevTool Platform for React Native - Michel Weststrate aka @mweststrate",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nAre you a React Native developer? Have you always been longing for the rich ecosystem of developer tooling that exists for the web in e.g. Chrome and Firefox?\n\nFlipper is Facebooks internal, extensible mobile devtool platform, used by the mobile devs that work on the Facebook, WhatsApp, Instagram and many more apps.\n\nRecently the React Native and Flipper team have been working hard to add first class support for React Native as well. This means that monitoring network traffic and performance, using the React Devtools, inspecting device and application logs or even debugging JavaScript can now can now be conveniently done using one coherent tool.\n\nAnd best of all: Flipper is extensible, so let's build our own extension while at it!\n\nFollow Michel here https://twitter.com/mweststrate",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WltZTn3ODW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WltZTn3ODW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WltZTn3ODW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WltZTn3ODW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WltZTn3ODW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WltZTn3ODW4"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "WltZTn3ODW4",
+        "videoPublishedAt": "2020-05-17T12:38:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dyOzQw3neptqsN1zL2tPRQQ_w7M",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-05-17T12:51:25Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Detecting the unexpected in React applications - Nicolas Dubien aka @ndubien at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Nicolas here: https://twitter.com/ndubien\n\nWe all know this moment: when a bug we have never thought of before pops up right at the last moment in production.\n\nTruth is, forecasting all potential bugs with our tests is barely infeasible. Yet, what if there was still a way?\n\nLet's investigate together what can be improved and added to our test strategies to make them even more reliable thanks to property based testing. But contrary to classical talk around property based testing, we are going to go further by extending it to user interfaces and race conditions detection.\n\nBy the end of this talk, our CI will have been turned into an automated QA identifying issues in our UI.\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GIPbY75-lEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GIPbY75-lEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GIPbY75-lEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GIPbY75-lEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GIPbY75-lEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GIPbY75-lEo"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "GIPbY75-lEo",
+        "videoPublishedAt": "2020-05-17T12:51:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2l2gmdCOVXkALEtiUBbNfZpU4hg",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:01:08Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Let’s Make Development Fast Again! - Ives van Hoorne aka @CompuIves at @ReacteuropeOrgConf  2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Ives here: https://twitter.com/CompuIves",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yu9zcJJ4Uz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yu9zcJJ4Uz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yu9zcJJ4Uz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yu9zcJJ4Uz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yu9zcJJ4Uz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yu9zcJJ4Uz0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "Yu9zcJJ4Uz0",
+        "videoPublishedAt": "2020-05-17T13:01:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cgi2i4LYMq51RcQ-Z50ioC-SdJ4",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:06:57Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Blitz.js & the Future of Fullstack - Brandon Bayer aka @flybayer at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Brandon here https://twitter.com/flybayer\n\nFullstack Javascript is too hard. There’s too many choices. Too much complexity. So we created Blitz, a new Rails-like framework for fullstack React apps. It builds on Next.js and adds a new invisible data layer that removes the need to build your own API. It also brings conventions and development tooling like code scaffolding and an integrated code REPL.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H93WAFrlCkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H93WAFrlCkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H93WAFrlCkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H93WAFrlCkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H93WAFrlCkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H93WAFrlCkQ"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "H93WAFrlCkQ",
+        "videoPublishedAt": "2020-05-17T13:08:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HOykq84W5sbs356_BqG_of6v-P0",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:13:56Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Jamstack + React Native - Sebastien Lorber aka @sebastienlorber at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sebastien here https://twitter.com/sebastienlorber",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dySNfw_VB-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dySNfw_VB-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dySNfw_VB-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dySNfw_VB-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dySNfw_VB-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dySNfw_VB-4"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "dySNfw_VB-4",
+        "videoPublishedAt": "2020-05-17T13:13:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iEuo8dHFzojYyRzIb7bYIFJKVjc",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:18:37Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Relay Concepts - Sibelius Seraphini aka @sseraphini at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Sibelius here https://twitter.com/sseraphini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FszbrKybdOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FszbrKybdOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FszbrKybdOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FszbrKybdOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FszbrKybdOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FszbrKybdOY"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "FszbrKybdOY",
+        "videoPublishedAt": "2020-05-17T13:18:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qfUDfi31kvDvQdtcugEymnpbVE4",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:28:05Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Learn React Hooks By Building An Auth Based To Do App - Lukonde Mwila aka @Luke9ine at @ReacteuropeOrgConf",
+        "description": "Follow Lukonde here https://twitter.com/Luke9ine\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MrzAUYfSSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MrzAUYfSSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MrzAUYfSSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4MrzAUYfSSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4MrzAUYfSSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4MrzAUYfSSs"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "4MrzAUYfSSs",
+        "videoPublishedAt": "2020-05-17T13:28:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5_BE8j9UO442QBE_Hc52gi27WnQ",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:40:50Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Gamedev on React + WebGL - Korotaev Alexander aka @mamu_eval at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1UCf-GR66Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1UCf-GR66Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1UCf-GR66Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1UCf-GR66Gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1UCf-GR66Gc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1UCf-GR66Gc"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "1UCf-GR66Gc",
+        "videoPublishedAt": "2020-05-17T13:40:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GevsT0dJntrY0bHGquI4AHv1S64",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-05-17T13:43:15Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Scalability - React Native Architecture at @Wix  - Omri Bruchim aka @omribruchim at @ReacteuropeOrgConf",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHEceWEB15k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHEceWEB15k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHEceWEB15k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jHEceWEB15k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jHEceWEB15k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jHEceWEB15k"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "jHEceWEB15k",
+        "videoPublishedAt": "2020-05-17T13:43:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-n-BpbxqkQdT2brqliX5PF4DuS8",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-05-17T14:28:54Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "State of React (animations) - John Adetutu aka @johnadetutu93 at @ReacteuropeOrgConf 2020",
+        "description": "Follow John here https://twitter.com/johnadetutu93\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLhRd0BldNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLhRd0BldNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLhRd0BldNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wLhRd0BldNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wLhRd0BldNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wLhRd0BldNE"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "wLhRd0BldNE",
+        "videoPublishedAt": "2020-05-17T14:40:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YmOGjlMuHXRMS2sk3_g2p10llUE",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-05-17T16:05:45Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "How does Material-UI build components? - Olivier Tassinari aka @olivtassinari at @ReactEurope 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Olivier here https://twitter.com/olivtassinari\n\nGet behind the scene of one of the most popular React UI framework. Material-UI contains dozens of rich components, you might have already used some of them. In this talk, we explore how these components are built and maintained. We use the autocomplete as a case study. We will explore the answers to these questions, among others. When is a new component built? How is a new component built? What influences the design? What sustains the effort?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zhNe4THPTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zhNe4THPTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zhNe4THPTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3zhNe4THPTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3zhNe4THPTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3zhNe4THPTQ"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "3zhNe4THPTQ",
+        "videoPublishedAt": "2020-05-17T16:06:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wB1wm_S9VzMk9OQAXurxiMQpUZw",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-05-17T16:14:50Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "JavaScript ∩ WebAssembly - Tadeu Zagallo aka @tadeuzagallo at @ReacteuropeOrgConf 2020",
+        "description": "Follow Tadeu here https://twitter.com/tadeuzagallo\n\nGet next edition's tickets info here: https://www.react-europe.org/#tickets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PP5r_b3Ws8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PP5r_b3Ws8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PP5r_b3Ws8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PP5r_b3Ws8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PP5r_b3Ws8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PP5r_b3Ws8s"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "PP5r_b3Ws8s",
+        "videoPublishedAt": "2020-05-17T16:14:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zxwiznr_2DjOgxo6KrGHtLQITIw",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-05-17T16:33:05Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Using Expo OTA Updates in your React Native app - Eric Samelson at @ReacteuropeOrgConf 2020",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nThis talk will focus on the recently released expo-updates library that allows you to use Expo’s OTA updates in any React Native app. We’ll discuss how to set up and use the module, configuration options, and other important things to be aware of when using OTA updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Si909la3rLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Si909la3rLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Si909la3rLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Si909la3rLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Si909la3rLk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Si909la3rLk"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "Si909la3rLk",
+        "videoPublishedAt": "2020-05-17T16:33:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8RvZ8mzOu9qMkzbTvI1DzviSFPY",
+      "id": "UExDQzQzNkpwVm5LMFE0V0hvQjg1WllCd2NDeVRhTWdBbC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-05-17T16:50:01Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Data sync for realtime or offline apps with React and GraphQL - Richard Threlkeld aka @undef_obj",
+        "description": "Get next edition's tickets info here: https://www.react-europe.org/#tickets\n\nFollow Richard here: https://twitter.com/undef_obj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nzeL1wZltf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nzeL1wZltf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nzeL1wZltf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nzeL1wZltf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nzeL1wZltf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK0Q4WHoB85ZYBwcCyTaMgAl",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nzeL1wZltf0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "nzeL1wZltf0",
+        "videoPublishedAt": "2020-05-17T16:50:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 27,
+    "resultsPerPage": 50
   }
 }

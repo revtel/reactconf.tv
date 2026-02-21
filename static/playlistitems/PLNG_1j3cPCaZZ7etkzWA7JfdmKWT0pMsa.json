@@ -1,13 +1,1036 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "9Imy1VjQ7pHvhusJMDDsyRJXtM4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bUfw2Ro8fgzZ-u93g1FthBOiabg",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React 18 Keynote",
+        "description": "Andrew Clark, Lauren Tan, Juan Tejada & Ricky Hanlon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FZ0cG47msEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FZ0cG47msEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FZ0cG47msEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FZ0cG47msEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FZ0cG47msEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FZ0cG47msEk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "FZ0cG47msEk",
+        "videoPublishedAt": "2021-12-09T11:30:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t_6nfXvVxtKwD8RdZMx-4tg6wn4",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React 18 for app developers",
+        "description": "Shruti Kapoor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytudH8je5ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytudH8je5ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytudH8je5ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytudH8je5ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytudH8je5ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ytudH8je5ko"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "ytudH8je5ko",
+        "videoPublishedAt": "2021-12-09T11:30:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4lqD3pdKgscAg6wGWZKSFgraqaA",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Streaming Server Rendering with Suspense",
+        "description": "Shaundai Person",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pj5N-Khihgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pj5N-Khihgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pj5N-Khihgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pj5N-Khihgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pj5N-Khihgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pj5N-Khihgc"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "pj5N-Khihgc",
+        "videoPublishedAt": "2021-12-09T11:30:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "583VycFZlc-49qiTbfspzlsSfws",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "The first React Working Group",
+        "description": "Aakansha Doshi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qn7gRClrC9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qn7gRClrC9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qn7gRClrC9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qn7gRClrC9U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qn7gRClrC9U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qn7gRClrC9U"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "qn7gRClrC9U",
+        "videoPublishedAt": "2021-12-09T11:30:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3KM3SYzC6w6VrfWxU7b4LqmL7Hc",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Developer Tooling",
+        "description": "Brian Vaughn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxDfrke8rZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxDfrke8rZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxDfrke8rZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oxDfrke8rZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oxDfrke8rZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oxDfrke8rZg"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "oxDfrke8rZg",
+        "videoPublishedAt": "2021-12-09T11:30:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pVbeWavtFZKMZzWtrs4fpmhQMwE",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React without memo",
+        "description": "Xuan Huang (黄玄)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGEMwh32soc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGEMwh32soc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGEMwh32soc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGEMwh32soc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGEMwh32soc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lGEMwh32soc"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "lGEMwh32soc",
+        "videoPublishedAt": "2021-12-09T11:30:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ax-UG7PSrgziQWU2d954tBN7MvI",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Docs Keynote",
+        "description": "Rachel Nabors",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mneDaMYOKP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mneDaMYOKP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mneDaMYOKP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mneDaMYOKP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mneDaMYOKP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mneDaMYOKP8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "mneDaMYOKP8",
+        "videoPublishedAt": "2021-12-09T11:30:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e_XHQPie1PqGU08RNE_kXnLVJLs",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Things I learnt from the new React docs",
+        "description": "Debbie O'Brien",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7odLW_hG7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7odLW_hG7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7odLW_hG7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-7odLW_hG7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-7odLW_hG7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-7odLW_hG7s"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "-7odLW_hG7s",
+        "videoPublishedAt": "2021-12-09T11:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qjCCkdCoT0lBzh_Gu44QQUwKC6w",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Learning in the Browser",
+        "description": "Sarah Rainsberger",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5X-WEQflCL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5X-WEQflCL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5X-WEQflCL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5X-WEQflCL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5X-WEQflCL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5X-WEQflCL0"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "5X-WEQflCL0",
+        "videoPublishedAt": "2021-12-09T11:30:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OXqpmkPZC2BqmhCPPA_owbtDZ6Q",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "The ROI of Designing with React",
+        "description": "Linton Ye",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7cPWmID5XAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7cPWmID5XAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7cPWmID5XAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7cPWmID5XAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7cPWmID5XAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7cPWmID5XAk"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "7cPWmID5XAk",
+        "videoPublishedAt": "2021-12-09T11:30:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v7_Shocsypi8wSYjOQu8QoRNpFA",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Interactive playgrounds with React",
+        "description": "Delba De Oliveira",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zL8cz2W0z34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zL8cz2W0z34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zL8cz2W0z34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zL8cz2W0z34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zL8cz2W0z34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zL8cz2W0z34"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "zL8cz2W0z34",
+        "videoPublishedAt": "2021-12-09T11:30:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zOFKif-0KU53TewLy7-92Q2eAfA",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Re-introducing Relay",
+        "description": "Robert Balicki",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lhVGdErZuN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lhVGdErZuN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lhVGdErZuN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lhVGdErZuN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lhVGdErZuN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lhVGdErZuN4"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "lhVGdErZuN4",
+        "videoPublishedAt": "2021-12-09T11:30:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MCJRmK3qML9GsXpAJVNBaZHSWzQ",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React Native Desktop",
+        "description": "Eric Rozell & Steven Moyes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9L4FFrvwJwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9L4FFrvwJwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9L4FFrvwJwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9L4FFrvwJwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9L4FFrvwJwY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9L4FFrvwJwY"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "9L4FFrvwJwY",
+        "videoPublishedAt": "2021-12-09T11:30:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8x9Bz4FTSRHhIimy504SvMAcPdI",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "On-device Machine Learning for React Native",
+        "description": "Roman Rädle",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLj73vrc2I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLj73vrc2I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLj73vrc2I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NLj73vrc2I8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NLj73vrc2I8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NLj73vrc2I8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "NLj73vrc2I8",
+        "videoPublishedAt": "2021-12-09T11:30:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U9XUv-Ouq1U1EKhhUJJxHSojUr8",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "React 18 for External Store Libraries",
+        "description": "Daishi Kato",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oPfSC5bQPR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oPfSC5bQPR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oPfSC5bQPR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oPfSC5bQPR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oPfSC5bQPR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oPfSC5bQPR8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "oPfSC5bQPR8",
+        "videoPublishedAt": "2021-12-09T11:30:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4G6FuhuOIKBfjM1WTauGsjZgLHs",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Building accessible components with React 18",
+        "description": "Diego Haz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dcm8fjBfro8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dcm8fjBfro8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dcm8fjBfro8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dcm8fjBfro8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dcm8fjBfro8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dcm8fjBfro8"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "dcm8fjBfro8",
+        "videoPublishedAt": "2021-12-09T11:30:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qj-fqW32GEA4kOeMpdLU3h0tUrw",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Accessible Japanese Form Components with React",
+        "description": "Tafu Nakazaki",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4a0QlsH0pU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4a0QlsH0pU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4a0QlsH0pU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4a0QlsH0pU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4a0QlsH0pU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S4a0QlsH0pU"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "S4a0QlsH0pU",
+        "videoPublishedAt": "2021-12-09T11:30:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KQUieplO8AosPItljHdmC9QGD5E",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "UI Tools for artists",
+        "description": "Lyle Troxell",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b3l4WxipFsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b3l4WxipFsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b3l4WxipFsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b3l4WxipFsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b3l4WxipFsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b3l4WxipFsE"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "b3l4WxipFsE",
+        "videoPublishedAt": "2021-12-09T11:30:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d99PRdqFz5T_DDZHuTIr7wEydTA",
+      "id": "UExOR18xajNjUENhWlo3ZXRreldBN0pmZG1LV1QwcE1zYS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-12-09T15:24:56Z",
+        "channelId": "UC1hOCRBN2mnXgN5reSoO3pQ",
+        "title": "Hydrogen + React 18",
+        "description": "Helen Lin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HS6vIYkSNks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HS6vIYkSNks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HS6vIYkSNks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HS6vIYkSNks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HS6vIYkSNks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conf",
+        "playlistId": "PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HS6vIYkSNks"
+        },
+        "videoOwnerChannelTitle": "React Conf",
+        "videoOwnerChannelId": "UC1hOCRBN2mnXgN5reSoO3pQ"
+      },
+      "contentDetails": {
+        "videoId": "HS6vIYkSNks",
+        "videoPublishedAt": "2021-12-09T11:30:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 19,
+    "resultsPerPage": 50
   }
 }

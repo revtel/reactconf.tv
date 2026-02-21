@@ -1,13 +1,683 @@
 {
-  "error": {
-    "code": 403,
-    "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-    "errors": [
-      {
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "domain": "youtube.quota",
-        "reason": "quotaExceeded"
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "RE3fxRGECCCrq53T_VJ3pExAdrE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qAoxuQ8VF5xkOJup481eLCVyygY",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-05-23T19:40:16Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Next generation state management - Michel Weststrate aka @mweststrate at @ReactEurope 2017",
+        "description": "Last years there have been great developments in state management libraries. Both Redux and MobX sprung from the React community and provide stand-alone, generic state management solutions. Both have gained big in popularity, and both have their own strengths and weaknesses. What can we learn from both approaches? Can we get the best of both worlds? Can we add a little Boabab and Cerebral to the mix? Is it possible to create a transparent reactive, snapshotable state container. With support for JSON patches, replayable actions, serialization, complex object graphs. With Redux & MobX compatibility, strong typing and runtime type checks out of the box. Get a glimpse of what next-gen state management might look like with mobx-state-tree. Largely designed by the MobX community and enforcing many best practices that have evolved over the last year.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rwqwwn_46kA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rwqwwn_46kA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rwqwwn_46kA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rwqwwn_46kA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rwqwwn_46kA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rwqwwn_46kA"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "rwqwwn_46kA",
+        "videoPublishedAt": "2017-05-23T19:26:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
       }
-    ]
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o-GbDYK6g5kDsD9ZXZbIFiCaqB0",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-05-23T19:42:12Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Composition - Nik Graf aka @nikgraf at @ReactEurope 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJgff2spvzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJgff2spvzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJgff2spvzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJgff2spvzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qJgff2spvzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qJgff2spvzM"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "qJgff2spvzM",
+        "videoPublishedAt": "2017-05-23T19:47:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iVf76OYHLrSRdsF6QYRV2ga-vFM",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-05-23T19:50:49Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "The making of Twitter Lite - Nicolas Gallagher aka @necolas at @ReactEurope 2017",
+        "description": "Twitter Lite is a complex PWA built with Node.js, React, Redux, Service Workers, and Webpack. This talk will cover how our team designs and builds one of the world’s most visited web apps. You’ll also hear about React Native for Web; how we approach network and render performance challenges; and how we use new web platform features.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cc3rdiXl5eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cc3rdiXl5eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cc3rdiXl5eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cc3rdiXl5eY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cc3rdiXl5eY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cc3rdiXl5eY"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "cc3rdiXl5eY",
+        "videoPublishedAt": "2017-05-23T19:58:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lQ5rVA3gF1vqoqjiSU0_KdmtLVM",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-05-24T07:49:15Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "The runtimes of React VR and use at Oculus - Mike Armstrong aka @m1k3 at @ReactEurope 2017",
+        "description": "Authoring VR content is time consuming and technically challenging, I’ll be providing an overview of how we are using the core strengths, merits of React Native and building on it to drive and improve app development within Oculus. I’ll go into more detail about the runtimes of both the native Android version and WebVR versions and how we utilize the improved engineer workflow the technology gives us access to.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B8sP5SDpOdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B8sP5SDpOdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B8sP5SDpOdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B8sP5SDpOdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B8sP5SDpOdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B8sP5SDpOdc"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "B8sP5SDpOdc",
+        "videoPublishedAt": "2017-05-24T07:57:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-5HwCh0F_dfhN_Ng-P9b2pDonVQ",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-05-24T10:04:16Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Functional && Reactive - Preethi Kasireddy aka @iam_preethi at ReactEurope 2017",
+        "description": "With the advent of libraries like React, Redux and Immutable.js, it’s clear that there’s a shift away from imperative and object-oriented in the front-end towards a more declarative and functional approach. Meanwhile, libraries like RxJS and Mobx are spreading the use of Reactive Programming to model UIs via discrete, asynchronous event streams. How can we combine the best of both functional and reactive paradigms to model and build predictable UIs that control themselves?\nIn this talk, Preethi will explain what “Functional Reactive Programming” is, how close React / Redux / Mobx / RxJs and others come in realizing Functional Reactive Programming, and what’s still fundamentally missing from these tools to achieve a true implementation of FRP. Lastly, she’ll describe when and why FRP is suitable (or not suitable) for building predictable and scalable UIs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yYze0gCBtvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yYze0gCBtvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yYze0gCBtvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yYze0gCBtvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yYze0gCBtvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yYze0gCBtvY"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "yYze0gCBtvY",
+        "videoPublishedAt": "2017-05-24T10:09:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iGyqMEpnhUScGBKgvYmOoSkJYgc",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-05-24T10:23:15Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Relay Modern - Lee Byron aka @leeb at @ReactEurope 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdsMz7h_Li0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdsMz7h_Li0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdsMz7h_Li0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OdsMz7h_Li0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OdsMz7h_Li0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OdsMz7h_Li0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "OdsMz7h_Li0",
+        "videoPublishedAt": "2017-05-24T10:27:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5RdEei30BTpdFS6P-Uf--DtX1sI",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-05-24T12:31:26Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "React as a Platform: A path towards a truly cross-platform UI - Leland Richardson (@intelligibabble)",
+        "description": "React provides an abstraction between the description of a UI and the details of how it’s rendered on a given platform. The problem is that div and span are a hidden dependency on react-dom, and similarly, React Native’s View is an explicit dependency on Native, making both not quite as “cross-platform” as we want them to be. Learn how we as a community can get around these issues, and what we can unlock by doing so.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNwQPJy-XZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNwQPJy-XZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNwQPJy-XZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hNwQPJy-XZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hNwQPJy-XZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hNwQPJy-XZY"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "hNwQPJy-XZY",
+        "videoPublishedAt": "2017-05-24T12:38:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dK-b_tn0qZ4eo_qbSs0iN6xRA7Q",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-05-24T15:49:04Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Animating the Virtual DOM - Sarah Drasner aka @sarah_edo at @ReactEurope 2017",
+        "description": "We are biologically trained to notice motion: evolutionarily speaking, our survival depends on it. For this reason, animation when done well can guide your users. It can aid and reinforce spatial maps of our interfaces, and give us a sense that we understand interactions more deeply. For this reason, animation is incredibly powerful to convey meaning, but only when done well.\nBut animating the virtual DOM comes with some intricacies that affect our implementations. In this talk, we’ll go over animating in React with a variety of methods, comparing and contrasting each. We’ll cover add-ons like ReactCSSTransitionGroup, using external libraries like GSAP, React-Motion, motion using RxJS, and transitioning state with D3. We’ll look inside some real systems, breaking down how we can create reusable components of animation principles for interchangeable yet cohesive patterns.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5AdUcJDHo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5AdUcJDHo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5AdUcJDHo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5AdUcJDHo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5AdUcJDHo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W5AdUcJDHo0"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "W5AdUcJDHo0",
+        "videoPublishedAt": "2017-05-24T15:52:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G_cMgjgln-cf0m64qcueG31EKY8",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-05-24T18:27:46Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BKtJpxD1qCU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BKtJpxD1qCU"
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5BZbOl1blh4Wn9QvWiWJ4dlR_nA",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-05-24T19:30:23Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "A Novel Approach to Declarative Animations in React Native - Joel Arvidsson (@trastknast)",
+        "description": "Animations can make your app more pleasing to use and help the user understand state changes. This talk will give best practices on when to use them and an introduction of how to implement them in React Native with a deep dive into a new strictly declarative approach similar to CSS animations and transitions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3SITFIGz4xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3SITFIGz4xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3SITFIGz4xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3SITFIGz4xo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3SITFIGz4xo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3SITFIGz4xo"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "3SITFIGz4xo",
+        "videoPublishedAt": "2017-05-24T19:46:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xaWkLydsyLq1r6iGIWOe7Ei0duM",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-05-24T19:50:29Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Putting the fun in functional with Elm - Tereza Sokol aka @terezk_a at @ReactEurope 2017",
+        "description": "With React, Redux, ImmutableJS and friends, frontend development strive towards the functional approach proving to yield increased readability and maintainability. However, working in JavaScript, we never truly commit to the paradigm, but what if we did? The Elm language goes fully functional and as suspected, it comes with an ocean of benefits!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a0039_JRAQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a0039_JRAQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a0039_JRAQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a0039_JRAQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a0039_JRAQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a0039_JRAQo"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "a0039_JRAQo",
+        "videoPublishedAt": "2017-05-24T19:54:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4WQGF2VCVv1dS1TsPV_of5eHUaI",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-05-24T20:00:06Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Integrating React Native with Native Infrastructure - Mehdi Mulani at @ReactEurope 2017",
+        "description": "This talk will go over our approach of incremental React Native adoption within an already established native app. We will discuss the various problems that arise from using React Native in such a “hybrid” app model and in particular, discuss inter-app navigation and embedding React Native views into native shells and vice-versa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOAoLF6FV7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOAoLF6FV7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOAoLF6FV7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QOAoLF6FV7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QOAoLF6FV7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QOAoLF6FV7A"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "QOAoLF6FV7A",
+        "videoPublishedAt": "2017-05-24T20:03:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AlgDNhR5cJ_fzlBACagSVH_6fuo",
+      "id": "UExDQzQzNkpwVm5LM0twaWVXdHhZTjZhQzItZXhSX0l4SC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-05-25T08:39:55Z",
+        "channelId": "UCorlLn2oZfgOJ-FUcF2eZ1A",
+        "title": "Q&A Panel with Core team and speakers at @ReactEurope 2017",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BvHxlVlse-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BvHxlVlse-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BvHxlVlse-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BvHxlVlse-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BvHxlVlse-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactEurope",
+        "playlistId": "PLCC436JpVnK3KpieWtxYN6aC2-exR_IxH",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BvHxlVlse-g"
+        },
+        "videoOwnerChannelTitle": "ReactEurope",
+        "videoOwnerChannelId": "UCorlLn2oZfgOJ-FUcF2eZ1A"
+      },
+      "contentDetails": {
+        "videoId": "BvHxlVlse-g",
+        "videoPublishedAt": "2017-05-25T08:39:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 13,
+    "resultsPerPage": 50
   }
 }

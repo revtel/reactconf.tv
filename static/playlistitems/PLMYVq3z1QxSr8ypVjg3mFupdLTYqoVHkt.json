@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "ZCK0sbbG958qvbXOif2Nqi6Aiws",
+  "etag": "xy-2i3gzLwGiz_sPaQ76yapDRrU",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -598,13 +598,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5UvqWwMBJFbBeuwB0zL7tl--bEc",
+      "etag": "iCqH6W93HK-1bVIme9K0Yf-E-9I",
       "id": "UExNWVZxM3oxUXhTcjh5cFZqZzNtRnVwZExUWXFvVkhrdC4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2025-12-30T18:56:28Z",
         "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
         "title": "Nir Parisian @  ReactNext '25 | Stop Memoizing with “React Forget”",
-        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStep into the future of React development with the revolutionary React Compiler.\nIn this session, I’ll show how the compiler’s advanced optimizations eliminate the need for traditional performance hacks like useMemo, useCallback, and memo—allowing you to truly \"forget\" about them.\n\nLearn how compile-time transformations optimize rendering, reduce runtime overhead, and simplify your codebase, all while enhancing the overall developer experience.\n\nWhether you're curious about the inner workings of the compiler or eager to streamline your development process, this talk offers actionable insights into the transformative benefits of React Forget.\n\nKey Takeaways\n- Eliminate Boilerplate Optimizations: Discover how the React Compiler removes the need for useMemo, useCallback, and memo, reducing code complexity.\n- Enhanced Performance: Understand how compile-time optimizations translate into faster rendering and lower runtime overhead.\n- Streamlined Development: Learn how these innovations simplify debugging and testing, making your workflow more efficient.\n- Practical Integration: Get actionable strategies to integrate compiler-driven techniques into your projects.\n\nI've spent the last decade building and leading front-end solutions for companies of all sizes. I’ve been a full-stack engineer at Intel, a front-end team leader at Curv, and now I help startups through Enpitech, the front-end consulting company I founded 4 years ago. I also run a YouTube channel on front-end development (https://youtube.com/@nirparisian) and a community called Frontendistim, where I share knowledge and connect with fellow developers.",
+        "description": "ReactNext 2025\nwww.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nStep into the future of React development with the revolutionary React Compiler.\nIn this session, I’ll show how the compiler’s advanced optimizations eliminate the need for traditional performance hacks like useMemo, useCallback, and memo—allowing you to truly \"forget\" about them.\n\nLearn how compile-time transformations optimize rendering, reduce runtime overhead, and simplify your codebase, all while enhancing the overall developer experience.\n\nWhether you're curious about the inner workings of the compiler or eager to streamline your development process, this talk offers actionable insights into the transformative benefits of React Forget.\n\nKey Takeaways\n- Eliminate Boilerplate Optimizations: Discover how the React Compiler removes the need for useMemo, useCallback, and memo, reducing code complexity.\n- Enhanced Performance: Understand how compile-time optimizations translate into faster rendering and lower runtime overhead.\n- Streamlined Development: Learn how these innovations simplify debugging and testing, making your workflow more efficient.\n- Practical Integration: Get actionable strategies to integrate compiler-driven techniques into your projects.\n\nI've spent the last decade building and leading front-end solutions for companies of all sizes. I’ve been a full-stack engineer at Intel, a front-end team leader at Curv, and now I help startups through Enpitech, the front-end consulting company I founded 4 years ago. I also run a YouTube channel on front-end development (https://youtube.com/@enpitech) and a community called Frontendistim, where I share knowledge and connect with fellow developers.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/XurqEPkwwQ0/default.jpg",
