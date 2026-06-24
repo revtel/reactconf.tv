@@ -1,0 +1,118 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "p6xGXrduL_TTz8jpkt7eV7w0oJ0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vfn4P6n2fQbKyAGQjktaFLkdq-Y",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2026-06-23T18:44:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "3 Places Firebase Breaks Your Next.js UX (Auth, Firestore, Remote Config) | Rosário Fernandes",
+        "description": "🧩 Most Firebase flicker bugs aren't bugs. They're architectural mismatches between client SDKs and React Server Components. Here's how to fix all three – with FirebaseServerApp, onSnapshotResume, and Remote Config Server SDK.\n\nWhat's inside:\n⚡ The auth flicker: why your server renders a Sign In button even for logged-in users — and the fix\n⚡ The Firestore flicker: offline cache + real-time updates = 2 extra renders. How to collapse them into zero\n⚡ The Remote Config flicker: why feature flags flash on load and how server-side fetch eliminates it\n\n🎙 Rosário P. Fernandes is a Developer Relations Engineer on the Firebase team at Google, helping developers build with Firebase and Generative AI across mobile and web. A passionate community builder, he's a regular presence at Android, Firebase, and Flutter developer events worldwide.\nConnect with Rosário:\n👉 https://twitter.com/thatfiredev\n👉 https://linkedin.com/in/rosariopfernandes\n👉 https://github.com/thatfiredev\n👉 https://bsky.app/profile/thatfire.dev\nFirebase:\n👉 https://firebase.google.com/\n\n📝 Talk: Taming the Flicker: Firebase Patterns for React Server Components | Rosario Fernandes\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=RosarioFernandes\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=RosarioFernandes\n\n🕐 Timestamps:\n00:00 - \"I'm Actually an Android Dev\" — Rosário Takes the Stage\n00:35 - Firebase Is a Client SDK. React Runs on the Server. Here's the Problem\n01:18 - The Auth Flicker: Why Your App Shows a Login Button to Logged-In Users\n01:57 - FirebaseServerApp: Fix Auth State Before the Page Even Loads\n02:32 - Firestore Makes It Worse — Offline Cache + Real-Time = 3 Flickers Total\n03:35 - toJSON() + onSnapshotResume: How to Serialize Your Way Out of the Flicker\n04:39 - Remote Config on the Server: Feature Flags That Work Before JS Loads\n05:16 - What's Next for Firebase on the Web (App Hosting, SQL Connect, Crashlytics)\n\n🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=RosarioFernandes\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=RosarioFernandes\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=RosarioFernandes\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=RosarioFernandes\n\n\n\n#ReactSummit #GitNation #Firebase #ReactServerComponents #NextJS #FirebaseAuth #Firestore #RemoteConfig #WebDevelopment #React #ServerSideRendering #WebPerformance #DeveloperTools #RSC #FirebaseServerApp #FullStackDevelopment #JS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-E4FQdwsFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-E4FQdwsFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-E4FQdwsFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-E4FQdwsFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-E4FQdwsFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-E4FQdwsFs"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "x-E4FQdwsFs",
+        "videoPublishedAt": "2026-06-23T18:56:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nIhy5ZCrt8oCQuuBPB-tzZN3M7s",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2026-06-22T20:42:25Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "One Rendering Layer for React, Angular & Vue. No Duplication - AG Grid Case Study | Stephen Cooper",
+        "description": "AG Grid supports React, Angular, Vue, and vanilla JS – from one codebase, without duplicating logic for each framework. Here's the architecture experiment behind it 🧪\n\nWhat's inside:\n⚡️ Why complex component logic can't live in the view layer – and where it should go instead\n⚡️ How AG Grid stripped state, events, and tree structure out of framework components down to pure DOM primitives\n⚡️ The abstraction layer that lets one component render natively in any framework – and why performance still holds\n\n🎙 Stephen Cooper is Team Lead at AG Grid, \nwhere he's spent years deep in the codebase – optimizing grid performance, solving framework integrations, and profiling more render cycles than he'd care to admit. He brings practical, experience-based insights straight from production.\nConnect with Stephen:\n👉 https://twitter.com/scooperdev\n👉 https://linkedin.com/in/scooper-dev\n👉 https://github.com/StephenCooper\n👉 https://scooper.dev/\nTry AG Grid:\n👉 https://www.ag-grid.com/\n\n📝 Talk: Framework Native Rendering Without Code Duplication? | Stephen Cooper\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=StephenCooper\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=StephenCooper\n\n🕐 Timestamps:\n00:00 - The Problem No Multi-Framework Library Wants to Talk About\n00:28 - When Your Component Logic Outgrows the Component\n01:24 - How Far Can You Strip a View Layer? (The Experiment Begins)\n02:55 - One Generic Component to Rule Them All\n04:29 - Does It Actually Ship? Performance & Custom Components\n05:12 - The Real Takeaway: Why Experimenting Got Cheaper\n\n🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=StephenCooper\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=StephenCooper\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=StephenCooper\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=StephenCooper\n\n\n#ReactSummit #GitNation #AGGrid #ReactJS #Angular #VueJS #JavaScript #TypeScript #WebDev #Frontend #FrontendDevelopment #SoftwareArchitecture #ComponentArchitecture #FrameworkAgnostic #RenderingEngine #CodeDuplication #MVC #DOMRendering #ReactSummit2026 #WebComponents #SoftwareEngineering",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0u3xGEcUg2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0u3xGEcUg2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0u3xGEcUg2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0u3xGEcUg2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0u3xGEcUg2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0u3xGEcUg2g"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "0u3xGEcUg2g",
+        "videoPublishedAt": "2026-06-22T20:45:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
