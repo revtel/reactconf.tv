@@ -1,10 +1,118 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "p6xGXrduL_TTz8jpkt7eV7w0oJ0",
+  "etag": "5iufFI7OqrVxfuq0kaew7M7zz7Y",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vfn4P6n2fQbKyAGQjktaFLkdq-Y",
+      "etag": "zrFJfovK44luerF6jAEw1yev1WE",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2026-06-26T15:39:40Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "I Ship a Production App With No Backend – This Is the Architecture | Mikkel Malmberg, Tether",
+        "description": "🔥 What if every new user made your app stronger – not your bill bigger? We show how they shipped Keet, a production messenger, with zero centralized backend – using cryptographic keys, signed messages, and deterministic state sync instead.\n\n👉 This is local-first, P2P architecture that actually runs in production.\n\nWhat's inside:\n✅ Why your server is just a reducer — and how to remove it from the equation completely\n✅ How to replace auth, storage, and state sync with cryptography and a deterministic log\n✅ The Peer SDK Tether is building so any developer can ship P2P apps without thinking about the crypto layer\n\n🎙 Mikkel Malmberg is a programmer and indie app builder – founder of Brainbow, a tiny product studio building platforms for creators. He's been shipping macOS apps, tools, and side projects since 2007, and recently stumbled into P2P.\nConnect with Mikkel:\n🔗 x.com/mikker\nExplore what he ships:\n🔗 mikkelmalmberg.com\nLearn more about Tether:\n🔗 tether.io\n\n📝 Talk: Speed, Quality, and AI: You Can't Have It All (Or Can You?) | Mikkel Malmberg\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=MikkelMalmberg\n\n🕐 Timestamps:\n00:00 - The problem: more users = bigger bills\n01:55 - What if users helped instead of cost you?\n03:35 - P2P basics: replacing the server with cryptography\n06:12 - Distributed state: Redux without a server\n09:07 - Keet: this architecture in production\n09:23 - Peer SDK: build P2P apps without the crypto layer\n13:29 - Peer platform: where to start\n\n 🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=MikkelMalmberg\n\n##p2pGitNation #ReactSummit #localfirst #reactjs #distributedsystems #webdevelopment #javascript #typescript #nodejs #softwarearchitecture #devtools #programming #softwaredevelopment #tech #coding #developer #opensource #backend #frontend #fullstack #buildinpublic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H4ec7Xwnqyg"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "H4ec7Xwnqyg",
+        "videoPublishedAt": "2026-06-26T15:41:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "29Hk_XhFMGWbDqzR0bboGUjJUUc",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2026-06-24T15:25:55Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Claude Code, Codex, Gemini – parallel agents in one editor | Zed live demo | Gaauwe Rombouts",
+        "description": "Run Claude Code, Codex, and Gemini in parallel – without leaving your editor. 💫 Gaauwe Rombouts from Zed shows how agentic workflows actually work in practice, live on stage at React Summit ⚡\n\nWhat's inside:\n✅ How to run multiple AI agents simultaneously in isolated work trees — no context switching, no friction\n✅ Zed's open agent architecture: use any agent (Claude Code, Codex, Gemini) through one unified interface\n✅ Live demo: real mistakes, real fixes, real parallel builds — what actually happens when you let agents loose\n\n🎙 Gaauwe Rombouts is a Frontend Engineer at Zed, building the web experience around a code editor obsessed with speed and AI collaboration. As one of the few TypeScript developers in a Rust-first team, he bridges the gap between web and systems engineering – and knows how to keep three AI agents running live on stage without missing a beat.\nExplore Gaauwe's work:\n🔗  https://gaauwe.nl/\n💻 Connect with Gaauwe:\n🔗 https://github.com/gaauwe\nLearn more about Zed:\n🔗 https://zed.dev/\n\n📝 Talk: Speed, Quality, and AI: You Can't Have It All (Or Can You?) | Gaauwe Rombouts\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=GaauweRombouts\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=GaauweRombouts\n\n🕐 Timestamps:\n00:00 - What agents are you actually using? (live audience poll)\n01:47 - Building 3 projects simultaneously with audience's own stack\n03:35 - Running Gemini as external agent via ACP – while Codex is already running\n04:20 - Claude Code in terminal threads: less integrated, still parallel\n05:12 - What is Zed? No Electron, no compromises – just Rust\n06:40 - 1,000,000 lines diff. GitHub chokes. Zed doesn't.\n07:42 - Real-time collaborative editing: Google Docs, but for your codebase\n09:45 - All 3 agents building in parallel — what's actually happening on screen\n11:00 - Zed agent fixes a live bug in real time (screenshot → paste → done)\n12:35 - Biome, Oxlint, Tailwind — out of the box, no config\n13:40 - Zeta: Zed's own edit prediction model\n15:30 - Claude Code finishes. Honest take on terminal threads vs native integration\n16:48 - Zed as an open platform: use any agent, any language, any tool\n17:35 - DeltaDB: what Zed is building next\n\n🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=GaauweRombouts\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=GaauweRombouts\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=GaauweRombouts\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=GaauweRombouts\n\n\n#ReactSummit #GitNation #ZedEditor #AIAgents #ClaudeCode #Codex #Gemini #AgenticWorkflow #IDE #CodeEditor #AI #OpenAI #Anthropic #Google #TypeScript #CodeEditor #AI #OpenAI #Anthropic #Google #TypeScript #React #NextJS #TanStack #Frontend #DeveloperTools #DevTools #BuildInPublic #Rust #WebDev #Programming #SoftwareEngineering #TechConference #CodingTools #AIAssistant #ParallelAgents",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xFLC2lCNHdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xFLC2lCNHdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xFLC2lCNHdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xFLC2lCNHdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xFLC2lCNHdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xFLC2lCNHdo"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "xFLC2lCNHdo",
+        "videoPublishedAt": "2026-06-24T15:28:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBTiYBOE9rUtjAahfFwZ06FCx0A",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -40,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 0,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -58,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nIhy5ZCrt8oCQuuBPB-tzZN3M7s",
+      "etag": "aX4iWwJHGrLAA0FqzDJP7WpOh88",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -94,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -112,7 +220,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 4,
     "resultsPerPage": 50
   }
 }
