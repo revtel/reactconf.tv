@@ -1,16 +1,124 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "5iufFI7OqrVxfuq0kaew7M7zz7Y",
+  "etag": "v-aFDEZwJ6AcEY_Scob5bDgSeyM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "zrFJfovK44luerF6jAEw1yev1WE",
+      "etag": "vW6pnXz1CcgC6nO9iILGkc7l2o8",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2026-06-28T16:04:58Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "AI wrote code, but forgot about performance - fix it with 1 prompt | Angel Pichardo, ImageKit.io",
+        "description": "AI built your app. It didn't optimize your images. Here's how 1 MCP prompt takes you from 68MB to 2MB – automatically ⚡\n\nWhat's inside:\n✅ How Chrome DevTools MCP diagnoses real performance issues in your live app\n✅ How ImageKit MCP reads its own docs and generates the fix without you leaving the editor\n✅ Why image optimization is now a prompt, not a task\n\n🎙 Angel Pichardo is a Senior Developer Advocate at ImageKit.\n10+ years in engineering, now building at the intersection of AI agents and developer tooling. His talks skip the theory: he starts with a broken app and fixes it live.\n⚡️ Connect with Angel:\n🔗 https://twitter.com/_AngelPichardo\n🔗 https://github.com/gitpichardo\n⚡️ Explore what ImageKit builds:\n🔗 https://imagekit.io/\n\n📝 Talk: I Did Everything Wrong So You Don't Have To | Angel Pichardo\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=AngelPichardo\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=AngelPichardo\n\n🕐 Timestamps:\n00:00 - \"Wait, why are my images so slow?\" - the moment it all breaks\n00:48 - The old way: docs, guesswork, manual fixes. Never again\n01:13 - Live demo: 1 prompt diagnoses your entire app\n03:44 - Performance is always an afterthought. Here's how to stop that\n04:43 - One URL. 3.28MB → 47KB. Watch it happen.\n05:31 - Do this before you ship. Every time.\n\n 🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=AngelPichardo\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=AngelPichardo\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=AngelPichardo\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=AngelPichardo\n\n#GitNation #ReactSummit #MCP #ImageKit #WebPerformance #ImageOptimization #AIAgents #DeveloperTools #ChromeDevTools #ReactJS #CursorAI #BuildInPublic #WebDev #Programming #SoftwareEngineering #Tech #OpenSource #Coding #Developer #JavaScript #Frontend #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QjZlPQ5FigI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QjZlPQ5FigI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjZlPQ5FigI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QjZlPQ5FigI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QjZlPQ5FigI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QjZlPQ5FigI"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "QjZlPQ5FigI",
+        "videoPublishedAt": "2026-06-28T16:08:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TAGyxwWPJWj83GUeJxrV7oCM5mo",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2026-06-27T16:01:41Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Who reviews your agent's code? | Santosh Yadav, CodeRabbit",
+        "description": "🤖 AI writes code faster than you can review it. Here's how engineers are adapting – and what comes next 👈\n\nWhat's inside:\n❓ CLI, IDE, or agentic loop — which review style actually works in 2026\n❓ Why the 18-year-old GitHub diff view is now your biggest bottleneck\n❓ How to review AI-generated code without losing your mind (or your database)\n\n🎙 Santosh Yadav is a Principal Developer Advocate at CodeRabbit - an AI code review platform trusted by thousands of engineering teams worldwide. He's a Google Developer Expert for Angular, GitHub Star, Nx Champion, and Microsoft MVP. Santosh actively contributes to Angular and its ecosystem, champions monorepo architecture, and has been helping developers ship better code for years.\n💫 Connect with Santosh:\n🔗 https://x.com/SantoshYadavDev\n🔗 https://github.com/santoshyadavdev\n🔗 https://linkedin.com/in/santoshyadavdev\n🔗 https://bsky.app/profile/santoshyadav.dev\n💫 Try CodeRabbit:\n🔗 https://www.coderabbit.ai/?dub_id=t0RWKv7eIp08aOvH\n\n📝 Talk: CLI, GUI, or Just Blind Trust? A Tour of Code Review Styles | Santosh Yadav\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=SantoshYadav\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=SantoshYadav\n\n🕐 Timestamps:\n00:00 - 18 years. Same review. Same broken interface.\n00:36 - Agents write faster than you can review\n01:40 - CLI: the terminal guys were first\n02:27 - IDE: when the diff gets too big for GitHub\n03:00 - Agentic loop: zero comments, zero guarantees\n03:33 - CodeRabbit: one view for humans and agents\n05:25 - LGTM, 50 comments, or \"where's my database?\" – which one are you?\n\n 🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=SantoshYadav\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=SantoshYadav\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=SantoshYadav\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=SantoshYadav\n\n\n#GitNation #ReactSummit #CodeReview #AI #AgenticCoding #GitHub #CLI #IDE #CodeRabbit #AICodeReview #SoftwareEngineering #DevTools #Angular #OpenSource #PullRequest #CodeQuality #AIAgents #ClaudeCode #Codex #DeveloperTools #TechTalk #Programming #SeniorEngineer #StaffEngineer #WebDev #DevCommunity #BuildInPublic #AIEra #CodeReviewTools #Monorepo #TypeScript #JavaScript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_aHz9obUFNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_aHz9obUFNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_aHz9obUFNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_aHz9obUFNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_aHz9obUFNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_aHz9obUFNw"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "_aHz9obUFNw",
+        "videoPublishedAt": "2026-06-27T16:25:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SFFBjPjOJXdI3K-HnIjYWxJGFmo",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2026-06-26T15:39:40Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "I Ship a Production App With No Backend – This Is the Architecture | Mikkel Malmberg, Tether",
-        "description": "🔥 What if every new user made your app stronger – not your bill bigger? We show how they shipped Keet, a production messenger, with zero centralized backend – using cryptographic keys, signed messages, and deterministic state sync instead.\n\n👉 This is local-first, P2P architecture that actually runs in production.\n\nWhat's inside:\n✅ Why your server is just a reducer — and how to remove it from the equation completely\n✅ How to replace auth, storage, and state sync with cryptography and a deterministic log\n✅ The Peer SDK Tether is building so any developer can ship P2P apps without thinking about the crypto layer\n\n🎙 Mikkel Malmberg is a programmer and indie app builder – founder of Brainbow, a tiny product studio building platforms for creators. He's been shipping macOS apps, tools, and side projects since 2007, and recently stumbled into P2P.\nConnect with Mikkel:\n🔗 x.com/mikker\nExplore what he ships:\n🔗 mikkelmalmberg.com\nLearn more about Tether:\n🔗 tether.io\n\n📝 Talk: Speed, Quality, and AI: You Can't Have It All (Or Can You?) | Mikkel Malmberg\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=MikkelMalmberg\n\n🕐 Timestamps:\n00:00 - The problem: more users = bigger bills\n01:55 - What if users helped instead of cost you?\n03:35 - P2P basics: replacing the server with cryptography\n06:12 - Distributed state: Redux without a server\n09:07 - Keet: this architecture in production\n09:23 - Peer SDK: build P2P apps without the crypto layer\n13:29 - Peer platform: where to start\n\n 🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=MikkelMalmberg\n\n##p2pGitNation #ReactSummit #localfirst #reactjs #distributedsystems #webdevelopment #javascript #typescript #nodejs #softwarearchitecture #devtools #programming #softwaredevelopment #tech #coding #developer #opensource #backend #frontend #fullstack #buildinpublic",
+        "description": "🔥 What if every new user made your app stronger – not your bill bigger? We show how they shipped Keet, a production messenger, with zero centralized backend – using cryptographic keys, signed messages, and deterministic state sync instead.\n\n👉 This is local-first, P2P architecture that actually runs in production.\n\nWhat's inside:\n✅ Why your server is just a reducer — and how to remove it from the equation completely\n✅ How to replace auth, storage, and state sync with cryptography and a deterministic log\n✅ The Peer SDK Tether is building so any developer can ship P2P apps without thinking about the crypto layer\n\n🎙 Mikkel Malmberg is a programmer and indie app builder – founder of Brainbow, a tiny product studio building platforms for creators. He's been shipping macOS apps, tools, and side projects since 2007, and recently stumbled into P2P.\nConnect with Mikkel:\n🔗 x.com/mikker\nExplore what he ships:\n🔗 mikkelmalmberg.com\nLearn more about Tether:\n🔗 tether.io\n\n📝 Talk: Speed, Quality, and AI: You Can't Have It All (Or Can You?) | Mikkel Malmberg\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=MikkelMalmberg\n\n🕐 Timestamps:\n00:00 - The problem: more users = bigger bills\n01:55 - What if users helped instead of cost you?\n03:35 - P2P basics: replacing the server with cryptography\n06:12 - Distributed state: Redux without a server\n09:07 - Keet: this architecture in production\n09:23 - Peer SDK: build P2P apps without the crypto layer\n13:29 - Peer platform: where to start\n\n 🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫 AI Coding Summit 2026 (London & Online)\nhttps://aicodingsummit.com/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=MikkelMalmberg\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=MikkelMalmberg\n\n#GitNation #ReactSummit #localfirst #reactjs #distributedsystems #webdevelopment #javascript #typescript #nodejs #softwarearchitecture #devtools #programming #softwaredevelopment #tech #coding #developer #opensource #backend #frontend #fullstack #buildinpublic #p2p",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/H4ec7Xwnqyg/default.jpg",
@@ -40,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 0,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H4ec7Xwnqyg"
@@ -58,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "29Hk_XhFMGWbDqzR0bboGUjJUUc",
+      "etag": "mItOlikNOdHVGZGWn1T1DUcnhRY",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2026-06-24T15:25:55Z",
@@ -94,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xFLC2lCNHdo"
@@ -112,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NBTiYBOE9rUtjAahfFwZ06FCx0A",
+      "etag": "Ch_XuhFYug51WbtZcVS_CrSQqog",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -148,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 2,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -166,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aX4iWwJHGrLAA0FqzDJP7WpOh88",
+      "etag": "ep_DTXE5_P_k3FO6f7tF9SMjpio",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -202,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 3,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -220,7 +328,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 4,
+    "totalResults": 6,
     "resultsPerPage": 50
   }
 }
