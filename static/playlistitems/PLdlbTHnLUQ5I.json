@@ -1,0 +1,1144 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "YfyjOKYG-KgQ0AVOB-8WkPPhAsI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0YAxH6Fhd09zd2J43zCCzAj2v8A",
+      "id": "UExkbGJUSG5MVVE1SS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:31:54Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Sharon Shmueli @ ReactNext '26 | Opening Words by Premium Sponsor - Frame Security's Co Founder",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zCQf0OusWTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zCQf0OusWTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zCQf0OusWTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zCQf0OusWTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zCQf0OusWTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zCQf0OusWTQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "zCQf0OusWTQ",
+        "videoPublishedAt": "2026-07-02T13:32:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dXIzTRxntksjIQBH5d8PUK_B7VQ",
+      "id": "UExkbGJUSG5MVVE1SS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2026-06-30T09:59:50Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Sara Rakovsky @ ReactNext '26 | Your UI Has Left the Building: Interfaces That Write Themselves",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nFor three decades, UIs have been deterministic: developers wrote every state, every component, every edge case in advance. But once LLMs entered the picture, user interactions became open-ended and a static UI can't keep up.\nIn this talk, we'll explore how modern AI agents are crossing the bridge from text generation to Generative UI producing fully interactive interfaces at runtime. We'll walk through the three protocols leading this shift: AG-UI , A2UI , and MCP Apps . Each takes a fundamentally different approach to the same question: who decides what the user sees?\n\nAbout Sara\nSara Rakovsky is a 27 year old AI focused Full Stack Developer and the founder of Wonder a community of nearly 7,500 ultra-Orthodox women in tech.\n\nShe was named to Forbes Israel’s 30 Under 30 and Globes’ 40 Under 40 lists for her impact at the intersection of technology and social change.\n\nWith over 33,000 followers on LinkedIn, Sara is a leading voice in promoting diversity, inclusion, and practical AI adoption in software engineering.\n\nShe is also a mother of two and a trailblazer redefining what's possible for women in tech from all backgrounds.\n\nShe frequently speaks about practical applications of AI in engineering, developer experience, and human-agent collaboration at scale.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SAkTNO80B28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SAkTNO80B28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SAkTNO80B28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SAkTNO80B28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SAkTNO80B28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SAkTNO80B28"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "SAkTNO80B28",
+        "videoPublishedAt": "2026-07-02T14:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7lL7xbu0LFkW60Wj6M-CJce7MQc",
+      "id": "UExkbGJUSG5MVVE1SS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:02:34Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Amit Sheen @ ReactNext '26 | Frontend After the AI Shift",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nAI is reshaping frontend development faster than any shift we have seen in years. But this talk is not about hype, and it is not another “AI will replace developers” narrative. It is about how frontend engineers can stay relevant, effective, and responsible in an AI-first workflow.\n\nWe will cover how to choose the right tools in a noisy ecosystem, how to move from “code writer” to “technical judge,” and how to keep professional standards high when AI generates code at scale. I will share practical guidance on what still requires human ownership: UX quality, performance, accessibility, compatibility, and maintainability.\n\nAbout Amit\nI'm an experienced web developer, specializing in CSS, design systems, animations, and creative coding. I have a pathological curiosity and a constant desire to learn new things, and I love sharing my experience and explorations with the community.\n\nI've been a speaker at a large number of local and international conferences, and countless meetups, talking about CSS and JavaScript, or doing some live-coding, and I'm a frequent guest at professional podcasts and various streams. I've also published a few professional articles, and my work is frequently featured on some of the most respectable websites and newsletters.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1YPY-ifgV_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1YPY-ifgV_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1YPY-ifgV_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1YPY-ifgV_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1YPY-ifgV_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1YPY-ifgV_E"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "1YPY-ifgV_E",
+        "videoPublishedAt": "2026-07-02T14:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z7b3f6SRzQTBQ235ABJ_P890Wso",
+      "id": "UExkbGJUSG5MVVE1SS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:16:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Liron Bregman @ ReactNext '26 | Design to Code in 2026: Context-First Development with Figma MCP",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nIn today’s rapidly evolving design-to-code ecosystem, translating designs into implementation hasModern UI projects in Figma can become complex very quickly. With many frames, components, and auto-layouts, it’s harder for designers and developers to stay in sync.\nIn this session, we’ll explore how Figma MCP can help create a more automatic workflow for generating UI. When combined with tools like Code Connect and VSCode Copilot, it helps teams move faster while keeping the design consistent.\nWe’ll show how to install and use Figma MCP Desktop and Remote, and how they connect design files directly to development tools.\nYou’ll also learn how to:\n- Use MCP tools to read designs and generate UI\n- Debug MCP calls and understand the design data returned by the system\n- Work with tokens, spacing, typography, and components\n- Extract screenshots and context from Figma\n\nA key idea is agent handoff. When different AI agents have the right skills and pass work between them, they can turn design data into working UI almost automatically.\nFinally, we’ll look at ways to scale this workflow for large projects by breaking designs into smaller parts. This lets teams build interfaces step by step—almost like building with LEGO.\n\nAbout Liron\nLiron Bregman | Senior Full Stack Developer @ AT&T\n\nReact-Native developer, Public speaker, tech blogger (@under_the_hook on Medium), and LinkedIn content creator with 10K+ followers. I share insights on the latest in client-side development through 500+ posts.\n\nMy tech journey started 16 years ago as a QA Engineer—I've since evolved into a passionate developer focused on building scalable, impactful solutions.\n\nI'm from Ramat Gan, married+3.\nWhen I'm not coding, I'm making art activities with my kids, or hiking with my dog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_dMlbGDhh8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_dMlbGDhh8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_dMlbGDhh8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_dMlbGDhh8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_dMlbGDhh8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_dMlbGDhh8s"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "_dMlbGDhh8s",
+        "videoPublishedAt": "2026-07-02T14:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "soAKpvI8pIFxvzjPETrOTxaYPqI",
+      "id": "UExkbGJUSG5MVVE1SS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:20:05Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Tayar @ ReactNext '26 | Server-Side Apps, Not Server-Side Rendering: A Real Alternative to React",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nInfluencers have convinced us that the answer to React’s problems are… Svelte or Solid or Vue or [insert-your-favorite-new-framework]. But are they? Don’t they all suffer from the same problems - large bundle sizes that need to be downloaded to the client, the need to manage state and sync it with the server, and others.\n\nThis is because, fundamentally, they are all client-side applications, where all the code resides on the client. A new breed of frontend frameworks is proposing an alternative. These frameworks - chief among them HTMX and Hotwire/Turbo - propose a different solution, harking back to the original web days, but with the added dynamism enabled by modern browsers.\n\nJoin me to learn how you can write server-side apps - where most of the app code is server-generated HTML, yet has the dynamism and interactivity of client-side apps without the pains that come with running large amounts of code in the browser.\n\nAbout Gil\n35 years of experience have not dulled the fascination Gil Tayar has with software development. His passion is distributed systems and figuring out how to scale development to big teams. Extreme modularity and testing are the main tools in his toolbelt, using them to combat the code spaghetti monster as a software architect at companies like Wix, Applitools, and at his current job as software engineer at Microsoft.\n\nIn his private life, he is a dad to two lovely kids, an avid reader of Science Fiction, and a passionate film buff. Unfortunately for him, he hasn’t answered the big question of his life—what’s more fun, Frontend or Backend? But he’s working on it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tDHbg4P7IuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tDHbg4P7IuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tDHbg4P7IuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tDHbg4P7IuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tDHbg4P7IuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tDHbg4P7IuQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "tDHbg4P7IuQ",
+        "videoPublishedAt": "2026-07-02T14:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XfbgAio4-rlPe2-WLnw63fQi3Ag",
+      "id": "UExkbGJUSG5MVVE1SS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:21:29Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Keren Kenzi @ ReactNext '26 | What Makes Good UI Work: Lessons from Cognitive Psychology",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nAs developers, we usually implement given UI designs. But wouldn’t it be great to gain a better understanding of the science behind a good design? In this talk, I will cover some of the cognitive psychology principles and UX laws that guide UI/UX experts in their work.\nBy applying these principles and laws the you can improve both the user interface and user experience, resulting in a better product.\n\nAbout Keren\nKeren is a senior software developer with over a decade of experience in the industry. She holds an M.Sc. in Computer Science and is passionate about React and learning new technologies. Keren volunteers as a program manager at Baot, a community that supports women in R&D in their professional growth. She instructs and inspires people to write blogs in her tech blogging workshops. Keren has experience as a dev community leader and a co-organizer of meetups and events. And in her not-so-spare time, she studies psychology. Her hobbies include drawing, photography, and singing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8e-6g5TkA_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8e-6g5TkA_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8e-6g5TkA_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8e-6g5TkA_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8e-6g5TkA_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8e-6g5TkA_w"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "8e-6g5TkA_w",
+        "videoPublishedAt": "2026-07-02T13:59:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UkzypBsoNwD-UmKSQVwlMGMDLkY",
+      "id": "UExkbGJUSG5MVVE1SS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:24:07Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Oren Efraim @ ReactNext '26 | Self-Healing UI: Building Resilient React Apps with Local AI",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWhen a React component crashes today, the user hits a dead end, and we get flooded with raw logs. By leveraging Chrome’s built-in AI, we can shift from passive logging to active, client-side triage. In this talk, we’ll build a \"Resilient Error Boundary\" that detects crashes and uses local inference to apply immediate, transparent workarounds. keeping the interface alive. We'll explore how to communicate these temporary fixes to the user honestly while generating concise root-cause summaries for your backend. You will leave with a production-ready architectural pattern to make your applications self-healing and frustration-free.\n\nAbout Oren\nOren Efraim is a Technology Lead at the Endpoint Management group at Check Point Software Technologies, where he spearheads technical initiatives and backend architecture. With over a decade of experience in software engineering, Oren also serves as the Head of the Backend Cloud Guild, driving professional excellence and engineering standards across the company.\n\nBeyond his work at Check Point, Oren is a prominent leader in the Israeli technical community. He heads the Node.js-IL community and serves as the Content Committee Lead for the NodeTLV 2024-2025 conference. As a mentor and leader within the TechGym community, he heads the \"Prod AI\" group, focusing on the integration of AI agents and agentic workflows into production environments.\n\nOren is a frequent speaker at major industry conferences, including NodeTLV, Geektime Code, and ReactNext, where he shares insights on high-scale architecture, cybersecurity, and developer experience (DevEx). He holds a BSc in Software Engineering from Ben-Gurion University.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5JD6DuqDH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5JD6DuqDH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5JD6DuqDH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5JD6DuqDH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U5JD6DuqDH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U5JD6DuqDH0"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "U5JD6DuqDH0",
+        "videoPublishedAt": "2026-07-02T13:59:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fcYMHtawOlOxhriusiV3vDXK0w4",
+      "id": "UExkbGJUSG5MVVE1SS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:25:59Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Didi Medina @ ReactNext '26 | Building Typesafe Styling Toolchain with Panda CSS",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nThis session demonstrates how we use Panda-CSS to build styling tools that are custom, typesafe and opinionated to enable engineers and agents to ace intense Ui engineering tasks with ease.\n\nAbout Didi\nDidi Medina is a product design and engineering consultant who helps growing startups make design and engineering work as one. He works closely with CEOs and product teams to improve product quality, delivery predictability, and execution, especially when companies start scaling and complexity begins to slow them down.\n\nHis background spans product design, front-end engineering, systems thinking, and team enablement. Rather than just shipping screens or strategy decks, he tends to step into the messy middle: clarifying workflows, tightening collaboration, raising the bar on implementation, and helping teams build the skills and systems to sustain high-quality product work after he leaves.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S3D6m17Xf0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S3D6m17Xf0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S3D6m17Xf0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S3D6m17Xf0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S3D6m17Xf0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S3D6m17Xf0o"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "S3D6m17Xf0o",
+        "videoPublishedAt": "2026-07-02T14:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f2FZndVR-5NNNUdUtzexC5kvue4",
+      "id": "UExkbGJUSG5MVVE1SS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2026-06-30T10:46:27Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Segev Shoval @ ReactNext '26 | Beyond useEffect: Production API Monitoring in React",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nA practical, code-heavy talk showing how to build runtime API contract monitoring directly into React apps. I'll live-code a fetch interceptor hook, a confidence-based schema learner inside a React context provider, and React patterns for surfacing violations — including custom error boundaries and health hooks. Ends with a live demo breaking an API on stage and watching React catch it in real time.\n\nAbout Segev\nSegev is a father of two, a husband, and a senior frontend developer — in that order. By day he builds HIPAA-compliant healthcare platforms at Zoll Medical. By night, after the kids fall asleep, he builds developer tools. He's the creator of Indi-runtime, an open-source runtime schema validator on npm, and Indi Mapper — a Chrome DevTools extension featured on Softonic as a \"Must-Have DevTool\" with a 100/100 security score. Segev is passionate about developer experience, runtime observability, and making debugging less painful. Available to present in both Hebrew and English.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/twmll9W3vjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/twmll9W3vjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/twmll9W3vjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/twmll9W3vjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/twmll9W3vjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "twmll9W3vjc"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "twmll9W3vjc",
+        "videoPublishedAt": "2026-07-02T13:59:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tk_fx8GiJmGE7Upbwcve-7RF08o",
+      "id": "UExkbGJUSG5MVVE1SS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2026-07-01T13:47:19Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Omri Rajuan @ ReactNext '26 | Autonomous Testing Agents with LLMs in React",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nTesting React apps can get messy and slow, especially as they grow. In this session, I’ll show how to build autonomous testing agents that actually learn from your app, run End-to-End and regression tests automatically, and adapt to changes in your code. We’ll look at a real-world example from production, including metrics, challenges, and what worked (and what didn’t).\n\nAbout Omri\nI’m Omri Rajuan, a Full-Stack developer and team lead with experience building production-ready web applications. I work with React, Node.js, and TypeScript, and enjoy integrating advanced features like LLM-based automation into real-world workflows. I also write content on LinkedIn, sharing practical lessons, insights, and tips from my development experience. I love mentoring others and exploring tools and patterns that help teams deliver high-quality, maintainable software.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HhOUmcpe5j8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HhOUmcpe5j8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HhOUmcpe5j8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HhOUmcpe5j8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HhOUmcpe5j8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HhOUmcpe5j8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "HhOUmcpe5j8",
+        "videoPublishedAt": "2026-07-02T13:59:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ybJYfJ0YFg2BNwOFsye5mqfU-aY",
+      "id": "UExkbGJUSG5MVVE1SS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2026-07-02T12:34:38Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Amit Brickman @ ReactNext '26 | This Is Not a Story About AI Replacing Libraries",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nFor years, libraries have been the default way to move faster, avoid edge cases, and build reliable UI.\nBut with modern AI tools, we can now generate custom components in minutes, tailored exactly to our product needs - no APIs, no constraints, no waiting for feature requests.\n\nIn this talk, we’ll walk through a real example of replacing a popular React library with AI-generated code. We’ll compare both approaches side by side, explore where AI shines, and uncover the hidden costs that come with owning the solution yourself.\n\nThis isn’t a story about AI replacing libraries - it’s about how the tradeoffs have fundamentally changed, and what that means for how we build modern applications.\n\nAbout Amit\nI’m Amit, a Software Engineer at Island, where we work on complex, cutting-edge systems.\n\nI come from a full-stack background, and I’m especially passionate about frontend, the web, and the experience side of things. I’m a bit obsessed with creating smooth, intuitive user experiences, and I enjoy exploring and experimenting with emerging AI capabilities.\n\nI love code, I enjoy a good challenge, and CSS is my guilty pleasure. I also like to travel the world whenever I get the chance - both tend to take me places I didn’t expect.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDtsTtNGR2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDtsTtNGR2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDtsTtNGR2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WDtsTtNGR2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WDtsTtNGR2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WDtsTtNGR2Q"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "WDtsTtNGR2Q",
+        "videoPublishedAt": "2026-07-02T13:59:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bo2M_QupqfGAS1cNDKmGTly_BBY",
+      "id": "UExkbGJUSG5MVVE1SS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2026-07-02T12:40:22Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Gil Fink @ ReactNext '26 | Mastering the React Cache API",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nAre you still prop-drilling data through five layers of React Server Components just to avoid a second database query?\n\nIt’s time to meet the React cache API - the request-scoped singleton that’s changing how we architect data flow. Join me to this lightning talk as we will cut through the noise to understand how cache differs from useMemo and why it is the \"secret sauce\" for high-performance RSCs.\n\nAbout Gil\nGil is a web development expert, Web Technologies GDE and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web based solutions. He is also co-author of several Microsoft Official Courses (MOCs) and training kits and co-author of \"Pro Single Page Application Development\" book (Apress).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wC9vxz0IxZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wC9vxz0IxZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wC9vxz0IxZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wC9vxz0IxZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wC9vxz0IxZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wC9vxz0IxZI"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "wC9vxz0IxZI",
+        "videoPublishedAt": "2026-07-02T13:59:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tMlD846me1uohFDlW76N4AyXiVY",
+      "id": "UExkbGJUSG5MVVE1SS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2026-07-02T12:43:57Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Adir Kandel @ ReactNext '26 | Preparing UI Ahead of Time with React’s Activity Component",
+        "description": "ReactNext 2024\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nReact’s new Activity component introduces a powerful idea: rendering UI without immediately committing it to the screen. This enables applications to prepare expensive or complex UI ahead of time, improving responsiveness and perceived performance.\n\nIn this talk, we’ll build a clear mental model of what the Activity component does, how it differs from Suspense and transitions, and where it fits in real-world React applications. Through practical examples, we’ll explore patterns for pre-rendering UI, coordinating user interactions, and avoiding common pitfalls.\n\nYou’ll leave with concrete use cases, a deeper understanding of React’s rendering behavior, and the confidence to decide when the Activity component adds real value and when it doesn’t.\n\nAbout Adir\nFullstack Expert and Tech Entrepreneur who has spent the last decade building robust apps and high-performance user interfaces. Today, I lead Stellar Code, helping companies scale their engineering capabilities and build cutting-edge software solutions. I'm a tech community leader, especially within the frontend ecosystem, and the co-host of the podcast \"לא טכני ולא במקרה”. I thrive on making complex system designs accessible through storytelling, community engagement, and hands-on experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2KZYUbrz_ok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2KZYUbrz_ok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2KZYUbrz_ok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2KZYUbrz_ok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2KZYUbrz_ok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2KZYUbrz_ok"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "2KZYUbrz_ok",
+        "videoPublishedAt": "2026-07-02T12:44:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ytdob95n7yPjcEFdOATJsTFDT_8",
+      "id": "UExkbGJUSG5MVVE1SS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2026-07-02T12:57:09Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Amit Hanoch & Alon Segal @ ReactNext '26 | Orchestrating AI Agents for Large-Scale Refactoring",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nRefactoring thousands of files to break a React-Redux monolith is a daunting task. When our initial estimation for decoupling our legacy architecture hit the 8-year mark, we knew manual refactoring wasn't an option. Instead, we built an AI infrastructure engine designed to navigate the complex dependency graphs of a modern React ecosystem.\n\nThis isn't a theoretical proposal. We are currently midway through the process, successfully extracting Redux slices, selectors, services, and utilities from production code daily, compressing an 8-year timeline to just 6 months.\n\nTo scale this, we’ve enabled a fully autonomous flow: our AI agents now manage the entire lifecycle - from refactoring to merging PRs and deleting old implementations - directly within our mission-critical production codebase.\n\nIn this talk, we'll explore the custom orchestration engine driving this reality. You will walk away understanding how to combine the deterministic reliability of ASTs with the creative power of LLMs to solve your own \"impossible\" React migrations and finally achieve a modular architecture.\n\nAbout Amit\nAmit is a Tech Lead at monday.com with 10 years of experience in software engineering. A graduate of the Mamram unit with a B.Sc. in Computer Science, Amit focuses on navigating complex systems. His work focuses on making large-scale architectural shifts predictable and efficient through automation.\n\nIn his spare time, Amit creates coffee videos online, where he explores the technical side of brewing the perfect cup.\n\nAbout Alon\nAlon is a Software Engineering Team Lead at Monday.com with over a decade of experience in the software industry. Prior to joining monday.com, he worked at companies such as at Intel, BrightSource, and MyHeritage, specializing in Frontend development before transitioning to leadership roles in 2020. Alon is passionate about \"doing the right things right,\" combining architectural guidance with empathetic leadership to help his team reach their full potential. He holds a degree in Computer Science from the Hebrew University of Jerusalem, and in his spare time, loves to travels the world with his wife and kids, and as a true coffee enthusiast he manages a coffee community and develops shopping aid tools.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z8GyyZfOd68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z8GyyZfOd68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8GyyZfOd68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z8GyyZfOd68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z8GyyZfOd68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z8GyyZfOd68"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "z8GyyZfOd68",
+        "videoPublishedAt": "2026-07-02T12:58:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H1z8wo62_8brxzRgecW-Cf3sZks",
+      "id": "UExkbGJUSG5MVVE1SS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:03:14Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Nir Parisian @ ReactNext '26 | The Web is Forking",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nThe web as we know it is splitting. While we obsess over React Server Components, a parallel \"Agentic Web\" is being built. With Google’s WebMCP, Stripe's agent wallets, and Cloudflare’s \"Markdown for Agents,\" AI bots are navigating, executing, and purchasing without ever seeing our DOM.\n\nAt the same time, Generative UI is flipping the frontend paradigm, rendering complex, ephemeral React interfaces on the fly.\n\nIn this session, we’ll explore how to architect React applications for this dual reality. I’ll demonstrate how to expose your app to headless agents using the Model Context Protocol (MCP), and how to safely orchestrate Generative UI components when the AI is the one writing the code. We'll look at real production patterns to ensure your frontend survives Web 4.0.\n\nAbout Nir\nHi, I’m Nir Parisian 👋\nMarried + 5 little ones 😄\n\nI've spent the last decade building and leading front-end solutions for companies of all sizes. I’ve been a full-stack engineer at Intel, a front-end team leader at Curv, and now I help startups through Enpitech, the front-end consulting company I founded 4 years ago. I also run a YouTube channel on front-end development (https://youtube.com/@nirparisian) and a community called Frontendistim, where I share knowledge and connect with fellow developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1dBRl3E_qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1dBRl3E_qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1dBRl3E_qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I1dBRl3E_qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I1dBRl3E_qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I1dBRl3E_qM"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "I1dBRl3E_qM",
+        "videoPublishedAt": "2026-07-02T13:03:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "25gsKk2YTIFC8ArXiWtO7Oc8kJs",
+      "id": "UExkbGJUSG5MVVE1SS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:05:09Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Maya Shavin @ ReactNext '26 | You Don’t Need to Worry About Accessibility with AI (Or Do You?)",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nThe innovation of AI coding tools, has freed developers, especially on the frontend side, by automating tedious tasks like CSS fixing, unit testing, and bug fixing. As a result, this shift enabled developers to focus on more complex challenges. And some may argue that this innovative efficiency extends to Accessibility.\n\nFace it, accessibility is critical for a good user experience. We are all aware of it, but we rarely treat it with the importance it deserves. Too often, it’s treated as a second-grade consideration before a release or an afterthought as enhancement. Many blame this on the complexity of compliance guidelines and a lack of clear processes.\n\nTheoretically, this is where AI shines best, due to its nature of following guidelines and best practices.\n\nOr is it?\n\nDoes it mean you now can simply outsource Accessibility (a11y) to AI and stop worrying about it? What does compliance look like in an AI-assist workflow? What are the hidden cost, and how can you truly leverage these AI tools that claims to solve a11y for you?\n\nThat’s what we are going to find out in my talk.\n\nAbout Maya\nMaya is a Lead Software Engineer at Salesforce, where she leads frontend and fullstack initiatives with a focus on performance, scalability, and developer experience. With a background in Computer Science and Business, she brings a balanced technical expertise and product mindset to modern web architecture, emphasizing on accessibility and engineering quality.\n\nBeyond coding, Maya is an international speaker, author of Learning Vue, and the host of the “Build With Maya” podcast, where she shares insights on engineering decisions, system design, and building in the age of AI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fNvvhHMt8PQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fNvvhHMt8PQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fNvvhHMt8PQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fNvvhHMt8PQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fNvvhHMt8PQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fNvvhHMt8PQ"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "fNvvhHMt8PQ",
+        "videoPublishedAt": "2026-07-02T13:05:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p3EY_aRvY2T7Ubn2Gk3jXXS19rQ",
+      "id": "UExkbGJUSG5MVVE1SS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:10:04Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Panel @ ReactNext '26 | Did AI Kill Frontend?",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nPanel with: Shahar Polak, Michal Hershkovitz, Nir Kaufman, Gil Tayar, Ariel Shulman\n\nEveryone is asking whether AI is killing frontend development, but maybe that's the wrong question.\n\nIn this panel, we'll break this big question into smaller ones: What does seniority mean when AI writes code? Is it becoming easier to fake expertise? Which skills are losing value, and which are becoming more important than ever? And what does it actually take to stay relevant today?\n\nInstead of another discussion filled with hype or fear, we'll have an honest conversation about the things many developers are already thinking about, but don't always say out loud.\n\nThe goal is simple: lower the anxiety, make sense of what's really changing, and leave with practical ideas you can apply the day after the conference.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/30awPKHUqdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/30awPKHUqdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/30awPKHUqdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/30awPKHUqdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/30awPKHUqdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "30awPKHUqdk"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "30awPKHUqdk",
+        "videoPublishedAt": "2026-07-02T13:10:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s1ddYRVeApJuF_IeTNvrkRWb_pA",
+      "id": "UExkbGJUSG5MVVE1SS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:24:36Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Guy Nesher @ ReactNext '26 | Component Testing in 2026: The Return of the Browser",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nWe replaced brittle browser tests with sleek Jest + jsdom—then learned “fast” and “simple” can still be wrong.\n\nThis talk shares what failed, what ultimately worked, and a practical framework for combining unit, component, and end-to-end (E2E) tests across Jest/Vitest, Testing Library, Cypress, and Playwright. Save yourself the next rewrite.\n\nAbout Guy\nGuy Nesher is a team lead (and former lawyer) who heads the Redis Enterprise Cluster Manager team, building a mix of services using React and Fastify with a sprinkle of Go and Python. Outside of work, he loves exploring the AI space—whether that’s tinkering with local LLMs or building bots to squash open-source bugs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HA-QNoQghz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HA-QNoQghz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HA-QNoQghz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HA-QNoQghz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HA-QNoQghz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HA-QNoQghz8"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "HA-QNoQghz8",
+        "videoPublishedAt": "2026-07-02T13:24:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OHKUZha5-wMMdwswyXn0n_60PSQ",
+      "id": "UExkbGJUSG5MVVE1SS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:30:56Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Yanai Edri @ ReactNext '26 | Beyond Scraping: The Future of Web Data Access with WebMCP",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nFor years, web scraping has been a fragile game of reverse-engineering HTML-defined by brittle selectors, endless maintenance, and constant breakage. But as AI agents become first-class consumers of the web, traditional scraping is no longer enough.\n\nEnter WebMCP: a protocol-driven approach that allows websites to expose structured, machine-readable capabilities directly to AI agents.\n\nIn this session, we’ll explore how WebMCP replaces \"DOM-guessing\" with explicit, secure, and resilient tools. We’ll dive into how this shift enables seamless LLM-to-Web interaction and discuss what it means for the future of web architecture in an AI-first world.\n\nAbout Yanai\nSenior Frontend Engineer, Speaker, Writer, and Community Leader passionate about modern web development, AI-powered engineering, and developer experience. I specialize in building scalable web applications using React and TypeScript, from the PHP-happy days to modern technologies such as AI agents.\n\nFounder of the Negev Web Developers community, organizes meetups, workshops, and knowledge-sharing events that connect developers and foster innovation. I regularly speak at technology conferences and publish technical content on Medium (yedri.medium.com), covering topics such as modern web APIs, AI-assisted development, developer tooling, and the future of software engineering.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kiK1QPyfJ1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kiK1QPyfJ1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kiK1QPyfJ1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kiK1QPyfJ1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kiK1QPyfJ1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kiK1QPyfJ1w"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "kiK1QPyfJ1w",
+        "videoPublishedAt": "2026-07-02T12:45:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PfAPMzT7279vplnEw6PESbQDuFc",
+      "id": "UExkbGJUSG5MVVE1SS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2026-07-02T13:48:31Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Dean Langsam & Tal Mizrachi @ ReactNext '26 | Um, Actually: Gameshow About Being (Confidently) Wrong",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\n“Um, Actually” is a fast-paced, interactive live gameshow where panelists compete by correcting confidently wrong statements about technology, culture, and everyday “things we think we know.”\nWe tailored this event to ReactNext, even though we write vanilla HTML (hardcore!)\nEach round presents a plausible but flawed claim. The goal isn’t trivia - it’s identifying what’s wrong, why it’s wrong, and how small assumptions lead us astray.\nThe format blends humor, audience participation, and sharp thinking, turning mistakes into the main attraction.\nExpect laughter, arguments over definitions, and the satisfying moment when someone finally says: “Um, actually…”\n\nAbout Dean\nI'm a data scientist at SentinelOne, and I'm passionate about the power of data to drive insights and innovation. My work centers around machine learning, deep learning, and Bayesian modeling, and I've spent years honing my skills in Python scientific programming. As an organizing member of the PyData Tel Aviv conference, I'm dedicated to fostering collaboration and knowledge-sharing in the data science community. I take pride in building Python packages that streamline and improve the efficiency of data workflows. When I'm not working with data, you can find me hiking in the great outdoors or exploring the vibrant cultural scene of Tel Aviv.\n\nChatGPT helped with rephrasing this paragraph. Also, the last line was generated entirely by the bot and is untrue. I do have two daughters and a partner with whom I love spending time.\n\nAbout Tal\nTal Mizrachi, AKA Analysis Paralysis online, is a data scientist and educator trying to make data science, analytical methods, and programming accessible and fun to learn about.\nTal teaches with laughter, joy and dad jokes and easy acceptance of mistakes, he is married to Adi (MD, it rhymes), 2 daughters (5, 0.5), a black dog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/esYLjXVCTSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/esYLjXVCTSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/esYLjXVCTSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/esYLjXVCTSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/esYLjXVCTSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "esYLjXVCTSI"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "esYLjXVCTSI",
+        "videoPublishedAt": "2026-07-02T14:02:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u_T0uG2KW6FKbIatIlWjBKuWtKY",
+      "id": "UExkbGJUSG5MVVE1SS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2026-07-05T12:26:06Z",
+        "channelId": "UC3BT8hh3yTTYxbLQy_wbk2w",
+        "title": "Tal Moskovich @ ReactNext '26 | React Runs Your Terminal: Let’s Build One Live",
+        "description": "ReactNext 2026\nhttps://www.react-next.com\nBrought to you by EventHandler (www.eventhandler.co.il)\n\nClaude Code, GitHub Copilot CLI, OpenAI Codex CLI, Prisma, Gatsby. What do they all have in common? They're React apps - just not in your browser.\n\nInk is a React renderer that outputs to the terminal instead of the DOM. It uses the same Yoga flexbox engine as React Native, supports hooks and context, and lets you compose complex, interactive terminal UIs using the exact mental model you already have.\n\nIn this live coding session, we'll start from an empty index.tsx and build \"Troll Code\": a working AI-powered CLI, live!\n\nCompose terminal layouts with React components and Flexbox\nManage streaming responses with useState and useEffect\nHandle keyboard navigation and real user input\nPush the renderer from ~30fps to optimized 60+\n\nYou'll leave with a working CLI, a new appreciation for React's renderer abstraction, and a clear picture of when to reach for this in real projects.\n\nIf you've ever wanted to build a dev tool, an AI assistant, or an interactive automation script, and you already know React, you're already most of the way there.\n\nAbout Tal\nI live at the intersection of code, communication, and community. Co-host of the podcast \"לא טכני ולא במקרה\" (Not Technical, not by chance\") with Adir Kandel, where we explore the human side of engineering — career, mindset, and navigating a fast-changing industry. I'm big on proactivity, writing and speaking about web development, and believing that great developers aren't just great coders — they're great communicators too.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pYtcE6LChAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pYtcE6LChAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pYtcE6LChAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pYtcE6LChAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pYtcE6LChAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReactNext",
+        "playlistId": "PLdlbTHnLUQ5I",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pYtcE6LChAA"
+        },
+        "videoOwnerChannelTitle": "ReactNext",
+        "videoOwnerChannelId": "UC3BT8hh3yTTYxbLQy_wbk2w"
+      },
+      "contentDetails": {
+        "videoId": "pYtcE6LChAA",
+        "videoPublishedAt": "2026-07-05T12:41:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
+  }
+}
