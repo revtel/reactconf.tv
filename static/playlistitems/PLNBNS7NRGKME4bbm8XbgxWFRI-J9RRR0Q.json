@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "hvG1jyn0e6gRW1fFZm_7N-H0ODM",
+  "etag": "1khf6mcBhEWkXs53zPZQlMB8Bw8",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "r_3BrXfu2mboa57xZ3FykSYcO3A",
+      "etag": "_TccaAjZBsAbskLBDBPILywhoJQ",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2026-07-17T15:15:29Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Vibe Coding to Vibe Engineering: Kitze On Why Your Agents Keep Producing Slop",
+        "description": "Kitze breaks down the exact workflow senior devs use to make agents reliable - end the turn with zero, police scripts, and why \"skill issue\" is real 🤖\n\n📌 The hook that forces every agent turn to end with zero type and lint errors - no more \"please refactor\"\n📌 Why your last AI coding experience failed - and which of the 5 reasons was actually your fault\n📌 The one role on your team AI is coming for first (it's not the one you think)\n📌 Why the safest developers in 2026 are the ones writing \"dead\" legacy code\n\n🎙 Kitze is founder of Sizzy (the browser built for developers) and creator of React Academy and Zero To Shipped (the course used to learn fullstack development end to end).\nHe's shipped a long list of tools for devs (Benji, Twizzy, JSUI, and more) and builds in public on YouTube and Twitch. \n💫 Connect with Kitze:\n🔗 https://twitter.com/thekitze\n🔗 https://github.com/kitze\n\n📝 Talk: From Vibe Coding to Vibe Engineering | Kitze\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=Kitze\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=Kitze\n\n🕐 Timestamps:\n00:00 - Intro\n00:46 - 60-second product pitch (Sizzy, Zero to Shipped, SuperMac)\n02:51 - 10 years of front-end: what actually changed\n06:27 - Why LLMs are so good at React\n07:56 - What vibe coding really is (Karpathy & the casino)\n10:20 - Vibe engineering, defined\n11:39 - The toolkit: worktrees, types, tagging & voice\n15:30 - \"End the turn with zero\" & the police script\n17:55 - Why your AI experience sucked (the 5 reasons)\n22:04 - The jobs question: why the infra is already solved\n24:25 - Who survives: legacy, initiative & the COBOL Cowboys\n25:55 - Outro & Q&A\n\n🚀 The most honest conversations happen after the talk. Join the next conferences by GitNation to sync with the engineers actually shipping the future:\n\n💫  React Advanced 2026 Oct 23 & 26 (London & Online)\nhttps://reactadvanced.com/?utm_source=youtube&utm_medium=Kitze\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=Kitze\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=Kitze\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=Kitze\n\n\n#ReactSummit #GitNation #VibeCoding #VibeEngineering #AICoding #AIAgents #React #WebDevelopment #SoftwareEngineering #DeveloperTools #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H-CoTziGsvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H-CoTziGsvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H-CoTziGsvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H-CoTziGsvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H-CoTziGsvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H-CoTziGsvU"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "H-CoTziGsvU",
+        "videoPublishedAt": "2026-07-17T15:18:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MtR0ImqWzeJvU4WRathUvok7kuw",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2026-07-10T16:12:00Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TuOSy6XU7hI"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Fwlx-SQZWFKVR5ZofaaFxnma0M0",
+      "etag": "Y7C4k9Ctvh1NJxSR7gRlkXTasgA",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2026-07-08T12:36:52Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yX1CXV1qTa8"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rCLZQlSYlW4GrhWhE47FHslrsdU",
+      "etag": "PHbtoY6aMbNr1q9nAD8M0E4avO0",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2026-06-28T16:04:58Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QjZlPQ5FigI"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hPWnXZ6eLaKb-ADmPAg2epQ4Qto",
+      "etag": "5yKjScRTVcmDcYCL1wZwq0By7Ig",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2026-06-27T16:01:41Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_aHz9obUFNw"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xjI6vkb2khdYiQIy5Jaa7683Bew",
+      "etag": "2cJoYYFGH4WJ181GOkMXhdQYrgA",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2026-06-26T15:39:40Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H4ec7Xwnqyg"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2xQ5me-UQ7XeCC7473JrUqQgJ4o",
+      "etag": "JOXD3xZDDBjeInSX5U4zg6_QFg4",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2026-06-24T15:25:55Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xFLC2lCNHdo"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FWsfpMAWK53CTutkK3ZoTrPBA4U",
+      "etag": "vH48r6GHxeLa0W7TTPYLGCmz_2k",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "n94lwfrbtkUCMdXy84KTnPumslU",
+      "etag": "GBQYEuMo8FMqsczuwxOjZpPvqIE",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -436,7 +490,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 8,
+    "totalResults": 9,
     "resultsPerPage": 50
   }
 }
