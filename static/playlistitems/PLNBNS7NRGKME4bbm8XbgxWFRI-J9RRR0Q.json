@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "1khf6mcBhEWkXs53zPZQlMB8Bw8",
+  "etag": "CS_rsG5UIUh8PThacGGc550Sy2Y",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "_TccaAjZBsAbskLBDBPILywhoJQ",
+      "etag": "r9M1IJPivjTI27lKyjOYjgEr_8E",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2026-07-17T15:15:29Z",
@@ -58,61 +58,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MtR0ImqWzeJvU4WRathUvok7kuw",
-      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2026-07-10T16:12:00Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Nuxt's Lead Daniel Roe on the Truth Behind \"Just Use AI to Write It\"",
-        "description": "🎙️ Nuxt lead Daniel Roe explains why reaching for AI to write your messages ends up obscuring the one thing that matters most: your own voice.\n\nHe argues that real collaboration in open source is about the person behind the words, not just the facts an LLM can neatly summarize.\n\nAlong the way he unpacks Nuxt, the Nitro server behind sub-millisecond cold starts, how the edge actually works, and what makes a great developer in an age of hype.\n\n🎙️ Daniel Roe leads the Nuxt core team and works on Nuxt full-time at Vercel, shaping tools that developers rely on worldwide. A former SaaS CTO and creative agency founder, he consults globally on JAMstack, serverless, and software architecture, and is based in Scotland with his family and cat.\n🤝 Connect with Daniel \n🔗 https://github.com/danielroe\n🔗 https://linkedin.com/in/daniel-roe\n🔗 https://bsky.app/profile/danielroe.dev\n🧑‍💻  Explore his work:\n🔗 https://roe.dev/\n\n💫 Our host, Chris Griffing, is a Twitch streamer and YouTuber who loves building things. Catch him live and join his growing developer community at https://twitch.tv/cmgriffing 🔗\n\n🕐 Timestamps:\n00:00 - Meet Daniel Roe — born in Alabama, leading Nuxt from Scotland\n01:20 - From asking questions on Discord to running the whole project\n03:29 - What studying law secretly taught him about writing code\n05:14 - How they rebuilt Nuxt and crushed a 300ms cold start (down to under 1ms)\n10:55 - The rarest move in open source: giving your own project away\n11:50 - So what actually is \"the edge\"?\n16:00 - Why your chair matters as much as your dev tools\n19:34 - The design choice that hands the power back to you\n21:10 - Vercel bought Nuxt Labs — so who owns Nuxt now?\n22:39 - React Summit, and the talk he rewrote in the shower\n25:32 - When strangers tear into your work online\n28:03 - You don't \"break into\" open source — do this instead\n30:16 - The open-source problem money can't fix\n34:24 - Stop using AI to talk to me\n37:52 - Wrapping up\n\nThis podcast was recorded at React Summit US 2025. Want to hear industry leaders like Luca IRL? Join our next events!\n\n💫  React Advanced 2026 Oct 23 & 26 (London & Online)\nhttps://reactadvanced.com/?utm_source=youtube&utm_medium=DanielRoe\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=DanielRoe\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=DanielRoe\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=DanielRoe\n\n\n#Nuxt #WebDevelopment #AI #NuxtJS #VueJS #JavaScript #OpenSource #Nitro #Serverless #DeveloperExperience #Coding #Programming #DanielRoe #ReactSummit #GitNation",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TuOSy6XU7hI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TuOSy6XU7hI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TuOSy6XU7hI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TuOSy6XU7hI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TuOSy6XU7hI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TuOSy6XU7hI"
-        },
-        "videoOwnerChannelTitle": "React Conferences by GitNation",
-        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
-      },
-      "contentDetails": {
-        "videoId": "TuOSy6XU7hI",
-        "videoPublishedAt": "2026-07-10T16:15:28Z"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Y7C4k9Ctvh1NJxSR7gRlkXTasgA",
+      "etag": "Fwlx-SQZWFKVR5ZofaaFxnma0M0",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2026-07-08T12:36:52Z",
@@ -148,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 2,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yX1CXV1qTa8"
@@ -166,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PHbtoY6aMbNr1q9nAD8M0E4avO0",
+      "etag": "jkvHUn7CRKKzm2vR9ZutFZ5SF_A",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2026-06-28T16:04:58Z",
@@ -202,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 3,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QjZlPQ5FigI"
@@ -220,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5yKjScRTVcmDcYCL1wZwq0By7Ig",
+      "etag": "hPWnXZ6eLaKb-ADmPAg2epQ4Qto",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2026-06-27T16:01:41Z",
@@ -256,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 4,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_aHz9obUFNw"
@@ -274,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2cJoYYFGH4WJ181GOkMXhdQYrgA",
+      "etag": "xjI6vkb2khdYiQIy5Jaa7683Bew",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2026-06-26T15:39:40Z",
@@ -310,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 5,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H4ec7Xwnqyg"
@@ -328,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JOXD3xZDDBjeInSX5U4zg6_QFg4",
+      "etag": "2xQ5me-UQ7XeCC7473JrUqQgJ4o",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2026-06-24T15:25:55Z",
@@ -364,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 6,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xFLC2lCNHdo"
@@ -382,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vH48r6GHxeLa0W7TTPYLGCmz_2k",
+      "etag": "FWsfpMAWK53CTutkK3ZoTrPBA4U",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -418,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -436,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GBQYEuMo8FMqsczuwxOjZpPvqIE",
+      "etag": "n94lwfrbtkUCMdXy84KTnPumslU",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -472,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -490,7 +436,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 9,
+    "totalResults": 8,
     "resultsPerPage": 50
   }
 }
