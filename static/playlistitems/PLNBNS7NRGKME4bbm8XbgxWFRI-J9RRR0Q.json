@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "gG9w9w5civS1suARQr_NV1F2of8",
+  "etag": "sV43wfRB8qy6Ugf3sCX_6AYsSh4",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "McUJnNZo7PVEPIwYGHVcJsOju70",
+      "etag": "zXlp3n3ywvSmXlgUs3B0KslW4CU",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2026-07-31T13:59:19Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Own the RSC Pipeline: Cache and Compose It Yourself - TanStack Start | Manuel Schiller",
+        "description": "📝 ОПИСАНИЕ (English)\n\n⚡ React Server Components are two React functions and a data stream - not an architecture you have to adopt.\n🧩 Manuel Schiller shows how TanStack Start treats RSC as a primitive: request it, cache it, persist it, and let the client own composition.\n\nWhat's inside 👇\n\n🔸 Why RSC is not SSR - the two React functions and the Flight stream underneath\n🔸 When you don't need RSC at all, and where server-rendered UI genuinely earns its place\n🔸 Composite components and typed slots: caching RSC in the router or in TanStack Query, and persisting the stream to IndexedDB for offline\n\n🎙 Manuel Schiller is a full-stack software engineer and TypeScript specialist, and a core contributor to TanStack Router and TanStack Start. He works on the type-safe internals both frameworks are built on — typed routes, typed search state, typed loaders — and on the RSC integration he walks through in this talk, including the low-level API that exposes React's render and decode steps and the TanStack Query persister that writes RSC stream bytes to IndexedDB. If you've built on TanStack Start, you've run his code.\n\n💫 Connect with Manuel:\n🔗 https://twitter.com/schanuelmiller\n🐙 Read the code: https://github.com/schiller-manuel\n\n📝 Talk: ​Tanstack Start and How It Supports React Server Components | Manuel Schiller\n\nThis talk was recorded at React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=ManuelSchiller\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n\n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=ManuelSchiller\n\n🕐 Timestamps:\n00:00 - Intro\n01:20 - Your 20% Off 🫣\n01:41 - Pull back the curtain: RSC is not SSR\n03:33 - You might not need RSC at all\n04:42 - The two functions your framework keeps hidden\n06:27 - One server function, and the CDN caches your UI\n07:48 - The return shape is yours\n08:44 - Park it in the router cache like any loader\n09:48 - Server-rendered UI that works offline\n11:27 - The server decides what your client component gets\n12:57 - Flip it: the client owns composition\n15:19 - Inside the devtools: slots you can inspect\n17:28 - RSC is a primitive, not the architecture\n\n📌 We’ve hidden a secret code for 20% off your next event. \nJoin our upcoming conferences!\n\n💫  React Advanced 2026 Oct 23 & 26 (London & Online)\nhttps://reactadvanced.com/?utm_source=youtube&utm_medium=ManuelSchiller\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=ManuelSchiller\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=ManuelSchiller\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=ManuelSchiller\n\nDon't forget to use INSIDER20 promo code for 20% off on tickets.\n\n\n#ReactSummit #GitNation #TanStackStart #TanStack #TanStackRouter #TanStackQuery #ReactServerComponents #RSC #React #ReactJS #TypeScript #FullStack #FullStackDevelopment #WebDevelopment #WebDev #FrontendDevelopment #Frontend #JavaScript #SSR #ServerSideRendering #StreamingSSR #ServerFunctions #DataFetching #Caching #IndexedDB #OfflineFirst #Vite #ReactRouting #TypeSafety #EndToEndTypeSafety #ReactArchitecture #SoftwareArchitecture #DeveloperConference #ManuelSchiller",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6lSH1-ytd7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6lSH1-ytd7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6lSH1-ytd7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6lSH1-ytd7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6lSH1-ytd7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6lSH1-ytd7E"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "6lSH1-ytd7E",
+        "videoPublishedAt": "2026-08-07T14:00:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R-mNTEGD0dTGz96sHXgFMisIkhM",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2026-07-28T18:22:19Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "83NCtCQ7QO0"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rb8wNaxvb9TS-eRJsse9UUvsRUs",
+      "etag": "F8tQW1hHPVEWy1mOulGlpC4YPb4",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2026-07-22T15:34:49Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "40v1miKZWVs"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F63msEKMVIgGpgbeIMmPIx--uxg",
+      "etag": "ReTv40WahJ-vxtLebGpWpLjtHvs",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2026-07-17T15:15:29Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H-CoTziGsvU"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qOP5VzTYCUQs66QJPwp_8Z7eSgs",
+      "etag": "ojVod6vwwp9q8wW2I5HlOdCoNG4",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2026-07-08T12:36:52Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yX1CXV1qTa8"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MeGOoCV77BDJC4s0OWGDr-8xhok",
+      "etag": "HknlhZ0uz0Cx9ZZhnkpSdPsSQIw",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2026-06-28T16:04:58Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QjZlPQ5FigI"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yff3rd6vuUo-VxosJmFgCkaj8KQ",
+      "etag": "LA4E6sGRNm5rGbaHkhmsRRILoAo",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2026-06-27T16:01:41Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_aHz9obUFNw"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "l4u7wGalO3G9x9WOcP6srB658FA",
+      "etag": "wYuL1ZUC7dRkuAsUq1GPpHWRpwY",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2026-06-26T15:39:40Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H4ec7Xwnqyg"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dc61nhb1CwKxVLNshnk-TV_v0j4",
+      "etag": "NOnk7Vo-rfjQrz2fAoLp7IBDqy8",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2026-06-24T15:25:55Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xFLC2lCNHdo"
@@ -436,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qoDeFsr9O5Y2TK8yiwEY5lZlBr4",
+      "etag": "57XcUsgK7jo3hOq8rLa_VR5aoEk",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -472,7 +526,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -490,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zhWTKib9u5i4sERUl619-7OdNJw",
+      "etag": "x2ukMTa7POOYXSC9_FjiqyZNVYg",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -526,7 +580,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -540,31 +594,6 @@
       },
       "status": {
         "privacyStatus": "public"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "S7mP_JpMUsjuHfXyfwRsgek9vSI",
-      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2026-07-31T13:59:19Z",
-        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "React Conferences by GitNation",
-        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "6lSH1-ytd7E"
-        }
-      },
-      "contentDetails": {
-        "videoId": "6lSH1-ytd7E"
-      },
-      "status": {
-        "privacyStatus": "private"
       }
     }
   ],
