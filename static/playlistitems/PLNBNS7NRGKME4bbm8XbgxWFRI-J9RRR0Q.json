@@ -1,10 +1,64 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "D8nxY2vE_YMPZO_WXGohgHLNaeU",
+  "etag": "HHiz-mn4i5jJV0gYMLWyg-H7XAs",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "zXlp3n3ywvSmXlgUs3B0KslW4CU",
+      "etag": "qj7etoYiXTwO2Fkk3Uz4W8Xah1I",
+      "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2026-08-14T11:10:14Z",
+        "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
+        "title": "Hackathon Final Pitches - Making Tech Events Meaningful | Progress & GitNation",
+        "description": "🏆 Four teams had 2 days to fix tech conferences, and Progress Software put €10,000 behind the best answer. These are the final pitches from the GitNation & Progress hackathon, judged live on stage.\n\nProjects that could change how you spend your next conference:\n\n⚡ Hallway - stops you from guessing which talks to attend and who to meet\n⚡ Live Deck - saves the ideas you lose three days after a conference\n⚡ Conference planning over MCP — never makes you leave your editor\n⚡ FireRaven - helps you pick conferences worth the ticket\n\nEvery pitch comes from a developers who attended JSNation and React Summit in Amsterdam, June 2026 - and spent the night building the conference tool they wished existed.\n\n🕐 Timestamps:\n00:00 - Intro\n01:07 - Your 20% Off 🫣\n02:16 - Hallway lets an LLM pick your talks and your people\n05:48 - \"Why not a chat?\" - the answer that won €6,000\n06:59 - Live Deck catches the ideas you forget three days later\n11:12 - Registering for a conference straight from a code editor\n16:22 - Would you ever leave the chat to open a website?\n17:16 - FireRaven ranks speakers like a leaderboard\n24:11 - \"Does AI change all of this?\" and how the judges decide\n\nBy the way, the judges have already picked their winners 🎂\n🥇 Hallway - €6,000 - Vid Potočnik, Matevž Miskec, Daniel Vinojčić\n🥈 ConfPilot - €2,000 - Konstantinos Leimonis\n🥉 Stuck stuck - €2,000 - Samuel Paintsil, Charles Ewudzi, Llewellyn Paintsil\n\nThe Hackathon was a part of React Summit Amsterdam 2026: \n🔗 https://reactsummit.com/?utm_source=youtube&utm_medium=Hackathon\n\n📌 Follow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings:  \n\n🔗 https://gitnation.com/events/react-summit-2026?utm_source=youtube&utm_medium=Hackathon\n\n📌 We’ve hidden a secret code for 20% off your next event. \nJoin our upcoming conferences!\n\n💫  React Advanced 2026 Oct 23 & 26 (London & Online)\nhttps://reactadvanced.com/?utm_source=youtube&utm_medium=Hackathon\n\n💫 React Summit US 2026 Nov 17 & 20, 2026 (NewYork & Online) \n🔗 https://reactsummit.us/?utm_source=youtube&utm_medium=Hackathon\n\n💫 JSNation US 2026 Nov 16 & 19, 2026 (NewYork & Online) \n🔗 https://jsnation.us/?utm_source=youtube&utm_medium=Hackathon\n\nand more!\n\n🚀 Check out all the upcoming events from GitNation: \n🔗 https://gitnation.com/events?utm_source=youtube&utm_medium=Hackathon\n\nDon't forget to use INSIDER20 promo code for 20% off on tickets.\n\n\n#GitNation #ReactSummit #hackathon #reactsummit #jsnation #gitnation #progresssoftware #webdev #javascript #react #frontend #mcp #ai #llm #supabase #kendoui #aiagents #devtools #buildinpublic #softwareengineering #techconference #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VdL38U69-VU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VdL38U69-VU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VdL38U69-VU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VdL38U69-VU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VdL38U69-VU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React Conferences by GitNation",
+        "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VdL38U69-VU"
+        },
+        "videoOwnerChannelTitle": "React Conferences by GitNation",
+        "videoOwnerChannelId": "UCsFrt8oKNYXGspSlX9u6uXw"
+      },
+      "contentDetails": {
+        "videoId": "VdL38U69-VU",
+        "videoPublishedAt": "2026-08-14T14:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F00YYECD-MzYkLeITw6felC5Z08",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2026-07-31T13:59:19Z",
@@ -40,7 +94,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "6lSH1-ytd7E"
@@ -58,7 +112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "at36uq4WECVsWX89BWg-v3DqGHQ",
+      "etag": "qMYGuiwVivHB-WPQ1D04VQX74sg",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2026-07-28T18:22:19Z",
@@ -94,7 +148,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "83NCtCQ7QO0"
@@ -112,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F8tQW1hHPVEWy1mOulGlpC4YPb4",
+      "etag": "hUP262iyFnibe2fnNoRT_2YTsiQ",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2026-07-22T15:34:49Z",
@@ -148,7 +202,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "40v1miKZWVs"
@@ -166,7 +220,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h0wBOIiddbIZ1AL8pjUIySFalRc",
+      "etag": "rvf5mzg3mhA910dy6iT9QoVbEAU",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2026-07-17T15:15:29Z",
@@ -202,7 +256,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H-CoTziGsvU"
@@ -220,7 +274,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ojVod6vwwp9q8wW2I5HlOdCoNG4",
+      "etag": "eHjLhOImB4rYYR2ym3SM6uw-iTk",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2026-07-08T12:36:52Z",
@@ -256,7 +310,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yX1CXV1qTa8"
@@ -274,7 +328,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HknlhZ0uz0Cx9ZZhnkpSdPsSQIw",
+      "etag": "aYr5QFDgOqH2G0DQggPlq7QMf0s",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2026-06-28T16:04:58Z",
@@ -310,7 +364,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QjZlPQ5FigI"
@@ -328,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LA4E6sGRNm5rGbaHkhmsRRILoAo",
+      "etag": "EEo-FU3poyAx0SgSdE08dDkdUY8",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2026-06-27T16:01:41Z",
@@ -364,7 +418,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_aHz9obUFNw"
@@ -382,7 +436,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wYuL1ZUC7dRkuAsUq1GPpHWRpwY",
+      "etag": "f7KhtXC3CgMy0r6A7j5Lo6v3FE0",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2026-06-26T15:39:40Z",
@@ -418,7 +472,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "H4ec7Xwnqyg"
@@ -436,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NOnk7Vo-rfjQrz2fAoLp7IBDqy8",
+      "etag": "KO9M3gD-jWfRirGR0TPfaCCeAHs",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2026-06-24T15:25:55Z",
@@ -472,7 +526,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xFLC2lCNHdo"
@@ -490,7 +544,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "57XcUsgK7jo3hOq8rLa_VR5aoEk",
+      "etag": "mnoXureFxgRgLMrjbZWvTtPtQxg",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-06-23T18:44:41Z",
@@ -526,7 +580,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x-E4FQdwsFs"
@@ -544,7 +598,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "x2ukMTa7POOYXSC9_FjiqyZNVYg",
+      "etag": "NylpayMTNDUVGBNdMJG1PhNxFqo",
       "id": "UExOQk5TN05SR0tNRTRiYm04WGJneFdGUkktSjlSUlIwUS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2026-06-22T20:42:25Z",
@@ -580,7 +634,7 @@
         },
         "channelTitle": "React Conferences by GitNation",
         "playlistId": "PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0u3xGEcUg2g"
@@ -598,7 +652,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 11,
+    "totalResults": 12,
     "resultsPerPage": 50
   }
 }
