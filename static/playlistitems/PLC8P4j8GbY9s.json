@@ -1,0 +1,1306 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "pS1J8Euz7if5e-Miz2WQYMgkc9I",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MwhgwgtSy0z7Z7grZutGFyMXuFQ",
+      "id": "UExDOFA0ajhHYlk5cy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2026-08-19T22:17:34Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "The U.S. React Native Conference | Chain React 2026",
+        "description": "Chain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/361o93B_Uyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/361o93B_Uyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/361o93B_Uyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/361o93B_Uyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/361o93B_Uyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "361o93B_Uyc"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "361o93B_Uyc",
+        "videoPublishedAt": "2026-08-19T22:19:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i4gC6LtHyDrm_yiImTtcaj0zMME",
+      "id": "UExDOFA0ajhHYlk5cy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:47:25Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Welcome — Ken LaFrance & Gant Laborde | Chain React 2026",
+        "description": "Chain React 2026 opened with a welcome from professional emcee Ken LaFrance and Infinite Red’s Gant Laborde.\n\nTogether, they shared opening remarks, set the tone for day one, and got the React Native community ready for the conference.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #ChainReact2026",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6M5H26Q7gr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6M5H26Q7gr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6M5H26Q7gr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6M5H26Q7gr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6M5H26Q7gr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6M5H26Q7gr8"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "6M5H26Q7gr8",
+        "videoPublishedAt": "2026-08-19T16:47:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mYVf4-CyPz0Ut_NPX7C4QtGWgrs",
+      "id": "UExDOFA0ajhHYlk5cy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:35:07Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "The future of mobile development with Expo — Charlie Cheever | Chain React 2026",
+        "description": "AI is closing the gap between a great app idea and a shipped product.\n\nCharlie Cheever explored where Expo and mobile development were headed as AI handled more of the process, from generating a React Native app to building, updating, and shipping it, while keeping powerful tools simple for teams.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Charlie\n\nCharlie Cheever is a Co-Founder at Expo.\n\nX: https://x.com/ccheever\n\nLinkedIn: https://linkedin.com/in/ccheever\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jTZWOS9-JTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jTZWOS9-JTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTZWOS9-JTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jTZWOS9-JTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jTZWOS9-JTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jTZWOS9-JTw"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "jTZWOS9-JTw",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lJqd6EJQgdG1d4gOxnIxqmTFCY8",
+      "id": "UExDOFA0ajhHYlk5cy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:38:47Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Think Fast: OnDevice Vector Features — Mazen Chami | Chain React 2026",
+        "description": "Your React Native app could deliver smart, contextual experiences without relying on the cloud.\n\nMazen Chami explored how on device AI and vector features brought fast, private, real time intelligence to mobile apps, even when they were offline.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Mazen\n\nMazen Chami is a Staff Software Engineer at Infinite Red.\n\nX: https://x.com/mazenchami\n\nLinkedIn: https://linkedin.com/in/mazenchami\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #OnDeviceAI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WEgbPQXZ7E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WEgbPQXZ7E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WEgbPQXZ7E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WEgbPQXZ7E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WEgbPQXZ7E0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WEgbPQXZ7E0"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "WEgbPQXZ7E0",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2eP9slY6FE7pjVIpvjyDqP0subk",
+      "id": "UExDOFA0ajhHYlk5cy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:41:28Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "How I Learned React Native with AI — Erik Hanchett | Chain React 2026",
+        "description": "Learning React Native with AI is easier when you know where these tools help and where they get in the way.\n\nErik Hanchett shared how he used ChatGPT, Cursor, and other AI tools to move from React web development into React Native, including what saved time, what slowed him down, and how developers could learn more effectively.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Erik\n\nErik Hanchett is a Developer Advocate at AWS.\n\nX: https://x.com/ErikCH\n\nLinkedIn: https://linkedin.com/in/erikhanchett\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YvlVMvhS9Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YvlVMvhS9Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YvlVMvhS9Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YvlVMvhS9Ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YvlVMvhS9Ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YvlVMvhS9Ec"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "YvlVMvhS9Ec",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MA6nLKaVkAqYhqXprk0dKSTPomg",
+      "id": "UExDOFA0ajhHYlk5cy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:55:18Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Prompt Once: Scaling Expo Brownfield Across 100+ Apps — Gabriel Donadel | Chain React 2026",
+        "description": "Adding Expo to a mature native app does not have to mean starting over.\n\nGabriel Donadel showed how Expo Brownfield and a purpose built skill automated integration across more than 100 native apps, revealing what broke, what surprised the team, and how React Native adoption could scale.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Gabriel\n\nGabriel Donadel is a Software Engineer at Expo.\n\nX: https://x.com/donadeldev\n\nLinkedIn: https://linkedin.com/in/gabrieldonadeldallagnol\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #ExpoBrownfield",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yk5KjVx6i54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yk5KjVx6i54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yk5KjVx6i54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yk5KjVx6i54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yk5KjVx6i54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yk5KjVx6i54"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "Yk5KjVx6i54",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dtzEfwZZ5QHGZj1SP9CXBobYtGk",
+      "id": "UExDOFA0ajhHYlk5cy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:58:06Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Automated Visual Regression & Accessibility Testing — Isabela McLenachen | Chain React 2026",
+        "description": "Reliable visual and accessibility testing does not have to be difficult to maintain.\n\nIsabela McLenachen showed how Playwright and Docker generated consistent test suites that ran across local and CI environments, helping teams catch visual regressions and accessibility issues earlier.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Isabela\n\nIsabela McLenachen is a Lead Software Engineer at Disney.\n\nX: https://x.com/isabelacmor\n\nLinkedIn: https://linkedin.com/in/isabela-moreira\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AccessibilityTesting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjxV0P285lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjxV0P285lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjxV0P285lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LjxV0P285lg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LjxV0P285lg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LjxV0P285lg"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "LjxV0P285lg",
+        "videoPublishedAt": "2026-08-19T16:47:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u77u4bNKIMwGBumpt6yf5pXWOr0",
+      "id": "UExDOFA0ajhHYlk5cy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:02:51Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Delete Your Global State: Use SQLite as the Ultimate State Manager — Dev Agrawal | Chain React 2026",
+        "description": "Your app may already have a better state manager hiding on the device.\n\nDev Agrawal showed how SQLite, reactive database queries, and background sync replaced complex client state libraries while handling offline mutations and simplifying data heavy React Native apps.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Dev\n\nDev Agrawal is a Developer Relations Engineer at Codemod.\n\nX: https://x.com/devagrawal09\n\nLinkedIn: https://linkedin.com/in/dev-agr\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #SQLite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zUVsuncZud4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zUVsuncZud4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUVsuncZud4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zUVsuncZud4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zUVsuncZud4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zUVsuncZud4"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "zUVsuncZud4",
+        "videoPublishedAt": "2026-08-19T16:47:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BaR1guPkEInTA4Jja7vSqIaugEo",
+      "id": "UExDOFA0ajhHYlk5cy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:18:29Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Trailing React Native in a Legacy Mobile App — Dustin Masters | Chain React 2026",
+        "description": "Bringing React Native into a legacy app rarely follows a perfectly clean path.\n\nDustin Masters shared how Regal shipped React Native alongside native UI, including the mishaps, shenanigans, and practical hacks that got the work over the finish line.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Dustin\n\nDustin Masters is a Principal Engineer at Regal Cinemas.\n\nX: https://x.com/dustinsoftware\n\nLinkedIn: https://linkedin.com/in/dustinmasters\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #MobileModernization",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RS1LWPi5X1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RS1LWPi5X1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RS1LWPi5X1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RS1LWPi5X1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RS1LWPi5X1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RS1LWPi5X1g"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "RS1LWPi5X1g",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gsekCw6rw7YHDhnsZMFvxEHKTco",
+      "id": "UExDOFA0ajhHYlk5cy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:21:14Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "AI-Powered Personalization in React Native at Scale — Megha Hooli | Chain React 2026",
+        "description": "Smart shopping apps can adapt to each customer without sacrificing performance or trust.\n\nMegha Hooli explored how React Native teams used recommendation systems, personalization engines, predictive models, and scalable architecture to build responsive retail experiences while managing latency, data synchronization, and privacy.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Megha\n\nMegha Hooli is a Senior Program Manager at Amazon.\n\nLinkedIn: https://linkedin.com/in/meghahooli\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AIPersonalization",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBe0YdZXYbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBe0YdZXYbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBe0YdZXYbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBe0YdZXYbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yBe0YdZXYbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yBe0YdZXYbY"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "yBe0YdZXYbY",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3cL9XgT74__ACPS1X0x5gudvOdg",
+      "id": "UExDOFA0ajhHYlk5cy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2026-08-20T16:06:43Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Your agents can run, now what? — Mark Goldstein | Chain React 2026",
+        "description": "When coding agents moved faster, the systems supporting them had to keep up.\n\nMark Goldstein shared how Chime scaled its mobile development infrastructure as the bottleneck moved deeper into the development loop, helping teams build, test, and ship at the speed of agents.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Mark\n\nMark Goldstein is a Client Foundations Tech Lead at Chime.\n\nLinkedIn: https://www.linkedin.com/in/markgoldstein12\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AIAgents",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXtnaBM-zFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXtnaBM-zFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXtnaBM-zFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXtnaBM-zFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXtnaBM-zFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yXtnaBM-zFE"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "yXtnaBM-zFE",
+        "videoPublishedAt": "2026-08-19T16:47:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cr1ekXJvmaftx586E2CaWlq_MVg",
+      "id": "UExDOFA0ajhHYlk5cy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:25:22Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Silent Execution: Blocking Install-Time Supply Chain Attacks — Chris DeMars | Chain React 2026",
+        "description": "Malicious packages could compromise a development environment before the first build even began.\n\nChris DeMars examined how install time malware evaded standard audits and showed how script blocking and behavioral monitoring hardened local environments and continuous integration and delivery pipelines.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Chris\n\nChris DeMars is a Senior Developer Advocate at TuxCare.\n\nX: https://x.com/saltnburnem\n\nLinkedIn: https://www.linkedin.com/in/chrisdemars\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #SupplyChainSecurity",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJO2oqUYmfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJO2oqUYmfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJO2oqUYmfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJO2oqUYmfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fJO2oqUYmfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fJO2oqUYmfA"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "fJO2oqUYmfA",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JDIIzQOPg-BkYzy1rOFeijgdF8Q",
+      "id": "UExDOFA0ajhHYlk5cy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:26:47Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Fast by Default: Performance Starts with State — Jay Meistrich | Chain React 2026",
+        "description": "Fast React Native apps started with state architecture, not last minute optimization.\n\nJay Meistrich explained why React Native apps slowed down and showed how fine grained state improved rendering, developer experience, and synchronization at the same time.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Jay\n\nJay Meistrich is the Founder of Legend.\n\nX: https://x.com/jmeistrich\n\nLinkedIn: https://www.linkedin.com/in/jmeistrich\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AppPerformance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcnqSldXZ08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcnqSldXZ08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcnqSldXZ08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qcnqSldXZ08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qcnqSldXZ08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qcnqSldXZ08"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "qcnqSldXZ08",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ow1LsGwLr0X0xuRp_kffhMfXVLE",
+      "id": "UExDOFA0ajhHYlk5cy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:28:44Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Haptics: Untapped Potential — Kacper Kapuściak | Chain React 2026",
+        "description": "Haptics could turn an ordinary mobile interaction into one users could actually feel.\n\nKacper Kapuściak explored how haptics worked under the hood and shared design principles for creating intentional, well designed tactile experiences.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Kacper\n\nKacper Kapuściak is a React Native Open Source Developer at Software Mansion.\n\nX: https://x.com/kacperkapusciak\n\nLinkedIn: https://www.linkedin.com/in/kacperkapusciak\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #Haptics",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GYQ85O7H_PQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GYQ85O7H_PQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GYQ85O7H_PQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GYQ85O7H_PQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GYQ85O7H_PQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GYQ85O7H_PQ"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "GYQ85O7H_PQ",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-OJFTkVmswGKwirVRdXMi9eYzaE",
+      "id": "UExDOFA0ajhHYlk5cy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:29:18Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "How is your app actually doing in production — Kadi Kraman | Chain React 2026",
+        "description": "Shipping the app was only the beginning of understanding how it performed.\n\nKadi Kraman explored the gap between the app developers built and the experience users actually had in production.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Kadi\n\nKadi Kraman is a Software Developer at Expo.\n\nX: https://x.com/kadikraman\n\nLinkedIn: https://www.linkedin.com/in/kadi-kraman\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AppObservability",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9RoD_QpJYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9RoD_QpJYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9RoD_QpJYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G9RoD_QpJYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G9RoD_QpJYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G9RoD_QpJYQ"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "G9RoD_QpJYQ",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-EiTs5LcY4rnrEief-8KFlSkY-g",
+      "id": "UExDOFA0ajhHYlk5cy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:45:21Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Software Squares | Chain React 2026",
+        "description": "Developers battled through trivia, tic tac toe, and prizes in the only gameshow at Chain React.\n\nFamiliar faces from the community tested their knowledge, claimed their squares, and gave the audience plenty to laugh about.\n\nSponsored by ThisDot Labs.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #SoftwareSquares",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/icI-In9fYY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icI-In9fYY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/icI-In9fYY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/icI-In9fYY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/icI-In9fYY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "icI-In9fYY4"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "icI-In9fYY4",
+        "videoPublishedAt": "2026-08-19T16:47:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zvq1uNuxtAR_VOGDrmDxEcEr2r4",
+      "id": "UExDOFA0ajhHYlk5cy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:30:40Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Go All The Way — Seth Webster | Chain React 2026",
+        "description": "When building anything became possible, choosing what deserved to exist became the harder question.\n\nSeth Webster challenged experienced builders to look beyond tools and launch paths, confront what was truly holding them back, and ask whether they were building the right size thing.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Seth\n\nSeth Webster is the Executive Director of the React Foundation.\n\nX: https://x.com/sethwebster\n\nLinkedIn: https://www.linkedin.com/in/swebster\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #ProductStrategy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWQtWHsAMk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWQtWHsAMk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWQtWHsAMk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SWQtWHsAMk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SWQtWHsAMk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SWQtWHsAMk0"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "SWQtWHsAMk0",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dj2qgyy_fuvU0nVpD28ybgK5mMs",
+      "id": "UExDOFA0ajhHYlk5cy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:31:56Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Skylight - Our app from past to present — Alex Lanclos | Chain React 2026",
+        "description": "Skylight transformed a fragile JavaScript app into a modern React Native experience.\n\nAlex Lanclos traced the app architecture from 2017 through 2026 and shared how Skylight used newer tools such as TanStack DB, sync engines, React Compiler, and Hermes V1 to improve it.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Alex\n\nAlex Lanclos is a Principal Software Engineer at Skylight.\n\nLinkedIn: https://www.linkedin.com/in/alexander-lanclos-5ba46538\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AppModernization",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HSUKoa4JoRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HSUKoa4JoRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HSUKoa4JoRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HSUKoa4JoRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HSUKoa4JoRw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HSUKoa4JoRw"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "HSUKoa4JoRw",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LkaFuO-5ZYqqKLFIfkGIZmGEwvo",
+      "id": "UExDOFA0ajhHYlk5cy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:33:43Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "First-Class React Native Apps with iOS App Intents — Perttu Lähteenlahti | Chain React 2026",
+        "description": "App Intents brought React Native apps into Siri, Spotlight, widgets, and system intelligence.\n\nPerttu Lähteenlahti showed how JavaScript driven apps connected to native Apple system experiences and became first class citizens across iOS, watchOS, and beyond.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Perttu\n\nPerttu Lähteenlahti is a Senior Developer Advocate at RevenueCat.\n\nX: https://x.com/plahteenlahti\n\nLinkedIn: https://www.linkedin.com/in/plahteenlahti\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AppIntents",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSEeub5rs_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSEeub5rs_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSEeub5rs_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RSEeub5rs_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RSEeub5rs_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RSEeub5rs_k"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "RSEeub5rs_k",
+        "videoPublishedAt": "2026-08-19T16:47:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CUjquEy4b-NmUV6Is077Lxy7GTA",
+      "id": "UExDOFA0ajhHYlk5cy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:36:07Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Zero-Latency React Native: Apps Without Loading Spinners — Dev Agrawal | Chain React 2026",
+        "description": "Instant apps did not need loading spinners, even on unreliable mobile connections.\n\nDev Agrawal demonstrated how optimistic UI, local first storage, background synchronization, and conflict resolution kept apps responsive.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Dev\n\nDev Agrawal is a Developer Relations Engineer at Codemod.\n\nX: https://x.com/devagrawal09\n\nLinkedIn: https://www.linkedin.com/in/dev-agr\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #LocalFirst",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJXoYhOZCXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJXoYhOZCXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJXoYhOZCXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJXoYhOZCXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJXoYhOZCXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KJXoYhOZCXY"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "KJXoYhOZCXY",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZxbHiSbd54IgCLvtFDAYwaZ7QJE",
+      "id": "UExDOFA0ajhHYlk5cy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:37:58Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "The UI Was Beautiful. The Frame Rate Wasn’t. Why We Didn’t Fix It. — Nick Kaffine | Chain React 2026",
+        "description": "A beautiful interface still failed when users could feel every dropped frame.\n\nNick Kaffine explained how reasonable product and architecture decisions created performance debt, why missing metrics kept fixes behind feature work, and how teams could treat performance as a product constraint.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Nick\n\nNick Kaffine is a Lead Mobile Engineer at Chalkboard.\n\nLinkedIn: https://www.linkedin.com/in/nick-kaffine\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AppPerformance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8CWuu5n9RwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8CWuu5n9RwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8CWuu5n9RwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8CWuu5n9RwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8CWuu5n9RwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8CWuu5n9RwM"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "8CWuu5n9RwM",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q5fqvHRZUoQErxiEmn9ianPBKB8",
+      "id": "UExDOFA0ajhHYlk5cy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:39:16Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Giving agents hands and eyes in React Native — Szymon Chmal | Chain React 2026",
+        "description": "Coding agents became more capable when they could see and interact with the apps they built.\n\nSzymon Chmal showed how agents inspected interfaces, followed state changes, read logs, reproduced bugs, and validated behavior inside running React Native apps.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Szymon\n\nSzymon Chmal is an Expert Software Engineer at Callstack.\n\nX: https://x.com/ChmalSzymon\n\nLinkedIn: https://www.linkedin.com/in/szymon-chmal\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #AIAgents",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yf5f2aWnLls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yf5f2aWnLls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yf5f2aWnLls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yf5f2aWnLls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yf5f2aWnLls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yf5f2aWnLls"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "yf5f2aWnLls",
+        "videoPublishedAt": "2026-08-19T16:47:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C0y0vYMrDTUEvbJNJz06vuaeXwg",
+      "id": "UExDOFA0ajhHYlk5cy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:40:49Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "One Engine to Animate Them All: React Native Animated in C++ — Zeya Peng | Chain React 2026",
+        "description": "React Native animation bugs were rooted in four separate native implementations.\n\nZeya Peng explained how Meta replaced them with one shared C++ engine, eliminated long standing bugs, and created a foundation where every fix could reach every platform.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Zeya\n\nZeya Peng is a Software Engineer at Meta.\n\nLinkedIn: https://www.linkedin.com/in/zeya-peng-5277629b\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #Animations",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5HD-AjVg9o8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5HD-AjVg9o8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5HD-AjVg9o8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5HD-AjVg9o8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5HD-AjVg9o8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5HD-AjVg9o8"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "5HD-AjVg9o8",
+        "videoPublishedAt": "2026-08-19T16:47:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RuF7y1EI8pOMld-U-f7bx5lT1oI",
+      "id": "UExDOFA0ajhHYlk5cy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:42:08Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Hot Reload Over the Wire: Metro Internals for Remote Development — Colin Grob | Chain React 2026",
+        "description": "Fast Refresh became harder when the simulator and developer were on different networks.\n\nColin Grob explained how Revyl connected Metro bundle resolution, the HMR WebSocket protocol, and Expo development clients to bring hot reload to remote simulators.\n\nRecorded at Chain React 2026 in Portland, Oregon.\n\n———\n\nFollow Colin\n\nColin Grob is a Founding Engineer at Revyl.\n\nX: https://x.com/ColinGrob\n\nLinkedIn: https://www.linkedin.com/in/colin-grob\n\n———\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation\n\n#ReactNative #ChainReact #FastRefresh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KdAwyopxKyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KdAwyopxKyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KdAwyopxKyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KdAwyopxKyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KdAwyopxKyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KdAwyopxKyE"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "KdAwyopxKyE",
+        "videoPublishedAt": "2026-08-19T16:47:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 24,
+    "resultsPerPage": 50
+  }
+}
