@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "pS1J8Euz7if5e-Miz2WQYMgkc9I",
+  "etag": "blaZmimabhx_dClPfFBhrmxvYpA",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1297,10 +1297,64 @@
       "status": {
         "privacyStatus": "public"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YLEX_fI5X0-mlCaZDvED-BDnE-Y",
+      "id": "UExDOFA0ajhHYlk5cy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2026-08-24T22:48:13Z",
+        "channelId": "UCwpSzVt7QpLDbCnPXqR97-g",
+        "title": "Infinite Red | Chain React 2026",
+        "description": "Infinite Red throws Chain React every year because bringing the React Native community together helps all of us shape where it goes next.\n\n---\n\nChain React is the U.S. React Native Conference\n\nChain React is a three-day event in Portland, Oregon about where React Native goes next. Developers from companies like Meta, Amazon, and Expo come to share what they've been building, make connections that outlast the conference, and move the industry forward together.\n\nSign up for Chain React Insiders to be the first to hear when the next conference is announced: https://chainreactconf.com\n\n———\n\nPresented by Infinite Red, Expo, and the React Foundation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TcfCi37AW1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TcfCi37AW1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TcfCi37AW1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TcfCi37AW1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TcfCi37AW1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Infinite Red",
+        "playlistId": "PLC8P4j8GbY9s",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TcfCi37AW1s"
+        },
+        "videoOwnerChannelTitle": "Infinite Red",
+        "videoOwnerChannelId": "UCwpSzVt7QpLDbCnPXqR97-g"
+      },
+      "contentDetails": {
+        "videoId": "TcfCi37AW1s",
+        "videoPublishedAt": "2026-08-24T22:48:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 24,
+    "totalResults": 25,
     "resultsPerPage": 50
   }
 }

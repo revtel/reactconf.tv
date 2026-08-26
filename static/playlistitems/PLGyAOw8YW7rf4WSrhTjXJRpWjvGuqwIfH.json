@@ -1,16 +1,16 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "rvbYqKWAMmvBOM9-SFvalvE956o",
+  "etag": "6akWN8s-DBMrzN9z1wAwR1LjFKM",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "1WOF6AROPhFNuAfVNdO76HPnoso",
+      "etag": "idFaHk2jpQ3Yz0lO-XgPvjFPp58",
       "id": "UExHeUFPdzhZVzdyZjRXU3JoVGpYSlJwV2p2R3Vxd0lmSC5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2024-11-29T21:35:52Z",
         "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
-        "title": "Abracadabra: The Vanishing Network | Kent C Dodds @KentCDodds-vids | React India 2024",
-        "description": "⁠Kent C. Dodds( @KentCDodds-vids  ) is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. He is the creator of EpicWeb.dev, the Epic Stack, EpicReact.Dev and TestingJavaScript.com. He's an instructor on egghead.io and Frontend Masters. He's also a live streamer, podcaster, and conference organizer. Kent is married and the father of five kids.\n\nAbout the session\n\nAbracadabra: The Vanishing Network\n\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\n⁠What would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk, we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\n\nMore details on our website - www.reactindia.io",
+        "title": "Abracadabra: The Vanishing Network | Kent C Dodds @kentcdodds-vids | React India 2024",
+        "description": "⁠Kent C. Dodds( @kentcdodds-vids  ) is a world renowned speaker, teacher, and trainer and he's actively involved in the open source community as a maintainer and contributor of hundreds of popular npm packages. He is the creator of EpicWeb.dev, the Epic Stack, EpicReact.Dev and TestingJavaScript.com. He's an instructor on egghead.io and Frontend Masters. He's also a live streamer, podcaster, and conference organizer. Kent is married and the father of five kids.\n\nAbout the session\n\nAbracadabra: The Vanishing Network\n\nThe network that stands between our server and the client is what causes the most complexity in our development process. Whether it be the initial UI we generate on the server, the API calls we make as the user navigates around, or the form submissions our user makes, keeping the application responsive and up-to-date is a massive chore.\n\n⁠What would it be like if all of that complexity just disappeared? Freaking great, that's what it would be like. And React Server Components and Actions are what's making that possible. In this talk, we'll look into how that's happening and how we can take advantage of this amazing developer experience to deliver even better user experiences.\n\n\nMore details on our website - www.reactindia.io",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/q4cF-ftxpbk/default.jpg",
