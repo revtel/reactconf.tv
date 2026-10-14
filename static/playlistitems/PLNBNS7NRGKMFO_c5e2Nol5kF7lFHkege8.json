@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "7xvPzz7Oj_33PaUbljysD7CQEcA",
+  "etag": "6WKxRrlcLjdD74afiD0gIATUx6g",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -480,13 +480,13 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PJGpMhNWb-D1JHgRjFJxH9RCPsE",
+      "etag": "oIWv9fLK9b002nqBTtKHRt-shrg",
       "id": "UExOQk5TN05SR0tNRk9fYzVlMk5vbDVrRjdsRkhrZWdlOC41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2025-12-01T13:23:53Z",
         "channelId": "UCsFrt8oKNYXGspSlX9u6uXw",
         "title": "Plug and Play Design: Building Extendable React Applications",
-        "description": "Talk: Mateusz Jagodziński - \"Plug and Play Design: Building Extendable React Applications\", React Summit US 2025\n\nIn large React projects, feature toggles and conditional builds can quickly become messy. What if entire features could be added—or removed—just by dropping a folder in or out of your project? In this talk, I’ll show how a plugin architecture makes React applications more modular and easier to maintain, with practical code examples from our product.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/plug-and-play-design-building-extendable-react-applications\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Insights on Plug and Play Design\n01:49 Challenges with Feature Flags and Modular Design\n04:43 Flexible Configuration with Plugin Design\n07:34 Plug and Play Design Explanation\n10:48 Adapters and Build Setup for Plugins\n13:36 Enforcing Plugin Import Restrictions\n15:07 Pros and Cons of Self-contained Plugins\n18:09 Managing Plugin Shipments and Scalability\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=mateuszjagodzinski\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
+        "description": "Talk: Mateusz Jagodziński - \"Plug and Play Design: Building Extendable React Applications\", React Summit US 2025\n\nIn large React projects, feature toggles and conditional builds can quickly become messy. What if entire features could be added—or removed—just by dropping a folder in or out of your project? In this talk, I’ll show how a plugin architecture makes React applications more modular and easier to maintain, with practical code examples from our product.\n\nWatch the full talk with Q&A on GitNation website: https://gitnation.com/contents/plug-and-play-design-building-extendable-react-applications\n\nFollow the link to watch the full version of all the conference talks, QnA’s with speakers and hands-on workshop recordings → https://gitnation.com/events/react-summit-us-2025\n\nTimestamps:\n\n00:00 Insights on Plug and Play Design\n01:49 Challenges with Feature Flags and Modular Design\n04:43 Flexible Configuration with Plugin Design\n07:34 Plug and Play Design Explanation\n10:48 Adapters and Build Setup for Plugins\n13:36 Enforcing Plugin Import Restrictions\n15:07 Pros and Cons of Self-contained Plugins\n18:09 Managing Plugin Shipments and Scalability\n\n🔥 Want to hear talks like this live? Join us at React Summit 2026 in Amsterdam: https://reactsummit.com?utm_source=youtube&utm_medium=mateuszjagodzinski\n\nReact Summit on X: https://twitter.com/ReactSummit\nReact Summit on Bluesky: https://bsky.app/profile/reactsummit.gitnation.org\nReact Summit on LinkedIn: https://www.linkedin.com/showcase/reactsummit/\nReact Summit on Instagram: https://www.instagram.com/reactsummit/\nGitNation on TikTok: https://www.tiktok.com/@gitnationorg\n\n💚 Proudly sponsored by FocusReative: https://focusreactive.com/\n\n#ReactSummit #ReactSummitUS #GitNation #WebDevelopment #TechTalks #WebDevConference #ReactSummitUS2025 #ReactJS",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/nof5pFeWQ0w/default.jpg",
