@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "7GLqVFrI5JXP_gWQFopbwQ2QZQk",
+  "etag": "ZnJsrStiYNJwWhuGp3xbkXPvCuk",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -1084,7 +1084,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J-gU07KF2VQo8r0cT2IyP5nw-do",
+      "etag": "nbhxW0stMQOs44k5ieUr16TLFdk",
       "id": "UExDQzQzNkpwVm5LMzFMWkcyY05JTmhsRVExS1RtMzlCUi45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2020-04-03T14:49:12Z",
@@ -1093,27 +1093,27 @@
         "description": "Get your ticket to our online workshops here https://www.react-europe.org/#tickets\n\nFollow him on twitter  https://twitter.com/Swiip\n\nTalk topic: From AngularJS to React at ProtonMail - Matthieu Lux aka @Swiip",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/default.jpg?v=5e86463a",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/mqdefault.jpg?v=5e86463a",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/hqdefault.jpg?v=5e86463a",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/sddefault.jpg?v=5e86463a",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aRitqFYPwS8/maxresdefault.jpg?v=5e86463a",
             "width": 1280,
             "height": 720
           }
