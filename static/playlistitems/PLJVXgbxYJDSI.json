@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "4NkJdrHtkxSRptyEDroG4klvAgA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bGlw5wXiGQIraktKUhXc3vsggWQ",
+      "id": "UExKVlhnYnhZSkRTSS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2026-10-31T03:42:22Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2026 - 7th Edition - Day 02",
+        "description": "React India Day 02 | 2026  | 31st Oct 2026\n\nJoin us for React India Day 2026, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This beach edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 31th October 2026\n🌍 Where: Online\n\n\n🎉 A huge thanks to our sponsors for making this event possible:\n\nThanks to React Foundation for Making this event possible https://react.foundation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dK_H_tjr3Qc/default.jpg?v=6ae5639f",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dK_H_tjr3Qc/mqdefault.jpg?v=6ae5639f",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dK_H_tjr3Qc/hqdefault.jpg?v=6ae5639f",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dK_H_tjr3Qc/sddefault.jpg?v=6ae5639f",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dK_H_tjr3Qc/maxresdefault.jpg?v=6ae5639f",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLJVXgbxYJDSI",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dK_H_tjr3Qc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "dK_H_tjr3Qc",
+        "videoPublishedAt": "2026-10-31T03:42:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h49a2ky5-qxfL9IjId7sPQttYjI",
+      "id": "UExKVlhnYnhZSkRTSS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2026-10-30T03:17:40Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "React India 2026 - 7th Edition - Day 01",
+        "description": "React India Day 01 | 2026 | Online Conference | 30th Oct 2026\n\nJoin us for React India Day 1  2026, an exciting online conference packed with insightful talks, interactive sessions, and cutting-edge discussions on all things React! This remote edition is the perfect opportunity for developers from around the world to come together, learn from industry experts, and take their skills to the next level.\n\n📅 Date: 30th October 2026\n🎉 A huge thanks to our sponsors for making this event possible:\n\nReact Foundation \n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of developers—from startups to enterprises and the public sector—use AWS to prototype faster, reduce operational overhead, and innovate with AI, powered by foundational services across compute, storage, databases, and serverless.\n\n\nBuild an AI-Powered Photo Editor with React\n\nAbstract - Creating image editing applications traditionally requires complex infrastructure, specialized ML expertise, and ongoing maintenance—making it costly and time-consuming for developers to build and scale.\n\nIn this hands-on workshop, you'll build a complete AI-powered image editing application without managing a single server or ML model. Users can transform images with simple text prompts like \"make this sunset more dramatic\" or \"remove the background and replace with mountains.\"\n\nWhat You'll Build\n\nA production-ready web application where users can:\n\nUpload images securelyEdit photos using natural language instructionsTransform images with AI without coding complex algorithmsAccess their edited images from anywhere\n\nGold Sponsors\n\nBrevo \nFirebase \nD.E. Shaw & Co\n\nSilver Sponsors\n\nTalentship\nArcesium",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/InL7uyOZZ1s/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLJVXgbxYJDSI",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "InL7uyOZZ1s"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "InL7uyOZZ1s",
+        "videoPublishedAt": "2026-10-30T15:08:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Uo9h5EAhJ2q0_oBhyJQDbQmoP9w",
+      "id": "UExKVlhnYnhZSkRTSS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2026-10-30T06:46:22Z",
+        "channelId": "UCaFbHCBkPvVv1bWs_jwYt3w",
+        "title": "Seth Webster - Opening Keynote  React India 2026 - Day 01",
+        "description": "The founder of the React Foundation opens React India 2026 — the Final Edition — with a keynote on what comes next for React, the people building it, and the ecosystem that got us here.\n\n  Seth Webster is the Founder & Executive Director of the React Foundation, Chief Developer Evangelist at Expo, and an alumnus of Meta and Intuit. If you've shipped a React app in the last decade, his work has touched your stack.\n\n  🎤 Speaker: Seth Webster\n  🏛 React Foundation · Expo · ex-Meta · ex-Intuit\n  🌐 https://sethwebster.com\n  🐦 https://x.com/sethwebster\n\n  📍 React India 2026 — Final Edition\n  🗓 Oct 30–31, 2026 · Goa, India\n  🎟 https://www.reactindia.io/conferences/tickets\n  📺 Full schedule: https://www.reactindia.io/schedule",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/eRsNAeDMBuc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "React India",
+        "playlistId": "PLJVXgbxYJDSI",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eRsNAeDMBuc"
+        },
+        "videoOwnerChannelTitle": "React India",
+        "videoOwnerChannelId": "UCaFbHCBkPvVv1bWs_jwYt3w"
+      },
+      "contentDetails": {
+        "videoId": "eRsNAeDMBuc",
+        "videoPublishedAt": "2026-10-30T07:52:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 50
+  }
+}
